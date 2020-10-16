@@ -2,7 +2,6 @@
 
 Analizirala bom podatke o 10000 anime filmih in serijah (v nadaljevanju bom pisala *anime* namesto *film oz serija*) na spletni strani [AniList](https://anilist.co/). Ker je anime japonska risanka, naslovi bodo v japonščini ali v angleščini.
 
-
 Za vsak anime bom zajela:
 - naslov anime-a
 - studio, iz katerega je anime
@@ -12,7 +11,6 @@ Za vsak anime bom zajela:
 - opis
 - žanre
 - oceno uporabnikov spletne strani
-
 
 Delovne hipoteze:
 - Ali je ocena odvisna od studija, iz katerega je anime?
