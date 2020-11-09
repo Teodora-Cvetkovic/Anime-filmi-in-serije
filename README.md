@@ -3,7 +3,7 @@
 Analizirala bom podatke o 10000 anime filmih in serijah (v nadaljevanju bom pisala *anime* namesto *film oz. serija*) na spletni strani [AniDB](https://anidb.net/). Bom analizirala animeje, kateri so končani, in tiste, kateri še niso končani. Ker je anime japonska risanka, naslovi bodo v japonščini ali v angleščini.
 
 
-Za vsak anime bom zajela:
+### Za vsak anime bom zajela:
 - naslov animeja
 - datum izida
 - datum končanja 
@@ -15,7 +15,7 @@ Za vsak anime bom zajela:
 - oceno za celoten anime
 
 
-Delovne hipoteze:
+### Delovne hipoteze:
 - Ali se povprečna ocena razlikuje od ocene za celoten anime?
 - Ali prve sezone imajo večje ocene kot naslednje sezone, če anime serija ima več sezon?
 - Ali prvi del anime filma ima večjo oceno kot naslednji deli, če anime ima več delov?
@@ -25,3 +25,8 @@ Delovne hipoteze:
 - Ali je ocena za celoten anime odvisna od števila epizod?
 - Ali lahko iz opisa napovemo žanr animeja?
 - Ali je anime predvajan čez več sezon?
+
+
+### Datoteke
+Program *pobiranje_podatkov.py* bo zajel podatke s strani [AniDB](https://anidb.net/), jih obdelal in prečistil, in potem shranil v datoteke *animeji.csv* in *zanri.csv*. V datoteki *animeji.csv* so id animeja, naslov animeja, datum izida in končanja animeja, tip in število epizod animeja, ocena celotnega animeja, povprečna ocena animeja in opis.
+V datoteki *zanri.csv* so id animeja in žanri.
