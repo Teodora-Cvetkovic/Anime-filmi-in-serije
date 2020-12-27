@@ -48,22 +48,17 @@ def izloci_podatke_animeja(blok):
     anime['epizode'] = int(anime['epizode'])
     anime['ocena'] = float(anime['ocena'])
     anime['stevilo_clenov'] = int(anime['stevilo_clenov'].replace(',', ''))
-
-    if '?' not in anime['zacetek']:
-        anime['zacetek'] = datetime.date(
-            int(anime['zacetek'][6:]),
-            int(anime['zacetek'][:2]),
-            int(anime['zacetek'][3:5])
-        )
+    
+    if int(anime['zacetek'][6:]) > 20:
+        anime['zacetek'] = int('19' + anime['zacetek'][6:])
     else:
-        anime['zacetek'] = None
+        anime['zacetek'] = int('20' + anime['zacetek'][6:])
 
-    if '?' not in anime['konec'] and anime['konec'] != '-':
-        anime['konec'] = datetime.date(
-            int(anime['konec'][6:]),
-            int(anime['konec'][:2]),
-            int(anime['konec'][3:5])
-        )
+    if anime['konec'] != '-':
+        if int(anime['konec'][6:]) > 20:
+            anime['konec'] = int('19' + anime['konec'][6:])
+        else:
+            anime['konec'] = int('20' + anime['konec'][6:])
     else:
         anime['konec'] = None
 
@@ -78,12 +73,44 @@ def animeji_na_strani(stran):
     for blok in vzorec_bloka.finditer(vsebina):
         yield izloci_podatke_animeja(blok.group(0))
 
+def najdi_zanre(datoteka):
+    vsebina = orodja.vsebina_datoteke(datoteka)
+    zanri = []
+    for z in re.finditer(vzorec_zanra, vsebina):
+        zanri.append(z.groupdict()['zanr'])
+    return zanri
+
+def najdi_studio(datoteka):
+    vsebina = orodja.vsebina_datoteke(datoteka)
+    for s in re.finditer(vzorec_studija, vsebina):
+        studio = s.groupdict()
+    return studio
+
 animeji = []
+vsi_zanri = []
+vsi_studiji = []
 for stran in range(3):
     for anime in animeji_na_strani(stran):
+        id_animeja = anime['id']
+        naslov = anime['naslov']
+        url = f'https://myanimelist.net/anime/{id_animeja}/{naslov}'
+        ime_datoteke = f'zajeti_podatki/{naslov}'
+        orodja.shrani_spletno_stran(url, ime_datoteke)
+        zanri_a = najdi_zanre(ime_datoteke)
+        for z in zanri_a:
+            vsi_zanri.append({'anime': anime['id'], 'zanr': z})
+        studio = najdi_studio(ime_datoteke)
+        studio['anime'] = anime['id']
+        vsi_studiji.append(studio)
         animeji.append(anime)
 orodja.zapisi_csv(
     animeji,
     ['id', 'naslov', 'zacetek', 'konec', 'tip', 'epizode', 'stevilo_clenov', 'ocena', 'opis', 'oznaka'],
     'obdelani-podatki/animeji.csv'
+)
+orodja.zapisi_csv(
+    vsi_zanri, ['anime', 'zanr'], 'obdelani-podatki/zanri.csv'
+)
+orodja.zapisi_csv(
+    vsi_studiji, ['id_studija', 'studio', 'anime'], 'obdelani-podatki/studiji.csv'
 )
