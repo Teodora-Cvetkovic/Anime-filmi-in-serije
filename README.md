@@ -1,18 +1,19 @@
 # Anime filmi in serije
 
-Analizirala bom podatke o 10000 anime filmih in serijah (v nadaljevanju bom pisala *anime* namesto *film oz. serija*) na spletni strani [AniDB](https://anidb.net/). Bom analizirala animeje, kateri so končani, in tiste, kateri še niso končani. Ker je anime japonska risanka, naslovi bodo v japonščini ali v angleščini.
+Analizirala bom podatke o 4290 anime serijah (v nadaljevanju bom pisala *anime* namesto *anime serija*) na spletni strani [MyAnimeList](https://myanimelist.net/). Bom analizirala animeje, kateri so končani. Ker je anime japonska risanka, naslovi so v japonščini ali v angleščini.
 
 
 ### Za vsak anime bom zajela:
 - naslov animeja
 - datum izida
 - datum končanja 
-- ali je film ali serija
+- tip
 - koliko anime ima epizod
 - opis
 - žanre
-- povprečno oceno po epozodi
-- oceno za celoten anime
+- oceno
+- število členov, kateri so gleali anime
+- oznako
 
 
 ### Delovne hipoteze:
@@ -28,5 +29,4 @@ Analizirala bom podatke o 10000 anime filmih in serijah (v nadaljevanju bom pisa
 
 
 ### Datoteke
-Program *pobiranje_podatkov.py* bo zajel podatke s strani [AniDB](https://anidb.net/), jih obdelal in prečistil, in potem shranil v datoteke *animeji.csv* in *zanri.csv*. V datoteki *animeji.csv* so id animeja, naslov animeja, datum izida in končanja animeja, tip in število epizod animeja, ocena celotnega animeja, povprečna ocena animeja in opis.
-V datoteki *zanri.csv* so id animeja in žanri.
+Program *MAL_pobiranje.py* bo zajel podatke s strani [MyAnimeList](https://myanimelist.net/), jih obdelal in prečistil, in potem shranil v datoteko *animeji.csv*. V datoteki *animeji.csv* so id animeja, naslov animeja, datum izida in končanja animeja, tip in število epizod animeja, ocena celotnega animeja, opis, oznaka in število gledalcev animeja.
