@@ -42,6 +42,42 @@ vzorec_studija = (
     r'(?P<studio>.*?)" title'
 )
 
+vzorec_sezone = (
+    r'<a .*?/season/\d+?/\w+?">(?P<sezona>.*?)</a>'
+)
+
+vzorec_naslova = (
+    r'<h1.*?<strong>(?P<naslov>.*?)</strong></h1>'
+)
+
+vzorec_dolzine = (
+    r'<span .*?Duration.*\n\s{2}(?P<dolzina>.*?)\n'
+)
+
+vzorec_vira = (
+    r'<span.*?Source.*\n\s{2}(?P<vir>.*?)\n'
+)
+
+vzorec_ranka = (
+    r'<span.*?Ranked.*\n\s{2}#(?P<rank>\d+?)<sup>'
+)
+
+vzorec_najljubsega = (
+    r'<span.*?Favorites.*?\n\s{2}(?P<najljubsi>\d+?,(\d+?)?)\n'
+)
+
+vzorec_igralca = (
+    r'<small>(?P<vloga>.*?)</small>(\n.*){5}\n.*?'
+    r'<a href="https://myanimelist.net/people/(?P<id_osebe>\d+?)'
+    r'/.*?">(?P<ime_osebe>.*?)</a>.*?\n'
+)
+
+vzorec_osebja =(
+    r'<a href="https://myanimelist.net/people/(?P<id_osebe>\d+?)'
+    r'/.*?">(?P<ime_osebe>.*?)</a>.*?\n'
+    r'.*\n.*?<small>(?P<vloga>.*?)(</small>|,)'
+)
+
 def izloci_podatke_animeja(blok):
     anime = re.search(vzorec, blok).groupdict()
     anime['id'] = int(anime['id'])
@@ -86,9 +122,30 @@ def najdi_studio(datoteka):
         studio = s.groupdict()
     return studio
 
+def najdi_naslov(datoteka):
+    vsebina = orodja.vsebina_datoteke(datoteka)
+    for n in re.finditer(vzorec_naslova, vsebina):
+        naslov_animeja = n.groupdict()
+    return naslov_animeja['naslov']
+
+def najdi_osebe(datoteka):
+    osebe = []
+    vsebina = orodja.vsebina_datoteke(datoteka)
+    for i in re.finditer(vzorec_igralca, vsebina):
+        igralec = i.groupdict()
+        osebe.append({'id': igralec['id_osebe'], 'oseba': igralec['ime_osebe'], 'vloga': igralec['vloga']})
+    for o in re.finditer(vzorec_osebja, vsebina):
+        osebje = o.groupdict()
+        osebe.append({'id': int(osebje['id_osebe']), 'oseba': osebje['ime_osebe'], 'vloga': osebje['vloga']})
+    return osebe
+
+
 animeji = []
 vsi_zanri = []
 vsi_studiji = []
+osebe = []
+vloge = []
+id_osebe = []
 for stran in range(3):
     for anime in animeji_na_strani(stran):
         id_animeja = anime['id']
@@ -102,15 +159,35 @@ for stran in range(3):
         studio = najdi_studio(ime_datoteke)
         studio['anime'] = anime['id']
         vsi_studiji.append(studio)
+        for oseba in najdi_osebe(ime_datoteke):
+            if oseba['id'] not in id_osebe:
+                osebe.append({'id': oseba['id'], 'ime': oseba['oseba']})
+                id_osebe.append(oseba['id'])
+            vloge.append({'anime': id_animeja, 'oseba': oseba['id'], 'vloga': oseba['vloga']})
         animeji.append(anime)
+
 orodja.zapisi_csv(
     animeji,
     ['id', 'naslov', 'zacetek', 'konec', 'tip', 'epizode', 'stevilo_clenov', 'ocena', 'opis', 'oznaka'],
     'obdelani-podatki/animeji.csv'
 )
+
 orodja.zapisi_csv(
     vsi_zanri, ['anime', 'zanr'], 'obdelani-podatki/zanri.csv'
 )
+
 orodja.zapisi_csv(
     vsi_studiji, ['id_studija', 'studio', 'anime'], 'obdelani-podatki/studiji.csv'
+)
+
+orodja.zapisi_csv(
+    osebe,
+    ['id', 'ime'],
+    'obdelani-podatki/osebe.csv'
+)
+
+orodja.zapisi_csv(
+    vloge,
+    ['anime', 'oseba', 'vloga'],
+    'obdelani-podatki/vloge.csv'
 )
