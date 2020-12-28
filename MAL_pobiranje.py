@@ -117,10 +117,11 @@ def najdi_zanre(datoteka):
     return zanri
 
 def najdi_studio(datoteka):
+    studiji = []
     vsebina = orodja.vsebina_datoteke(datoteka)
     for s in re.finditer(vzorec_studija, vsebina):
-        studio = s.groupdict()
-    return studio
+        studiji.append(s.groupdict())
+    return studiji
 
 def najdi_naslov(datoteka):
     vsebina = orodja.vsebina_datoteke(datoteka)
@@ -146,7 +147,7 @@ vsi_studiji = []
 osebe = []
 vloge = []
 id_osebe = []
-for stran in range(3):
+for stran in range(10):
     for anime in animeji_na_strani(stran):
         id_animeja = anime['id']
         naslov = anime['naslov']
@@ -156,9 +157,9 @@ for stran in range(3):
         zanri_a = najdi_zanre(ime_datoteke)
         for z in zanri_a:
             vsi_zanri.append({'anime': anime['id'], 'zanr': z})
-        studio = najdi_studio(ime_datoteke)
-        studio['anime'] = anime['id']
-        vsi_studiji.append(studio)
+        for studio in najdi_studio(ime_datoteke):
+            studio['anime'] = anime['id']
+            vsi_studiji.append(studio)
         for oseba in najdi_osebe(ime_datoteke):
             if oseba['id'] not in id_osebe:
                 osebe.append({'id': oseba['id'], 'ime': oseba['oseba']})
