@@ -140,6 +140,12 @@ def najdi_osebe(datoteka):
         osebe.append({'id': int(osebje['id_osebe']), 'oseba': osebje['ime_osebe'], 'vloga': osebje['vloga']})
     return osebe
 
+def najdi_sezono(datoteka):
+    vsebina = orodja.vsebina_datoteke(datoteka)
+    for s in re.finditer(vzorec_sezone, vsebina):
+        sezona = s.groupdict()
+    return sezona['sezona'] 
+
 
 animeji = []
 vsi_zanri = []
@@ -147,7 +153,7 @@ vsi_studiji = []
 osebe = []
 vloge = []
 id_osebe = []
-for stran in range(10):
+for stran in range(15):
     for anime in animeji_na_strani(stran):
         id_animeja = anime['id']
         naslov = anime['naslov']
@@ -164,12 +170,14 @@ for stran in range(10):
             if oseba['id'] not in id_osebe:
                 osebe.append({'id': oseba['id'], 'ime': oseba['oseba']})
                 id_osebe.append(oseba['id'])
-            vloge.append({'anime': id_animeja, 'oseba': oseba['id'], 'vloga': oseba['vloga']})
+            vloge.append({'anime': id_animeja, 'oseba': oseba['id'], 'vloga': oseba['vloga']}) 
+        anime['sezona'] = najdi_sezono(ime_datoteke)
+        anime['naslov'] = najdi_naslov(ime_datoteke)
         animeji.append(anime)
 
 orodja.zapisi_csv(
     animeji,
-    ['id', 'naslov', 'zacetek', 'konec', 'tip', 'epizode', 'stevilo_clenov', 'ocena', 'opis', 'oznaka'],
+    ['id', 'naslov','sezona', 'zacetek', 'konec', 'tip', 'epizode', 'stevilo_clenov', 'ocena', 'opis', 'oznaka'],
     'obdelani-podatki/animeji.csv'
 )
 
