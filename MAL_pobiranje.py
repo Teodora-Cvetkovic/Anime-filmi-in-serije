@@ -16,11 +16,11 @@ vzorec = (
     r'.*?\n.+?\n.+?'
     r'\w{2}'    #TV serija
     r'\n.*?\n.*?'
-    r'(?P<epizode>\d+?)'    #število epizod
+    r'(?P<epizode>(\d+?|-))'    #število epizod
     r'\n.*\n.*?'
     r'(?P<ocena>(\d\.\d{2}|N/A))'    #ocena
     r'\n.*\n.*?'
-    r'(?P<zacetek>(\d{2}-\d{2}-\d{2}|\?{0,2}-\?{0,2}-\d{2}))'    #mesec, dan, leto začetka prikazovanja (upitnici)
+    r'(?P<zacetek>(\d{2}-\d{2}-\d{2}|\?{0,2}-\?{0,2}-\d{2}|-))'    #mesec, dan, leto začetka prikazovanja (upitnici)
     r'\n.*\n.*?'
     r'(?P<konec>(\d{2}-\d{2}-\d{2}|-|\?{0,2}-\?{0,2}-\d{2}))'    #mesec, dan, leto konca prikazovanja (upitnici)
     r'\n.*\n.*?'
@@ -43,7 +43,7 @@ vzorec_studija = (
 )
 
 vzorec_sezone = (
-    r'<a .*?/season/\d+?/\w+?">(?P<sezona>.*?)</a>'
+    r'Premiered.*?\n.*?(?P<sezona>(\w+? \d+?|\?))(</a>)?\n'
 )
 
 vzorec_naslova = (
@@ -81,20 +81,31 @@ vzorec_osebja =(
 def izloci_podatke_animeja(blok):
     anime = re.search(vzorec, blok).groupdict()
     anime['id'] = int(anime['id'])
-    anime['epizode'] = int(anime['epizode'])
-    anime['ocena'] = float(anime['ocena'])
     anime['stevilo_clenov'] = int(anime['stevilo_clenov'].replace(',', ''))
-    
-    if int(anime['zacetek'][6:]) > 20:
-        anime['zacetek'] = int('19' + anime['zacetek'][6:])
+
+    if anime['epizode'] == '-':
+        anime['epizode'] = None
     else:
-        anime['zacetek'] = int('20' + anime['zacetek'][6:])
+        anime['epizode'] = int(anime['epizode'])
+    
+    if anime['ocena'] == 'N/A':
+        anime['ocena'] = None
+    else:
+        anime['ocena'] = float(anime['ocena'])
+    
+    if anime['zacetek'] != '-':
+        if int(anime['zacetek'][(len(anime['zacetek']) - 2):]) > 20:
+            anime['zacetek'] = int('19' + anime['zacetek'][(len(anime['zacetek']) - 2):])
+        else:
+            anime['zacetek'] = int('20' + anime['zacetek'][(len(anime['zacetek']) - 2):])
+    else:
+        anime['zacetek'] = None
 
     if anime['konec'] != '-':
-        if int(anime['konec'][6:]) > 20:
-            anime['konec'] = int('19' + anime['konec'][6:])
+        if int(anime['konec'][(len(anime['konec']) - 2):]) > 20:
+            anime['konec'] = int('19' + anime['konec'][(len(anime['konec']) - 2):])
         else:
-            anime['konec'] = int('20' + anime['konec'][6:])
+            anime['konec'] = int('20' + anime['konec'][(len(anime['konec']) - 2):])
     else:
         anime['konec'] = None
 
@@ -144,7 +155,10 @@ def najdi_sezono(datoteka):
     vsebina = orodja.vsebina_datoteke(datoteka)
     for s in re.finditer(vzorec_sezone, vsebina):
         sezona = s.groupdict()
-    return sezona['sezona'] 
+    if sezona['sezona'] == '?':
+        return None
+    else:
+        return sezona['sezona']
 
 def najdi_vir(datoteka):
     vsebina = orodja.vsebina_datoteke(datoteka)
@@ -172,7 +186,7 @@ osebe = []
 vloge = []
 id_osebe = []
 id_studija = []
-for stran in range(15):
+for stran in range(87):
     for anime in animeji_na_strani(stran):
         id_animeja = anime['id']
         naslov = anime['naslov']
