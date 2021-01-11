@@ -51,7 +51,7 @@ vzorec_naslova = (
 )
 
 vzorec_dolzine = (
-    r'<span .*?Duration.*\n\s{2}(?P<dolzina>.*?)\n'
+    r'<span .*?Duration.*\n\s{2}(?P<dolzina>\d+?\s|)\w.*?\n'
 )
 
 vzorec_vira = (
@@ -94,7 +94,7 @@ def izloci_podatke_animeja(blok):
         anime['ocena'] = float(anime['ocena'])
     
     if anime['zacetek'] != '-':
-        if int(anime['zacetek'][(len(anime['zacetek']) - 2):]) > 20:
+        if int(anime['zacetek'][(len(anime['zacetek']) - 2):]) > 21:
             anime['zacetek'] = int('19' + anime['zacetek'][(len(anime['zacetek']) - 2):])
         else:
             anime['zacetek'] = int('20' + anime['zacetek'][(len(anime['zacetek']) - 2):])
@@ -102,7 +102,7 @@ def izloci_podatke_animeja(blok):
         anime['zacetek'] = None
 
     if anime['konec'] != '-':
-        if int(anime['konec'][(len(anime['konec']) - 2):]) > 20:
+        if int(anime['konec'][(len(anime['konec']) - 2):]) > 21:
             anime['konec'] = int('19' + anime['konec'][(len(anime['konec']) - 2):])
         else:
             anime['konec'] = int('20' + anime['konec'][(len(anime['konec']) - 2):])
@@ -213,6 +213,12 @@ for stran in range(87):
         anime['sezona'] = najdi_sezono(ime_datoteke)
         anime['vir'] = najdi_vir(ime_datoteke)
         anime['dolzina'] = najdi_dolzino(ime_datoteke)['dolzina']
+
+        if anime['dolzina'] == '':
+            anime['dolzina'] = None
+        else:
+            anime['dolzina'] = int(anime['dolzina'].replace(' ', ''))
+
         anime['najljubsi'] = najdi_najljubse(ime_datoteke)
         anime['naslov'] = najdi_naslov(ime_datoteke)
         animeji.append(anime)
