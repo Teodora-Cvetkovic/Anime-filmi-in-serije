@@ -9,12 +9,12 @@ id_studija,studio
 14,Sunrise
 7,J.C.Staff
 163,Asread
-41,Satelight
 43,ufotable
+41,Satelight
 37,Studio Deen
+456,Lerche
 6,Gainax
 10,Production I.G
-456,Lerche
 38,Arms
 112,Brain&#039;s Base
 2,Kyoto Animation
@@ -22,17 +22,17 @@ id_studija,studio
 1835,CloverWorks
 32,Manglobe
 287,David Production
-18,Toei Animation
 73,TMS Entertainment
+18,Toei Animation
 290,Kinema Citrus
 569,MAPPA
 292,AIC PLUS+
-91,feel.
 441,8bit
+91,feel.
 95,Doga Kobo
 200,Tezuka Productions
 75,Imagin
-300,Silver Link.
+300,SILVER LINK.
 8,Artland
 309,GoHands
 1567,Nut
@@ -66,48 +66,52 @@ id_studija,studio
 1103,TROYCA
 247,Shin-Ei Animation
 196,Production Reed
-333,TYO Animations
 1087,Lay-duce
+333,TYO Animations
 334,Ordet
 537,SANZIGEN
-48,AIC
 852,Nexus
 1075,C-Station
+48,AIC
 126,Studio Comet
-541,Seven
 443,Studio PuYUKAI
+541,Seven
 5,Bee Train
+35,Seven Arcs
 1306,AIC Classic
 957,Connect
 1873,Silver
 1237,Millepensee
 951,NAZ
-35,Seven Arcs
 60,Actas
 894,Graphinica
 179,A.C.G.T.
 88,AIC ASTA
 34,Hal Film Maker
 81,Radix
-83,AIC Spirits
 1264,EMT Squared
 1393,Geno Studio
+83,AIC Spirits
 346,Hoods Entertainment
-118,SynergySP
 1591,Science SARU
+118,SynergySP
 30,Ajia-Do
 354,Encourage Films
-70,Nomad
 1864,Ezόla
-437,Kamikaze Douga
+70,Nomad
 605,C2C
+437,Kamikaze Douga
 1471,Platinum Vision
 455,Palm Studio
 397,Bridge
 1669,production doA
-80,Trans Arts
 439,Project No.9
+80,Trans Arts
 1794,EKACHI EPILKA
+1893,CygamesPictures
+1974,ENGI
+413,Pastel
+1195,Creators in Pack
 1978,Maho Film
 24,Studio Fantasia
 1536,Namu Animation
@@ -120,10 +124,8 @@ id_studija,studio
 96,Yumeta Company
 601,ixtl
 86,Group TAC
-1893,CygamesPictures
-1195,Creators in Pack
-1325,Haoliners Animation League
 1340,Typhoon Graphics
+1325,Haoliners Animation League
 406,Asahi Production
 276,DLE
 1829,Lesprit
@@ -160,9 +162,9 @@ id_studija,studio
 176,Ginga Ya
 175,Planet
 1265,Tomovies
-1067,Rising Force
-1687,Yokohama Animation Lab
 753,PRA
+1687,Yokohama Animation Lab
+1067,Rising Force
 322,Bee Media
 280,Studio Junio
 49,Remic
@@ -180,8 +182,8 @@ id_studija,studio
 856,Charaction
 1437,Ishimori Entertainment
 107,Plum
-1383,Studio Live
 1266,Studio! Cucuri
+1383,Studio Live
 1998,Studio Signpost
 1487,Bouncy
 474,Shogakukan Music &amp; Digital Entertainment
@@ -212,7 +214,6 @@ id_studija,studio
 409,Studio Egg
 1999,Albacrow
 1435,JCF
-413,Pastel
 191,Eiken
 1442,Mook DLE
 563,LandQ studios
@@ -228,12 +229,13 @@ id_studija,studio
 79,Genco
 896,Larx Entertainment
 1065,Public &amp; Basic
-311,Enoki Films
 1263,Dynamo Pictures
+311,Enoki Films
 805,AIC Frontier
 398,Milky Cartoon
 589,Academy Productions
 1407,Children&#039;s Playground Entertainment
+2057,Toho Interactive Animation
 136,Vega Entertainment
 1971,Gainax Kyoto
 326,Animation 21
@@ -241,8 +243,8 @@ id_studija,studio
 2080,Super Normal Studio
 1545,Japan Taps
 1191,Azeta Pictures
-1350,B.CMAY PICTURES
 228,Daewon Media
+1350,B.CMAY PICTURES
 607,RAMS
 1887,Brio Animation
 1436,Stingray
@@ -268,8 +270,8 @@ id_studija,studio
 1512,Dai-Ichi Douga
 1009,Aubec
 1231,OLM Digital
-249,Robot Communications
 1927,Studio Crocodile
+249,Robot Communications
 72,Artmic
 1099,Cyclone Graphics
 1025,Dongwoo A&amp;E
@@ -306,12 +308,12 @@ id_studija,studio
 1797,NHK Enterprises
 1807,2:10 AM Animation
 343,Puzzle Animation Studio Limited
+2158,Durufix
 2075,Taomee
 472,Usagi Ou
 1063,Calf Studio
 850,Kenji Studio
-2158,Durufix
 1838,33 Collective
 370,Iyasakadou Film
-2046,Dazzling Star
 1939,Alpha Animation
+2046,Dazzling Star
