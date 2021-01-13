@@ -1,6 +1,7 @@
 import re
 import orodja
 import datetime
+import time
 
 vzorec_bloka = re.compile(
     r'<td class="borderClass bgColor(0|1)" valign="top">.*?</td></tr>',
@@ -51,7 +52,7 @@ vzorec_naslova = (
 )
 
 vzorec_dolzine = (
-    r'<span .*?Duration.*\n\s{2}(?P<dolzina>\d+?\s|)\w.*?\n'
+    r'<span .*?Duration.*\n\s{2}(?P<dolzina>\d+?\s(m|s)|)\w.*?\n'
 )
 
 vzorec_vira = (
@@ -82,6 +83,9 @@ def izloci_podatke_animeja(blok):
     anime = re.search(vzorec, blok).groupdict()
     anime['id'] = int(anime['id'])
     anime['stevilo_clenov'] = int(anime['stevilo_clenov'].replace(',', ''))
+
+    if anime['opis'] != None:
+        anime['opis'] = anime['opis'].replace('&#039;', "'").replace('&quot;', '"')
 
     if anime['epizode'] == '-':
         anime['epizode'] = None
@@ -114,7 +118,7 @@ def izloci_podatke_animeja(blok):
 def animeji_na_strani(stran):
     start = stran * 50
     url= (f'https://myanimelist.net/anime.php?cat=0&q=&type=1&score=0&status=2&p=0&r=0&sm=0&sd=0&sy=0&em=0&ed=0&ey=0&c%5B0%5D=a&c%5B1%5D=b&c%5B2%5D=c&c%5B3%5D=d&c%5B4%5D=e&c%5B5%5D=f&c%5B6%5D=g&gx=1&genre%5B0%5D=9&genre%5B1%5D=12&genre%5B2%5D=26&genre%5B3%5D=28&genre%5B4%5D=33&genre%5B5%5D=34&o=7&w=1&show={start}')
-    ime_datoteke = f'zajeti_podatki/popularni_animeji_{stran}'
+    ime_datoteke = f'zajeti-podatki/popularni_animeji_{stran}'
     orodja.shrani_spletno_stran(url,ime_datoteke)
     vsebina = orodja.vsebina_datoteke(ime_datoteke)
     for blok in vzorec_bloka.finditer(vsebina):
@@ -145,7 +149,7 @@ def najdi_osebe(datoteka):
     vsebina = orodja.vsebina_datoteke(datoteka)
     for i in re.finditer(vzorec_igralca, vsebina):
         igralec = i.groupdict()
-        osebe.append({'id': igralec['id_osebe'], 'oseba': igralec['ime_osebe'], 'vloga': igralec['vloga']})
+        osebe.append({'id': int(igralec['id_osebe']), 'oseba': igralec['ime_osebe'], 'vloga': igralec['vloga']})
     for o in re.finditer(vzorec_osebja, vsebina):
         osebje = o.groupdict()
         osebe.append({'id': int(osebje['id_osebe']), 'oseba': osebje['ime_osebe'], 'vloga': osebje['vloga']})
@@ -158,7 +162,7 @@ def najdi_sezono(datoteka):
     if sezona['sezona'] == '?':
         return None
     else:
-        return sezona['sezona']
+        return sezona['sezona'][:-5]
 
 def najdi_vir(datoteka):
     vsebina = orodja.vsebina_datoteke(datoteka)
@@ -191,7 +195,8 @@ for stran in range(87):
         id_animeja = anime['id']
         naslov = anime['naslov']
         url = f'https://myanimelist.net/anime/{id_animeja}/{naslov}'
-        ime_datoteke = f'zajeti_podatki/{naslov}'
+        ime_datoteke = f'zajeti-podatki/{naslov}'
+        time.sleep(2)
         orodja.shrani_spletno_stran(url, ime_datoteke)
 
         zanri_a = najdi_zanre(ime_datoteke)
@@ -217,10 +222,13 @@ for stran in range(87):
         if anime['dolzina'] == '':
             anime['dolzina'] = None
         else:
-            anime['dolzina'] = int(anime['dolzina'].replace(' ', ''))
+            if anime['dolzina'][-1] == 'm':
+                anime['dolzina'] = float(anime['dolzina'].replace(' m', ''))
+            elif anime['dolzina'][-1] == 's':
+                anime['dolzina'] = round(float(anime['dolzina'].replace(' s','')) / 60, 2)
 
         anime['najljubsi'] = najdi_najljubse(ime_datoteke)
-        anime['naslov'] = najdi_naslov(ime_datoteke)
+        anime['naslov'] = najdi_naslov(ime_datoteke).replace('&#039;', "'")
         animeji.append(anime)
 
 orodja.zapisi_csv(
