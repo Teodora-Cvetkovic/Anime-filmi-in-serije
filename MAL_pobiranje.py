@@ -1,7 +1,5 @@
 import re
 import orodja
-import datetime
-import time
 
 vzorec_bloka = re.compile(
     r'<td class="borderClass bgColor(0|1)" valign="top">.*?</td></tr>',
@@ -196,7 +194,6 @@ for stran in range(87):
         naslov = anime['naslov']
         url = f'https://myanimelist.net/anime/{id_animeja}/{naslov}'
         ime_datoteke = f'zajeti-podatki/{naslov}'
-        time.sleep(2)
         orodja.shrani_spletno_stran(url, ime_datoteke)
 
         zanri_a = najdi_zanre(ime_datoteke)

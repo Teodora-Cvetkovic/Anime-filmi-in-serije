@@ -3,6 +3,7 @@ import json
 import os
 import requests
 import sys
+import time
 
 h = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 RuxitSynthetic/1.0 v7069248640 t55095 ath889cb9b1 altpub cvcv=2 smf=0'}
 
@@ -26,6 +27,7 @@ def shrani_spletno_stran(url, ime_datoteke, vsili_prenos=False):
         print(' stran ne obstaja!')
     else:
         pripravi_imenik(ime_datoteke)
+        time.sleep(2)
         with open(ime_datoteke, 'w', encoding='utf-8') as datoteka:
             datoteka.write(r.text)
             print(' shranjeno!')
