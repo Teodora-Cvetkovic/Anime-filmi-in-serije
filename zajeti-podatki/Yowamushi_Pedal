@@ -1,0 +1,1834 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    
+<link rel="preconnect" href="//fonts.gstatic.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//fonts.googleapis.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tags-cdn.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagservices.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagmanager.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//apis.google.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel-sync.sitescout.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel.tapad.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//c.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tpc.googlesyndication.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//googleads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="//securepubads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="https://cdn.myanimelist.net" crossorigin="anonymous" />
+
+
+<title>
+Yowamushi Pedal - MyAnimeList.net
+</title>
+<meta name="description" content="Looking for information on the anime Yowamushi Pedal? Find out more with MyAnimeList, the world&#039;s most active online anime and manga community and database. Sakamichi Onoda is a cheerful otaku looking to join his new school&#039;s anime club, eager to finally make some friends. Unfortunately, the club has been disbanded and he takes it upon himself to revive it by finding students who are willing to join. Without much luck, Onoda decides to make a round trip to Akihabara on his old, bulky city bicycl..." />
+
+  
+<meta name="keywords" content="anime, myanimelist, anime news, manga" />
+  
+
+
+    <meta property="og:locale" content="en_US"><meta property="fb:app_id" content="360769957454434"><meta property="og:site_name" content="MyAnimeList.net"><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@myanimelist"><meta property="og:title" content="Yowamushi Pedal"><meta property="og:type" content="video.tv_show"><meta property="og:image" content="https://cdn.myanimelist.net/images/anime/5/53211.jpg"><meta name="twitter:image:src" content="https://cdn.myanimelist.net/r/360x360/images/anime/5/53211.jpg?s=45f24945cc01d6158f0448493ac750aa"><meta property="og:url" content="https://myanimelist.net/anime/18179/Yowamushi_Pedal"><meta property="og:description" content="Sakamichi Onoda is a cheerful otaku looking to join his new school&#039;s anime club, eager to finally make some friends. Unfortunately, the club has been disbanded and he takes it upon himself to revive it by finding students who are willing to join. Without much luck, Onoda decides to make a round trip to Akihabara on his old, bulky city bicycle, a weekly 90-kilometer ride he has been completing since fourth grade. This is when he meets fellow first year student, Shunsuke Imaizumi, a determined cyclist who is using the school&#039;s steep incline for practice. Surprised by Onoda&#039;s ability to climb the hill with his specific type of bicycle, Imaizumi challenges him to a race, with the proposition of joining the anime club should Onoda win. And thus begins the young boy&#039;s first foray into the world of high school bicycle racing! [Written by MAL Rewrite]">
+
+
+<meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
+
+<meta name='csrf_token' content='ee17825efe9e5fd24f5f368d9f2cd7b8564eb090'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
+<meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" />
+
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" href="https://myanimelist.net/plugins/myanimelist.xml" title="MyAnimeList" />
+
+<link rel="shortcut icon" href="https://cdn.myanimelist.net/images/favicon.ico" />
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+      <script src="//tags-cdn.deployads.com/a/myanimelist.net.js" async="async"></script>
+            <script async="async" type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script>
+$(document).ready(function(){
+  window.Criteo = window.Criteo || {};
+  window.Criteo.events = window.Criteo.events || [];
+  $('.ad-criteo').each(function(){
+    var slotid = $(this).attr('data-ad-slot');
+    var zoneid = $(this).attr('data-ad-zone');
+    var CriteoAdUnits = {"placements":[{"slotid":slotid, "zoneid":zoneid}]};
+    var processCdbBid = function(){
+      var bids = Criteo.GetBidsForAdUnit(slotid);
+      if(bids.length > 0){
+        Criteo.RenderAd({bidId:bids[0].id, containerId:bids[0].impressionId});
+      }
+    };
+    Criteo.events.push(function(){Criteo.RequestBids(CriteoAdUnits, processCdbBid, 2000);});
+  });
+});
+</script>
+
+
+
+            <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/myanimelist/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>    
+</head>
+
+<body onload=" " class="page-common"data-ms="true" data-country-code="SI" >
+<div id="myanimelist">
+
+    
+  
+    <script type='text/javascript'>
+    window.MAL.SkinAd.prepareForSkin('');
+  </script>
+
+    <div id="ad-skin-bg-left" class="ad-skin-side-outer ad-skin-side-bg bg-left">
+    <div id="ad-skin-left" class="ad-skin-side left" style="display: none;">
+      <div id="ad-skin-left-absolute-block">
+        <div id="ad-skin-left-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
+    <script>(deployads = window.deployads || []).pageSegment = 'anime_title_18179';</script>
+
+
+<script>
+    var trackOutboundLink = function(url) {
+        ga('send', 'event', 'outbound', 'click', url, {
+            'transport': 'beacon',
+            'hitCallback': function(){return true;}
+        });
+    }
+</script><div class="banner-header-anime-straming" style="right:480px;">
+  <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+</div>
+
+
+<div id="header-menu" ><div class="header-menu-login"><a class="btn-mal-service"
+             href="https://myanimelist.net/membership?_location=mal_h_u" onClick="ga_mal_banner()">Hide Ads</a><a class="btn-login" href="https://myanimelist.net/login.php?from=%2Fanime%2F18179%2FYowamushi_Pedal" id="malLogin" onClick="ga_notlogin()">Login</a><a class="btn-signup" href="https://myanimelist.net/register.php?from=%2Fanime%2F18179%2FYowamushi_Pedal" onClick="ga_registration()">Sign Up</a></div></div></div>  <div id="menu" class="">
+    <div id="menu_right"><script type="text/x-template" id="incremental-result-item-anime"><div class="list anime" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info anime"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Aired: ${ item.payload.aired }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info anime"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-manga"><div class="list manga" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info manga"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Published: ${ item.payload.published }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info manga"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-character"><div class="list character" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div><div class="extra-info"><ul class="related-works"><li v-for="work in item.payload.related_works" class="fs-i">- ${ work }</li></ul>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-person"><div class="list person" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.alternative_name">${ item.payload.alternative_name }<br></span>Birthday: ${ item.payload.birthday }<br>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-store"><div class="list store" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info store"></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info store"></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-club"><div class="list club" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div><div class="extra-info">Members: ${ item.payload.members }<br>Category: ${ item.payload.category }<br>Created by: ${ item.payload.created_by }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-user"><div class="list user" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.authority">${ item.payload.authority }<br></span>Joined: ${ item.payload.joined }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-news"><div class="list news" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-featured"><div class="list featured" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-forum"><div class="list forum" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="extra-info">${ item.payload.date }<br><span>in ${ item.payload.category }</span></div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-separator"><div class="list separator"><div class="separator"><span v-show="item.name == 'anime'">Anime</span><span v-show="item.name == 'manga'">Manga</span><span v-show="item.name == 'character'">Characters</span><span v-show="item.name == 'person'">People</span></div></div></script><div id="top-search-bar"><form id="searchBar" method="get" class="searchBar" @submit.prevent="jump()"><div class="form-select-outer fl-l"><select name="type" id="topSearchValue" class="inputtext" v-model="type"><option value="all">All</option><option value="anime">Anime</option><option value="manga">Manga</option><option value="character">Characters</option><option value="person">People</option><option value="store">Manga Store</option><option value="news">News</option><option value="featured">Featured Articles</option><option value="forum">Forum</option><option value="club">Clubs</option><option value="user">Users</option></select></div><input v-model="keyword" id="topSearchText" type="text"
+            name="keyword" class="inputtext fl-l" placeholder="Search Anime, Manga, and more..."
+            size="30" autocomplete="off"
+            @keydown.up.prevent="moveSelection(-1)" @keydown.down.prevent="moveSelection(1)"
+            @focus="isFocused = true" @blur="isFocused = false"><input id="topSearchButon" class="fl-l" :class="{'notActive': (keyword.length < 3)}" type="submit" value="&#xf002"></form><div id="topSearchResultList" class="incrementalSearchResultList" :style="{display: (showResult ? 'block' : 'none')}" @mousedown.prevent=""><div v-for="(item, i) in items" @mouseover="selection=i"><component :is="resolveComponent(item)" :item="item" :focus="selection == i" :url="generateItemPageUrl(item)"></component></div><div class="list list-bottom" :class="{'focus': selection == -1}" @mouseover="selection = -1"
+               :style="{display: (showViewAllLink ? 'block' : 'none')}"><a :href="resultPageUrl">
+              View all results for <span class="fw-b">${ keyword }</span><i v-show="isRequesting" class="fa fa-spinner fa-spin ml4"></i></a></div></div></div></div><div id="menu_left">
+      <ul id="nav">
+        <li class="small"><a href="#" class="non-link">Anime</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/anime.php?_location=mal_h_m">Anime Search</a></li>
+            <li><a href="https://myanimelist.net/topanime.php?_location=mal_h_m">Top Anime</a></li>
+            <li><a href="https://myanimelist.net/anime/season?_location=mal_h_m">Seasonal Anime</a></li>
+                        <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m_a">Videos</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=anime&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=anime&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1885985&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Manga</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/manga.php?_location=mal_h_m">Manga Search</a></li>
+            <li><a href="https://myanimelist.net/topmanga.php?_location=mal_h_m">Top Manga</a></li>
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=manga&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=manga&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1886113&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li><a href="#" class="non-link">Community</a>
+          <ul>
+            <li><a href="https://myanimelist.net/forum/?_location=mal_h_m">Forums</a></li>
+            <li><a href="https://myanimelist.net/clubs.php?_location=mal_h_m">Clubs</a></li>
+            <li><a href="https://myanimelist.net/blog.php?_location=mal_h_m">Blogs</a></li>
+            <li><a href="https://myanimelist.net/users.php?_location=mal_h_m">Users</a></li>
+            <li><a href="https://discord.gg/E2xC8ZF">Discord Chat</a></li>
+          </ul>
+        </li>
+        <li class="small2"><a href="#" class="non-link">Industry</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/news?_location=mal_h_m">News</a></li>
+            <li><a href="https://myanimelist.net/featured?_location=mal_h_m">Featured Articles</a></li>
+            <li><a href="https://myanimelist.net/people.php?_location=mal_h_m">People</a></li>
+            <li><a href="https://myanimelist.net/character.php?_location=mal_h_m">Characters</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Watch</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m">Episode Videos</a></li>
+            <li><a href="https://myanimelist.net/watch/promotion?_location=mal_h_m">Promotional Videos</a></li></ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Read</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+          </ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Help</a>
+          <ul class="wide">
+            <li><a href="https://myanimelist.net/about.php?_location=mal_h_m">About</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=support&amp;_location=mal_h_m">Support</a></li>
+            <li><a href="https://myanimelist.net/advertising?_location=mal_h_m">Advertising</a></li>
+            <li><a href="https://myanimelist.net/forum/?topicid=515949&amp;_location=mal_h_m">FAQ</a></li>
+            <li><a href="https://myanimelist.net/modules.php?go=report&amp;_location=mal_h_m">Report</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=team&amp;_location=mal_h_m">Staff</a></li><li><a href="https://myanimelist.net/membership?_location=mal_h_m">MAL Supporter</a></li>
+          </ul>
+        </li>
+        
+            
+      </ul>
+    </div>  </div><div id="contentWrapper" itemscope itemtype="http://schema.org/TVSeries"><div><div class="h1 edit-info">
+      <div class="h1-title"><div itemprop="name"><h1 class="title-name h1_bold_none"><strong>Yowamushi Pedal</strong></h1></div></div><div class="header-right">
+          <a href="https://myanimelist.net/login.php?from=%2Fanime%2F18179%2FYowamushi_Pedal&amp;error=login_required" class="js-anime-edit-info-button"><i class="fa fa-pencil mr4"></i>Edit</a>
+<div id="editdiv" class="fw-n fs11">
+  <form method="GET" action="https://myanimelist.net/dbchanges.php" class="di-i">
+    <input type="hidden" name="aid" value="18179">
+    <div class="pb8">What would you like to edit?</div>
+                      <select name="t" id="t" class="inputtext"><option value="synopsis">Synopsis</option><option value="background">Background</option><option value="alternative_titles">Alternative Titles</option><option value="pic">Picture</option><option value="airingdates">Airing Dates</option><option value="producers">Producers</option><option value="relations">Relations</option><option value="rating">Rating</option><option value="duration">Duration</option><option value="source">Source</option><option value="broadcast">Broadcast</option></select>
+     &nbsp;<input type="submit" value="Go" class="inputButton flat btn-middle">
+  </form>
+</div>
+</div></div></div><div id="content" >
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+	 <td class="borderClass" width="225" style="border-width: 0 1px 0 0;" valign="top"><div style="width: 225px">
+
+<div style="text-align: center;">
+          <a href="https://myanimelist.net/anime/18179/Yowamushi_Pedal/pics">
+      <img class="lazyload" data-src="https://cdn.myanimelist.net/images/anime/5/53211.jpg" alt="Yowamushi Pedal" class="ac" itemprop="image">
+    </a>
+  </div>
+
+<!-- My List -->
+<div class="profileRows pb0">
+  <a href="https://myanimelist.net/login.php?from=%2Fanime%2F18179%2FYowamushi_Pedal&amp;error=login_required">Add to My List</a>
+</div>
+
+<div id="addtolist" class="addtolist-block js-anime-addtolist-block" style="display: none;">
+  <input type="hidden" id="myinfo_anime_id" value="18179">
+  <input type="hidden" id="myinfo_curstatus" value="">
+
+  <span class="notice_open_public pb4">* Your list is public by default.</span>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td class="spaceit">Status:</td>
+      <td class="spaceit">
+        <select name="myinfo_status" id="myinfo_status" class="inputtext js-anime-status-dropdown"><option value="1">Watching</option><option value="2">Completed</option><option value="3">On-Hold</option><option value="4">Dropped</option><option selected="selected" value="6">Plan to Watch</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td class="spaceit">Eps Seen:</td>
+      <td class="spaceit">
+        <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext" value="0"> / <span id="curEps">38</span></td>
+    </tr>
+    <tr>
+      <td class="spaceit">Your Score:</td>
+      <td class="spaceit">
+        <select name="myinfo_score" id="myinfo_score" class="inputtext"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>
+                <input type="button" name="myinfo_submit" value="Add" class="inputButton btn-middle flat js-anime-add-button">
+        <span id="addtolistresult"><a href="https://myanimelist.net/ownlist/anime/add?selected_series_id=18179">Add Detailed Info</a></span>
+              </td>
+    </tr>
+  </table>
+  <div id="myinfoDisplay" style="padding-left: 89px; margin-top: 3px;"></div>
+</div>
+<!-- end My List -->
+
+<div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F18179%2FYowamushi_Pedal&amp;error=login_required" style="font-weight:normal;">Add to Favorites</a></div>
+
+<div class="di-b mt4 mb16 ac">
+    
+<a href="https://myanimelist.net/store/manga/238/Yowamushi_Pedal?_location=mal_atf_button" class="left-info-block-manga-store-button">
+  <i class="fa fa-shopping-cart" aria-hidden="true"></i> Buy on Manga Store
+</a>
+  </div><div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F18179%2FYowamushi_Pedal"></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F18179%2FYowamushi_Pedal&amp;text=Yowamushi%20Pedal&amp;hashtags=anime"></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F18179%2FYowamushi_Pedal&amp;title=Yowamushi%20Pedal"></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F18179%2FYowamushi_Pedal&amp;name=Yowamushi%20Pedal"></a></div>  <br />
+
+  <h2>Alternative Titles</h2><div class="spaceit_pad">
+    <span class="dark_text">English:</span> Yowamushi Pedal
+  </div><div class="spaceit_pad">
+    <span class="dark_text">Synonyms:</span> Yowapeda
+  </div><div class="spaceit_pad">
+    <span class="dark_text">Japanese:</span> 弱虫ペダル
+  </div><br />
+
+<h2>Information</h2>
+
+<div>
+  <span class="dark_text">Type:</span>
+  <a href="https://myanimelist.net/topanime.php?type=tv">TV</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Episodes:</span>
+  38
+  </div>
+
+<div>
+  <span class="dark_text">Status:</span>
+  Finished Airing
+  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Aired:</span>
+  Oct 8, 2013 to Jul 1, 2014
+  </div>
+
+  <div>
+    <span class="dark_text">Premiered:</span>
+          <a href="https://myanimelist.net/anime/season/2013/fall">Fall 2013</a>
+          </div>
+
+  <div class="spaceit">
+    <span class="dark_text">Broadcast:</span>
+    Unknown
+      </div>
+
+  <div>
+    <span class="dark_text">Producers:</span>
+          <a href="/anime/producer/1143/TOHO_animation" title="TOHO animation">TOHO animation</a>,       <a href="/anime/producer/1373/Akita_Shoten" title="Akita Shoten">Akita Shoten</a>  </div>
+  <div class="spaceit">
+    <span class="dark_text">Licensors:</span>
+          <a href="/anime/producer/467/Discotek_Media" title="Discotek Media">Discotek Media</a>  </div>
+  <div>
+    <span class="dark_text">Studios:</span>
+          <a href="/anime/producer/73/TMS_Entertainment" title="TMS Entertainment">TMS Entertainment</a>  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Source:</span>
+  Manga
+  </div>
+
+<div>
+  <span class="dark_text">Genres:</span>
+      <span itemprop="genre" style="display: none">Comedy</span><a href="/anime/genre/4/Comedy" title="Comedy">Comedy</a>,     <span itemprop="genre" style="display: none">Sports</span><a href="/anime/genre/30/Sports" title="Sports">Sports</a>,     <span itemprop="genre" style="display: none">Drama</span><a href="/anime/genre/8/Drama" title="Drama">Drama</a>,     <span itemprop="genre" style="display: none">Shounen</span><a href="/anime/genre/27/Shounen" title="Shounen">Shounen</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Duration:</span>
+  24 min. per ep.
+  </div>
+
+<div>
+  <span class="dark_text">Rating:</span>
+  PG-13 - Teens 13 or older
+  </div>
+
+<br />
+
+<h2>Statistics</h2>
+<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" class="po-r js-statistics-info di-ib" data-id="info1">
+  <span class="dark_text">Score:</span>
+  <span itemprop="ratingValue" class="score-label score-8">8.00</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">85350</span>85,350 users)
+      <meta itemprop="bestRating" content="10">
+    <meta itemprop="worstRating" content="1">
+      <div class="statistics-info info1">
+    <small><sup>1</sup>
+          indicates a <a href="javascript:void(0);" onclick="window.open('/info.php?go=topanime','topanime','menubar=no,scrollbars=no,status=no,width=500,height=380');">weighted score</a>.
+    </small>
+  </div>
+</div>
+<div class="spaceit po-r js-statistics-info di-ib" data-id="info2">
+  <span class="dark_text">Ranked:</span>
+  #542<sup>2</sup>
+    <div class="statistics-info info2">
+    <small><sup>2</sup>
+    based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
+    </small>
+  </div>
+</div>
+<div>
+  <span class="dark_text">Popularity:</span>
+  #810
+</div>
+<div class="spaceit">
+  <span class="dark_text">Members:</span>
+    177,375
+</div>
+<div>
+  <span class="dark_text">Favorites:</span>
+  2,159
+</div>
+
+  <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
+          </div>
+
+</div></td><td valign="top" style="padding-left: 5px;"><div class="js-scrollfix-bottom-rel"><div style="width:728px; margin:0 auto"></div><a name="lower"></a>
+<div id="horiznav_nav" style="margin: 5px 0 10px 0;">
+  <ul style="margin-right: 0; padding-right: 0;">
+        <li><a href="https://myanimelist.net/anime/18179/Yowamushi_Pedal" class="horiznav_active">Details</a>
+    </li>
+        <li><a href="/anime/18179/Yowamushi_Pedal/video">Videos</a>
+    </li>
+        <li>      <a href="https://myanimelist.net/anime/18179/Yowamushi_Pedal/episode">Episodes</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/18179/Yowamushi_Pedal/reviews">Reviews</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/18179/Yowamushi_Pedal/userrecs">Recommendations</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/18179/Yowamushi_Pedal/stats">Stats</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/18179/Yowamushi_Pedal/characters">Characters &amp; Staff</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/18179/Yowamushi_Pedal/news">News</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/18179/Yowamushi_Pedal/forum">Forum</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/18179/Yowamushi_Pedal/featured">Featured</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/18179/Yowamushi_Pedal/clubs">Clubs</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/18179/Yowamushi_Pedal/pics">Pictures</a>
+    </li>
+    </ul>
+</div>
+
+
+
+                    <div class="breadcrumb " itemscope itemtype="http://schema.org/BreadcrumbList"><div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/" itemprop="item"><span itemprop="name">
+              Top
+                          </span></a><meta itemprop="position" content="1"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime.php" itemprop="item"><span itemprop="name">
+              Anime
+                          </span></a><meta itemprop="position" content="2"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime/18179/Yowamushi_Pedal" itemprop="item"><span itemprop="name">
+              Yowamushi Pedal
+                          </span></a><meta itemprop="position" content="3"></div></div>
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="85,350 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.00</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#542</strong></span><span class="numbers popularity">Popularity <strong>#810</strong></span><span class="numbers members">Members <strong>177,375</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2013/fall">Fall 2013</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/73/TMS_Entertainment" title="TMS Entertainment">TMS Entertainment</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="18179"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F18179%2FYowamushi_Pedal&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+        Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="38">38</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://myanimelist.net/store/manga/238/Yowamushi_Pedal?_location=mal_atf_affiliate"
+           class="btn-affiliate manga-store js-shop-anime icon-shop-default"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Buy on Manga Store
+        </a></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/tzkiTvJWKtg?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/tzkiTvJWKtg/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">PV 5</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/18179/Yowamushi_Pedal/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
+</div><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=18179&t=synopsis" style="font-weight: normal;">Edit</a></div><h2>Synopsis</h2></div><p itemprop="description">Sakamichi Onoda is a cheerful otaku looking to join his new school&#039;s anime club, eager to finally make some friends. Unfortunately, the club has been disbanded and he takes it upon himself to revive it by finding students who are willing to join. Without much luck, Onoda decides to make a round trip to Akihabara on his old, bulky city bicycle, a weekly 90-kilometer ride he has been completing since fourth grade.<br />
+ <br />
+This is when he meets fellow first year student, Shunsuke Imaizumi, a determined cyclist who is using the school&#039;s steep incline for practice. Surprised by Onoda&#039;s ability to climb the hill with his specific type of bicycle, Imaizumi challenges him to a race, with the proposition of joining the anime club should Onoda win. And thus begins the young boy&#039;s first foray into the world of high school bicycle racing!<br />
+<br />
+[Written by MAL Rewrite]</p><div style="margin-top: 15px;"><div class="floatRightHeader"><a href="/dbchanges.php?aid=18179&t=background" style="font-weight: normal;">Edit</a></div><h2>Background</h2></div>Episode 1 was previewed at a screening in Tokyo on September 28, 2013. Regular broadcasting began on October 8, 2013.<div class="border_top" style="padding:16px 0px 0px 0px;margin:14px 0px 0px 0px;"><div style="padding: 20px 0 20px 40px; float: left; position: relative; z-index: 1;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540582" data-ad-slot="criteo_slot_1540582" id="criteo_slot_1540582"></div>
+
+      </div>
+    </div><div style="padding: 20px 40px 20px 0; float: right; position: relative;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540583" data-ad-slot="criteo_slot_1540583" id="criteo_slot_1540583"></div>
+
+      </div>
+    </div></div></td></tr><tr><td class="pb24"><br><div><div class="floatRightHeader"><a href="https://myanimelist.net/store/manga/238/Yowamushi_Pedal?_location=mal_mid_slider" style="font-weight: normal;">Preview Manga</a></div><h2>Manga Store</h2></div><div class="di-b clearfix">
+  <div class="v-manga-store-book-slider"
+       data-items="[{&quot;id&quot;:1986,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Yowamushi Pedal&quot;,&quot;numbering_text&quot;:&quot;Volume 1&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/1986\/Yowamushi_Pedal_Volume_1&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1986&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1986\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/4645\/9a8a997a0d4c62b1b7790ba03df5d528ac2e85fc48736c0d9328290edc5e5f36&quot;,&quot;on_preorder_at&quot;:1581811200,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1581811200,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:833,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:7197,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Yowamushi Pedal&quot;,&quot;numbering_text&quot;:&quot;Volume 16&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/7197\/Yowamushi_Pedal_Volume_16&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/7197&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/7197\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/9167\/63ec26ab36b27a73aac8da5e472f34cf952ce990a005e927dcb85a7053a5cec0&quot;,&quot;on_preorder_at&quot;:1608595200,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1608595200,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:916,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:6914,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Yowamushi Pedal&quot;,&quot;numbering_text&quot;:&quot;Volume 15&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/6914\/Yowamushi_Pedal_Volume_15&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/6914&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/6914\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/8765\/86599fa5cd8b9c731da9267e3ef96ce9e9559b99c086fefd739a9ad651cfd275&quot;,&quot;on_preorder_at&quot;:1600732800,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1600732800,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:833,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:5804,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Yowamushi Pedal&quot;,&quot;numbering_text&quot;:&quot;Volume 14&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/5804\/Yowamushi_Pedal_Volume_14&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/5804&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/5804\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/7678\/74242b8fb3a46d1861c3133029e13aed0c9de23603befd82518c932ab93c267f&quot;,&quot;on_preorder_at&quot;:1588032000,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1588032000,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:833,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:4350,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Yowamushi Pedal&quot;,&quot;numbering_text&quot;:&quot;Volume 13&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/4350\/Yowamushi_Pedal_Volume_13&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/4350&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/4350\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/4659\/d9cbf705179f9b77a8be1061c49c26103a701706b329791975755a6464e22d2a&quot;,&quot;on_preorder_at&quot;:1581811200,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1581811200,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:833,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:4349,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Yowamushi Pedal&quot;,&quot;numbering_text&quot;:&quot;Volume 12&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/4349\/Yowamushi_Pedal_Volume_12&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/4349&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/4349\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/4651\/1fb17fbf2e2e20620c4017d7c78f11ad5d003a8b830dd36a7c7a2103e4711bc5&quot;,&quot;on_preorder_at&quot;:1581811200,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1581811200,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:833,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:4348,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Yowamushi Pedal&quot;,&quot;numbering_text&quot;:&quot;Volume 11&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/4348\/Yowamushi_Pedal_Volume_11&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/4348&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/4348\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/4650\/b0c0f33967209e8e0f9d514a06ef9e6071cfef7556d89447c66694fda3255d5c&quot;,&quot;on_preorder_at&quot;:1581811200,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1581811200,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:833,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:4347,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Yowamushi Pedal&quot;,&quot;numbering_text&quot;:&quot;Volume 10&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/4347\/Yowamushi_Pedal_Volume_10&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/4347&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/4347\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/4649\/5c7a376a3ecb53d8d3c1743dacaead039e82a2ecabaa93605a1483c811475da5&quot;,&quot;on_preorder_at&quot;:1581811200,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1581811200,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:833,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:4346,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Yowamushi Pedal&quot;,&quot;numbering_text&quot;:&quot;Volume 9&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/4346\/Yowamushi_Pedal_Volume_9&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/4346&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/4346\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/4648\/8faaf0b47c37434faadbe1dd1b5e55fd4d0b19eec2c909abefcfc2eeedac962a&quot;,&quot;on_preorder_at&quot;:1581811200,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1581811200,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:833,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:1993,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Yowamushi Pedal&quot;,&quot;numbering_text&quot;:&quot;Volume 8&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/1993\/Yowamushi_Pedal_Volume_8&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1993&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1993\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/4647\/f6f20b82b8362241ef12c92c5cbab63889f724bbfabdf1761223b3b22b1d0114&quot;,&quot;on_preorder_at&quot;:1581811200,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1581811200,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:833,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:1992,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Yowamushi Pedal&quot;,&quot;numbering_text&quot;:&quot;Volume 7&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/1992\/Yowamushi_Pedal_Volume_7&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1992&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1992\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/4646\/060bf194e6df254168017ddc159ad93a01f0521a5bc686d15ae09e6e2c3849e5&quot;,&quot;on_preorder_at&quot;:1581811200,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1581811200,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:833,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:1991,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Yowamushi Pedal&quot;,&quot;numbering_text&quot;:&quot;Volume 6&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/1991\/Yowamushi_Pedal_Volume_6&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1991&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1991\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/4656\/9209d571eee9db47bd1893e64eafb523606bbc40b7c3dd76be8f05160e2a39fe&quot;,&quot;on_preorder_at&quot;:1581811200,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1581811200,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:833,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:1990,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Yowamushi Pedal&quot;,&quot;numbering_text&quot;:&quot;Volume 5&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/1990\/Yowamushi_Pedal_Volume_5&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1990&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1990\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/4655\/c92cbc7a5d5293139dbc3e2c939c4504806495394c9ec96d3821d52594603e3b&quot;,&quot;on_preorder_at&quot;:1581811200,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1581811200,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:833,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:1989,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Yowamushi Pedal&quot;,&quot;numbering_text&quot;:&quot;Volume 4&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/1989\/Yowamushi_Pedal_Volume_4&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1989&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1989\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/4654\/96f02dc24e9200480acde907d256ca03763dbd664ec9b819459499c66d2aa476&quot;,&quot;on_preorder_at&quot;:1581811200,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1581811200,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:833,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:1988,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Yowamushi Pedal&quot;,&quot;numbering_text&quot;:&quot;Volume 3&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/1988\/Yowamushi_Pedal_Volume_3&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1988&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1988\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/4653\/4a89b14aa5b44ec3db54595494c1ec0af24d9477a4d330af830226502a72f5d5&quot;,&quot;on_preorder_at&quot;:1581811200,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1581811200,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:833,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false}]"
+       data-currency="{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100}"
+       data-options="{&quot;num_items_per_page&quot;:6,&quot;location&quot;:&quot;mal_mid_slider&quot;}"
+    >
+    <div class="ac pt16"><i class="fa fa-spinner fa-2x fa-spin"></i></div>
+  </div>
+</div>
+</td></tr><tr><td class="pb24"><br><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=18179&t=relations" style="font-weight: normal;">Edit</a></div><h2>Related Anime</h2></div><table class="anime_detail_related_anime" style="border-spacing:0px;"><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Adaptation:</td><td width="100%" class="borderClass"><a href="/manga/23627/Yowamushi_Pedal">Yowamushi Pedal</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Side story:</td><td width="100%" class="borderClass"><a href="/anime/18177/Yowamushi_Pedal__Special_Ride">Yowamushi Pedal: Special Ride</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Sequel:</td><td width="100%" class="borderClass"><a href="/anime/24277/Yowamushi_Pedal__Grande_Road">Yowamushi Pedal: Grande Road</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Summary:</td><td width="100%" class="borderClass"><a href="/anime/25755/Yowamushi_Pedal__Re_RIDE">Yowamushi Pedal: Re:RIDE</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Spin-off:</td><td width="100%" class="borderClass"><a href="/anime/33302/Yowamushi_Pedal__Spare_Bike">Yowamushi Pedal: Spare Bike</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Other:</td><td width="100%" class="borderClass"><a href="/anime/33522/Chiba_Pedal__Yowamushi_Pedal_to_Manabu_Jitensha_Koutsuu_Anzen">Chiba Pedal: Yowamushi Pedal to Manabu Jitensha Koutsuu Anzen</a></td></table><br><div><div class="floatRightHeader"><a href="/anime/18179/Yowamushi_Pedal/characters" style="font-weight: normal;">More characters</a></div><h2>Characters & Voice Actors</h2></div><div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/82871/Sakamichi_Onoda" class="fw-n">
+            <img alt="Onoda, Sakamichi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/9/234881.jpg?s=d6cb0262032998dd26137524fd139d08" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/9/234881.jpg?s=d6cb0262032998dd26137524fd139d08 1x, https://cdn.myanimelist.net/r/84x124/images/characters/9/234881.jpg?s=37ee3341cd3ee3383ae25bbaff293c1f 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/82871/Sakamichi_Onoda">Onoda, Sakamichi</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/21971/Daiki_Yamashita">Yamashita, Daiki</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/21971/Daiki_Yamashita">
+                      <img alt="Yamashita, Daiki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/57424.jpg?s=5a2c01c0bec15bdd43ef9cdac3851b3c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/57424.jpg?s=5a2c01c0bec15bdd43ef9cdac3851b3c 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/57424.jpg?s=88f79576207136a8493156d7959efe94 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/82875/Shoukichi_Naruko" class="fw-n">
+            <img alt="Naruko, Shoukichi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/4/266433.jpg?s=b48ce381350304937c01427b53569f49" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/4/266433.jpg?s=b48ce381350304937c01427b53569f49 1x, https://cdn.myanimelist.net/r/84x124/images/characters/4/266433.jpg?s=cf54959cb8c0d4a637ab3b60fda4423d 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/82875/Shoukichi_Naruko">Naruko, Shoukichi</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/10094/Jun_Fukushima">Fukushima, Jun</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/10094/Jun_Fukushima">
+                      <img alt="Fukushima, Jun" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/55670.jpg?s=844522eaf6b152e0118c161a8fc3e3c9" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/55670.jpg?s=844522eaf6b152e0118c161a8fc3e3c9 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/55670.jpg?s=8d9733f577c165c908851de41b293273 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/82873/Shunsuke_Imaizumi" class="fw-n">
+            <img alt="Imaizumi, Shunsuke" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/9/364003.jpg?s=d62d9ac1d2db77bfd0260e2da88110ac" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/9/364003.jpg?s=d62d9ac1d2db77bfd0260e2da88110ac 1x, https://cdn.myanimelist.net/r/84x124/images/characters/9/364003.jpg?s=403656bc64177197dcee650b74ab8e4e 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/82873/Shunsuke_Imaizumi">Imaizumi, Shunsuke</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/97/Kousuke_Toriumi">Toriumi, Kousuke</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/97/Kousuke_Toriumi">
+                      <img alt="Toriumi, Kousuke" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/56756.jpg?s=da69abd19900e74ae5817ffc973cb65a" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/56756.jpg?s=da69abd19900e74ae5817ffc973cb65a 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/56756.jpg?s=4285e8e69cf22b2bb1fd403af049eb49 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/98797/Akira_Midousuji" class="fw-n">
+            <img alt="Midousuji, Akira" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/4/247295.jpg?s=e154b55e7e0bde5b8091708428bb7edc" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/4/247295.jpg?s=e154b55e7e0bde5b8091708428bb7edc 1x, https://cdn.myanimelist.net/r/84x124/images/characters/4/247295.jpg?s=6e02fbe29e2599f6c021f40999692da8 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/98797/Akira_Midousuji">Midousuji, Akira</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/68/Kouji_Yusa">Yusa, Kouji</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/68/Kouji_Yusa">
+                      <img alt="Yusa, Kouji" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/44651.jpg?s=e892568ebf149c389105360fbf279a64" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/44651.jpg?s=e892568ebf149c389105360fbf279a64 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/44651.jpg?s=f504a3d5bda01c452406a0272689a6b6 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/86599/Yuusuke_Makishima" class="fw-n">
+            <img alt="Makishima, Yuusuke" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/7/218599.jpg?s=59bd02d4abce48d0542db8ccabae2b10" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/7/218599.jpg?s=59bd02d4abce48d0542db8ccabae2b10 1x, https://cdn.myanimelist.net/r/84x124/images/characters/7/218599.jpg?s=3561e332b2ef086187dff82b23c3e3f4 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/86599/Yuusuke_Makishima">Makishima, Yuusuke</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/178/Shoutarou_Morikubo">Morikubo, Shoutarou</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/178/Shoutarou_Morikubo">
+                      <img alt="Morikubo, Shoutarou" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/57108.jpg?s=7419c769d2d3c4a9a45bb61d2e788d7f" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/57108.jpg?s=7419c769d2d3c4a9a45bb61d2e788d7f 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/57108.jpg?s=d6130c411ab5a28c542cab6f38ab8b0c 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/89311/Yasutomo_Arakita" class="fw-n">
+            <img alt="Arakita, Yasutomo" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/8/245995.jpg?s=07c07fe701f7657cdc9bc625da0f6aa2" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/8/245995.jpg?s=07c07fe701f7657cdc9bc625da0f6aa2 1x, https://cdn.myanimelist.net/r/84x124/images/characters/8/245995.jpg?s=b1e15d3c8cd5a1569ca1aef77db0cd51 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/89311/Yasutomo_Arakita">Arakita, Yasutomo</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/283/Hiroyuki_Yoshino">Yoshino, Hiroyuki</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/283/Hiroyuki_Yoshino">
+                      <img alt="Yoshino, Hiroyuki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/41093.jpg?s=e2a3549c3adf93cdc57afb3b41afbf69" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/41093.jpg?s=e2a3549c3adf93cdc57afb3b41afbf69 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/41093.jpg?s=7fe6daba5e7fad73536cc7896d68933d 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/89309/Sangaku_Manami" class="fw-n">
+            <img alt="Manami, Sangaku" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/3/314765.jpg?s=80aa15d997ccd53eab8a671d315a55af" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/3/314765.jpg?s=80aa15d997ccd53eab8a671d315a55af 1x, https://cdn.myanimelist.net/r/84x124/images/characters/3/314765.jpg?s=2c3a39fbb75ef343cf6ccced89e0e279 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/89309/Sangaku_Manami">Manami, Sangaku</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/556/Tsubasa_Yonaga">Yonaga, Tsubasa</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/556/Tsubasa_Yonaga">
+                      <img alt="Yonaga, Tsubasa" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/56775.jpg?s=3d7744317b5784de6b0d4d40c7e6bae3" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/56775.jpg?s=3d7744317b5784de6b0d4d40c7e6bae3 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/56775.jpg?s=8b37728203f02f969854ba319967393a 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/89313/Jinpachi_Toudou" class="fw-n">
+            <img alt="Toudou, Jinpachi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/16/260639.jpg?s=3a956da0ad6b38dda9af28db89f0e1c4" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/16/260639.jpg?s=3a956da0ad6b38dda9af28db89f0e1c4 1x, https://cdn.myanimelist.net/r/84x124/images/characters/16/260639.jpg?s=70c15f1c57efe6bddaead797c16b3c4b 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/89313/Jinpachi_Toudou">Toudou, Jinpachi</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/167/Tetsuya_Kakihara">Kakihara, Tetsuya</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/167/Tetsuya_Kakihara">
+                      <img alt="Kakihara, Tetsuya" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/60808.jpg?s=2337e702d5d2ae754836b3a362cfa9b9" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/60808.jpg?s=2337e702d5d2ae754836b3a362cfa9b9 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/60808.jpg?s=b7cb085860a999f37451735c4035f901 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/89297/Junta_Teshima" class="fw-n">
+            <img alt="Teshima, Junta" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/7/314803.jpg?s=3b66e17c96e69946a6dc7ca9a5b29a89" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/7/314803.jpg?s=3b66e17c96e69946a6dc7ca9a5b29a89 1x, https://cdn.myanimelist.net/r/84x124/images/characters/7/314803.jpg?s=4228fbe33c3b376e4372650a10693e24 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/89297/Junta_Teshima">Teshima, Junta</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/440/Daisuke_Kishio">Kishio, Daisuke</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/440/Daisuke_Kishio">
+                      <img alt="Kishio, Daisuke" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/58135.jpg?s=f0d78d8dd28abf06272c9d95dc16a21c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/58135.jpg?s=f0d78d8dd28abf06272c9d95dc16a21c 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/58135.jpg?s=5199bbdf75083a33f76375376547ee2b 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/89315/Hayato_Shinkai" class="fw-n">
+            <img alt="Shinkai, Hayato" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/15/266381.jpg?s=1acfd90e707d8d1f78e3b3bebe848610" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/15/266381.jpg?s=1acfd90e707d8d1f78e3b3bebe848610 1x, https://cdn.myanimelist.net/r/84x124/images/characters/15/266381.jpg?s=1fc782515613b13118e11669c87e8a59 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/89315/Hayato_Shinkai">Shinkai, Hayato</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/245/Satoshi_Hino">Hino, Satoshi</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/245/Satoshi_Hino">
+                      <img alt="Hino, Satoshi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/55555.jpg?s=fe6227b5a1dd652405733dd564f71de4" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/55555.jpg?s=fe6227b5a1dd652405733dd564f71de4 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/55555.jpg?s=b5f45ed2a78e49402454a7d8a410da58 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div></div>
+<div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div><br>
+<a name="staff"></a>
+<div>
+  <div class="floatRightHeader"><a href="https://myanimelist.net/anime/18179/Yowamushi_Pedal/characters#staff">More staff</a></div>
+  <h2>Staff</h2>
+</div>
+
+<div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/11321/Osamu_Nabeshima" class="fw-n">
+            <img alt="Nabeshima, Osamu" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/11321/Osamu_Nabeshima">Nabeshima, Osamu</a>
+        <div class="spaceit_pad">
+          <small>Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/8185/Takeshi_Takadera" class="fw-n">
+            <img alt="Takadera, Takeshi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54100.jpg?s=e60b44e0e6d43a411fee92c05758c63a" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54100.jpg?s=e60b44e0e6d43a411fee92c05758c63a 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/54100.jpg?s=93f802240248c7e2ef706924af26b406 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/8185/Takeshi_Takadera">Takadera, Takeshi</a>
+        <div class="spaceit_pad">
+          <small>Sound Director</small>
+        </div>
+      </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/39940/Kurasumi_Sunayama" class="fw-n">
+            <img alt="Sunayama, Kurasumi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/39940/Kurasumi_Sunayama">Sunayama, Kurasumi</a>
+        <div class="spaceit_pad">
+          <small>Script</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/45726/Ryou_Tanaka" class="fw-n">
+            <img alt="Tanaka, Ryou" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/45726/Ryou_Tanaka">Tanaka, Ryou</a>
+        <div class="spaceit_pad">
+          <small>Storyboard, Key Animation</small>
+        </div>
+      </td>
+    </tr>
+  </table></div></div>
+<br><br><div class="di-t">
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=18179&amp;t=theme" class="floatRightHeader">Edit</a>
+      <h2>Opening Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs opnening"><span class="theme-song">#1: &quot;Reclimb (リクライム)&quot; by ROOKiEZ is PUNK&#039;D (eps 1-12)</span><br><span class="theme-song">#2: &quot;Yowamushi na Honoo (弱虫な炎)&quot; by Dirty Old Men (eps 13-25)</span><br><span class="theme-song">#3: &quot;Be As One&quot; by Team Souhoku (Sakamichi Onoda, Shunsuke Imaizumi, Shoukichi Naruko, Shingo Kinjou, Yuusuke Makishima, Jin Tadokoro) (eps 26-38)</span><br></div>
+  </div>
+  <div class="di-tc va-t}" style="width:16px;"></div>
+
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=18179&amp;t=theme&amp;themetype=2" class="floatRightHeader">Edit</a>
+      <h2>Ending Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs ending"><span class="theme-song">#1: &quot;Kaze wo Yobe (風を呼べ)&quot; by Under Graph (eps 1-12)</span><br><span class="theme-song">#2: &quot;I am ready&quot; by AUTRIBE featuring Dirty Old Men (eps 13-25)</span><br><span class="theme-song">#3: &quot;Glory Road&quot; by Team Hakone Gakuen (Juichi Fukutomi, Sangaku Manami, Jinpachi Toudou, Hayato Shinkai, Yasutomo Arakita, Touichirou Izumida) (eps 26-38)</span><br></div>
+  </div>
+</div>
+<br><br><br><div><span class="floatRightHeader"><a href="/anime/18179/Yowamushi_Pedal/reviews">More reviews</a></span><h2>Reviews</h2></div>
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="2:04 AM">Aug 12, 2014</div>
+      <div class="lightLink spaceit">
+                  38 of 38 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score156279').toggle()">Overall Rating</a>:
+        8
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Veronin">
+                  <img src="https://cdn.myanimelist.net/images/userimages/39613.jpg?t=1610488800" data-src="https://cdn.myanimelist.net/images/userimages/39613.jpg?t=1610488800" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Veronin">Veronin</a>
+              <small>(<a href="/profile/Veronin/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp156279">302</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score156279">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>8</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">8</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">9</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">8</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">7</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">9</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Peer pressure often prevents us from being the person we want to be. The teenage years entail a necessity for conformity and a fear of change. Physical appearance, grades, money and social status are used to determine someone&#039;s value in society. Or so it seems.<br />
+<br />
+For Onoda Sakamichi, he finds his place by pedalling and pedalling forward.<br />
+<br />
+Yowamushi Pedal is a story of a weak-willed, unattractive and friendless otaku finding joy in life through the sweat of sport. Nobody, including himself, thinks him capable of more than shopping for manga and singing embarrassing anime songs. He rides his cheap bicycle from school to Akihabara once a week
+
+          <span style="display: none;" id="review156279">
+        and the dismal cycle begins anew. But through a series of fortunate coincidences he finds untapped talent and a place in his school&#039;s cycling club. <br />
+<br />
+Unlike most protagonists in sports anime, Onoda is not a hot-blooded maniac with a craving for victory. He is timid, weak-- but earnest. He pedals on not out of proud, but because his aching muscles and the wind beating against him makes him feel alive. In a race he does not need to worry that he is shy or awkward; all that matters is that he pedal forward and dominate the asphalt. While Onoda may not be likeable in the traditional sense (his timidness can occasionally reach the point of frustration), much like Mihashi from &quot;Big Windup&quot;, you can&#039;t help but root for the poor guy.<br />
+<br />
+The other members of Souhoku&#039;s cycling club are fairly exciting, though most of them are nothing you haven&#039;t already seen before in a sports anime. There&#039;s Onoda&#039;s rival, Imaizumi, but the rivalry seemingly vanishes into thin air as the Interhigh tournament approaches. Naruko represents the life and energy of the club, while the three seniors unsurprisingly serve as mentors to the first-years. The most interesting of all the characters (sans Onoda) is Makishima. His long, green hair, lanky body, molester-like smile and spider-like cycling manoeuvre has him come across as a creepy little bastard, but gradually he develops and adds a distinct personality to the show. Souhoku will certainly feel the loss once he graduates. <br />
+<br />
+The rival cyclists are, well... they have quite a personality. One of them is a muscle freak who names his pecks (Andy &amp; Frank, in case you were curious) and regularly screams &quot;Abs!&quot; while riding with his jersey unzipped, exposing his bulging, twitching muscles. Yes. Yowamushi Pedal is a very strange show.<br />
+<br />
+Others are more conservative in their personality, with the unbeatable Hakone High serving as the second main cast of characters. Their rivalry with Souhoku feels genuine as a result of a number of flashbacks, and these scenes fortunately are handled gracefully, only ever shown when pertinent to the story. The individual members of Hakone High are all fleshed-out, too. Even Muscle Dude.<br />
+<br />
+The one blemish in an otherwise fun cast of characters is Midousuji of Kyoto Fushimi. He takes ridiculous to a level that I don&#039;t believe I have seen before in a sports anime. He does not stop at simply being the arrogant antagonist; he is a goddamn animal masquerading as human. He slurps with his long, lizard-like tongue, bends his body in positions impossible for the human body, loudly grinds his skeleton-like teeth in front of his opponents, strangles his team-mates and leaves death shrieks like a complete lunatic. Okay, I understand that the show wanted to create conflict by having a villain that the entire audience can despise and root against, but he did not need to be exaggerated to such an extent. His character simply creates a pervasive, ceaseless sense of imbalance within the show. And he does not ever stop frustrating the viewer. By the power of God, Jesus, Allah, those Hindu deities that I can&#039;t remember the name of, my mom and every other person in the history of mankind, won&#039;t somebody please please please beat the fool senseless? <br />
+<br />
+Midosuji aside, Yowamushi Pedal does an excellent job of being accessible to those who have no prior experience or interest in the sport of cycling. Basic terminology is concisely conveyed to the viewer without being condescending, and it focuses more on the abilities of the cyclists rather than the intricacies of some obscure technique they are using. It does occasionally stray from realism during the Interhigh tournament, though. Every main character seems to have some sort of superpower. And you have to wonder how the characters don&#039;t lose their breath from talking so much while cycling.<br />
+<br />
+Yowamushi Pedal is a visual feast. It is easily one of the best-looking sports anime produced to date. In the thirty-eight episodes produced thus far, there has not been one where the animation quality has dipped to any noticeable extent. The amount of CG used is thankfully minimal (usually limited to the scenery and the legs of the cyclists), though to be fair, it does skip many of the expensive shots by focusing more on the faces of the cyclists, with said faces given extra prominence by the blurring of the backgrounds. However, the best part of the visuals is the most basic: colour. Too many shows forget the importance of colour. Grey and brown is not fun for the eyeballs. <br />
+<br />
+The musical score is great, but the real beauty is in how well-timed it is. All the tracks start and end at the perfect moment; a final dash towards the finish line being accompanied by a hot-blooded orchestral piece with guitars riffing in the background, or a tense &#039;eleventh hour&#039; piece playing as the characters run out of strength and fall behind. One of the best moments in the entire show occurs in the thirty-first episode, with Onoda motivating his teammate by forcing him to sing along to a cheesy anime song (the way he&#039;s always encouraged himself), it later switching into a guitar solo of the song before finally crescendoing into the show&#039;s main background piece. Even if there&#039;s no particular stand-out track, the excellent usage of these tracks makes every episode a joy to watch. It&#039;s also pretty damn motivational, to boot. <br />
+<br />
+However, it should be noted that the first season (should they even be considered separate seasons?) does not have a conclusion. It ends in the middle of the Interhigh tournament during one of its climaxes, the final sprint of the second day with no &#039;to be continued&#039; to assuage the viewer. Watching the second season is an absolute necessity, so you will have to prepare yourself for a fairly long ride.  <br />
+<br />
+Yowamushi Pedal is first and foremost an inspirational story of the weak surpassing the odds and triumphing over the strong. It will not leave you with something you haven&#039;t already seen before, and while it is most certainly not deep or philosophical, it excels at doing what matters most: leaving a smile on the viewer&#039;s face. 
+        
+<div id="revhelp_output_156279" class="mt8 js-review-btn-helpful js-review-helpful-156279">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F18179%2FYowamushi_Pedal" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle156279"
+         class="js-toggle-review-button" data-id="156279">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=156279" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=156279" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="1:23 PM">Jul 6, 2014</div>
+      <div class="lightLink spaceit">
+                  38 of 38 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score150719').toggle()">Overall Rating</a>:
+        4
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Solid_Cow">
+                  <img src="https://cdn.myanimelist.net/images/userimages/1283401.jpg?t=1609870800" data-src="https://cdn.myanimelist.net/images/userimages/1283401.jpg?t=1609870800" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Solid_Cow">Solid_Cow</a>
+              <small>(<a href="/profile/Solid_Cow/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp150719">71</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score150719">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>4</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">4</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">8</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">8</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">5</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">3</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Yowamushi Pedal is not a good show. It&#039;s a standard, predictable shounen sports series that does nothing memorable or exciting. Every conflict in the story is caused by not having enough pride in your team, and every conflict is resolved by having more pride in your team. The characters all fit neatly into their pre-determined stereotypes, and nothing really changes between the start of the show and the last end card. But this show does excel in one area, and that is copious amounts of balls-to-the-wall MANSERVICE.<br />
+<br />
+Now, I don&#039;t claim to be an expert on the admiration of the male physique. I like my ladies
+
+          <span style="display: none;" id="review150719">
+        more than I like my guys, which is why I lean towards shows like Highschool DxD more than Free. But I started this show with no idea what I was getting myself into, and for the first, oh, 10 episodes it was a so-so show about bicycles. Then it started happening. The outfits got tighter, the shorts got shorter, and the amount of screen real estate taken up by sweaty butts increased dramatically. I was bewildered by this sudden turn. “Truly,” thought I, “these camera angles are those reserved for fanservice shots, but there is nary a panty to be seen!” It wasn&#039;t until 2 episodes before the show ended that I finally had a complete conception of what I was seeing. It was a shot of two cyclists crossing the finish line, one positioned triumphantly behind the other with his arms held to the sky, hips thrust proudly into the rear of the one in front. The loser was wide-eyed at this sudden shock, overcome with the realization that the winner had completely taken him by surprise. It was then that I knew just how far from home I had come.<br />
+<br />
+Yowamushi Pedal is a show built entirely on a foundation of manliness. You&#039;re apt to see so many sweaty, panting men with their firm butts thrust high in the air, grasping at each other and fighting for dominance, that you&#039;ll never want for another slash fic again. There is a veritable smorgasbord of masculinity on display for any tastes you might have. Do you fancy the stoic leader type? Take your pick from any of the team leaders. Do you prefer a foul-mouthed lone wolf who secretly cares deeply for his friends? You got it. Want a tall, awkward guy with a big heart? Well, you&#039;re getting one anyway.  The dogged nice guy with a dark and troubled past even makes an appearance. Like your guys with a more bishounen appeal? Here&#039;s a fun activity: count all the female cyclists you see on the character page. Done? Those are all guys. Do you love big beefy bros? There&#039;s not one, but TWO massive mountains of man-meat here, one of which even names his muscles for easy reference in fan fics. “Oh Arakita-san, please rub lotion on my Andy...” Like long, spindly guys with no bones and a sociopathic hatred of humans? You may want to talk to someone about that, but in the meantime, enjoy Yowamushi Pedal! No matter your preference, this show&#039;s got you covered.<br />
+<br />
+Should you watch Yowamushi Pedal? If you&#039;ve read this far, you should already know the answer to that. If you like men&#039;s butts and you cannot lie, pick this one up and tough out the first two arcs. You will be richly rewarded. If you just want to watch a by-the-numbers shounen then by all means, pick this up as well. But if you&#039;re not in the mood for manservice and you don&#039;t want to see something that insults your intelligence, then give Yowamushi Pedal a pass. Now if you&#039;ll excuse me, I have to go marathon Seikon no Qwaser to reaffirm my sexuality.
+        
+<div id="revhelp_output_150719" class="mt8 js-review-btn-helpful js-review-helpful-150719">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F18179%2FYowamushi_Pedal" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle150719"
+         class="js-toggle-review-button" data-id="150719">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=150719" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=150719" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="11:24 PM">Sep 7, 2014</div>
+      <div class="lightLink spaceit">
+                  38 of 38 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score159591').toggle()">Overall Rating</a>:
+        9
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Stark700">
+                  <img src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" data-src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Stark700">Stark700</a>
+              <small>(<a href="/profile/Stark700/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp159591">49</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score159591">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>9</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">9</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">8</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">8</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">10</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">8</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Hobbies. Everyone has them whether when you were just a kid, during high school, or as an adolescent. But everyone’s hobbies vary. Hobbies pique interest and interest can lead into an obsession. For Sakamichi Onoda, his hobby is watching anime to the point of obsession. You remember that one time when you forgot to record your favorite show that airs late at night? Well for Sakamichi, that could be a catastrophe. But little does Sakamichi know that his hobby will lead him to an encounter with destiny. That encounter leads him to ride the winds and steer the Yowamushi Pedal.<br />
+<br />
+A tour with Yowamushi Pedal will
+
+          <span style="display: none;" id="review159591">
+        quickly reveal the essence of this show surrounding the sport of cycling. It’s not just the promotional picture but rather the way the characters are designed. Besides Sakamichi, almost every supporting and major character has a degree of athletic form. It’s their passion, their desire, and love for bicycles that drives them to become the best in the world of cycling. But for Sakamichi, he is still riding a mamachari, or better known as the “mommy bike”. It doesn’t take a genius to figure out that he’s a beginner. Yet, there’s something that makes Sakamichi draw attention with his wit. And by that means, I mean potential. That potential leads him to join the Souhoku High Bicycle Club, the core group of the series starring individuals of all angles.<br />
+<br />
+The show builds paths for our characters to take. For Sakamichi, his journey to stardom begins with his meeting with Shōkichi Naruko at Akihabara. The encounter isn’t anything mind crushing but strikes a bit of curiosity. After all, the two seems nothing alike based on their personalities and appearances. Naruko, the boy with red hair, has a fiery passion with a competitive nature in sports. Sakamichi is the boy with otaku passion with an obsessive nature in anime. Get the picture now? Nonetheless, the episode detailing their meeting highlights a potential for Sakamachi. He is able to ride through the winds and break forth his timid nature. In retrospect, Sakamichi creates an impression that some people might of not originally anticipated. While the show does not warp itself with mind games, Yowamushi Pedal does offer plot twists viewers will be surprised by. Sakamichi’s first step to becoming an elite cyclist is one of those surprises.<br />
+<br />
+However, the real question remains if Sakamichi can talk the talk, but also walk the walk. Comparing to characters such as Shunsuke Imaizumi, this seems to be overkill. Shunsuke is like the professor of cycling, knowing the nature of the game and presented as logical thinker. His competitiveness and dream has no boundary. In fact, the rivalry between him and Naruko is quite intimidating like tiger vs. dragon. Drawing from rivalries usually brings out the best of a character. In this series, it does that easily with the way characters compete whether it’d be friendly competitions or a battle of pride. At the paramount of the story, Sakamichi also shines with brilliance with how much he improves. For a show like this, character building is important and the focus is adamant to draw interest. The competitive atmosphere brings out that focus with obstacles the characters must overcome both physically and mentally. These obstacles ranges from a simple steep slope to catastrophic bike accidents that can lead to potential death for the characters. This is expanded to supporting characters as well and rivals of the Souhku High Bicycle Club. The success here is that the show embraces characterization on them with clever flashbacks and well-timed scenarios. It clearly makes its point across to show what the character wants and desire to achieve. Characterization becomes an important aspect of this show and I am thoroughly impressed by its aspects.<br />
+<br />
+There’s also a niche for sports series that doesn’t need to be unique to set itself apart. The catch for this show is that it can transform cycling into a form of art. Characters brings their skills artistically during competitions with their unique styles of skills. These include a variety of signature moves like Naruko’s rocket sprint, Makishima’s spider climb, Midousuji’s leaning style, Tadokoro’s human bullet train, among others. Even Sakamichi develops his own signature move that truly shows how far he comes across. He might not be a prodigy but potential is one word that draws in people’s attention. As a member of Souhoku High Bicycle Club along with some of the main characters, Sakamichi sets himself as a journeyman. His interaction with characters brings out his potential especially during training camp. When he rides up that slope, Sakamachi is building character with his spirit. We’d like to appreciate his development as he takes on challenges that are seemingly impossible. He has to figure out solutions to difficult problems where they are real, not like the ones in the anime world he came to embrace.<br />
+<br />
+It’s also said that competition often draws out the best of a person. After all, competition has rewards, tests, and strives to make us accomplish and achieve. Despite playing roles of supporting characters, some of them really tests the Souhoku High Bicycle Club. A few of them even have dynamics focused on their characters through clever usage of flashbacks. It ties directly with the story to bring forth development. It’s not just their gimmicks but their nature that will draw out interests for viewers. This interest leads to both friendships and rivalries to bring out the best of the best.<br />
+<br />
+There are also other ways to look at this show. One is from the realistic angle with the mechanics of cycling. There are fundamentals explained that draws in techniques of cycling from the real world. Brand names are also featured to bring credibility with the competitions. From another angle is the comedy that sometimes will feel unrealistic. Characters such as Izumida will draw attention with his signature phrase “ABS, ABS, ABS” or Akira Midousuji’s nightmarish face. At the same time, some of the feats these cyclists performs can seem superhuman and unreal. There’s a boundary that blurs in between fiction and reality as the competitions gets tougher and heated each episode. And don’t forget the ending after the credit song. There’s a little gimmicky afterwards that offer laughs for nearly everyone.<br />
+<br />
+A philosophy to get used to for sports series is generally development and training. Perhaps this show focuses a bit too much on the latter. The training session can feel repetitive and dragged. In fact, the first half exclusively focuses on this with appealing image but will take patience to get through. Furthermore, Sakamichi isn’t exactly a model to look on firsthand. His blend design and obsessive hobby isn’t something to write home about. The crux of the series focuses on his development but this could come as a mixed bags for viewers. The weaknesses also comes forth with his biking style that doesn’t bring impression at first glance. Furthermore, there’s a lack of this show’s style itself when it comes to competitions. Some bits can be predictable while others will feel like a repetitive cycle. And when it comes to destinations, there are times when you might not like what you see. Season 1 is also noticeable for cliffhangers and the endgame isn’t far from that.<br />
+<br />
+Artwork is attractive on most parts of the series. The backgrounds feels natural with the mountain fields and rural roads. Although the characters doesn’t all look cutting edge, they do have a well-built presence. Each character has a design style that matches their persona whether it’s Naruko’s fiery hair to make his equally intense personality, Makashima’s long green hair, captain Shingo’s trademark sunglasses, or Midousuji’s malevolent expressions. It’s silly to say but Sakamichi is probably the most normal looking main character we see. Luckily, there’s limited fan service. (unless of you count Izumida’s friends nicknamed by him as “Andy” and “Frank”) What you get is characters that looks real, competitive fields that look consistently natural, and a respect for the nature of the game.<br />
+<br />
+With an intense sport such as cycling, you’d expect soundtrack as a major backbone for support. The hype is real and the soundtrack does not disappoint with its well-coordinated orchestra. The OST is a strength that is fierce, adamant, and vigorous to the core. Incoming climatic scenes are set up well with thanks to the OST. Along with pacing, we get what fans deserve – high caliber races of integrity and well-timed music. The OP and ED songs also demonstrate degrees of such integrity. Character voicing is also respectable with their voice mannerisms that matches their personalities.  There’s also a silly gimmick with the infamous “Hime Song” that will knock your socks off. If you’re not ready for each episode, the soundtrack will get you fired up.<br />
+<br />
+It’s admirable that such an exercising hobby such as cycling can be turned into such a competitive sport. For Sakamichi, he never thought of going from a mommy bike to riding the glorious winds of a national competition. Just note that season 1 serves more as a built-up (for the first half) and execution with the remaining course. The ultimate conclusion isn’t exactly what should be designated as a suitable ending. Still, the experience you gain out of this show will also feel like a journey after you watch the rivalries, the characters’ creativeness, and a story about so much more than just riding a bike to burn calories.<br />
+
+        
+<div id="revhelp_output_159591" class="mt8 js-review-btn-helpful js-review-helpful-159591">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F18179%2FYowamushi_Pedal" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle159591"
+         class="js-toggle-review-button" data-id="159591">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=159591" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=159591" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="6:59 AM">Oct 2, 2014</div>
+      <div class="lightLink spaceit">
+                  38 of 38 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score163273').toggle()">Overall Rating</a>:
+        8
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/elleyonce">
+                  <img src="https://cdn.myanimelist.net/images/userimages/3190265.jpg?t=1547895600" data-src="https://cdn.myanimelist.net/images/userimages/3190265.jpg?t=1547895600" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/elleyonce">elleyonce</a>
+              <small>(<a href="/profile/elleyonce/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp163273">36</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score163273">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>8</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">6</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">6</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">8</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">9</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">10</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    At one point or another, one faces a metaphorical wall, and no matter how much effort one puts into breaking it, it is futile. What does one do, then? Give up? Wait? Have the willpower to try again and again?<br />
+<br />
+This, essentially, is what Yowamushi Pedal is about.<br />
+<br />
+Yowamushi Pedal, Weak Pedals in English and Yowapeda for short, follows Onoda Sakamichi and his journey to have fun with friends he never had, as well as his struggles in the world of road racing he gets dragged into. It’s, of course, not a unique concept by any means – after all, many sports shows follow the scheme of
+
+          <span style="display: none;" id="review163273">
+        a rookie exploring the sport in question. But instead of giving the viewer what they want – Onoda, and the bicycle team he’s in – Sohoku – to be at the top after hard work, Yowamushi Pedal rather makes the members suffer through one obstacle to the other.<br />
+<br />
+But let’s start from the beginning.<br />
+<br />
+Onoda’s biggest wish when entering high school is to join the anime club and to gain some friends with similar interests, since he was mostly alone in middle school. But this is going to change in high school, he tells himself, and it does indeed, as he doesn’t join the anime club as intended, but the bicycle club instead, after meeting the tall, serious Imaizumi and the flashy, short Naruko, to test his own potential. And Onoda does show lots of potential, especially at climbing hills (true to his name, which means “hill” in Japanese), and at catching up to opponents, eventually determined to help the Sohoku bicycle club in any way possible to gain overall victory. <br />
+<br />
+While the story per se is not particularly good – especially paired with pacing problems in the second half of the show, unnecessary time extensions as well as the ending – its themes are very heartwarming and realistic. For one can’t say that they can’t identify with the theme of failing, and the constant struggle of overcoming obstacles, and Yowapeda has it in all facets and angles. Every character looks for ways to overcome their struggles, and for ways to motivate themselves. And in the middle of all that, there are comedical slice-of-life moments that strengthen the interactions between the characters after every ending song. The world of road racing is explained well, as the viewer has just as much of an idea of it as Onoda does, bit by bit so that it doesn’t come off as a boring info-dump, especially with every piece of information almost directly demonstrated in the scene.<br />
+<br />
+The cast is certainly an odd mix. It never really fits any archetype, though it is close to, but that doesn’t exactly mean they’re very unique, either. Onoda fits in the otaku archetype, but is more presented as a timid, shy person who tries to give his best. Imaizumi fits in the serious, arrogant boy archetype, but there are moments where he is simply very awkward, and the list continues. The Sohoku team, save the green-haired third-year Makishima, who is an “irregularity” as he refers to himself and grows to be a distinct personality in the team, is very conventional with nothing new. But Makishima is by far not the only one who develops over the course of 38 episodes; the previously mentioned Imaizumi and third-year Kinjou are some examples as well. Of course, Yowapeda doesn’t only focus on Sohoku only (even though the first half does invest on the team); the rival team and champions Hakone is worth mentioning as well. They’re a lot odder than Sohoku – there’s the aggressive Arakita, the eccentric Toudou, laid-back Shinkai, muscle-freak Izumida and Onoda’s rival Manami. And despite being such an odd bunch, they get their flashbacks and development as well, even their stone-faced captain Fukutomi. The rivalry between Sohoku and Hakone feels real, too. Last but not least, there’s the antagonist Midousuji with his team Kyoto Fushimi. He’s the oddest of the cast, disturbingly so, and most of the time Kyoto Fushimi serves as a shock factor to Sohoku and Hakone. While not everyone’s past is revealed and not everyone is developed, a lot of them are, and they help making the characters seem very human with their faults and motivations. Indeed, the characters are Yowamushi Pedal’s strongest point.<br />
+<br />
+The animation is average, sometimes even cringeworthy, but at least consistent. The CGI is not very annoying nor very remarkable. As for the sound, it certainly never feels out of place, always suiting the current mood. The problem is though that it is very repetitive, as certain tracks for racing or dramatic moments are used over and over again. The opening and ending themes deserve a special mention as well – almost all of the song fit the mood to the corresponding arc, the best of them being the second opening (Dirty Old Men’s “Yowamushi na Honoo”) and the best ending the third, “Glory Road”, sung by the voice actors of the Hakone members. Speaking of voice acting, it is certainly well-done. Many of them are B-list voice actors, and still pulled off the character they’re voicing without effort, especially the performances for Onoda and Toudou.<br />
+<br />
+So in conclusion, Yowamushi Pedal is not the most unique, but a very touching tale about friendship and overcoming obstacles. Even though it has pacing issues at times as well as a non-existent end, it makes up for it with loveable characters and intense matches, as well as the great opening and ending themes. It does not rely on “pseudo-homo” moments, nor on magically winning because it’s the main character, but rather on the strength of willpower and how actually motivating friendship is. Should you watch Yowamushi Pedal? Yes.<br />
+
+        
+<div id="revhelp_output_163273" class="mt8 js-review-btn-helpful js-review-helpful-163273">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F18179%2FYowamushi_Pedal" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle163273"
+         class="js-toggle-review-button" data-id="163273">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=163273" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=163273" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+<div class="mt4"></div><div class="amazon-ads anime-manga-detail bottom pt20 pb16">
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "animedetail-20";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Buy on Amazon.com ";
+amzn_assoc_default_search_phrase = "Yowamushi Pedal";
+amzn_assoc_default_category = "DVD";
+amzn_assoc_linkid = "d33d41183eb8aee6216ffe9ff44ca735";
+amzn_assoc_rows = "1";
+amzn_assoc_search_bar_position = "bottom";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+</div>            <div class="mal-ad-unit" data-ad-width="801" data-ad-height="633">
+        <div id="taboola-below-article-thumbnails-anime"></div> <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'alternating-thumbnails-a',
+    container: 'taboola-below-article-thumbnails-anime',
+    placement: 'Below Article Thumbnails Anime',
+    target_type: 'mix'
+  });
+</script>
+
+      </div>
+    <br><div><div class="floatRightHeader"><a href="/anime/18179/Yowamushi_Pedal/news">More news</a></div><h2>Recent News</h2></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/59517217" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1586169624-431061e93cd5662039149a138a992c11.jpeg?s=c1c8b748f9b190b30fa05696323e6084" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1586169624-431061e93cd5662039149a138a992c11.jpeg?s=c1c8b748f9b190b30fa05696323e6084 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1586169624-431061e93cd5662039149a138a992c11.jpeg?s=4aba3af1e0a845a4ec3e5a538ed4e587 2x" alt="Interview: Kousuke Toriumi, &#039;King of Otome Voices&#039;" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/59517217"><strong>Interview: Kousuke Toriumi, &#039;King of Otome Voices&#039;</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p> Kousuke Toriumi&#039;s wide range of character performances showcases a versatile and appealing voice&mdash;one that has led to frequent casting in visual novels an...<a href="/news/59517217">read more</a></p></div>
+		<p class="lightLink spaceit">Apr 6, 2020 3:41 AM by <a href="/profile/Shymander">Shymander</a> | <a href="/forum/?topicid=1833205">Discuss (7 comments)</a></p></div>
+		<div class="borderClass"></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/57741461" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1559567381-7a237b4398fbe3c69476a9e7a707c42b.png?s=07f80b73d4039b1b52c2efe8b12e0431" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1559567381-7a237b4398fbe3c69476a9e7a707c42b.png?s=07f80b73d4039b1b52c2efe8b12e0431 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1559567381-7a237b4398fbe3c69476a9e7a707c42b.png?s=f5b0440c5ae930899dd9413592698205 2x" alt="North American Anime &amp; Manga Releases for June" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/57741461"><strong>North American Anime &amp; Manga Releases for June</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p>Here are the North American anime &amp; manga releases for June Week 1: June 4 - 10 Anime Releases Black Lagoon (incl. The Second Barrage &amp; Roberta&#039;s Blood ...<a href="/news/57741461">read more</a></p></div>
+		<p class="lightLink spaceit">Jun 3, 2019 6:11 AM by <a href="/profile/Sakana-san">Sakana-san</a> | <a href="/forum/?topicid=1785342">Discuss (7 comments)</a></p></div>
+		<div class="borderClass"></div><br><div><div class="floatRightHeader"><a href="/forum/?animeid=18179"><a href="/anime/18179/Yowamushi_Pedal/forum">More discussions</a></div><h2>Recent Forum Discussion</h2></div><div class="page-forum">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F18179%2FYowamushi_Pedal&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=890353">Yowamushi Pedal Episode 18 Discussion</a> <small> ( <a href="/forum/?topicid=890353&show=0">1</a> <a href="/forum/?topicid=890353&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Feb 10, 2014</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">67 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/samsince04">samsince04</a> <a href="/forum/?topicid=890353&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Nov 3, 2020 10:12 AM</td>
+            </tr>
+            <tr id="topicRow2">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F18179%2FYowamushi_Pedal&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=711409">Yowamushi Pedal Episode 12 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Dec 23, 2013</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">48 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Kulta">Kulta</a> <a href="/forum/?topicid=711409&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 10, 2020 12:43 PM</td>
+            </tr>
+            </table></div><br><div><div class="floatRightHeader"><a href="/anime/18179/Yowamushi_Pedal/featured">More featured articles</a></div><h2>Recent Featured Articles</h2></div><div class="detail-page-featured-article"><div class="news-list">
+      
+    <div class="news-unit clearfix"><div class="picSurround fl-l mr8 ml3">
+          <a href="https://myanimelist.net/featured/2325/Special_Report__The_Grand_Opening_of_Comiket_97"><img src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1585729244-32ef86eee3d7868f9d30bb86b25ea8d5.jpeg?s=1e479b3a3aabd81f0b20c8fe47b7a41d" alt="Special Report: The Grand Opening of Comiket 97" class="image lazyload" width="50" height="78" srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1585729244-32ef86eee3d7868f9d30bb86b25ea8d5.jpeg?s=1e479b3a3aabd81f0b20c8fe47b7a41d 1x, https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1585729244-32ef86eee3d7868f9d30bb86b25ea8d5.jpeg?s=59a985e86bf6535f8a001e82698375df 2x" /></a>
+        </div><div class="news-unit-right rect">
+        <p class="title">
+          <a href="https://myanimelist.net/featured/2325/Special_Report__The_Grand_Opening_of_Comiket_97" title="Special Report: The Grand Opening of Comiket 97">Special Report: The Grand Opening of Comiket 97</a>
+        </p>
+        <div class="text">
+          From December 28 to 31, 2019, Comic Market 97 was held in Tokyo! Here is our special Comiket report, along with a gallery of various cosplay~
+
+        </div>
+        <div class="information">
+          <p class="info pr8">
+            by <a href="https://myanimelist.net/profile/MAL_editing_team">MAL_editing_team</a>
+          </p><p class="di-tc pv pr8">
+              <b>8,425</b> views
+            </p></div>
+      </div>
+    </div>
+            
+    <div class="news-unit clearfix"><div class="picSurround fl-l mr8 ml3">
+          <a href="https://myanimelist.net/featured/2309/In_Numbers__The_Best_Anime_of_the_Decade"><img src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1577540570-6cd00ecbf3483b617d40670f43868d2c.jpeg?s=9b135c843346a9061dede8eb1733608a" alt="In Numbers: The Best Anime of the Decade" class="image lazyload" width="50" height="78" srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1577540570-6cd00ecbf3483b617d40670f43868d2c.jpeg?s=9b135c843346a9061dede8eb1733608a 1x, https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1577540570-6cd00ecbf3483b617d40670f43868d2c.jpeg?s=e68e4dccba068951010dabd27951a025 2x" /></a>
+        </div><div class="news-unit-right rect">
+        <p class="title">
+          <a href="https://myanimelist.net/featured/2309/In_Numbers__The_Best_Anime_of_the_Decade" title="In Numbers: The Best Anime of the Decade">In Numbers: The Best Anime of the Decade</a>
+        </p>
+        <div class="text">
+          What&#039;s the #1 anime of the 2010s? Which year was the best? What studio had the most hits? We have the answers to all these questions and more!
+        </div>
+        <div class="information">
+          <p class="info pr8">
+            by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
+          </p><p class="di-tc pv pr8">
+              <b>319,615</b> views
+            </p></div>
+      </div>
+    </div>
+        </div>
+</div><div style="padding:16px 0px 0px 0px;"><div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div></div><br><div>
+            <div class="floatRightHeader"><a href="/anime/18179/Yowamushi_Pedal/userrecs">More recommendations</a></div>
+            <h2>Recommendations
+            </h2></div>  <div class=""><a href="https://myanimelist.net/anime/18179/Yowamushi_Pedal/userrecs" class="btn-detail-recommendations-view-all fl-r">
+      <span class="text">View All</span>
+      <span class="icon-next"><i class="fa fa-chevron-right icon-chevron" aria-hidden="true"></i></span>
+    </a><div class="anime-slide-block" id="anime_recommendation" data-json='{"width":702,"btnWidth":40,"margin":8}'><div class="btn-anime-slide-side left"><span class="btn-inner"></span></div><div class="btn-anime-slide-side right"><span class="btn-inner"></span></div><div class="anime-slide-outer" style="height:140px;"><ul class="anime-slide js-anime-slide" data-slide="7"><li class="btn-anime" style="width:90px" title="Haikyuu!!"><a href="https://myanimelist.net/recommendations/anime/18179-20583" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Haikyuu!!</span><span class="users">13 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/7/76014.jpg?s=e5443fe7056cdbe4e6f66e16dc59bed4" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/7/76014.jpg?s=e5443fe7056cdbe4e6f66e16dc59bed4 1x,https://cdn.myanimelist.net/r/180x280/images/anime/7/76014.jpg?s=de74df30973cec68afe1863b3689a38f 2x" width="90" height="140" class="image lazyload" alt="Haikyuu!!" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kuroko no Basket"><a href="https://myanimelist.net/recommendations/anime/11771-18179" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kuroko no Basket</span><span class="users">8 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/11/50453.jpg?s=2822bccd41230124bb9fdf64b39afbd8" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/11/50453.jpg?s=2822bccd41230124bb9fdf64b39afbd8 1x,https://cdn.myanimelist.net/r/180x280/images/anime/11/50453.jpg?s=0da5bc1d108038ab4fc990e70c8fef40 2x" width="90" height="140" class="image lazyload" alt="Kuroko no Basket" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Baby Steps"><a href="https://myanimelist.net/recommendations/anime/18179-21185" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Baby Steps</span><span class="users">7 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/63361.jpg?s=24dd3e380d213544f5091c04ded65881" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/63361.jpg?s=24dd3e380d213544f5091c04ded65881 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/63361.jpg?s=ee05152e2004687d9cde1685d39a5328 2x" width="90" height="140" class="image lazyload" alt="Baby Steps" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Hajime no Ippo"><a href="https://myanimelist.net/recommendations/anime/263-18179" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Hajime no Ippo</span><span class="users">7 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/86334.jpg?s=87c3012ebae46a575a3d24c4c32bca0e" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/86334.jpg?s=87c3012ebae46a575a3d24c4c32bca0e 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/86334.jpg?s=43036251629cc5461811a20cc840d35e 2x" width="90" height="140" class="image lazyload" alt="Hajime no Ippo" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Diamond no Ace"><a href="https://myanimelist.net/recommendations/anime/18179-18689" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Diamond no Ace</span><span class="users">6 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/54235.jpg?s=d56a49924ae0f36615a00115396f7a5b" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/54235.jpg?s=d56a49924ae0f36615a00115396f7a5b 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/54235.jpg?s=a5ce7f7404186e7d2159b45e8fa9e757 2x" width="90" height="140" class="image lazyload" alt="Diamond no Ace" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Initial D First Stage"><a href="https://myanimelist.net/recommendations/anime/185-18179" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Initial D First Stage</span><span class="users">5 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/13/6801.jpg?s=d32e9ba027941e20b377ed3db9f07e26" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/13/6801.jpg?s=d32e9ba027941e20b377ed3db9f07e26 1x,https://cdn.myanimelist.net/r/180x280/images/anime/13/6801.jpg?s=6aa94197e409c124e3a2c9a97166ed58 2x" width="90" height="140" class="image lazyload" alt="Initial D First Stage" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Over Drive"><a href="https://myanimelist.net/recommendations/anime/2112-18179" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Over Drive</span><span class="users">5 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/3/89534.jpg?s=2a0df5afe09707d05a820bb867002ab8" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/3/89534.jpg?s=2a0df5afe09707d05a820bb867002ab8 1x,https://cdn.myanimelist.net/r/180x280/images/anime/3/89534.jpg?s=fd69f503a2d3b8a6fb79c6d8d3dee0d5 2x" width="90" height="140" class="image lazyload" alt="Over Drive" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Eyeshield 21"><a href="https://myanimelist.net/recommendations/anime/15-18179" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Eyeshield 21</span><span class="users">4 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/66961.jpg?s=53cb5b42eb1a169648db87bf2ade441b" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/66961.jpg?s=53cb5b42eb1a169648db87bf2ade441b 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/66961.jpg?s=00b926d2c7f81bab4480130ee23683b6 2x" width="90" height="140" class="image lazyload" alt="Eyeshield 21" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Minami Kamakura Koukou Joshi Jitenshabu"><a href="https://myanimelist.net/recommendations/anime/18179-31422" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Minami Kamakura Koukou Joshi Jitenshabu</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/10/83345.jpg?s=e27c844c2b9360730cb0d15eca96eda8" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/10/83345.jpg?s=e27c844c2b9360730cb0d15eca96eda8 1x,https://cdn.myanimelist.net/r/180x280/images/anime/10/83345.jpg?s=39007507010e52e842fe5a324096aa06 2x" width="90" height="140" class="image lazyload" alt="Minami Kamakura Koukou Joshi Jitenshabu" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Boku no Hero Academia"><a href="https://myanimelist.net/recommendations/anime/18179-31964" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Boku no Hero Academia</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/10/78745.jpg?s=5c24627d4f95507ef1970301d759576e" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/10/78745.jpg?s=5c24627d4f95507ef1970301d759576e 1x,https://cdn.myanimelist.net/r/180x280/images/anime/10/78745.jpg?s=088a16b9c272873a7cd04da308fc921c 2x" width="90" height="140" class="image lazyload" alt="Boku no Hero Academia" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Prince of Stride: Alternative"><a href="https://myanimelist.net/recommendations/anime/18179-31559" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Prince of Stride: Alternative</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/6/77842.jpg?s=b6fbdd5a328be8934c6e5824bcd14c3c" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/6/77842.jpg?s=b6fbdd5a328be8934c6e5824bcd14c3c 1x,https://cdn.myanimelist.net/r/180x280/images/anime/6/77842.jpg?s=7cf215ce3b9a924553b6a64407bcdc07 2x" width="90" height="140" class="image lazyload" alt="Prince of Stride: Alternative" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Aoharu x Kikanjuu"><a href="https://myanimelist.net/recommendations/anime/18179-30205" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Aoharu x Kikanjuu</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/76271.jpg?s=a17c0bb54c51f4dfc511e77e0161ce27" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/76271.jpg?s=a17c0bb54c51f4dfc511e77e0161ce27 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/76271.jpg?s=03f87f81ff0aa735ff13f55743f8f48e 2x" width="90" height="140" class="image lazyload" alt="Aoharu x Kikanjuu" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Days (TV)"><a href="https://myanimelist.net/recommendations/anime/18179-32494" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Days (TV)</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/11/88507.jpg?s=b48f877d68bef0f50d47e415d08455d4" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/11/88507.jpg?s=b48f877d68bef0f50d47e415d08455d4 1x,https://cdn.myanimelist.net/r/180x280/images/anime/11/88507.jpg?s=cccd2f360ec90c630838d0bfc4e0f517 2x" width="90" height="140" class="image lazyload" alt="Days (TV)" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Captain Tsubasa (2018)"><a href="https://myanimelist.net/recommendations/anime/18179-36934" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Captain Tsubasa (2018)</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1866/91270.jpg?s=60c2b29f749799e73c890b167b749c8b" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1866/91270.jpg?s=60c2b29f749799e73c890b167b749c8b 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1866/91270.jpg?s=ab983d884d4a203b8f418c0151dc6bb8 2x" width="90" height="140" class="image lazyload" alt="Captain Tsubasa (2018)" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kaze ga Tsuyoku Fuiteiru"><a href="https://myanimelist.net/recommendations/anime/18179-37965" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kaze ga Tsuyoku Fuiteiru</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1692/93918.jpg?s=bcb0c8b8bc99b4e059661557736f379c" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1692/93918.jpg?s=bcb0c8b8bc99b4e059661557736f379c 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1692/93918.jpg?s=13c3f7ad7aa7dbecff0ae31821e6e5bf 2x" width="90" height="140" class="image lazyload" alt="Kaze ga Tsuyoku Fuiteiru" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Long Riders!"><a href="https://myanimelist.net/recommendations/anime/18179-30652" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Long Riders!</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/3/82255.jpg?s=035053b512d064f51a8eda4925289f75" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/3/82255.jpg?s=035053b512d064f51a8eda4925289f75 1x,https://cdn.myanimelist.net/r/180x280/images/anime/3/82255.jpg?s=830dac03b9ddb8acd3b55c8a4750904a 2x" width="90" height="140" class="image lazyload" alt="Long Riders!" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Watashi ga Motete Dousunda"><a href="https://myanimelist.net/recommendations/anime/18179-32899" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Watashi ga Motete Dousunda</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/81953.jpg?s=75bc52e135318d5b318b1283844986fc" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/81953.jpg?s=75bc52e135318d5b318b1283844986fc 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/81953.jpg?s=cdb349f4dba32b2d50bdae7367959124 2x" width="90" height="140" class="image lazyload" alt="Watashi ga Motete Dousunda" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Idaten Jump"><a href="https://myanimelist.net/recommendations/anime/1316-18179" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Idaten Jump</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/21027.jpg?s=936465bda9256ce8915d3750f5452712" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/21027.jpg?s=936465bda9256ce8915d3750f5452712 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/21027.jpg?s=b58ca0dd19bae23572e4cd3e360c8a01 2x" width="90" height="140" class="image lazyload" alt="Idaten Jump" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"><a href="https://myanimelist.net/recommendations/anime/18179-28121" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/2/70187.jpg?s=e8d28fca3a87b5f43eb513af260e624f" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/2/70187.jpg?s=e8d28fca3a87b5f43eb513af260e624f 1x,https://cdn.myanimelist.net/r/180x280/images/anime/2/70187.jpg?s=c2c017ce19ab1534b520529d2a7c1fde 2x" width="90" height="140" class="image lazyload" alt="Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Capeta"><a href="https://myanimelist.net/recommendations/anime/388-18179" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Capeta</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/17667.jpg?s=9dc930d575802caf5e89d4f2db2d3eea" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/17667.jpg?s=9dc930d575802caf5e89d4f2db2d3eea 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/17667.jpg?s=7670117cb0cadd4a69747e37e3bea96a 2x" width="90" height="140" class="image lazyload" alt="Capeta" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Tennis no Ouji-sama"><a href="https://myanimelist.net/recommendations/anime/22-18179" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Tennis no Ouji-sama</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/6/21624.jpg?s=734007fc8673dcddaa26e9008408c375" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/6/21624.jpg?s=734007fc8673dcddaa26e9008408c375 1x,https://cdn.myanimelist.net/r/180x280/images/anime/6/21624.jpg?s=3725e42ed10d8b7c7ef216a13c4daf8e 2x" width="90" height="140" class="image lazyload" alt="Tennis no Ouji-sama" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Hunter x Hunter (2011)"><a href="https://myanimelist.net/recommendations/anime/11061-18179" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Hunter x Hunter (2011)</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/11/33657.jpg?s=003364fc3db2ae79817df73e4ad509b6" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/11/33657.jpg?s=003364fc3db2ae79817df73e4ad509b6 1x,https://cdn.myanimelist.net/r/180x280/images/anime/11/33657.jpg?s=7b5b726b7a0474005b91a997909d8227 2x" width="90" height="140" class="image lazyload" alt="Hunter x Hunter (2011)" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Ookiku Furikabutte: Natsu no Taikai-hen"><a href="https://myanimelist.net/recommendations/anime/7720-18179" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Ookiku Furikabutte: Natsu no Taikai-hen</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/10/18671.jpg?s=f6d4681fd1a9b76b0c3f8ca30fd73018" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/10/18671.jpg?s=f6d4681fd1a9b76b0c3f8ca30fd73018 1x,https://cdn.myanimelist.net/r/180x280/images/anime/10/18671.jpg?s=6e2e32077155ea588288c6d7173442e0 2x" width="90" height="140" class="image lazyload" alt="Ookiku Furikabutte: Natsu no Taikai-hen" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Slam Dunk"><a href="https://myanimelist.net/recommendations/anime/170-18179" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Slam Dunk</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/86890.jpg?s=df36bcfb3ec1d01a7fe4ccd577b8b352" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/86890.jpg?s=df36bcfb3ec1d01a7fe4ccd577b8b352 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/86890.jpg?s=50b8827dfca1256c689cfc576bbc74e4 2x" width="90" height="140" class="image lazyload" alt="Slam Dunk" border="0" ></a></li></ul></div></div></div>
+    </td>
+    </tr>
+    </table>
+    </div>  <div class="mauto clearfix pt24" style="width:760px;">
+    <div class="fl-l">
+      </div>
+      <div class="fl-r">
+      </div>
+    </div>
+
+</td>
+</tr>
+</table>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js" data-pin-hover="true"></script></div><!-- end of contentHome -->
+</div><!-- end of contentWrapper -->
+
+
+            
+  
+
+
+            
+  
+
+  <script>
+    $(document).ready(function() {
+      $(window).scroll(function() {
+        var cHeight = $("#myanimelist").height();
+        $("div[data-ad-sticky='manual']").each(function (i, o) {
+          var aHeight = $(o).height();
+          var aTop = $(o).parent().offset().top;
+          if (window.pageYOffset >= (cHeight - aHeight)) {
+            $(o).css("top", ((cHeight - aHeight) - window.pageYOffset) + "px");
+          } else if (window.pageYOffset >= aTop) {
+            $(o).addClass("sticky");
+            $(o).css("top", "");
+          } else {
+            $(o).removeClass("sticky");
+          }
+        });
+      });
+    });
+  </script>
+
+<!--  control container height -->
+<div style="clear:both;"></div>
+
+<!-- end rightbody -->
+
+</div><!-- wrapper -->
+
+
+    <div id="ad-skin-bg-right" class="ad-skin-side-outer ad-skin-side-bg bg-right">
+    <div id="ad-skin-right" class="ad-skin-side right" style="display: none;">
+      <div id="ad-skin-right-absolute-block">
+        <div id="ad-skin-right-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+</div><!-- #myanimelist -->
+
+
+<div class="footer-ranking">
+  <div class="ranking-container">
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php" class="view_more fl-r">More</a>Top Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Fullmetal Alchemist: Brotherhood</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011">Hunter x Hunter (2011)</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php?type=airing" class="view_more fl-r">More</a>Top Airing Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/42203/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season_Part_2">Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/42897/Horimiya">Horimiya</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/38474/Yuru_Camp△_Season_2">Yuru Camp△ Season 2</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/character.php" class="view_more fl-r">More</a>Most Popular Characters
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/character/417/Lelouch_Lamperouge">Lamperouge, Lelouch</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/character/45627/Levi">Levi</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/character/80/Light_Yagami">Yagami, Light</a>
+            </li>
+                  </ol>
+      </div>
+      </div>
+</div>
+<footer>
+  <div id="footer-block">
+    <div class="footer-link-block">
+      <p class="footer-link home di-ib">
+        <a href="https://myanimelist.net/">Home</a>
+      </p>
+      <p class="footer-link di-ib">
+        <a href="https://myanimelist.net/about.php">About</a>
+        <a href="https://myanimelist.net/pressroom">Press Room</a>
+        <a href="https://myanimelist.net/about.php?go=contact">Support</a>
+        <a href="https://myanimelist.net/advertising">Advertising</a>
+        <a href="https://myanimelist.net/forum/?topicid=515949">FAQ</a>
+        <a href="https://myanimelist.net/about/terms_of_use">Terms</a>
+        <a href="https://myanimelist.net/about/privacy_policy">Privacy</a>
+        <a href="#/" class="cmp-gdpr-only">Privacy Settings</a>
+        <a href="#/" class="cmp-ccpa-only">Do Not Sell My Personal Information</a>
+        <a href="https://myanimelist.net/about/cookie_policy">Cookie</a>
+        <a href="https://myanimelist.net/about/notice_at_collection">Notice at Collection</a>
+        <a href="https://myanimelist.net/about/sitemap">Sitemap</a>
+      </p>
+            <p class="footer-link login di-ib">
+        <a href="https://myanimelist.net/login.php?from=%2Fanime%2F18179%2FYowamushi_Pedal" id="malLogin" rel="nofollow">Login</a>
+        <a href="https://myanimelist.net/register.php?from=%2Fanime%2F18179%2FYowamushi_Pedal">Sign Up</a>
+      </p>
+          </div>
+
+    
+    <div class="banner-footer-anime-streaming">
+      <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+    </div>
+
+        <div class="footer-link-icon-block">
+            <div class="footer-social-media ac">
+        <a target="_blank" class="icon-sns icon-fb di-ib" href="https://www.facebook.com/OfficialMyAnimeList" rel="noreferrer"></a>
+        <a target="_blank" class="icon-sns icon-tw di-ib" title="Follow @myanimelist on Twitter" href="https://twitter.com/myanimelist" rel="noreferrer"></a></div>
+            <div class="footer-recommended ac">
+        <a target="_blank" class="icon-recommended icon-tokyo-otaku-mode" href="http://otakumode.com/fb/5aO" rel="noopener">Tokyo Otaku Mode</a>
+        <a target="_blank" class="icon-recommended icon-honeys-anime" href="https://honeysanime.com" rel="noopener">Honey's Anime</a>
+        <a target="_blank" class="icon-recommended icon-manga-store" href="https://myanimelist.net/store?_location=mal_f_m">Manga Store</a>
+      </div>
+    </div>
+
+    <div class="footer-fb">
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+      <div class="footer-fb-item">
+                <iframe class="fb-page" src="" width="450" height="154" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+      </div>
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+    </div>
+        
+    <div id="copyright">
+      MyAnimeList.net is a property of MyAnimeList Co.,Ltd. &copy;2021 All Rights Reserved.
+    </div>
+  </div>
+</footer>
+<div class="welcome-back popup-background">
+  <div class="popup">
+    <img class="logo" src="/img/pc/ownlist/logo_mal.png" alt="MyAnimeList">
+    <h3 class="popup-title">Welcome!</h3>
+    <p class="description">Join MyAnimeList to catalog your anime and manga, compare with your friends, create your own profile, and plenty more. It's free and easy to join.</p>
+    <div class="anime-slide1">
+      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/9/9453.jpg');"></div>
+      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/10/47347.jpg');"></div>
+      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/11/39717.jpg');"></div>
+      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
+
+      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/9/9453.jpg');"></div>
+      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/10/47347.jpg');"></div>
+      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/11/39717.jpg');"></div>
+      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
+    </div>
+    <div class="anime-slide2">
+      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/12/76049.jpg');"></div>
+      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/5/64449.jpg');"></div>
+      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/5/73199.jpg');"></div>
+      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/5/65187.jpg');"></div>
+
+      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/12/76049.jpg');"></div>
+      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/5/64449.jpg');"></div>
+      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/5/73199.jpg');"></div>
+      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/5/65187.jpg');"></div>
+    </div>
+    <h3 class="sign-up-with">Free Sign Up with</h3>
+    <div class="sns-sign-up">
+      <a class="sns-button google" href="/sns/login/google?from=%2Fanime%2F18179%2FYowamushi_Pedal&utm_medium=ldialog_google" onclick="ga('send', 'event', 'ldialog', 'click', 'google');">Google</a>
+      <a class="sns-button facebook" href="/sns/login/facebook?from=%2Fanime%2F18179%2FYowamushi_Pedal&utm_medium=ldialog_facebook" onclick="ga('send', 'event', 'ldialog', 'click', 'facebook');">Facebook</a>
+      <a class="sns-button twitter" href="/sns/login/twitter?from=%2Fanime%2F18179%2FYowamushi_Pedal&utm_medium=ldialog_twitter" onclick="ga('send', 'event', 'ldialog', 'click', 'twitter');">Twitter</a>
+    </div>
+    <div class="sign-up">
+      <a class="account register" href="/register.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'mail');">Create an account</a>
+      <br>      <a class="account" href="/login.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'login');">Already have an account?</a>
+    </div>
+    <div class="close-button" onclick="ga('send', 'event', 'ldialog', 'click', 'close');"></div>
+  </div>
+  <script>
+    $(function () {
+      ga('send', 'event', 'popup_login_form', 'show', location.href, {nonInteraction: true});
+      var onresize = function () {
+        var $welcome_back = $('.welcome-back');
+        var $popup = $('.welcome-back .popup');
+        var top = ($welcome_back.outerHeight() - $popup.outerHeight()) / 2;
+        $popup.css('top', top < 0 ? 0 : top);
+      };
+      var onclose = function () {
+        $('.welcome-back').addClass('fade-out')
+          .one('animationend', function () { $(this).remove(); });
+        $(window).off('resize', onresize);
+      };
+
+      var timer_id = null;
+      var show = function () {
+        timer_id = null;
+        // 優先順位の高いポップアップが出ていたら表示しない
+        if (($('.app_gdpr--2k2uB').length > 0 && $('.banner_hidden--MXmJ_').length === 0) || $('._cm-os-slider').length > 0 || $('#tbl-next-up').length > 0 || $('#gdpr-modal-bottom').length > 0) {
+          return
+        }
+        $('.welcome-back').addClass('fade-in');
+        onresize();
+        var timer = setTimeout(onclose,30000);
+        $('.popup').on('mousemove',function(){
+            clearTimeout(timer);
+            timer=setTimeout(onclose, 30000);
+        });
+      };
+
+      $(window)
+        .one('load', function () {
+          onresize();
+          timer_id = setTimeout(show,3000);
+          $('body').on('keydown mousedown mousemove',function(){
+            if(timer_id) {
+              clearTimeout(timer_id);
+              timer_id = setTimeout(show, 3000);
+            }
+          });
+          $(window).scroll(function(){
+            if(timer_id) {
+              clearTimeout(timer_id);
+              timer_id = setTimeout(show, 3000);
+            }
+          });
+        })
+        .on('resize', onresize);
+      $(document).one('click', '.close-button', function () {
+        onclose();
+      });
+      $('.register').click(function () {
+        ga('send', 'event', 'popup_login_form', 'click', location.href, {nonInteraction: true});
+      });
+    });
+  </script>
+</div>
+
+<script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+
+<script async>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga')
+
+  ga('create', 'UA-369102-1', 'auto')
+  ga('set', 'anonymizeIp', true)
+  ga('require', 'linkid') // Enhanced Link Attribution
+    ga('set', 'dimension1', 'guest')
+    ga('send', 'pageview')
+</script>   <script>
+window.onscroll = function(e){
+    const scrollThreshold = 50;
+    if (window.pageYOffset >= scrollThreshold) {
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            let t_height = ad.offsetHeight;
+            let offsetY = ad.getBoundingClientRect().top;
+            let screenHeight = window.outerHeight;
+            let t_position = offsetY - screenHeight;
+            if(-screenHeight<=(t_position　+　t_height) && t_position<0) {
+                ad.className = 'ad-tag';
+                (deployads = window.deployads || []).push({});
+            }
+        });
+    }
+}
+var timer = 0;
+window.onresize = function(e){
+    if (timer > 0) {
+        clearTimeout(timer);
+    }
+
+    timer = setTimeout(function () {
+        console.log('window resized');
+        [].forEach.call(document.querySelectorAll('.ad-tag'), function(ad) {
+            ad.className = 'no-ad';
+            (deployads = window.deployads || []).push({});
+        });
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            ad.className = 'ad-tag';
+            (deployads = window.deployads || []).push({});
+        });
+    }, 200);
+}
+</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WL4QW3G');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+var path = location.pathname;
+var param = location.search;
+
+dataLayer = dataLayer || [];
+
+// login.php
+
+function ga_notlogin(){
+  ga('send', 'event', 'not_login', '2.未ログインの場合', '/login.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=1');
+}
+
+function ga_sns(){
+  ga('send', 'event', 'sns_login', '2-1-1.ソーシャルログインの場合', '/login.php?login-mode=social&c-ms-mode=1');
+}
+
+function ga_login(){
+  ga('send', 'event', 'id_login', '2-1-2.IDログインの場合', '/login.php?login-mode=id&c-ms-mode=1');
+}
+
+// register.php
+
+function ga_registration(){
+  ga('send', 'event', 'registration', '2-2.会員登録ボタン', '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=2');
+}
+
+if ( path.match("register.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2F&c-ms-mode=2',
+        'member_title': '2-2-1.会員情報入力完了',
+        'event': 'loadready-register'
+    });
+}
+
+if ( path.match("login.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': path.concat(param, "&c-ms-mode=2"),
+        'member_title': '2-2-1.メールからの会員認証ページ',
+        'event': 'loadready-login'
+    });
+}
+
+// membership
+
+function ga_mal_banner(){
+  ga('send', 'event', 'support_mal', '2-3.MALバナー', '/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner&c-ms-mode=3');
+}
+
+if ( path.match("login.php") && param.match("from=%2F") ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=3',
+        'member_title': '2-2.会員登録ボタン',
+        'event': 'loadready-login'
+    });
+}
+
+function ga_credit(){
+  ga('send', 'event', 'support_mal', '3-1-1.クレカ登録', '/member-register?c-ms_payment=1&c-ms_mode=3');
+}
+
+function ga_paypal(){
+  ga('send', 'event', 'support_mal', '3-1-2.Paypal登録', '/member-register?c-ms_payment=2&c-ms_mode=3');
+}
+
+if ( path.match("account/membership/complete") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/member-register-complete?c-ms_payment=2&c-ms_mode=3',
+        'member_title': '3-1-2.MAL会員登録成功',
+        'event': 'loadready-member-register-complete'
+    });
+}
+
+</script>
+<script type="text/javascript">
+    window.MAL.magia = "06410c4e6b2518e9add8f6df0ccb2da2876bb8c980aacb43a8dcaa8153c0f92c";
+  window.MAL.madoka = "hZrDKm9k6FVRnqd3i%=K";
+
+  window.MAL.SLVK = "g4OvMLVOmEI3J8u7dt8f8+mAuualsqCo";
+  window.MAL.CDN_URL = "https://cdn.myanimelist.net";
+
+  window.MAL.CURRENT_TUTORIAL_STEP_ID = null;
+  window.MAL.USER_NAME = ""
+  window.MAL.FACEBOOK.APP_ID = "360769957454434"
+  window.MAL.FACEBOOK.API_VERSION = "v2.12"
+</script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+                    <script type="text/javascript">
+          window._taboola = window._taboola || [];
+          _taboola.push({flush: true});
+        </script>
+    </body>
+</html>

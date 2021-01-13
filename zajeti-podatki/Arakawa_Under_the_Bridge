@@ -1,0 +1,1917 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    
+<link rel="preconnect" href="//fonts.gstatic.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//fonts.googleapis.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tags-cdn.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagservices.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagmanager.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//apis.google.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel-sync.sitescout.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel.tapad.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//c.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tpc.googlesyndication.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//googleads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="//securepubads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="https://cdn.myanimelist.net" crossorigin="anonymous" />
+
+
+<title>
+Arakawa Under the Bridge - MyAnimeList.net
+</title>
+<meta name="description" content="Looking for information on the anime Arakawa Under the Bridge? Find out more with MyAnimeList, the world&#039;s most active online anime and manga community and database. Kou Ichinomiya is the son of a wealthy businessman who holds a firm belief in his elite status. As such, he is determined to avoid becoming indebted to anyone; but one day, after a run-in with some mischievous kids on Arakawa Bridge, he ends up falling into the river running underneath. Luckily for him, a passerby is there to save h..." />
+
+  
+<meta name="keywords" content="anime, myanimelist, anime news, manga" />
+  
+
+
+    <meta property="og:locale" content="en_US"><meta property="fb:app_id" content="360769957454434"><meta property="og:site_name" content="MyAnimeList.net"><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@myanimelist"><meta property="og:title" content="Arakawa Under the Bridge"><meta property="og:type" content="video.tv_show"><meta property="og:image" content="https://cdn.myanimelist.net/images/anime/2/59197.jpg"><meta name="twitter:image:src" content="https://cdn.myanimelist.net/r/360x360/images/anime/2/59197.jpg?s=c7d7743fdc06207704e712fa9c6c28d1"><meta property="og:url" content="https://myanimelist.net/anime/7647/Arakawa_Under_the_Bridge"><meta property="og:description" content="Kou Ichinomiya is the son of a wealthy businessman who holds a firm belief in his elite status. As such, he is determined to avoid becoming indebted to anyone; but one day, after a run-in with some mischievous kids on Arakawa Bridge, he ends up falling into the river running underneath. Luckily for him, a passerby is there to save him—but now, he owes his life to this stranger! Angered by this, Kou insists on paying her back, but this may just be the worst deal the arrogant businessman has ever made. The stranger—a stoic, tracksuit-wearing homeless girl known only as Nino—lives in a cardboard box under the bridge and wants only one thing: to fall in love. Asking Kou to be her boyfriend, he has no choice but to accept, forcing him to move out of his comfortable home and start a new life under the bridge! [Written by MAL Rewrite] ">
+
+
+<meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
+
+<meta name='csrf_token' content='1020a5c89113f63be73d936b32778685d90cf5c2'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
+<meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" />
+
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" href="https://myanimelist.net/plugins/myanimelist.xml" title="MyAnimeList" />
+
+<link rel="shortcut icon" href="https://cdn.myanimelist.net/images/favicon.ico" />
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+      <script src="//tags-cdn.deployads.com/a/myanimelist.net.js" async="async"></script>
+            <script async="async" type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script>
+$(document).ready(function(){
+  window.Criteo = window.Criteo || {};
+  window.Criteo.events = window.Criteo.events || [];
+  $('.ad-criteo').each(function(){
+    var slotid = $(this).attr('data-ad-slot');
+    var zoneid = $(this).attr('data-ad-zone');
+    var CriteoAdUnits = {"placements":[{"slotid":slotid, "zoneid":zoneid}]};
+    var processCdbBid = function(){
+      var bids = Criteo.GetBidsForAdUnit(slotid);
+      if(bids.length > 0){
+        Criteo.RenderAd({bidId:bids[0].id, containerId:bids[0].impressionId});
+      }
+    };
+    Criteo.events.push(function(){Criteo.RequestBids(CriteoAdUnits, processCdbBid, 2000);});
+  });
+});
+</script>
+
+
+
+            <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/myanimelist/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>    
+</head>
+
+<body onload=" " class="page-common"data-ms="true" data-country-code="SI" >
+<div id="myanimelist">
+
+    
+  
+    <script type='text/javascript'>
+    window.MAL.SkinAd.prepareForSkin('');
+  </script>
+
+    <div id="ad-skin-bg-left" class="ad-skin-side-outer ad-skin-side-bg bg-left">
+    <div id="ad-skin-left" class="ad-skin-side left" style="display: none;">
+      <div id="ad-skin-left-absolute-block">
+        <div id="ad-skin-left-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
+    <script>(deployads = window.deployads || []).pageSegment = 'anime_title_7647';</script>
+
+
+<script>
+    var trackOutboundLink = function(url) {
+        ga('send', 'event', 'outbound', 'click', url, {
+            'transport': 'beacon',
+            'hitCallback': function(){return true;}
+        });
+    }
+</script><div class="banner-header-anime-straming" style="right:480px;">
+  <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+</div>
+
+
+<div id="header-menu" ><div class="header-menu-login"><a class="btn-mal-service"
+             href="https://myanimelist.net/membership?_location=mal_h_u" onClick="ga_mal_banner()">Hide Ads</a><a class="btn-login" href="https://myanimelist.net/login.php?from=%2Fanime%2F7647%2FArakawa_Under_the_Bridge" id="malLogin" onClick="ga_notlogin()">Login</a><a class="btn-signup" href="https://myanimelist.net/register.php?from=%2Fanime%2F7647%2FArakawa_Under_the_Bridge" onClick="ga_registration()">Sign Up</a></div></div></div>  <div id="menu" class="">
+    <div id="menu_right"><script type="text/x-template" id="incremental-result-item-anime"><div class="list anime" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info anime"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Aired: ${ item.payload.aired }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info anime"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-manga"><div class="list manga" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info manga"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Published: ${ item.payload.published }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info manga"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-character"><div class="list character" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div><div class="extra-info"><ul class="related-works"><li v-for="work in item.payload.related_works" class="fs-i">- ${ work }</li></ul>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-person"><div class="list person" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.alternative_name">${ item.payload.alternative_name }<br></span>Birthday: ${ item.payload.birthday }<br>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-store"><div class="list store" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info store"></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info store"></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-club"><div class="list club" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div><div class="extra-info">Members: ${ item.payload.members }<br>Category: ${ item.payload.category }<br>Created by: ${ item.payload.created_by }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-user"><div class="list user" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.authority">${ item.payload.authority }<br></span>Joined: ${ item.payload.joined }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-news"><div class="list news" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-featured"><div class="list featured" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-forum"><div class="list forum" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="extra-info">${ item.payload.date }<br><span>in ${ item.payload.category }</span></div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-separator"><div class="list separator"><div class="separator"><span v-show="item.name == 'anime'">Anime</span><span v-show="item.name == 'manga'">Manga</span><span v-show="item.name == 'character'">Characters</span><span v-show="item.name == 'person'">People</span></div></div></script><div id="top-search-bar"><form id="searchBar" method="get" class="searchBar" @submit.prevent="jump()"><div class="form-select-outer fl-l"><select name="type" id="topSearchValue" class="inputtext" v-model="type"><option value="all">All</option><option value="anime">Anime</option><option value="manga">Manga</option><option value="character">Characters</option><option value="person">People</option><option value="store">Manga Store</option><option value="news">News</option><option value="featured">Featured Articles</option><option value="forum">Forum</option><option value="club">Clubs</option><option value="user">Users</option></select></div><input v-model="keyword" id="topSearchText" type="text"
+            name="keyword" class="inputtext fl-l" placeholder="Search Anime, Manga, and more..."
+            size="30" autocomplete="off"
+            @keydown.up.prevent="moveSelection(-1)" @keydown.down.prevent="moveSelection(1)"
+            @focus="isFocused = true" @blur="isFocused = false"><input id="topSearchButon" class="fl-l" :class="{'notActive': (keyword.length < 3)}" type="submit" value="&#xf002"></form><div id="topSearchResultList" class="incrementalSearchResultList" :style="{display: (showResult ? 'block' : 'none')}" @mousedown.prevent=""><div v-for="(item, i) in items" @mouseover="selection=i"><component :is="resolveComponent(item)" :item="item" :focus="selection == i" :url="generateItemPageUrl(item)"></component></div><div class="list list-bottom" :class="{'focus': selection == -1}" @mouseover="selection = -1"
+               :style="{display: (showViewAllLink ? 'block' : 'none')}"><a :href="resultPageUrl">
+              View all results for <span class="fw-b">${ keyword }</span><i v-show="isRequesting" class="fa fa-spinner fa-spin ml4"></i></a></div></div></div></div><div id="menu_left">
+      <ul id="nav">
+        <li class="small"><a href="#" class="non-link">Anime</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/anime.php?_location=mal_h_m">Anime Search</a></li>
+            <li><a href="https://myanimelist.net/topanime.php?_location=mal_h_m">Top Anime</a></li>
+            <li><a href="https://myanimelist.net/anime/season?_location=mal_h_m">Seasonal Anime</a></li>
+                        <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m_a">Videos</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=anime&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=anime&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1885985&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Manga</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/manga.php?_location=mal_h_m">Manga Search</a></li>
+            <li><a href="https://myanimelist.net/topmanga.php?_location=mal_h_m">Top Manga</a></li>
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=manga&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=manga&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1886113&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li><a href="#" class="non-link">Community</a>
+          <ul>
+            <li><a href="https://myanimelist.net/forum/?_location=mal_h_m">Forums</a></li>
+            <li><a href="https://myanimelist.net/clubs.php?_location=mal_h_m">Clubs</a></li>
+            <li><a href="https://myanimelist.net/blog.php?_location=mal_h_m">Blogs</a></li>
+            <li><a href="https://myanimelist.net/users.php?_location=mal_h_m">Users</a></li>
+            <li><a href="https://discord.gg/E2xC8ZF">Discord Chat</a></li>
+          </ul>
+        </li>
+        <li class="small2"><a href="#" class="non-link">Industry</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/news?_location=mal_h_m">News</a></li>
+            <li><a href="https://myanimelist.net/featured?_location=mal_h_m">Featured Articles</a></li>
+            <li><a href="https://myanimelist.net/people.php?_location=mal_h_m">People</a></li>
+            <li><a href="https://myanimelist.net/character.php?_location=mal_h_m">Characters</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Watch</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m">Episode Videos</a></li>
+            <li><a href="https://myanimelist.net/watch/promotion?_location=mal_h_m">Promotional Videos</a></li></ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Read</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+          </ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Help</a>
+          <ul class="wide">
+            <li><a href="https://myanimelist.net/about.php?_location=mal_h_m">About</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=support&amp;_location=mal_h_m">Support</a></li>
+            <li><a href="https://myanimelist.net/advertising?_location=mal_h_m">Advertising</a></li>
+            <li><a href="https://myanimelist.net/forum/?topicid=515949&amp;_location=mal_h_m">FAQ</a></li>
+            <li><a href="https://myanimelist.net/modules.php?go=report&amp;_location=mal_h_m">Report</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=team&amp;_location=mal_h_m">Staff</a></li><li><a href="https://myanimelist.net/membership?_location=mal_h_m">MAL Supporter</a></li>
+          </ul>
+        </li>
+        
+            
+      </ul>
+    </div>  </div><div id="contentWrapper" itemscope itemtype="http://schema.org/TVSeries"><div><div class="h1 edit-info">
+      <div class="h1-title"><div itemprop="name"><h1 class="title-name h1_bold_none"><strong>Arakawa Under the Bridge</strong></h1></div></div><div class="header-right">
+          <a href="https://myanimelist.net/login.php?from=%2Fanime%2F7647%2FArakawa_Under_the_Bridge&amp;error=login_required" class="js-anime-edit-info-button"><i class="fa fa-pencil mr4"></i>Edit</a>
+<div id="editdiv" class="fw-n fs11">
+  <form method="GET" action="https://myanimelist.net/dbchanges.php" class="di-i">
+    <input type="hidden" name="aid" value="7647">
+    <div class="pb8">What would you like to edit?</div>
+                      <select name="t" id="t" class="inputtext"><option value="synopsis">Synopsis</option><option value="background">Background</option><option value="alternative_titles">Alternative Titles</option><option value="pic">Picture</option><option value="airingdates">Airing Dates</option><option value="producers">Producers</option><option value="relations">Relations</option><option value="rating">Rating</option><option value="duration">Duration</option><option value="source">Source</option><option value="broadcast">Broadcast</option></select>
+     &nbsp;<input type="submit" value="Go" class="inputButton flat btn-middle">
+  </form>
+</div>
+</div></div></div><div id="content" >
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+	 <td class="borderClass" width="225" style="border-width: 0 1px 0 0;" valign="top"><div style="width: 225px">
+
+<div style="text-align: center;">
+          <a href="https://myanimelist.net/anime/7647/Arakawa_Under_the_Bridge/pics">
+      <img class="lazyload" data-src="https://cdn.myanimelist.net/images/anime/2/59197.jpg" alt="Arakawa Under the Bridge" class="ac" itemprop="image">
+    </a>
+  </div>
+
+<!-- My List -->
+<div class="profileRows pb0">
+  <a href="https://myanimelist.net/login.php?from=%2Fanime%2F7647%2FArakawa_Under_the_Bridge&amp;error=login_required">Add to My List</a>
+</div>
+
+<div id="addtolist" class="addtolist-block js-anime-addtolist-block" style="display: none;">
+  <input type="hidden" id="myinfo_anime_id" value="7647">
+  <input type="hidden" id="myinfo_curstatus" value="">
+
+  <span class="notice_open_public pb4">* Your list is public by default.</span>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td class="spaceit">Status:</td>
+      <td class="spaceit">
+        <select name="myinfo_status" id="myinfo_status" class="inputtext js-anime-status-dropdown"><option selected="selected" value="1">Watching</option><option value="2">Completed</option><option value="3">On-Hold</option><option value="4">Dropped</option><option value="6">Plan to Watch</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td class="spaceit">Eps Seen:</td>
+      <td class="spaceit">
+        <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext" value="0"> / <span id="curEps">13</span></td>
+    </tr>
+    <tr>
+      <td class="spaceit">Your Score:</td>
+      <td class="spaceit">
+        <select name="myinfo_score" id="myinfo_score" class="inputtext"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>
+                <input type="button" name="myinfo_submit" value="Add" class="inputButton btn-middle flat js-anime-add-button">
+        <span id="addtolistresult"><a href="https://myanimelist.net/ownlist/anime/add?selected_series_id=7647">Add Detailed Info</a></span>
+              </td>
+    </tr>
+  </table>
+  <div id="myinfoDisplay" style="padding-left: 89px; margin-top: 3px;"></div>
+</div>
+<!-- end My List -->
+
+<div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F7647%2FArakawa_Under_the_Bridge&amp;error=login_required" style="font-weight:normal;">Add to Favorites</a></div>
+
+<div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F7647%2FArakawa_Under_the_Bridge"></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F7647%2FArakawa_Under_the_Bridge&amp;text=Arakawa%20Under%20the%20Bridge&amp;hashtags=anime"></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F7647%2FArakawa_Under_the_Bridge&amp;title=Arakawa%20Under%20the%20Bridge"></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F7647%2FArakawa_Under_the_Bridge&amp;name=Arakawa%20Under%20the%20Bridge"></a></div>  <br />
+
+  <h2>Alternative Titles</h2><div class="spaceit_pad">
+    <span class="dark_text">English:</span> Arakawa Under the Bridge
+  </div><div class="spaceit_pad">
+    <span class="dark_text">Japanese:</span> 荒川アンダー ザ ブリッジ
+  </div><br />
+
+<h2>Information</h2>
+
+<div>
+  <span class="dark_text">Type:</span>
+  <a href="https://myanimelist.net/topanime.php?type=tv">TV</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Episodes:</span>
+  13
+  </div>
+
+<div>
+  <span class="dark_text">Status:</span>
+  Finished Airing
+  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Aired:</span>
+  Apr 5, 2010 to Jun 28, 2010
+  </div>
+
+  <div>
+    <span class="dark_text">Premiered:</span>
+          <a href="https://myanimelist.net/anime/season/2010/spring">Spring 2010</a>
+          </div>
+
+  <div class="spaceit">
+    <span class="dark_text">Broadcast:</span>
+    Mondays at 01:35 (JST)
+      </div>
+
+  <div>
+    <span class="dark_text">Producers:</span>
+          <a href="/anime/producer/58/Square_Enix" title="Square Enix">Square Enix</a>,       <a href="/anime/producer/92/Starchild_Records" title="Starchild Records">Starchild Records</a>,       <a href="/anime/producer/211/Rakuonsha" title="Rakuonsha">Rakuonsha</a>  </div>
+  <div class="spaceit">
+    <span class="dark_text">Licensors:</span>
+          <a href="/anime/producer/372/NIS_America_Inc" title="NIS America, Inc.">NIS America, Inc.</a>  </div>
+  <div>
+    <span class="dark_text">Studios:</span>
+          <a href="/anime/producer/44/Shaft" title="Shaft">Shaft</a>  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Source:</span>
+  Manga
+  </div>
+
+<div>
+  <span class="dark_text">Genres:</span>
+      <span itemprop="genre" style="display: none">Comedy</span><a href="/anime/genre/4/Comedy" title="Comedy">Comedy</a>,     <span itemprop="genre" style="display: none">Romance</span><a href="/anime/genre/22/Romance" title="Romance">Romance</a>,     <span itemprop="genre" style="display: none">Seinen</span><a href="/anime/genre/42/Seinen" title="Seinen">Seinen</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Duration:</span>
+  24 min. per ep.
+  </div>
+
+<div>
+  <span class="dark_text">Rating:</span>
+  PG-13 - Teens 13 or older
+  </div>
+
+<br />
+
+<h2>Statistics</h2>
+<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" class="po-r js-statistics-info di-ib" data-id="info1">
+  <span class="dark_text">Score:</span>
+  <span itemprop="ratingValue" class="score-label score-7">7.60</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">121650</span>121,650 users)
+      <meta itemprop="bestRating" content="10">
+    <meta itemprop="worstRating" content="1">
+      <div class="statistics-info info1">
+    <small><sup>1</sup>
+          indicates a <a href="javascript:void(0);" onclick="window.open('/info.php?go=topanime','topanime','menubar=no,scrollbars=no,status=no,width=500,height=380');">weighted score</a>.
+    </small>
+  </div>
+</div>
+<div class="spaceit po-r js-statistics-info di-ib" data-id="info2">
+  <span class="dark_text">Ranked:</span>
+  #1291<sup>2</sup>
+    <div class="statistics-info info2">
+    <small><sup>2</sup>
+    based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
+    </small>
+  </div>
+</div>
+<div>
+  <span class="dark_text">Popularity:</span>
+  #472
+</div>
+<div class="spaceit">
+  <span class="dark_text">Members:</span>
+    284,518
+</div>
+<div>
+  <span class="dark_text">Favorites:</span>
+  2,101
+</div>
+
+  <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
+          </div>
+
+</div></td><td valign="top" style="padding-left: 5px;"><div class="js-scrollfix-bottom-rel"><div style="width:728px; margin:0 auto"></div><a name="lower"></a>
+<div id="horiznav_nav" style="margin: 5px 0 10px 0;">
+  <ul style="margin-right: 0; padding-right: 0;">
+        <li><a href="https://myanimelist.net/anime/7647/Arakawa_Under_the_Bridge" class="horiznav_active">Details</a>
+    </li>
+        <li><a href="/anime/7647/Arakawa_Under_the_Bridge/video">Videos</a>
+    </li>
+        <li>      <a href="https://myanimelist.net/anime/7647/Arakawa_Under_the_Bridge/episode">Episodes</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/7647/Arakawa_Under_the_Bridge/reviews">Reviews</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/7647/Arakawa_Under_the_Bridge/userrecs">Recommendations</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/7647/Arakawa_Under_the_Bridge/stats">Stats</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/7647/Arakawa_Under_the_Bridge/characters">Characters &amp; Staff</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/7647/Arakawa_Under_the_Bridge/news">News</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/7647/Arakawa_Under_the_Bridge/forum">Forum</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/7647/Arakawa_Under_the_Bridge/featured">Featured</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/7647/Arakawa_Under_the_Bridge/clubs">Clubs</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/7647/Arakawa_Under_the_Bridge/pics">Pictures</a>
+    </li>
+    </ul>
+</div>
+
+
+
+                    <div class="breadcrumb " itemscope itemtype="http://schema.org/BreadcrumbList"><div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/" itemprop="item"><span itemprop="name">
+              Top
+                          </span></a><meta itemprop="position" content="1"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime.php" itemprop="item"><span itemprop="name">
+              Anime
+                          </span></a><meta itemprop="position" content="2"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime/7647/Arakawa_Under_the_Bridge" itemprop="item"><span itemprop="name">
+              Arakawa Under the Bridge
+                          </span></a><meta itemprop="position" content="3"></div></div>
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="121,650 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-7">7.60</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#1291</strong></span><span class="numbers popularity">Popularity <strong>#472</strong></span><span class="numbers members">Members <strong>284,518</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2010/spring">Spring 2010</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/44/Shaft" title="Shaft">Shaft</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="7647"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F7647%2FArakawa_Under_the_Bridge&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+        Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="13">13</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Arakawa%20Under%20the%20Bridge&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime js-shop-selecter icon-shop-default" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:7647,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><div class="anime-detail-header-affiliate-dialog js-shop-selecter-dialog" style="display:none"><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Arakawa%20Under%20the%20Bridge&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:7647,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><a href="http://www.cdjapan.co.jp/aff/click.cgi/PytJTGW7Lok/6039/A764127/searches?q=Arakawa+Under+the+Bridge" class="btn-affiliate cdjapan js-shop-anime js-shop-cd-japan" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;cdjapan&quot;,&quot;id&quot;:7647,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/logo-cdjapan.png" width="118" height="25" alt="buy from CD Japan"></a><a href="http://www.shareasale.com/r.cfm?u=1384175&b=866986&m=65886&afftrack=&urllink=www.rightstufanime.com%2Fsearch%3Fkeywords%3DArakawa%20Under%20Bridge" class="btn-affiliate right_stuf js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;right_stuf&quot;,&quot;id&quot;:7647,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_right_stuf.png" width="118" height="25" alt="buy from Rightstuf"></a></div></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/sqeoy8k6sco?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/sqeoy8k6sco/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">PV English sub version</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/7647/Arakawa_Under_the_Bridge/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
+</div><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=7647&t=synopsis" style="font-weight: normal;">Edit</a></div><h2>Synopsis</h2></div><p itemprop="description">Kou Ichinomiya is the son of a wealthy businessman who holds a firm belief in his elite status. As such, he is determined to avoid becoming indebted to anyone; but one day, after a run-in with some mischievous kids on Arakawa Bridge, he ends up falling into the river running underneath. Luckily for him, a passerby is there to save him&mdash;but now, he owes his life to this stranger!<br />
+ <br />
+Angered by this, Kou insists on paying her back, but this may just be the worst deal the arrogant businessman has ever made. The stranger&mdash;a stoic, tracksuit-wearing homeless girl known only as Nino&mdash;lives in a cardboard box under the bridge and wants only one thing: to fall in love. Asking Kou to be her boyfriend, he has no choice but to accept, forcing him to move out of his comfortable home and start a new life under the bridge!<br />
+<br />
+[Written by MAL Rewrite]<br />
+</p><div style="margin-top: 15px;"><div class="floatRightHeader"><a href="/dbchanges.php?aid=7647&t=background" style="font-weight: normal;">Edit</a></div><h2>Background</h2></div>Episode 4 of <i>Arakawa Under the Bridge</i> was longer than the airing block it was scheduled for, so the epilogue and opening were cut out and streamed online instead.<div class="border_top" style="padding:16px 0px 0px 0px;margin:14px 0px 0px 0px;"><div style="padding: 20px 0 20px 40px; float: left; position: relative; z-index: 1;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540582" data-ad-slot="criteo_slot_1540582" id="criteo_slot_1540582"></div>
+
+      </div>
+    </div><div style="padding: 20px 40px 20px 0; float: right; position: relative;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540583" data-ad-slot="criteo_slot_1540583" id="criteo_slot_1540583"></div>
+
+      </div>
+    </div></div></td></tr><tr><td class="pb24"><br><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=7647&t=relations" style="font-weight: normal;">Edit</a></div><h2>Related Anime</h2></div><table class="anime_detail_related_anime" style="border-spacing:0px;"><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Adaptation:</td><td width="100%" class="borderClass"><a href="/manga/14154/Arakawa_Under_the_Bridge">Arakawa Under the Bridge</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Sequel:</td><td width="100%" class="borderClass"><a href="/anime/9074/Arakawa_Under_the_Bridge_x_Bridge">Arakawa Under the Bridge x Bridge</a></td></table><br><div><div class="floatRightHeader"><a href="/anime/7647/Arakawa_Under_the_Bridge/characters" style="font-weight: normal;">More characters</a></div><h2>Characters & Voice Actors</h2></div><div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/28623/Nino" class="fw-n">
+            <img alt="Nino" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/4/87153.jpg?s=24f0268daad756f07103f4c4d7aeda83" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/4/87153.jpg?s=24f0268daad756f07103f4c4d7aeda83 1x, https://cdn.myanimelist.net/r/84x124/images/characters/4/87153.jpg?s=78dc42dc4546eed8aff28765d77653b2 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/28623/Nino">Nino</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/90/Maaya_Sakamoto">Sakamoto, Maaya</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/90/Maaya_Sakamoto">
+                      <img alt="Sakamoto, Maaya" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/57912.jpg?s=d071040a2c0d703b8447811f8ab37b7e" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/57912.jpg?s=d071040a2c0d703b8447811f8ab37b7e 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/57912.jpg?s=e160860110c05db99fbac08980605681 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/28622/Kou_Ichinomiya" class="fw-n">
+            <img alt="Ichinomiya, Kou" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/5/151031.jpg?s=400e7f8310c169b9e47cca68964d0162" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/5/151031.jpg?s=400e7f8310c169b9e47cca68964d0162 1x, https://cdn.myanimelist.net/r/84x124/images/characters/5/151031.jpg?s=153dd201cf0beebfaf64715616095131 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/28622/Kou_Ichinomiya">Ichinomiya, Kou</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/118/Hiroshi_Kamiya">Kamiya, Hiroshi</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/118/Hiroshi_Kamiya">
+                      <img alt="Kamiya, Hiroshi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/58597.jpg?s=978bccc029734beb83af898ad976a3f1" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/58597.jpg?s=978bccc029734beb83af898ad976a3f1 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/58597.jpg?s=aab54deba109cc37a9f048cd1f5c13ad 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/30444/Hoshi" class="fw-n">
+            <img alt="Hoshi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/10/85129.jpg?s=b946cdd4aad09223a991134c7f5166d7" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/10/85129.jpg?s=b946cdd4aad09223a991134c7f5166d7 1x, https://cdn.myanimelist.net/r/84x124/images/characters/10/85129.jpg?s=1dc57c2ec239c95eecee16be6cb85c93 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/30444/Hoshi">Hoshi</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/2/Tomokazu_Sugita">Sugita, Tomokazu</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/2/Tomokazu_Sugita">
+                      <img alt="Sugita, Tomokazu" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/60638.jpg?s=fc67e5d86f56b139e93b50e9d73e6bae" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/60638.jpg?s=fc67e5d86f56b139e93b50e9d73e6bae 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/60638.jpg?s=c825f1aee965b142c3163b026a299853 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/30628/Maria" class="fw-n">
+            <img alt="Maria" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/6/86270.jpg?s=5e82df15f742c5f8eabaf802a5cbc47d" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/6/86270.jpg?s=5e82df15f742c5f8eabaf802a5cbc47d 1x, https://cdn.myanimelist.net/r/84x124/images/characters/6/86270.jpg?s=29d6f421a56e93e4f29b1e9308175452 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/30628/Maria">Maria</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/99/Miyuki_Sawashiro">Sawashiro, Miyuki</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/99/Miyuki_Sawashiro">
+                      <img alt="Sawashiro, Miyuki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/54600.jpg?s=0a5cb995dd9e0413e62d82f887329c43" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/54600.jpg?s=0a5cb995dd9e0413e62d82f887329c43 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/54600.jpg?s=a371b7e7c1cab3eaf0454fecdf92e876 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/30649/Sister" class="fw-n">
+            <img alt="Sister" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/14/85496.jpg?s=2234620779e734d66c24dc916fc24985" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/14/85496.jpg?s=2234620779e734d66c24dc916fc24985 1x, https://cdn.myanimelist.net/r/84x124/images/characters/14/85496.jpg?s=6558ee605f6b2381b04ab7575a03c8cc 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/30649/Sister">Sister</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/160/Takehito_Koyasu">Koyasu, Takehito</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/160/Takehito_Koyasu">
+                      <img alt="Koyasu, Takehito" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/10264.jpg?s=31943d0559d0c55da4e14a0c3bd25c5d" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/10264.jpg?s=31943d0559d0c55da4e14a0c3bd25c5d 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/10264.jpg?s=9f267cb91d8860b20bfd1359deacbce7 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/30648/Village_Chief" class="fw-n">
+            <img alt="Village Chief" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/13/86555.jpg?s=281647cca4af82636b8265ffda152603" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/13/86555.jpg?s=281647cca4af82636b8265ffda152603 1x, https://cdn.myanimelist.net/r/84x124/images/characters/13/86555.jpg?s=a3aafd4c3994cbd2cf558bf7dd97a89d 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/30648/Village_Chief">Village Chief</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/63/Keiji_Fujiwara">Fujiwara, Keiji</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/63/Keiji_Fujiwara">
+                      <img alt="Fujiwara, Keiji" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/57226.jpg?s=9e305f6687d1e7e02a732c8f7fbe58ba" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/57226.jpg?s=9e305f6687d1e7e02a732c8f7fbe58ba 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/57226.jpg?s=b6fbdfc2378909471f0954381bc0e3d5 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/30798/P-ko" class="fw-n">
+            <img alt="P-ko" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/6/154721.jpg?s=e5b5ef8b4434685a7641125fec2bb531" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/6/154721.jpg?s=e5b5ef8b4434685a7641125fec2bb531 1x, https://cdn.myanimelist.net/r/84x124/images/characters/6/154721.jpg?s=db21f145e8094edb562e1b2d34a16eda 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/30798/P-ko">P-ko</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/1760/Chiaki_Omigawa">Omigawa, Chiaki</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/1760/Chiaki_Omigawa">
+                      <img alt="Omigawa, Chiaki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/41637.jpg?s=a1e8c78ae96e028801ccb49362ffc131" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/41637.jpg?s=a1e8c78ae96e028801ccb49362ffc131 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/41637.jpg?s=cbf5ee869718d03b5ba3f93c0daaabae 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/31544/Billy" class="fw-n">
+            <img alt="Billy" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/14/93675.jpg?s=8c2830334e8ed8a73de248b43a005b6d" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/14/93675.jpg?s=8c2830334e8ed8a73de248b43a005b6d 1x, https://cdn.myanimelist.net/r/84x124/images/characters/14/93675.jpg?s=3f47212fb58d06b82e490db0fbae771c 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/31544/Billy">Billy</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/284/Fumihiko_Tachiki">Tachiki, Fumihiko</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/284/Fumihiko_Tachiki">
+                      <img alt="Tachiki, Fumihiko" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/38867.jpg?s=b04518f40e10641e9845a9d46ab04c48" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/38867.jpg?s=b04518f40e10641e9845a9d46ab04c48 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/38867.jpg?s=8b1a9d034aa8435514026f2ccf6a284a 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/30650/Stella" class="fw-n">
+            <img alt="Stella" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/12/154711.jpg?s=6cf78f41359d7ac40111b0d1ffead0d4" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/12/154711.jpg?s=6cf78f41359d7ac40111b0d1ffead0d4 1x, https://cdn.myanimelist.net/r/84x124/images/characters/12/154711.jpg?s=91e3357cf7b755a6aeb2d59bf9be87c6 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/30650/Stella">Stella</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/61/Chiwa_Saito">Saito, Chiwa</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/61/Chiwa_Saito">
+                      <img alt="Saito, Chiwa" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/44265.jpg?s=016d345e747a849f56987b33f8cdf259" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/44265.jpg?s=016d345e747a849f56987b33f8cdf259 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/44265.jpg?s=3ba3b91f9aca3c528ca9a606324aec58 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/34452/Amazoness" class="fw-n">
+            <img alt="Amazoness" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/16/93682.jpg?s=18cd96c26c002de48befdc03a14227af" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/16/93682.jpg?s=18cd96c26c002de48befdc03a14227af 1x, https://cdn.myanimelist.net/r/84x124/images/characters/16/93682.jpg?s=21b94f3a38e5af61434362d79e641e29 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/34452/Amazoness">Amazoness</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/34/Yuu_Kobayashi">Kobayashi, Yuu</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/34/Yuu_Kobayashi">
+                      <img alt="Kobayashi, Yuu" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/54674.jpg?s=bea36a3540ce1bebe27820be99a19232" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/54674.jpg?s=bea36a3540ce1bebe27820be99a19232 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/54674.jpg?s=604cc1b85fcd92b9b86e120af0dcdfd9 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div></div>
+<div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div><br>
+<a name="staff"></a>
+<div>
+  <div class="floatRightHeader"><a href="https://myanimelist.net/anime/7647/Arakawa_Under_the_Bridge/characters#staff">More staff</a></div>
+  <h2>Staff</h2>
+</div>
+
+<div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/20883/Miku_Ooshima" class="fw-n">
+            <img alt="Ooshima, Miku" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/20883/Miku_Ooshima">Ooshima, Miku</a>
+        <div class="spaceit_pad">
+          <small>Assistant Producer</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/5089/Akiyuki_Shinbou" class="fw-n">
+            <img alt="Shinbou, Akiyuki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54366.jpg?s=22a4fa8c6c31bee26961c989002b879b" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54366.jpg?s=22a4fa8c6c31bee26961c989002b879b 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/54366.jpg?s=3198c79b4ac07e365639533f10867689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/5089/Akiyuki_Shinbou">Shinbou, Akiyuki</a>
+        <div class="spaceit_pad">
+          <small>Director</small>
+        </div>
+      </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/12328/Yukihiro_Miyamoto" class="fw-n">
+            <img alt="Miyamoto, Yukihiro" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/12328/Yukihiro_Miyamoto">Miyamoto, Yukihiro</a>
+        <div class="spaceit_pad">
+          <small>Director, Episode Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/7194/Youta_Tsuruoka" class="fw-n">
+            <img alt="Tsuruoka, Youta" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54363.jpg?s=e9397021c644288d39561c1c734a0352" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54363.jpg?s=e9397021c644288d39561c1c734a0352 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/54363.jpg?s=b5bcd6c20a19dcb06185a26822446d8c 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/7194/Youta_Tsuruoka">Tsuruoka, Youta</a>
+        <div class="spaceit_pad">
+          <small>Sound Director</small>
+        </div>
+      </td>
+    </tr>
+  </table></div></div>
+<br><br><div class="di-t">
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=7647&amp;t=theme" class="floatRightHeader">Edit</a>
+      <h2>Opening Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs opnening"><span class="theme-song">#1: &quot;Venus to Jesus (ヴィーナスとジーザス)&quot; by Etsuko Yakushimaru (eps 2-4, 6-13)</span><br><span class="theme-song">#2: &quot;Title nante Jibun de Kangaenasaina （タイトルなんて自分で考えなさいな)&quot; by Maria (Miyuki Sawashiro) (ep 5)</span><br></div>
+  </div>
+  <div class="di-tc va-t}" style="width:16px;"></div>
+
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=7647&amp;t=theme&amp;themetype=2" class="floatRightHeader">Edit</a>
+      <h2>Ending Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs ending"><span class="theme-song">&quot;Sakasama Bridge (逆様ブリッジ)&quot; by Suneohair</span><br></div>
+  </div>
+</div>
+<br><br><br><div><span class="floatRightHeader"><a href="/anime/7647/Arakawa_Under_the_Bridge/reviews">More reviews</a></span><h2>Reviews</h2></div>
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="6:05 PM">Jul 1, 2010</div>
+      <div class="lightLink spaceit">
+                  13 of 13 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score27855').toggle()">Overall Rating</a>:
+        8
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/cowwart">
+                  <img src="https://cdn.myanimelist.net/images/userimages/332726.jpg?t=1498086000" data-src="https://cdn.myanimelist.net/images/userimages/332726.jpg?t=1498086000" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/cowwart">cowwart</a>
+              <small>(<a href="/profile/cowwart/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp27855">158</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score27855">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>8</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">8</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">5</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">6</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">8</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">9</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    From the time we are young, are parents all/ teach us certain things. No matter what these deal with, there will usually be a very common theme: what society wants us to do.<br />
+<br />
+Yes, from a very young age, most of us will be told to continue the flow of society&#039;s ideas, and to never question them. But, what makes these ideas right?<br />
+<br />
+This is the question that we are faced with while watching Arakawa Under the Bridge, a story about, well, living under a bridge. A bridge under which almost no laws will ever reach you, with the possible exception of public indecency...<br />
+<br />
+We see a romance
+
+          <span style="display: none;" id="review27855">
+        that blossoms under this bridge, as Ko, a man whose parents who have installed far beyond just the rule that society is always correct, is pulled into entering a relationship with Nino, a person who claims to be a Venusian, on his belief that anything that anyone does is solely for gain and must be repaid. This belief that his father installed in him, however, quickly begins to fade as he subconsciously begins to reject the notion that society is always correct, and slowly embraces his new life under the bridge.<br />
+<br />
+Our story continues, with him continuing to meet more people under the bridge, and slowly coming to realize, yet again, that he can&#039;t really know what exactly is &quot;right&quot; and &quot;wrong&quot;. Indeed, our story continues to progress in this vein, with Ko growing to accept the actions of the others all living under the bridge.<br />
+<br />
+All of the residents of this area also have to have a job (with the acceptation of a couple), and they all help each other in whatever sane ways they can, before their actions degrade into insanity, one of the real main sources for comedy in Arakawa Under the Bridge. Indeed, one of the most enjoyable elements of the show was all of our unique characters interacting in unique ways.<br />
+<br />
+All of these unique characters served to bring something special to the show; they all served a function for the community, while also bringing interesting elements the the show. They all have some kind of eccentricity that is very much ingrained in their character, or at least something that would render them unable to live in a regular society. These eccentricities were again, the source of nearly 100% of the comedy for the show, and the main thing that kept it interesting.<br />
+<br />
+However, what really disappoints is how often the characters are left completely untouched in terms of development. We don&#039;t get any back story on some of the characters, and on others, we only get tantalizing hints. This is, for some, the most irritating element in the entire show; we can almost never figure out the pasts of some of the most unique characters that we have ever seen. It is truly disappointing.<br />
+<br />
+If lack of characters development holds down the show the most, the next most irritating element is the art style. As it&#039;s shaft, we can really expect to see insanity in the rat as well, and so we do. It&#039;s really quite irritating to those who don&#039;t enjoy the Shaft animation style to b subjected to these incredibly well drawn scenes being forced down to mediocrity by terrible illustrations, which can really limit and interfere with the show for those who are not true connoisseurs of the Shaft art style.<br />
+<br />
+Sound also was only a slight break from the weaker elements of this show. It was really fair: there wasn&#039;t anything that really weighed it down , but there wasn&#039;t anything that really aided it in this department either. The voice actors were average, the sound effects were average; everything really failed to go beyond the average bound. Our opening and ending were also really, well, average, leaving the anime with average sound.<br />
+<br />
+While sound did not contribute to my enjoyment of the show, it certainly didn&#039;t hurt it. This show was highly enjoyable to anyone who liked the style of comedy, wasn&#039;t valued away by Shaft&#039;s art, and in general likes comedies and romances. I had a great deal of enjoyment from this show.<br />
+<br />
+So, now the question is, will you enjoy it? The best way to determine that is, especially if it sounds interesting, watch a couple of episodes. By that point, you will have gotten a good taste of the random art interferences and random characters that contribute to the general eccentricity of the show. You will have also seen the types of jokes told; if they seem like they&#039;ll get old, then you should leave. The jokes will often repeat, especially if the are part of a character&#039;s intrinsic personality. In other words, you will like this show if you like the first couple of episodes, aren&#039;t thrown off by the random art you see there, like the characters, and don&#039;t mind the general premise of the show in this regard. If it sounds interesting, give it a try.<br />
+<br />
+So long Arakawa Under the Bridge. It&#039;s been awesome!!
+        
+<div id="revhelp_output_27855" class="mt8 js-review-btn-helpful js-review-helpful-27855">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F7647%2FArakawa_Under_the_Bridge" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle27855"
+         class="js-toggle-review-button" data-id="27855">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=27855" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=27855" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="12:23 AM">Aug 8, 2013</div>
+      <div class="lightLink spaceit">
+                  13 of 13 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score108765').toggle()">Overall Rating</a>:
+        9
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Venten">
+                  <img src="https://cdn.myanimelist.net/images/userimages/1779455.jpg?t=1610307600" data-src="https://cdn.myanimelist.net/images/userimages/1779455.jpg?t=1610307600" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Venten">Venten</a>
+              <small>(<a href="/profile/Venten/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp108765">111</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score108765">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>9</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">9</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">9</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">9</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">8</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">9</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Charming. This is what I constantly thought of when watching Arakawa Under The Bridge. Despite the insane plot and the ridiculous characters, this show was full of charm. Whether there was a hint of deeper meanings between it&#039;s comedic outtakes, or its abundance of heartwarming scenes, there never once was a dull moment during my time at under the Arakawa Bridge!<br />
+<br />
+<br />
+Story:<br />
+The story of Arakawa Under The Bridge is something that tends to turn many people off due to it&#039;s nonlinear approach. The story goes as follows; a guy who believes in never owing anybody anything gets his life saved after falling off a bridge by
+
+          <span style="display: none;" id="review108765">
+        a strange girl. This creates a debt the size of well, his life! In order to repay this girl, he must show her what it means to love thus making him her lover. This sudden turn of events begins as he lives with the girl under the bridge where she and a bunch of other strange folk coincidentally happens to live! Sounds a lot to swallow? Don&#039;t worry, the story is way easier to grasp than what it seems.You see, to show someone what it means to love is such a universal topic that the entire series tends to be just about the guy and all the residents of Arakawa Bridge doing miscellaneous things each episodes. The series is jam packed with tons of comedy but also without realizing it, full of many other things. This leads me back to what I previously said; this show is FULL of charm. What Arakawa does best is to add heavy themes such as Acceptance, Regret, or being yourself while still keeping things to a lighthearted, comedic level. I loved when a funny situation would occur but at that exact same time, the main protagonist may learn something new about himself, or slowly, the girl would realize bit by bit what it truly means to love. Because of this, swallowing the insanity surrounding the show is much less a chore and much more a joy!<br />
+<br />
+Despite this: although I found the story one of the greatest aspects of the show, the opposite can be said for some. For starters, as previously said, this story is non linear to a tee. There is no single episode dedicated to, &quot;What it means to love.&quot; Instead the story is really told through the character&#039;s every day encounters and actions with the members of the Arakawa River. While I found it interesting, this in turn can make people not want to watch the show if they were looking for a more direct plot. Furthermore, when the story did try to create a straightforward scenario near the last quarter of the series, I found that to be the weakest part of the series and I was anxiously waiting when that encounter can be settled and got back to more random tasks with the residents. Also, the outrageous surrounding of the show is of course not for everyone. This is indeed a WAAY over the top comedy, with no bars held back and if that&#039;s not your cup of tea, than this show won&#039;t change your mind otherwise.<br />
+9/10<br />
+<br />
+Art:<br />
+The Art of the show in general would be classed as standard fair for the anime at that time. However, since &quot;Shaft&quot; were the developers for this show, (Madoka Magica, Bakemonogatari) you can expect to get some eye popping, over the top art work. the opening theme is especially easy to notice; full of vivid colors and beautiful scenery. Overall, the outrageous art of the show only added to fit  the whole tone the show was trying to portray. Quickly though, the live action segments with the Kappa at the end of each episode is probably some of the most hilarious scenes I have ever seen. PERIOD.<br />
+9/10<br />
+<br />
+Sound:<br />
+The sound of Arakawa under the bridge is not anything spectacular. There were no background music that particulary stood out to me, and instead I found myself simply engrossed in the dialogue to even notice. The opening and endings on the other hand is definitely worth mentioning. The opening theme of the show, Venus To Jesus is a light, moderate pace tune which is easily a good listen and can be enjoyed without any context. It definitely fits the lightheartedness of the show. The ending, Sakasama Bridge is a personal favorite. this once again, is a light, moderate paced song, but the melancholic feeling it gives off, really helps to describe  the feel of those more heartfelt scenes in the show. Plus it&#039;s by Suneohair, whose also done works in shows such as, Honey and Clover! Last, without spoiling anything, there&#039;s a song titled, &quot;Losers Wail&quot; and if the title alone doesn&#039;t convince you how funny it is, than prepare to wail yourself if you do get the chance to listen to it!<br />
+9/10<br />
+<br />
+Characters:<br />
+Talking about the characters in Arakawa under the bridge is difficult. You see, each resident of the Arakawa River is strange in it&#039;s own way, but only adds to the charm. For instance, you have a a Church Sister (who&#039;s not really a sister) that came from the military and acts like the Terminator, but with more dialogue.  Not satisfied? You also have a Rock Star with a Star for a head, as well as Kappa (A frog like person). At first, these different personalities might be unsettling, but really, these Character really help to bring this story to life. You see, one of the main themes that Arakawa Under The Bridge tries to tell is acceptance no matter who you are. Despite these crazy appearances, I found myself genuinely liking these characters because of just how well the chemistry these social misfits had with one another. Whether they had a comedic relationship or a serious one, I enjoyed each one of them.<br />
+<br />
+A flaw to these characters however is that they&#039;re really isn&#039;t that much character development. Aside from our main lovers, Ko and Nino; despite how much screen time the rest of the cast received, they remained static from start to beginning. You may get a bit of story from the individual characters, but they don&#039;t really grow as a person. If there was a particular person you might not have liked then unfortunately they will most likely stay that way until it&#039;s comedic conclusion. <br />
+8/10<br />
+<br />
+Overall/Enjoyment:<br />
+Arakawa Under the Bridge is INSANE! (In the good way of course!) Going into the show, I was a bit skeptical due to the amount of pure outragousness it posed. While it was still there, everything seemed bearable and in fact, better than what I expected it to be. I was also anxious to figure out what the crazy people of under the Arakawa Bridge would do next, and even though it&#039;s not genre breaking, it&#039;s originality and heart should be something that grabs viewers and drops them into unfamiliar, but wonderful territory! Welcome to Arakawa Under the Bridge!<br />
+9/10<br />
+<br />
+<br />
+
+        
+<div id="revhelp_output_108765" class="mt8 js-review-btn-helpful js-review-helpful-108765">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F7647%2FArakawa_Under_the_Bridge" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle108765"
+         class="js-toggle-review-button" data-id="108765">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=108765" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=108765" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="6:42 PM">Jun 28, 2010</div>
+      <div class="lightLink spaceit">
+                  13 of 13 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score27718').toggle()">Overall Rating</a>:
+        6
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/8thSin">
+                  <img src="https://cdn.myanimelist.net/images/userimages/321412.jpg?t=1421065800" data-src="https://cdn.myanimelist.net/images/userimages/321412.jpg?t=1421065800" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/8thSin">8thSin</a>
+              <small>(<a href="/profile/8thSin/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp27718">89</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score27718">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>6</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">5</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">6</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">8</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">5</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">5</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    &#039;Arakawa Under the Bridge&#039; is about Ichinomiya Kou, an elite (someone who holds a high ranking position or works in a blue-chip company. A &quot;winner&quot; in Japanese society) who&#039;s been taught to never get indebted to anyone, gets careless one day over Arakawa  and gets saved by a girl. The girl&#039;s name is Nino, who turns out to be a denpa-kei (people with &quot;overactive imagination&quot; or nutcase, e.g. Nodame) who claims to be from Venus, and doesn&#039;t want anything in return. After a long debate, she tells Ichinomiya that there is one thing that he can do for her: &quot;Let me fall in love.&quot;
+
+          <span style="display: none;" id="review27718">
+        And so, Ichinomiya starts living under the bridge in Arakawa as Nino&#039;s boyfriend in order to repay his debt.<br />
+<br />
+Arakawa (&quot;Rough River&quot; in kanji) is a major river that runs through Tokyo. This is the river you have to cross to get to Saitama, and I can tell you it&#039;s very wide river that you do not want to fall into.<br />
+<br />
+<br />
+STORY/CHARACTER: 5/10<br />
+I must admit that my expectation for this show after the first episode was really high because the setting of an elite suddenly living the poor man&#039;s lifestyle, and the general atmosphere was really similar to &#039;Koi ni Ochitara&#039;, a dorama series that&#039;s very dear to me. I found &#039;Arakawa&#039;s setting to be very intriguing with both Ichinomiya and Nino having interesting personality, and a funny encounter.<br />
+<br />
+The story and character setting had a great potential. This show could&#039;ve gone three directions:<br />
+<br />
+      1. Focus on Ichinomiya and Nino&#039;s relationship as a romance anime.<br />
+      2. Focus on Ichinomiya alone for discovery of small joys in life and gradual change of character belief, slice of life.<br />
+      3. Focus on side characters for pure comedy.<br />
+<br />
+<br />
+Instead, they went for no focus or central theme. Just a bunch of weirdos doing random things in the riverbank with very limited story or character development. Humor in this show was mostly physical, unintelligent slapstick, but wasn&#039;t really funny because the pacing is too slow for that. The side characters were a ridiculous bunch that had no distinct personalities that made them particularly lovable. They were all cardboard characters who received zero character developments. In the end, it seemed like the author was trying too hard to make unique characters just to make this show different.<br />
+<br />
+I have to say episodes 1, 4, 8, 12 where they focused on romance (#1) or slice of life (#2) were very strong and moving episodes, but otherwise all fillers. Story and character development was way too slow to be interesting.<br />
+<br />
+<br />
+ANIMATION: 6/10<br />
+General animation by Shaft, there are lots of eye zoom-ins, but otherwise nothing out of the ordinary. The peaceful atmosphere of Arakawa riverside with vivid, light colors was visually pleasing.<br />
+<br />
+Animation quality was very inconsistent though. Episode 1 and some slow, dramatic scenes have movie-grade background detail and attractive characters, but the rest is super-simple (difference especially noticeable in sky grass texture).<br />
+<br />
+The two main characters seem somewhat realistic despite simplicity. The style is really similar to &#039;Nodame Cantabile&#039;, but the character designs for &#039;Arakawa&#039; is actually better. The rest, while they are supposed to look out of place... never grew on me. It just seemed like a cosplay contest in a really unlikely place.<br />
+<br />
+<br />
+SOUND: 8/10<br />
+Ridiculous number of big-name and experienced cast, even for the minor characters. Overall, voice acting is pretty good, but it doesn&#039;t really sound like any of them really put in too much effort.<br />
+<br />
+BGM is pretty average, but used in all the right places.<br />
+<br />
+Theme songs, on the other hand, were excellent. OP was cute and fun with retro graphics that worked really well to boost Nino&#039;s character. ED is a really good song that makes you reflect back on the episode.<br />
+<br />
+<br />
+ENJOYMENT: 5/10<br />
+&#039;Arakawa Under the Bridge&#039; had the potential to become a really touching and inspiring show if only they just focused on romance or slice of life. Instead, it became something I can&#039;t exactly describe, in a bad way.<br />
+Something went really wrong with series composition that ruined a good original work.<br />
+<br />
+Pretty much only 4 episodes of material was in the first season, dragging on to the next. This is one of a rare non-prime-time anime series that I actually wished was shorter. I will be watching the next season in hope of a major turnaround. 
+        
+<div id="revhelp_output_27718" class="mt8 js-review-btn-helpful js-review-helpful-27718">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F7647%2FArakawa_Under_the_Bridge" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle27718"
+         class="js-toggle-review-button" data-id="27718">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=27718" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=27718" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="9:29 AM">Jun 7, 2020</div>
+      <div class="lightLink spaceit">
+                  13 of 13 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score342854').toggle()">Overall Rating</a>:
+        8
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Ezekiel_01">
+                  <img src="https://cdn.myanimelist.net/images/userimages/4310383.jpg?t=1610540400" data-src="https://cdn.myanimelist.net/images/userimages/4310383.jpg?t=1610540400" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Ezekiel_01">Ezekiel_01</a>
+              <small>(<a href="/profile/Ezekiel_01/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp342854">17</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score342854">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>8</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">7</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">8</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">8</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">8</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">9</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Arakawa Under the Bridge Review Part 1<br />
+<br />
+[STORY ELEMENT PRESENTATION 7/10] [GOOD FOR A ROM COM]<br />
+<br />
+Arakawa Under the Bridge from the title itself is the main setting of the story, almost all major chain of events and interactions take place here. A strange setting to circle a romance comedy. The joke has somewhat a modern take in the presentation, for it uses a combination of interchanging camera angle views, a wholesome amount of different color pallets to intensify emotional symbolism, and continued with a constant stream of jokes that built upon a major punch line. Put all this recipe together, you would have a very charming
+
+          <span style="display: none;" id="review342854">
+        and engaging style of comedy from start to finish.<br />
+<br />
+For the most part, the comedy itself is more of a satire commentary on criticizing societal norms, it ranges from simple discrimination, public indecency, what society thinks is acceptable, and many more but in a shallow sense to make the humor light-hearted than offensive.  <br />
+<br />
+Traditionally the show presents drama via internal monologues and dialogues to relay the main point towards the audience to think through. There was never a right or wrong on both sides of the argument. It was always left for the audience to decide whether to agree or disagree. I like how they put a decent amount of pacing between the comedy and drama, they don’t overlap on each other and thus it enforces the main point of the narrative in a much clearer to understand manner. It is nice to have something to learn after a good laugh and this Arakawa selling point in making its humor memorable. <br />
+<br />
+[SOUND &amp; MUSIC INTERPRETATION 8/10] [MEMORABLE]<br />
+<br />
+For the technical stuff, I say the OP song Venus to Jesus is a wonderful opening sang by Etsuko Yakushimaru. Its wacky demonstration of absurdity that transcendence beyond belief. An interesting way in introducing the audience what kind of anime they are about to watch, it’s unique and I love it. While ED song Sakasama Bridge by Suneohair has a natural and relaxing atmospheric vibe to it. Both songs are completely opposite of each other but to be brief, the OP represents the bizarre premise while the ED constitute to the in-depth look of the characters<br />
+<br />
+The voice acting of Sugita, Tomokazu, playing Hoshi, is a plus. It’s fun to hear. He reminds me of Gintoki&#039;s ironic shenanigans in Gintama. <br />
+<br />
+OST is enjoyable and good to listen to. There times you the atmosphere of easy-going comedy and there are times when the narrative is serious in a meaningful way, it catches that mood accurately, making the show well pace between humor and short character moments. <br />
+<br />
+[AESTHETICS 8/10] [CREATIVE AND INNOVATIVE]<br />
+<br />
+The settings design and attention to small details are impressive. I can make desktop wallpaper in every cutout scene the show has. It has a lot of good camera shots on natural scenery around the bridge. Arakawa has some interesting symbolism and Easter eggs, especially when it comes to character design. <br />
+<br />
+The character here is not defined by the color eyes or the size of the hair. Their overall design defines their personality and interest. For example, Hoshi wears a star shape mask not because he’s a weirdo but indicates that he is a “rock star!” that he always plays music to enforce his character trait. Similar things can be said to other residents of the bridge. <br />
+<br />
+The cut transition scenes of Arakawa under the bridged doesn’t appear to be meaningless cut-outs to save some animation budget but a sense of insight in understanding what is the current tone of the situation is. This creates a mundane scene, like a simple conversation, more engaging, and entertaining. It doesn’t stray away from the audience in comprehending a particular scene. <br />
+<br />
+[CHARACTERS 8/10] [ENJOYABLE AND LIKABLE FOR A ROM COM]<br />
+<br />
+Arakawa has a specialty in introducing and fleshing out its weird set of characters. Characters in this show are at first glance seems like forgettable gag fillers, but as the story progresses there are a certain amount of depth and meaning about their motives and behavior, though if they got a moment of serious monologues and dialogues, the outcomes resulted in looking a bit pretentious because of the irony of the narrative being a comedy but still I was able to always deliver its messages in the right moment coming out as pay-off in every day to day every interaction. <br />
+<br />
+The encounters of each character are dynamic. Character in the show has a sense of purpose and place to belong in the setting. They each share a good amount of life lessons to influence in the development of our main protagonist character growth. Every encounter comes out different, there is always something new and completely unexpected development happens. Thus making it very enjoyable to watch. <br />
+<br />
+[CHARACTER ANALYSIS] [WARNING!!! SPOILER DETECTED AT THIS POINT][YOU CAN SKIP THIS PART IF YOU HAVEN&#039;T SEEN THE ANIME YET] [CONTINUE TO THE FINAL THOUGHTS]<br />
+<br />
+Kou Ichinomiya, in the Arakawa Bridge Resident, nickname as Recruit because of his corporate attire. Looking at the surface, “Never be indebted to anyone” is Kou Ichinomiya&#039;s motto in life, a motto that his family embedded with him since childhood. This motto made him become independent and self-sufficient. He’s the model elite of the current society. He has an impressive track record and achievements that everybody should dream to be like him and adore him for it. He has complete pride in his capabilities that the entire world is within the palm of his hands. <br />
+<br />
+But even all the prestige, intelligence, and power, He still a flawed character. He lacks some common sense and basic communication skills to other people outside his corporate profession, which ultimately became his biggest weakness. This is further supported by the fact of how easily his pants was stolen by a bunch of hooligans and how awkward his interactions with the residents living near the bridge. Once his family motto was broken by his own arrogance, he goes overboard to pay-off the favors which nobody asked him to do so. Because of his stubborn ego, Kou experience negative predicaments towards the bridge residents. <br />
+<br />
+<br />
+He also has a prejudiced mentality, the unfair feeling of dislike for someone or something like race, sex, religion, etc., because it is not reasonable or logical. Because of his high confidence of himself, he even admits that he is special, blessed with innate intelligence and privileged upbringing not only in capabilities but physical experience having a nice body and attractive face. He’s totally arrogant and a jerk on the people around him. He thinks he&#039;s the chosen one. His first impression is always the outside appearance that resulted in misjudgments that will result in him to reap what he sows. Every time he goes with an argument base on shallow assumptions, he never wins. An innocent satire of human discrimination will always result in negative consequences on how people perceive you. <br />
+<br />
+Despite his bad personality, He is actually a nice person deep inside. He is straightforward, sincere, and caring for others, once you got know him. He knows how to adapt and learn his flaws. He already made a helping hand compensate for his lack of etiquette to the local bridge residents.<br />
+<br />
+Going Deeper Kou is a genius in the business world but when it comes to the mutual relationship he’s barely a middle schooler. There is a psychological reason for this and it is all linked to his childhood; Kou’s complicated relationship with his father. He idolizes and admires his father for being the top of the corporate ladder. At such a young age Kou is already been taught an iron hand about the business world that ultimately distance his relationship with his father. The cold parental love drives him to become an elitist that will someday make him as his father’s successor. Even with a bright future ahead of him, he was lonely and empty inside. Kou only wanted to earn back his Father’s love and affection.<br />
+<br />
+In the end, Kou’s and his Father&#039;s relationship reached the conclusion that both father and son are just too embarrass and prideful to admit each other’s inner feelings to one another. Kou’s father is not the cold person that he was made out to be but it just Kou’s being too intimidated to approach his father. Where in fact both wanted to talk and bond with each other as father and son. For it’s pretty a nice way to bring up family issues without being one-sided. The conflict was concluded quite nicely; in the end, both father and son are just too prideful in admitting each other’s inner feelings. Characters in this show are not what they look in the surface. <br />
+<br />
+Kou developed his character over the course of the series. After meeting Nino and the residents of the Arakawa bridge, he no longer needs desperate attention for love. He already had it while spending his time with Nino and others. From being a try-hard elitist jerk to being a humble and respectful person. He knows what he wanted. He eventually breaks the curse of his family motto, by being able to ask favors that totally surprise the people around him. Indeed a positive character development, even the supporting cast has a decent amount of growth over Kou adventures; they don’t remain as jerks in the remainder of the series but became one of the friendliest neighbors that you can share your life with.  <br />
+<br />
+<br />
+Nino-san, a surreal character at the surface. She is the sole reason for Kou’s character growth but pretty much a hair head at times but has a heart of gold that is adored by the residents living under the bridge. Her intentions are pure and selfless where she almost symbolizes as a goddess of sorts, though she not perfect and has little knowledge when it comes to the outside world. She is Venusian apparently so I may buy that as an excuse of her being an alien because of her awkward behavior. She doesn’t know what is a date or other fancy stuff common for girls, giving Kou a very hard time deal with her but she has a right sense when it comes to critical moments, her decision and action is on the right place for the people she loves and cared for, that even Kou agrees with her without a doubt.<br />
+<br />
+<br />
+When it comes to Kou and Nino’s Relationship, they both have good chemistry, which most of the time is comfortable and adorable. There is a harmonious atmosphere between them. Their simple conversations made way to better understanding each other&#039;s strengths and weaknesses. Overtime their emotional connections grow stronger which is a lovely sight for a romance.<br />
+<br />
+<br />
+For honorable character mention, Personally, P-ko is the Best Girl for me. She is a dangerously clumsy, a bit naïve at times but aside from Nino, P-ko is one of the lovable girls in the series based on my reference. Her motives in providing the bridge residents with freshly farmed crops with love is admirable. She is adorable and naturally innocent. I will surely help her out to look for seeds in the winter. She reminds me of Little My and Snufkin&#039;s personality from the Muumins.<br />
+<br />
+[FINAL THOUGHTS] [ENJOYMENT 9/10] [GLAD THERE IS A 2ND SEASON]<br />
+<br />
+Arakawa Under the Bridge for me is a special romance comedy. It’s an unconventional setting for a romance with a nice set of bizarre characters. The cinematography is well-crafted on maximizing the aesthetics and it blends well with music and sound. It matches the theme of its absurd premise, definitely amazing for me. I love the moral values it showcases in valuing mutual relationship, it informs us to stop being a judgmental person. We should not be seeing a person outside appearance but through their actions and inner quality. We must see a person who he is and not what he achieves. <br />
+<br />
+Respect people’s choices in life and never discriminate them just because it against your own principles in life. Be tactful on people living a simple life and don’t brag achievements that have no meaning to them. It will only destroy your character.<br />
+<br />
+Arakawa Under the bridge is enjoyable to experience. It has plenty of feel-good moments that is both relaxing and soothing at times. It’s more of a slice of life than drama. But sometimes I wish there are more character development in the show but because the characters are a great addition to the comedy to work, I’ll give a pass in flying colors. It rare for me to like all the side characters in a romantic comedy given how eccentric the supporting cast in the first place.<br />
+<br />
+The anime humor is not for everybody, its alienating nature could be an uncanny valley for some. But if you are tired of the same troupe on romantic comedies, It wouldn’t hurt to try Arakawa Under the Bridge. You might love it. I know I do.<br />
+<br />
+Looking Forward Watching the 2nd Season<br />
+<br />
+[OVERALL 7.7/10][A UNIQUE TITLE]<br />
+<br />
+<br />
+<br />
+<br />
+
+        
+<div id="revhelp_output_342854" class="mt8 js-review-btn-helpful js-review-helpful-342854">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F7647%2FArakawa_Under_the_Bridge" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle342854"
+         class="js-toggle-review-button" data-id="342854">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=342854" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=342854" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+<div class="mt4"></div><div class="amazon-ads anime-manga-detail bottom pt20 pb16">
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "animedetail-20";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Buy on Amazon.com ";
+amzn_assoc_default_search_phrase = "Arakawa Under the Bridge";
+amzn_assoc_default_category = "DVD";
+amzn_assoc_linkid = "d33d41183eb8aee6216ffe9ff44ca735";
+amzn_assoc_rows = "1";
+amzn_assoc_search_bar_position = "bottom";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+</div>            <div class="mal-ad-unit" data-ad-width="801" data-ad-height="633">
+        <div id="taboola-below-article-thumbnails-anime"></div> <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'alternating-thumbnails-a',
+    container: 'taboola-below-article-thumbnails-anime',
+    placement: 'Below Article Thumbnails Anime',
+    target_type: 'mix'
+  });
+</script>
+
+      </div>
+    <br><div><div class="floatRightHeader"><a href="/anime/7647/Arakawa_Under_the_Bridge/news">More news</a></div><h2>Recent News</h2></div><div class="clearfix"><p class="spaceit"><a href="/news/10558380"><strong>NIS America Licenses Katanagatari and Arakawa Under the Bridge</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p>According to their official website, NIS America announced their licenses for Katanagatari and Arakawa Under the Bridge. Both series will be released in a Blu-ray Di...<a href="/news/10558380">read more</a></p></div>
+		<p class="lightLink spaceit">Apr 15, 2011 8:38 PM by <a href="/profile/Naruleach">Naruleach</a> | <a href="/forum/?topicid=292635">Discuss (41 comments)</a></p></div>
+		<div class="borderClass"></div><div class="clearfix"><p class="spaceit"><a href="/news/8034087"><strong>Online Only Prologue and Epilogue Parts of Arakawa Under the Bridge Ep4</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p>According to the official website, the length of Arakawa Under the Bridge episode 4 was extended beyond the limit of the airing block, so the cold open part and the ...<a href="/news/8034087">read more</a></p></div>
+		<p class="lightLink spaceit">Apr 23, 2010 8:40 AM by <a href="/profile/dtshyk">dtshyk</a> | <a href="/forum/?topicid=202634">Discuss (45 comments)</a></p></div>
+		<div class="borderClass"></div><br><div><div class="floatRightHeader"><a href="/forum/?animeid=7647"><a href="/anime/7647/Arakawa_Under_the_Bridge/forum">More discussions</a></div><h2>Recent Forum Discussion</h2></div><div class="page-forum">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F7647%2FArakawa_Under_the_Bridge&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=1773410">Is my Humor that far off... Or something else?</a> <small></small><br><span class="forum_postusername"><a href="/profile/KataWEEb">KataWEEb</a></span> - <span class="lightLink">Mar 23, 2019</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">7 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/NJGore">NJGore</a> <a href="/forum/?topicid=1773410&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Oct 3, 2020 4:22 PM</td>
+            </tr>
+            <tr id="topicRow2">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F7647%2FArakawa_Under_the_Bridge&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=1851640">Other anime characters who looks like Nino </a> <small></small><br><span class="forum_postusername"><a href="/profile/Raze_10">Raze_10</a></span> - <span class="lightLink">Jul 12, 2020</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">3 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/removed-user">removed-user</a> <a href="/forum/?topicid=1851640&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Aug 27, 2020 1:37 PM</td>
+            </tr>
+            </table></div><br><div><div class="floatRightHeader"><a href="/anime/7647/Arakawa_Under_the_Bridge/featured">More featured articles</a></div><h2>Recent Featured Articles</h2></div><div class="detail-page-featured-article"><div class="news-list">
+      
+    <div class="news-unit clearfix"><div class="picSurround fl-l mr8 ml3">
+          <a href="https://myanimelist.net/featured/2168/11_Anime_Starring_Grown_Adults"><img src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1499674731-f0f1f655769c124d6df8d709c4e51a88.png?s=01fb4621b62c31871a3a2dc59d1321fe" alt="11 Anime Starring Grown Adults!" class="image lazyload" width="50" height="78" srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1499674731-f0f1f655769c124d6df8d709c4e51a88.png?s=01fb4621b62c31871a3a2dc59d1321fe 1x, https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1499674731-f0f1f655769c124d6df8d709c4e51a88.png?s=b9ac79916af2300e137812a97cc09a19 2x" /></a>
+        </div><div class="news-unit-right rect">
+        <p class="title">
+          <a href="https://myanimelist.net/featured/2168/11_Anime_Starring_Grown_Adults" title="11 Anime Starring Grown Adults!">11 Anime Starring Grown Adults!</a>
+        </p>
+        <div class="text">
+          These 11 entertaining anime put adults in the limelight. 
+        </div>
+        <div class="information">
+          <p class="info pr8">
+            by <a href="https://myanimelist.net/profile/Unnamedhero">Unnamedhero</a>
+          </p><p class="di-tc pv pr8">
+              <b>88,053</b> views
+            </p></div>
+      </div>
+    </div>
+            
+    <div class="news-unit clearfix"><div class="picSurround fl-l mr8 ml3">
+          <a href="https://myanimelist.net/featured/546/Top_14_Anime_That_Will_Make_You_Happy"><img src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1444713228-c38b7b54084b7f637a1660b98431f458.jpeg?s=94e867cae07e8bfea298f8b419f67856" alt="Top 14 Anime That Will Make You Happy" class="image lazyload" width="50" height="78" srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1444713228-c38b7b54084b7f637a1660b98431f458.jpeg?s=94e867cae07e8bfea298f8b419f67856 1x, https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1444713228-c38b7b54084b7f637a1660b98431f458.jpeg?s=f1893b1c81d8a5b1ba7c31c2d4c82d6c 2x" /></a>
+        </div><div class="news-unit-right rect">
+        <p class="title">
+          <a href="https://myanimelist.net/featured/546/Top_14_Anime_That_Will_Make_You_Happy" title="Top 14 Anime That Will Make You Happy">Top 14 Anime That Will Make You Happy</a>
+        </p>
+        <div class="text">
+          Been watching too much Berserk? Need something to brighten your day? Give one of these shows a whirl! Every anime on this list is guaranteed to put a smile on your face, even if you&#039;ve just watched Grave of the Fireflies.
+        </div>
+        <div class="information">
+          <p class="info pr8">
+            by <a href="https://myanimelist.net/profile/Jankenpopp">Jankenpopp</a>
+          </p><p class="di-tc pv pr8">
+              <b>496,698</b> views
+            </p><div class="tags">
+              <div class="tags-inner"><a href="https://myanimelist.net/featured/tag/recommendation" class="tag tag-color-feature-recommendation" title="Recommendation">Recommendation</a><a href="https://myanimelist.net/featured/tag/collection" class="tag tag-color-feature-collection" title="Collection">Collection</a><a href="https://myanimelist.net/featured/tag/funny" class="tag tag-color-feature-funny" title="Funny">Funny</a><a href="https://myanimelist.net/featured/tag/heart-warming" class="tag tag-color-feature-heart-warming" title="Heart-warming">Heart-warming</a></div>
+            </div></div>
+      </div>
+    </div>
+        </div>
+</div><div style="padding:16px 0px 0px 0px;"><div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div></div><br><div>
+            <div class="floatRightHeader"><a href="/anime/7647/Arakawa_Under_the_Bridge/userrecs">More recommendations</a></div>
+            <h2>Recommendations
+            </h2></div>  <div class=""><a href="https://myanimelist.net/anime/7647/Arakawa_Under_the_Bridge/userrecs" class="btn-detail-recommendations-view-all fl-r">
+      <span class="text">View All</span>
+      <span class="icon-next"><i class="fa fa-chevron-right icon-chevron" aria-hidden="true"></i></span>
+    </a><div class="anime-slide-block" id="anime_recommendation" data-json='{"width":702,"btnWidth":40,"margin":8}'><div class="btn-anime-slide-side left"><span class="btn-inner"></span></div><div class="btn-anime-slide-side right"><span class="btn-inner"></span></div><div class="anime-slide-outer" style="height:140px;"><ul class="anime-slide js-anime-slide" data-slide="7"><li class="btn-anime" style="width:90px" title="Bakemonogatari"><a href="https://myanimelist.net/recommendations/anime/5081-7647" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Bakemonogatari</span><span class="users">18 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/11/75274.jpg?s=ff5f8916fb37cc40e018fce06507a91c" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/11/75274.jpg?s=ff5f8916fb37cc40e018fce06507a91c 1x,https://cdn.myanimelist.net/r/180x280/images/anime/11/75274.jpg?s=40b8c6a99880f56801acfeda78be72a4 2x" width="90" height="140" class="image lazyload" alt="Bakemonogatari" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Sayonara Zetsubou Sensei"><a href="https://myanimelist.net/recommendations/anime/2605-7647" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Sayonara Zetsubou Sensei</span><span class="users">15 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/6559.jpg?s=1442e3fefbb5f8931f66cc3252797d7f" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/6559.jpg?s=1442e3fefbb5f8931f66cc3252797d7f 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/6559.jpg?s=16f6f80672d7713bd8c672349e785034 2x" width="90" height="140" class="image lazyload" alt="Sayonara Zetsubou Sensei" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Danshi Koukousei no Nichijou"><a href="https://myanimelist.net/recommendations/anime/7647-11843" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Danshi Koukousei no Nichijou</span><span class="users">9 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/3/33257.jpg?s=71e8c89ee5d410ce5d4cbbb48ac461b8" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/3/33257.jpg?s=71e8c89ee5d410ce5d4cbbb48ac461b8 1x,https://cdn.myanimelist.net/r/180x280/images/anime/3/33257.jpg?s=e44fb50b46c28b9a478dc9fe0ccd79a9 2x" width="90" height="140" class="image lazyload" alt="Danshi Koukousei no Nichijou" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Gintama"><a href="https://myanimelist.net/recommendations/anime/918-7647" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Gintama</span><span class="users">8 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/10/73274.jpg?s=6467584b43ddf7d22158e2cd44c978af" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/10/73274.jpg?s=6467584b43ddf7d22158e2cd44c978af 1x,https://cdn.myanimelist.net/r/180x280/images/anime/10/73274.jpg?s=d58d30bc3c7619d4d52b3110b628820a 2x" width="90" height="140" class="image lazyload" alt="Gintama" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Seto no Hanayome"><a href="https://myanimelist.net/recommendations/anime/2104-7647" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Seto no Hanayome</span><span class="users">6 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/13/58383.jpg?s=374ab5b782043e932adce0be00d472b5" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/13/58383.jpg?s=374ab5b782043e932adce0be00d472b5 1x,https://cdn.myanimelist.net/r/180x280/images/anime/13/58383.jpg?s=7e7c05839fff020c978655c6c65e1ac4 2x" width="90" height="140" class="image lazyload" alt="Seto no Hanayome" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Denpa Onna to Seishun Otoko"><a href="https://myanimelist.net/recommendations/anime/7647-9379" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Denpa Onna to Seishun Otoko</span><span class="users">6 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/9/59497.jpg?s=4846c78d59ed12359b7dac569dacc953" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/9/59497.jpg?s=4846c78d59ed12359b7dac569dacc953 1x,https://cdn.myanimelist.net/r/180x280/images/anime/9/59497.jpg?s=6345a7917bf6d5637191901247fd772b 2x" width="90" height="140" class="image lazyload" alt="Denpa Onna to Seishun Otoko" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Tsuritama"><a href="https://myanimelist.net/recommendations/anime/7647-12883" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Tsuritama</span><span class="users">5 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/69909.jpg?s=35472e10982d1574e2107d71269b405f" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/69909.jpg?s=35472e10982d1574e2107d71269b405f 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/69909.jpg?s=9a5ba279e0ea1d7248e5fbb809b01469 2x" width="90" height="140" class="image lazyload" alt="Tsuritama" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Amagi Brilliant Park"><a href="https://myanimelist.net/recommendations/anime/7647-22147" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Amagi Brilliant Park</span><span class="users">5 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/85435.jpg?s=f9c39af71b4d7dc62a51f0183e9185e0" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/85435.jpg?s=f9c39af71b4d7dc62a51f0183e9185e0 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/85435.jpg?s=ced03a54c9603eff078f0d8bd1c248fb 2x" width="90" height="140" class="image lazyload" alt="Amagi Brilliant Park" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Working!!"><a href="https://myanimelist.net/recommendations/anime/6956-7647" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Working!!</span><span class="users">4 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/10/75262.jpg?s=ada31e68d0282850de5252458a04da30" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/10/75262.jpg?s=ada31e68d0282850de5252458a04da30 1x,https://cdn.myanimelist.net/r/180x280/images/anime/10/75262.jpg?s=81dae589a11d288aa08bdbbf92495d41 2x" width="90" height="140" class="image lazyload" alt="Working!!" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kuragehime"><a href="https://myanimelist.net/recommendations/anime/7647-8129" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kuragehime</span><span class="users">4 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/3/24865.jpg?s=223d6c6d891783b808f15ee422e52b2b" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/3/24865.jpg?s=223d6c6d891783b808f15ee422e52b2b 1x,https://cdn.myanimelist.net/r/180x280/images/anime/3/24865.jpg?s=ccf008f96dde602694ef4329b0b014eb 2x" width="90" height="140" class="image lazyload" alt="Kuragehime" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Jinrui wa Suitai Shimashita"><a href="https://myanimelist.net/recommendations/anime/7647-10357" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Jinrui wa Suitai Shimashita</span><span class="users">4 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/45704.jpg?s=943b3a51f8b7e50efab4a735133eb0d8" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/45704.jpg?s=943b3a51f8b7e50efab4a735133eb0d8 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/45704.jpg?s=29aaf6455d7d754a8c21b320d52bc59c 2x" width="90" height="140" class="image lazyload" alt="Jinrui wa Suitai Shimashita" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Level E"><a href="https://myanimelist.net/recommendations/anime/7647-9834" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Level E</span><span class="users">4 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/29668.jpg?s=31f4eeb42f5f92f2885316c9b74886e9" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/29668.jpg?s=31f4eeb42f5f92f2885316c9b74886e9 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/29668.jpg?s=d823dde3c91394e7aa73bc900097fa38 2x" width="90" height="140" class="image lazyload" alt="Level E" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Mawaru Penguindrum"><a href="https://myanimelist.net/recommendations/anime/7647-10721" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Mawaru Penguindrum</span><span class="users">3 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/30238.jpg?s=3ace5e15e860fa2c49a03883d5f1c976" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/30238.jpg?s=3ace5e15e860fa2c49a03883d5f1c976 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/30238.jpg?s=c9bc288292eea043abb8a55ab48d262c 2x" width="90" height="140" class="image lazyload" alt="Mawaru Penguindrum" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Sakigake!! Cromartie Koukou"><a href="https://myanimelist.net/recommendations/anime/114-7647" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Sakigake!! Cromartie Koukou</span><span class="users">3 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/3/13390.jpg?s=a41a1a04b26d690f9b2f0df75b3c54f5" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/3/13390.jpg?s=a41a1a04b26d690f9b2f0df75b3c54f5 1x,https://cdn.myanimelist.net/r/180x280/images/anime/3/13390.jpg?s=8477c2af997f2398d03d9cba49ad4f8e 2x" width="90" height="140" class="image lazyload" alt="Sakigake!! Cromartie Koukou" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Sasami-san@Ganbaranai"><a href="https://myanimelist.net/recommendations/anime/7647-14515" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Sasami-san@Ganbaranai</span><span class="users">3 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/53951.jpg?s=7bf410ea7e1c1ae7e8292b7826929876" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/53951.jpg?s=7bf410ea7e1c1ae7e8292b7826929876 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/53951.jpg?s=e4b35ad5d0635fb6b5cac7f61d3cb677 2x" width="90" height="140" class="image lazyload" alt="Sasami-san@Ganbaranai" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Sakamoto Desu ga?"><a href="https://myanimelist.net/recommendations/anime/7647-32542" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Sakamoto Desu ga?</span><span class="users">3 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/79468.jpg?s=8e2c16eea373e792825ba732338e9263" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/79468.jpg?s=8e2c16eea373e792825ba732338e9263 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/79468.jpg?s=cbd478e35ef6d828ba63804ccc047b26 2x" width="90" height="140" class="image lazyload" alt="Sakamoto Desu ga?" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Nisemonogatari"><a href="https://myanimelist.net/recommendations/anime/7647-11597" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Nisemonogatari</span><span class="users">3 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1044/103654.jpg?s=1d8b6435e38fd4260fb620803e7bf4db" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1044/103654.jpg?s=1d8b6435e38fd4260fb620803e7bf4db 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1044/103654.jpg?s=09aee662aa700e3e716e0ea330411fec 2x" width="90" height="140" class="image lazyload" alt="Nisemonogatari" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Grand Blue"><a href="https://myanimelist.net/recommendations/anime/7647-37105" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Grand Blue</span><span class="users">3 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1302/94882.jpg?s=8d9bd71163544af63268ee32d15a2737" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1302/94882.jpg?s=8d9bd71163544af63268ee32d15a2737 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1302/94882.jpg?s=9a57e0d25ea162ee1a4e45a97627f2eb 2x" width="90" height="140" class="image lazyload" alt="Grand Blue" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Nichijou"><a href="https://myanimelist.net/recommendations/anime/7647-10165" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Nichijou</span><span class="users">3 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/3/75617.jpg?s=511bd0d12d4e80462f69d532b8ba958c" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/3/75617.jpg?s=511bd0d12d4e80462f69d532b8ba958c 1x,https://cdn.myanimelist.net/r/180x280/images/anime/3/75617.jpg?s=62be5df51bb99f8c13b0e0a0e4c06ddd 2x" width="90" height="140" class="image lazyload" alt="Nichijou" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Nodame Cantabile"><a href="https://myanimelist.net/recommendations/anime/1698-7647" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Nodame Cantabile</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/9/11986.jpg?s=a5ce5d25cdd75251841ad2b14e5078e8" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/9/11986.jpg?s=a5ce5d25cdd75251841ad2b14e5078e8 1x,https://cdn.myanimelist.net/r/180x280/images/anime/9/11986.jpg?s=ea240d611fdb113823336777bed651df 2x" width="90" height="140" class="image lazyload" alt="Nodame Cantabile" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Jungle wa Itsumo Hare nochi Guu"><a href="https://myanimelist.net/recommendations/anime/253-7647" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Jungle wa Itsumo Hare nochi Guu</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/10/24555.jpg?s=7fce8e12cb670c4dd6e7e4dbd46b1211" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/10/24555.jpg?s=7fce8e12cb670c4dd6e7e4dbd46b1211 1x,https://cdn.myanimelist.net/r/180x280/images/anime/10/24555.jpg?s=cb6d95cf1af276b665fe107fe673831e 2x" width="90" height="140" class="image lazyload" alt="Jungle wa Itsumo Hare nochi Guu" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Binbougami ga!"><a href="https://myanimelist.net/recommendations/anime/7647-13535" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Binbougami ga!</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/8/39333.jpg?s=5e0e14cc9afe6061d006422d83b34d36" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/8/39333.jpg?s=5e0e14cc9afe6061d006422d83b34d36 1x,https://cdn.myanimelist.net/r/180x280/images/anime/8/39333.jpg?s=03cb575b35a01ca290f1ebb5da6984f2 2x" width="90" height="140" class="image lazyload" alt="Binbougami ga!" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Hachimitsu to Clover"><a href="https://myanimelist.net/recommendations/anime/16-7647" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Hachimitsu to Clover</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/11/73923.jpg?s=212ffdd95dd2b1d4bc89c829f0e649d9" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/11/73923.jpg?s=212ffdd95dd2b1d4bc89c829f0e649d9 1x,https://cdn.myanimelist.net/r/180x280/images/anime/11/73923.jpg?s=b231e4bf7b033416d4f02178c6b7485c 2x" width="90" height="140" class="image lazyload" alt="Hachimitsu to Clover" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Servant x Service"><a href="https://myanimelist.net/recommendations/anime/7647-18119" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Servant x Service</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/13/51579.jpg?s=da0f0c98a16f2e07766f9d9aa1647db6" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/13/51579.jpg?s=da0f0c98a16f2e07766f9d9aa1647db6 1x,https://cdn.myanimelist.net/r/180x280/images/anime/13/51579.jpg?s=c848a649edecbc5776a6593ec70ecf47 2x" width="90" height="140" class="image lazyload" alt="Servant x Service" border="0" ></a></li></ul></div></div></div>
+    </td>
+    </tr>
+    </table>
+    </div>  <div class="mauto clearfix pt24" style="width:760px;">
+    <div class="fl-l">
+      </div>
+      <div class="fl-r">
+      </div>
+    </div>
+
+</td>
+</tr>
+</table>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js" data-pin-hover="true"></script></div><!-- end of contentHome -->
+</div><!-- end of contentWrapper -->
+
+
+            
+  
+
+
+            
+  
+
+  <script>
+    $(document).ready(function() {
+      $(window).scroll(function() {
+        var cHeight = $("#myanimelist").height();
+        $("div[data-ad-sticky='manual']").each(function (i, o) {
+          var aHeight = $(o).height();
+          var aTop = $(o).parent().offset().top;
+          if (window.pageYOffset >= (cHeight - aHeight)) {
+            $(o).css("top", ((cHeight - aHeight) - window.pageYOffset) + "px");
+          } else if (window.pageYOffset >= aTop) {
+            $(o).addClass("sticky");
+            $(o).css("top", "");
+          } else {
+            $(o).removeClass("sticky");
+          }
+        });
+      });
+    });
+  </script>
+
+<!--  control container height -->
+<div style="clear:both;"></div>
+
+<!-- end rightbody -->
+
+</div><!-- wrapper -->
+
+
+    <div id="ad-skin-bg-right" class="ad-skin-side-outer ad-skin-side-bg bg-right">
+    <div id="ad-skin-right" class="ad-skin-side right" style="display: none;">
+      <div id="ad-skin-right-absolute-block">
+        <div id="ad-skin-right-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+</div><!-- #myanimelist -->
+
+
+<div class="footer-ranking">
+  <div class="ranking-container">
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php" class="view_more fl-r">More</a>Top Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Fullmetal Alchemist: Brotherhood</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011">Hunter x Hunter (2011)</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php?type=airing" class="view_more fl-r">More</a>Top Airing Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/42203/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season_Part_2">Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/42897/Horimiya">Horimiya</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/38474/Yuru_Camp△_Season_2">Yuru Camp△ Season 2</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/character.php" class="view_more fl-r">More</a>Most Popular Characters
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/character/417/Lelouch_Lamperouge">Lamperouge, Lelouch</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/character/45627/Levi">Levi</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/character/80/Light_Yagami">Yagami, Light</a>
+            </li>
+                  </ol>
+      </div>
+      </div>
+</div>
+<footer>
+  <div id="footer-block">
+    <div class="footer-link-block">
+      <p class="footer-link home di-ib">
+        <a href="https://myanimelist.net/">Home</a>
+      </p>
+      <p class="footer-link di-ib">
+        <a href="https://myanimelist.net/about.php">About</a>
+        <a href="https://myanimelist.net/pressroom">Press Room</a>
+        <a href="https://myanimelist.net/about.php?go=contact">Support</a>
+        <a href="https://myanimelist.net/advertising">Advertising</a>
+        <a href="https://myanimelist.net/forum/?topicid=515949">FAQ</a>
+        <a href="https://myanimelist.net/about/terms_of_use">Terms</a>
+        <a href="https://myanimelist.net/about/privacy_policy">Privacy</a>
+        <a href="#/" class="cmp-gdpr-only">Privacy Settings</a>
+        <a href="#/" class="cmp-ccpa-only">Do Not Sell My Personal Information</a>
+        <a href="https://myanimelist.net/about/cookie_policy">Cookie</a>
+        <a href="https://myanimelist.net/about/notice_at_collection">Notice at Collection</a>
+        <a href="https://myanimelist.net/about/sitemap">Sitemap</a>
+      </p>
+            <p class="footer-link login di-ib">
+        <a href="https://myanimelist.net/login.php?from=%2Fanime%2F7647%2FArakawa_Under_the_Bridge" id="malLogin" rel="nofollow">Login</a>
+        <a href="https://myanimelist.net/register.php?from=%2Fanime%2F7647%2FArakawa_Under_the_Bridge">Sign Up</a>
+      </p>
+          </div>
+
+    
+    <div class="banner-footer-anime-streaming">
+      <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+    </div>
+
+        <div class="footer-link-icon-block">
+            <div class="footer-social-media ac">
+        <a target="_blank" class="icon-sns icon-fb di-ib" href="https://www.facebook.com/OfficialMyAnimeList" rel="noreferrer"></a>
+        <a target="_blank" class="icon-sns icon-tw di-ib" title="Follow @myanimelist on Twitter" href="https://twitter.com/myanimelist" rel="noreferrer"></a></div>
+            <div class="footer-recommended ac">
+        <a target="_blank" class="icon-recommended icon-tokyo-otaku-mode" href="http://otakumode.com/fb/5aO" rel="noopener">Tokyo Otaku Mode</a>
+        <a target="_blank" class="icon-recommended icon-honeys-anime" href="https://honeysanime.com" rel="noopener">Honey's Anime</a>
+        <a target="_blank" class="icon-recommended icon-manga-store" href="https://myanimelist.net/store?_location=mal_f_m">Manga Store</a>
+      </div>
+    </div>
+
+    <div class="footer-fb">
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+      <div class="footer-fb-item">
+                <iframe class="fb-page" src="" width="450" height="154" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+      </div>
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+    </div>
+        
+    <div id="copyright">
+      MyAnimeList.net is a property of MyAnimeList Co.,Ltd. &copy;2021 All Rights Reserved.
+    </div>
+  </div>
+</footer>
+<div class="welcome-back popup-background">
+  <div class="popup">
+    <img class="logo" src="/img/pc/ownlist/logo_mal.png" alt="MyAnimeList">
+    <h3 class="popup-title">Welcome!</h3>
+    <p class="description">Join MyAnimeList to catalog your anime and manga, compare with your friends, create your own profile, and plenty more. It's free and easy to join.</p>
+    <div class="anime-slide1">
+      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/9/9453.jpg');"></div>
+      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/10/47347.jpg');"></div>
+      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/11/39717.jpg');"></div>
+      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
+
+      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/9/9453.jpg');"></div>
+      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/10/47347.jpg');"></div>
+      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/11/39717.jpg');"></div>
+      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
+    </div>
+    <div class="anime-slide2">
+      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/12/76049.jpg');"></div>
+      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/5/64449.jpg');"></div>
+      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/5/73199.jpg');"></div>
+      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/5/65187.jpg');"></div>
+
+      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/12/76049.jpg');"></div>
+      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/5/64449.jpg');"></div>
+      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/5/73199.jpg');"></div>
+      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/5/65187.jpg');"></div>
+    </div>
+    <h3 class="sign-up-with">Free Sign Up with</h3>
+    <div class="sns-sign-up">
+      <a class="sns-button google" href="/sns/login/google?from=%2Fanime%2F7647%2FArakawa_Under_the_Bridge&utm_medium=ldialog_google" onclick="ga('send', 'event', 'ldialog', 'click', 'google');">Google</a>
+      <a class="sns-button facebook" href="/sns/login/facebook?from=%2Fanime%2F7647%2FArakawa_Under_the_Bridge&utm_medium=ldialog_facebook" onclick="ga('send', 'event', 'ldialog', 'click', 'facebook');">Facebook</a>
+      <a class="sns-button twitter" href="/sns/login/twitter?from=%2Fanime%2F7647%2FArakawa_Under_the_Bridge&utm_medium=ldialog_twitter" onclick="ga('send', 'event', 'ldialog', 'click', 'twitter');">Twitter</a>
+    </div>
+    <div class="sign-up">
+      <a class="account register" href="/register.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'mail');">Create an account</a>
+      <br>      <a class="account" href="/login.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'login');">Already have an account?</a>
+    </div>
+    <div class="close-button" onclick="ga('send', 'event', 'ldialog', 'click', 'close');"></div>
+  </div>
+  <script>
+    $(function () {
+      ga('send', 'event', 'popup_login_form', 'show', location.href, {nonInteraction: true});
+      var onresize = function () {
+        var $welcome_back = $('.welcome-back');
+        var $popup = $('.welcome-back .popup');
+        var top = ($welcome_back.outerHeight() - $popup.outerHeight()) / 2;
+        $popup.css('top', top < 0 ? 0 : top);
+      };
+      var onclose = function () {
+        $('.welcome-back').addClass('fade-out')
+          .one('animationend', function () { $(this).remove(); });
+        $(window).off('resize', onresize);
+      };
+
+      var timer_id = null;
+      var show = function () {
+        timer_id = null;
+        // 優先順位の高いポップアップが出ていたら表示しない
+        if (($('.app_gdpr--2k2uB').length > 0 && $('.banner_hidden--MXmJ_').length === 0) || $('._cm-os-slider').length > 0 || $('#tbl-next-up').length > 0 || $('#gdpr-modal-bottom').length > 0) {
+          return
+        }
+        $('.welcome-back').addClass('fade-in');
+        onresize();
+        var timer = setTimeout(onclose,30000);
+        $('.popup').on('mousemove',function(){
+            clearTimeout(timer);
+            timer=setTimeout(onclose, 30000);
+        });
+      };
+
+      $(window)
+        .one('load', function () {
+          onresize();
+          timer_id = setTimeout(show,3000);
+          $('body').on('keydown mousedown mousemove',function(){
+            if(timer_id) {
+              clearTimeout(timer_id);
+              timer_id = setTimeout(show, 3000);
+            }
+          });
+          $(window).scroll(function(){
+            if(timer_id) {
+              clearTimeout(timer_id);
+              timer_id = setTimeout(show, 3000);
+            }
+          });
+        })
+        .on('resize', onresize);
+      $(document).one('click', '.close-button', function () {
+        onclose();
+      });
+      $('.register').click(function () {
+        ga('send', 'event', 'popup_login_form', 'click', location.href, {nonInteraction: true});
+      });
+    });
+  </script>
+</div>
+
+<script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+
+<script async>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga')
+
+  ga('create', 'UA-369102-1', 'auto')
+  ga('set', 'anonymizeIp', true)
+  ga('require', 'linkid') // Enhanced Link Attribution
+    ga('set', 'dimension1', 'guest')
+    ga('send', 'pageview')
+</script>   <script>
+window.onscroll = function(e){
+    const scrollThreshold = 50;
+    if (window.pageYOffset >= scrollThreshold) {
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            let t_height = ad.offsetHeight;
+            let offsetY = ad.getBoundingClientRect().top;
+            let screenHeight = window.outerHeight;
+            let t_position = offsetY - screenHeight;
+            if(-screenHeight<=(t_position　+　t_height) && t_position<0) {
+                ad.className = 'ad-tag';
+                (deployads = window.deployads || []).push({});
+            }
+        });
+    }
+}
+var timer = 0;
+window.onresize = function(e){
+    if (timer > 0) {
+        clearTimeout(timer);
+    }
+
+    timer = setTimeout(function () {
+        console.log('window resized');
+        [].forEach.call(document.querySelectorAll('.ad-tag'), function(ad) {
+            ad.className = 'no-ad';
+            (deployads = window.deployads || []).push({});
+        });
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            ad.className = 'ad-tag';
+            (deployads = window.deployads || []).push({});
+        });
+    }, 200);
+}
+</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WL4QW3G');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+var path = location.pathname;
+var param = location.search;
+
+dataLayer = dataLayer || [];
+
+// login.php
+
+function ga_notlogin(){
+  ga('send', 'event', 'not_login', '2.未ログインの場合', '/login.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=1');
+}
+
+function ga_sns(){
+  ga('send', 'event', 'sns_login', '2-1-1.ソーシャルログインの場合', '/login.php?login-mode=social&c-ms-mode=1');
+}
+
+function ga_login(){
+  ga('send', 'event', 'id_login', '2-1-2.IDログインの場合', '/login.php?login-mode=id&c-ms-mode=1');
+}
+
+// register.php
+
+function ga_registration(){
+  ga('send', 'event', 'registration', '2-2.会員登録ボタン', '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=2');
+}
+
+if ( path.match("register.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2F&c-ms-mode=2',
+        'member_title': '2-2-1.会員情報入力完了',
+        'event': 'loadready-register'
+    });
+}
+
+if ( path.match("login.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': path.concat(param, "&c-ms-mode=2"),
+        'member_title': '2-2-1.メールからの会員認証ページ',
+        'event': 'loadready-login'
+    });
+}
+
+// membership
+
+function ga_mal_banner(){
+  ga('send', 'event', 'support_mal', '2-3.MALバナー', '/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner&c-ms-mode=3');
+}
+
+if ( path.match("login.php") && param.match("from=%2F") ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=3',
+        'member_title': '2-2.会員登録ボタン',
+        'event': 'loadready-login'
+    });
+}
+
+function ga_credit(){
+  ga('send', 'event', 'support_mal', '3-1-1.クレカ登録', '/member-register?c-ms_payment=1&c-ms_mode=3');
+}
+
+function ga_paypal(){
+  ga('send', 'event', 'support_mal', '3-1-2.Paypal登録', '/member-register?c-ms_payment=2&c-ms_mode=3');
+}
+
+if ( path.match("account/membership/complete") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/member-register-complete?c-ms_payment=2&c-ms_mode=3',
+        'member_title': '3-1-2.MAL会員登録成功',
+        'event': 'loadready-member-register-complete'
+    });
+}
+
+</script>
+<script type="text/javascript">
+    window.MAL.magia = "06410c4e6b2518e9add8f6df0ccb2da2876bb8c980aacb43a8dcaa8153c0f92c";
+  window.MAL.madoka = "hZrDKm9k6FVRnqd3i%=K";
+
+  window.MAL.SLVK = "g4OvMLVOmEI3J8u7dt8f8+mAuualsqCo";
+  window.MAL.CDN_URL = "https://cdn.myanimelist.net";
+
+  window.MAL.CURRENT_TUTORIAL_STEP_ID = null;
+  window.MAL.USER_NAME = ""
+  window.MAL.FACEBOOK.APP_ID = "360769957454434"
+  window.MAL.FACEBOOK.API_VERSION = "v2.12"
+</script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+                    <script type="text/javascript">
+          window._taboola = window._taboola || [];
+          _taboola.push({flush: true});
+        </script>
+    </body>
+</html>

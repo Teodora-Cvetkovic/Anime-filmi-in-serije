@@ -1,0 +1,1732 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    
+<link rel="preconnect" href="//fonts.gstatic.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//fonts.googleapis.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tags-cdn.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagservices.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagmanager.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//apis.google.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel-sync.sitescout.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel.tapad.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//c.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tpc.googlesyndication.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//googleads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="//securepubads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="https://cdn.myanimelist.net" crossorigin="anonymous" />
+
+
+<title>
+Mobile Suit Gundam: Iron-Blooded Orphans - MyAnimeList.net
+</title>
+<meta name="description" content="Looking for information on the anime Mobile Suit Gundam: Iron-Blooded Orphans? Find out more with MyAnimeList, the world&#039;s most active online anime and manga community and database. Over three hundred years have passed since the Calamity War, the great conflict between Earth and its outer space colonies. Now Earth is ruled over by four economic blocs, and the military organization Gjallarhorn is responsible for keeping the peace. Mars, on the other hand, depends heavily on Earth&#039;s economy. Horri..." />
+
+  
+<meta name="keywords" content="anime, myanimelist, anime news, manga" />
+  
+
+
+    <meta property="og:locale" content="en_US"><meta property="fb:app_id" content="360769957454434"><meta property="og:site_name" content="MyAnimeList.net"><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@myanimelist"><meta property="og:title" content="Mobile Suit Gundam: Iron-Blooded Orphans"><meta property="og:type" content="video.tv_show"><meta property="og:image" content="https://cdn.myanimelist.net/images/anime/6/75879.jpg"><meta name="twitter:image:src" content="https://cdn.myanimelist.net/r/360x360/images/anime/6/75879.jpg?s=6863723403d8ec413351bc1f3a27f8e8"><meta property="og:url" content="https://myanimelist.net/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans"><meta property="og:description" content="Over three hundred years have passed since the Calamity War, the great conflict between Earth and its outer space colonies. Now Earth is ruled over by four economic blocs, and the military organization Gjallarhorn is responsible for keeping the peace. Mars, on the other hand, depends heavily on Earth&#039;s economy. Horrified by the appalling living conditions that Mars&#039; inhabitants have to bear, Kudelia Aina Bernstein, a young aristocrat from the Chryse Autonomous Region, gets involved in the Red Planet&#039;s independence movement. She hires the services of a local company, Chryse Guard Security (CGS), to escort her on the journey to Earth to negotiate economic conditions with the earthly bloc that controls the region. The Third Army Division—consisting of Mikazuki Augus, Orga Itsuka, and many other child soldiers—are chosen to protect her. When Gjallarhorn attacks the CGS facilities to assassinate the young revolutionary threatening their interests, Orga and his comrades must not let the attackers accomplish their goal—in fact, Gjallarhorn&#039;s actions might turn out to be the unintentional catalyst that leads the children to be the forgers of their own destiny. [Written by MAL Rewrite]">
+
+
+<meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
+
+<meta name='csrf_token' content='e4417934996769510ba57e895a4e8d907da6980a'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
+<meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" />
+
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" href="https://myanimelist.net/plugins/myanimelist.xml" title="MyAnimeList" />
+
+<link rel="shortcut icon" href="https://cdn.myanimelist.net/images/favicon.ico" />
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+      <script src="//tags-cdn.deployads.com/a/myanimelist.net.js" async="async"></script>
+            <script async="async" type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script>
+$(document).ready(function(){
+  window.Criteo = window.Criteo || {};
+  window.Criteo.events = window.Criteo.events || [];
+  $('.ad-criteo').each(function(){
+    var slotid = $(this).attr('data-ad-slot');
+    var zoneid = $(this).attr('data-ad-zone');
+    var CriteoAdUnits = {"placements":[{"slotid":slotid, "zoneid":zoneid}]};
+    var processCdbBid = function(){
+      var bids = Criteo.GetBidsForAdUnit(slotid);
+      if(bids.length > 0){
+        Criteo.RenderAd({bidId:bids[0].id, containerId:bids[0].impressionId});
+      }
+    };
+    Criteo.events.push(function(){Criteo.RequestBids(CriteoAdUnits, processCdbBid, 2000);});
+  });
+});
+</script>
+
+
+
+            <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/myanimelist/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>    
+</head>
+
+<body onload=" " class="page-common"data-ms="true" data-country-code="SI" >
+<div id="myanimelist">
+
+    
+  
+    <script type='text/javascript'>
+    window.MAL.SkinAd.prepareForSkin('');
+  </script>
+
+    <div id="ad-skin-bg-left" class="ad-skin-side-outer ad-skin-side-bg bg-left">
+    <div id="ad-skin-left" class="ad-skin-side left" style="display: none;">
+      <div id="ad-skin-left-absolute-block">
+        <div id="ad-skin-left-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
+    <script>(deployads = window.deployads || []).pageSegment = 'anime_title_31251';</script>
+
+
+<script>
+    var trackOutboundLink = function(url) {
+        ga('send', 'event', 'outbound', 'click', url, {
+            'transport': 'beacon',
+            'hitCallback': function(){return true;}
+        });
+    }
+</script><div class="banner-header-anime-straming" style="right:480px;">
+  <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+</div>
+
+
+<div id="header-menu" ><div class="header-menu-login"><a class="btn-mal-service"
+             href="https://myanimelist.net/membership?_location=mal_h_u" onClick="ga_mal_banner()">Hide Ads</a><a class="btn-login" href="https://myanimelist.net/login.php?from=%2Fanime%2F31251%2FMobile_Suit_Gundam__Iron-Blooded_Orphans" id="malLogin" onClick="ga_notlogin()">Login</a><a class="btn-signup" href="https://myanimelist.net/register.php?from=%2Fanime%2F31251%2FMobile_Suit_Gundam__Iron-Blooded_Orphans" onClick="ga_registration()">Sign Up</a></div></div></div>  <div id="menu" class="">
+    <div id="menu_right"><script type="text/x-template" id="incremental-result-item-anime"><div class="list anime" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info anime"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Aired: ${ item.payload.aired }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info anime"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-manga"><div class="list manga" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info manga"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Published: ${ item.payload.published }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info manga"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-character"><div class="list character" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div><div class="extra-info"><ul class="related-works"><li v-for="work in item.payload.related_works" class="fs-i">- ${ work }</li></ul>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-person"><div class="list person" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.alternative_name">${ item.payload.alternative_name }<br></span>Birthday: ${ item.payload.birthday }<br>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-store"><div class="list store" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info store"></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info store"></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-club"><div class="list club" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div><div class="extra-info">Members: ${ item.payload.members }<br>Category: ${ item.payload.category }<br>Created by: ${ item.payload.created_by }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-user"><div class="list user" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.authority">${ item.payload.authority }<br></span>Joined: ${ item.payload.joined }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-news"><div class="list news" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-featured"><div class="list featured" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-forum"><div class="list forum" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="extra-info">${ item.payload.date }<br><span>in ${ item.payload.category }</span></div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-separator"><div class="list separator"><div class="separator"><span v-show="item.name == 'anime'">Anime</span><span v-show="item.name == 'manga'">Manga</span><span v-show="item.name == 'character'">Characters</span><span v-show="item.name == 'person'">People</span></div></div></script><div id="top-search-bar"><form id="searchBar" method="get" class="searchBar" @submit.prevent="jump()"><div class="form-select-outer fl-l"><select name="type" id="topSearchValue" class="inputtext" v-model="type"><option value="all">All</option><option value="anime">Anime</option><option value="manga">Manga</option><option value="character">Characters</option><option value="person">People</option><option value="store">Manga Store</option><option value="news">News</option><option value="featured">Featured Articles</option><option value="forum">Forum</option><option value="club">Clubs</option><option value="user">Users</option></select></div><input v-model="keyword" id="topSearchText" type="text"
+            name="keyword" class="inputtext fl-l" placeholder="Search Anime, Manga, and more..."
+            size="30" autocomplete="off"
+            @keydown.up.prevent="moveSelection(-1)" @keydown.down.prevent="moveSelection(1)"
+            @focus="isFocused = true" @blur="isFocused = false"><input id="topSearchButon" class="fl-l" :class="{'notActive': (keyword.length < 3)}" type="submit" value="&#xf002"></form><div id="topSearchResultList" class="incrementalSearchResultList" :style="{display: (showResult ? 'block' : 'none')}" @mousedown.prevent=""><div v-for="(item, i) in items" @mouseover="selection=i"><component :is="resolveComponent(item)" :item="item" :focus="selection == i" :url="generateItemPageUrl(item)"></component></div><div class="list list-bottom" :class="{'focus': selection == -1}" @mouseover="selection = -1"
+               :style="{display: (showViewAllLink ? 'block' : 'none')}"><a :href="resultPageUrl">
+              View all results for <span class="fw-b">${ keyword }</span><i v-show="isRequesting" class="fa fa-spinner fa-spin ml4"></i></a></div></div></div></div><div id="menu_left">
+      <ul id="nav">
+        <li class="small"><a href="#" class="non-link">Anime</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/anime.php?_location=mal_h_m">Anime Search</a></li>
+            <li><a href="https://myanimelist.net/topanime.php?_location=mal_h_m">Top Anime</a></li>
+            <li><a href="https://myanimelist.net/anime/season?_location=mal_h_m">Seasonal Anime</a></li>
+                        <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m_a">Videos</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=anime&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=anime&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1885985&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Manga</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/manga.php?_location=mal_h_m">Manga Search</a></li>
+            <li><a href="https://myanimelist.net/topmanga.php?_location=mal_h_m">Top Manga</a></li>
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=manga&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=manga&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1886113&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li><a href="#" class="non-link">Community</a>
+          <ul>
+            <li><a href="https://myanimelist.net/forum/?_location=mal_h_m">Forums</a></li>
+            <li><a href="https://myanimelist.net/clubs.php?_location=mal_h_m">Clubs</a></li>
+            <li><a href="https://myanimelist.net/blog.php?_location=mal_h_m">Blogs</a></li>
+            <li><a href="https://myanimelist.net/users.php?_location=mal_h_m">Users</a></li>
+            <li><a href="https://discord.gg/E2xC8ZF">Discord Chat</a></li>
+          </ul>
+        </li>
+        <li class="small2"><a href="#" class="non-link">Industry</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/news?_location=mal_h_m">News</a></li>
+            <li><a href="https://myanimelist.net/featured?_location=mal_h_m">Featured Articles</a></li>
+            <li><a href="https://myanimelist.net/people.php?_location=mal_h_m">People</a></li>
+            <li><a href="https://myanimelist.net/character.php?_location=mal_h_m">Characters</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Watch</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m">Episode Videos</a></li>
+            <li><a href="https://myanimelist.net/watch/promotion?_location=mal_h_m">Promotional Videos</a></li></ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Read</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+          </ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Help</a>
+          <ul class="wide">
+            <li><a href="https://myanimelist.net/about.php?_location=mal_h_m">About</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=support&amp;_location=mal_h_m">Support</a></li>
+            <li><a href="https://myanimelist.net/advertising?_location=mal_h_m">Advertising</a></li>
+            <li><a href="https://myanimelist.net/forum/?topicid=515949&amp;_location=mal_h_m">FAQ</a></li>
+            <li><a href="https://myanimelist.net/modules.php?go=report&amp;_location=mal_h_m">Report</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=team&amp;_location=mal_h_m">Staff</a></li><li><a href="https://myanimelist.net/membership?_location=mal_h_m">MAL Supporter</a></li>
+          </ul>
+        </li>
+        
+            
+      </ul>
+    </div>  </div><div id="contentWrapper" itemscope itemtype="http://schema.org/TVSeries"><div><div class="h1 edit-info">
+      <div class="h1-title"><div itemprop="name"><h1 class="title-name h1_bold_none"><strong>Mobile Suit Gundam: Iron-Blooded Orphans</strong></h1></div></div><div class="header-right">
+          <a href="https://myanimelist.net/login.php?from=%2Fanime%2F31251%2FMobile_Suit_Gundam__Iron-Blooded_Orphans&amp;error=login_required" class="js-anime-edit-info-button"><i class="fa fa-pencil mr4"></i>Edit</a>
+<div id="editdiv" class="fw-n fs11">
+  <form method="GET" action="https://myanimelist.net/dbchanges.php" class="di-i">
+    <input type="hidden" name="aid" value="31251">
+    <div class="pb8">What would you like to edit?</div>
+                      <select name="t" id="t" class="inputtext"><option value="synopsis">Synopsis</option><option value="background">Background</option><option value="alternative_titles">Alternative Titles</option><option value="pic">Picture</option><option value="airingdates">Airing Dates</option><option value="producers">Producers</option><option value="relations">Relations</option><option value="rating">Rating</option><option value="duration">Duration</option><option value="source">Source</option><option value="broadcast">Broadcast</option></select>
+     &nbsp;<input type="submit" value="Go" class="inputButton flat btn-middle">
+  </form>
+</div>
+</div></div></div><div id="content" >
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+	 <td class="borderClass" width="225" style="border-width: 0 1px 0 0;" valign="top"><div style="width: 225px">
+
+<div style="text-align: center;">
+          <a href="https://myanimelist.net/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/pics">
+      <img class="lazyload" data-src="https://cdn.myanimelist.net/images/anime/6/75879.jpg" alt="Mobile Suit Gundam: Iron-Blooded Orphans" class="ac" itemprop="image">
+    </a>
+  </div>
+
+<!-- My List -->
+<div class="profileRows pb0">
+  <a href="https://myanimelist.net/login.php?from=%2Fanime%2F31251%2FMobile_Suit_Gundam__Iron-Blooded_Orphans&amp;error=login_required">Add to My List</a>
+</div>
+
+<div id="addtolist" class="addtolist-block js-anime-addtolist-block" style="display: none;">
+  <input type="hidden" id="myinfo_anime_id" value="31251">
+  <input type="hidden" id="myinfo_curstatus" value="">
+
+  <span class="notice_open_public pb4">* Your list is public by default.</span>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td class="spaceit">Status:</td>
+      <td class="spaceit">
+        <select name="myinfo_status" id="myinfo_status" class="inputtext js-anime-status-dropdown"><option value="1">Watching</option><option value="2">Completed</option><option value="3">On-Hold</option><option value="4">Dropped</option><option value="6">Plan to Watch</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td class="spaceit">Eps Seen:</td>
+      <td class="spaceit">
+        <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext" value=""> / <span id="curEps">25</span></td>
+    </tr>
+    <tr>
+      <td class="spaceit">Your Score:</td>
+      <td class="spaceit">
+        <select name="myinfo_score" id="myinfo_score" class="inputtext"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>
+                <input type="button" name="myinfo_submit" value="Add" class="inputButton btn-middle flat js-anime-add-button">
+        <span id="addtolistresult"><a href="https://myanimelist.net/ownlist/anime/add?selected_series_id=31251">Add Detailed Info</a></span>
+              </td>
+    </tr>
+  </table>
+  <div id="myinfoDisplay" style="padding-left: 89px; margin-top: 3px;"></div>
+</div>
+<!-- end My List -->
+
+<div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F31251%2FMobile_Suit_Gundam__Iron-Blooded_Orphans&amp;error=login_required" style="font-weight:normal;">Add to Favorites</a></div>
+
+<div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F31251%2FMobile_Suit_Gundam__Iron-Blooded_Orphans"></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F31251%2FMobile_Suit_Gundam__Iron-Blooded_Orphans&amp;text=Mobile%20Suit%20Gundam%3A%20Iron-Blooded%20Orphans&amp;hashtags=anime"></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F31251%2FMobile_Suit_Gundam__Iron-Blooded_Orphans&amp;title=Mobile%20Suit%20Gundam%3A%20Iron-Blooded%20Orphans"></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F31251%2FMobile_Suit_Gundam__Iron-Blooded_Orphans&amp;name=Mobile%20Suit%20Gundam%3A%20Iron-Blooded%20Orphans"></a></div>  <br />
+
+  <h2>Alternative Titles</h2><div class="spaceit_pad">
+    <span class="dark_text">English:</span> Mobile Suit Gundam: Iron-Blooded Orphans
+  </div><div class="spaceit_pad">
+    <span class="dark_text">Synonyms:</span> Kidou Senshi Gundam: Tekketsu no Orphans, G-Tekketsu
+  </div><div class="spaceit_pad">
+    <span class="dark_text">Japanese:</span> 機動戦士ガンダム 鉄血のオルフェンズ
+  </div><br />
+
+<h2>Information</h2>
+
+<div>
+  <span class="dark_text">Type:</span>
+  <a href="https://myanimelist.net/topanime.php?type=tv">TV</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Episodes:</span>
+  25
+  </div>
+
+<div>
+  <span class="dark_text">Status:</span>
+  Finished Airing
+  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Aired:</span>
+  Oct 4, 2015 to Mar 27, 2016
+  </div>
+
+  <div>
+    <span class="dark_text">Premiered:</span>
+          <a href="https://myanimelist.net/anime/season/2015/fall">Fall 2015</a>
+          </div>
+
+  <div class="spaceit">
+    <span class="dark_text">Broadcast:</span>
+    Sundays at 17:00 (JST)
+      </div>
+
+  <div>
+    <span class="dark_text">Producers:</span>
+          <a href="/anime/producer/64/Sotsu" title="Sotsu">Sotsu</a>,       <a href="/anime/producer/142/Asatsu_DK" title="Asatsu DK">Asatsu DK</a>,       <a href="/anime/producer/143/Mainichi_Broadcasting_System" title="Mainichi Broadcasting System">Mainichi Broadcasting System</a>  </div>
+  <div class="spaceit">
+    <span class="dark_text">Licensors:</span>
+          <a href="/anime/producer/102/Funimation" title="Funimation">Funimation</a>  </div>
+  <div>
+    <span class="dark_text">Studios:</span>
+          <a href="/anime/producer/14/Sunrise" title="Sunrise">Sunrise</a>  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Source:</span>
+  Original
+  </div>
+
+<div>
+  <span class="dark_text">Genres:</span>
+      <span itemprop="genre" style="display: none">Action</span><a href="/anime/genre/1/Action" title="Action">Action</a>,     <span itemprop="genre" style="display: none">Drama</span><a href="/anime/genre/8/Drama" title="Drama">Drama</a>,     <span itemprop="genre" style="display: none">Mecha</span><a href="/anime/genre/18/Mecha" title="Mecha">Mecha</a>,     <span itemprop="genre" style="display: none">Sci-Fi</span><a href="/anime/genre/24/Sci-Fi" title="Sci-Fi">Sci-Fi</a>,     <span itemprop="genre" style="display: none">Space</span><a href="/anime/genre/29/Space" title="Space">Space</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Duration:</span>
+  24 min. per ep.
+  </div>
+
+<div>
+  <span class="dark_text">Rating:</span>
+  R - 17+ (violence &amp; profanity)
+  </div>
+
+<br />
+
+<h2>Statistics</h2>
+<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" class="po-r js-statistics-info di-ib" data-id="info1">
+  <span class="dark_text">Score:</span>
+  <span itemprop="ratingValue" class="score-label score-8">8.02</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">78284</span>78,284 users)
+      <meta itemprop="bestRating" content="10">
+    <meta itemprop="worstRating" content="1">
+      <div class="statistics-info info1">
+    <small><sup>1</sup>
+          indicates a <a href="javascript:void(0);" onclick="window.open('/info.php?go=topanime','topanime','menubar=no,scrollbars=no,status=no,width=500,height=380');">weighted score</a>.
+    </small>
+  </div>
+</div>
+<div class="spaceit po-r js-statistics-info di-ib" data-id="info2">
+  <span class="dark_text">Ranked:</span>
+  #527<sup>2</sup>
+    <div class="statistics-info info2">
+    <small><sup>2</sup>
+    based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
+    </small>
+  </div>
+</div>
+<div>
+  <span class="dark_text">Popularity:</span>
+  #899
+</div>
+<div class="spaceit">
+  <span class="dark_text">Members:</span>
+    159,908
+</div>
+<div>
+  <span class="dark_text">Favorites:</span>
+  2,170
+</div>
+
+  <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
+          </div>
+
+</div></td><td valign="top" style="padding-left: 5px;"><div class="js-scrollfix-bottom-rel"><div style="width:728px; margin:0 auto"></div><a name="lower"></a>
+<div id="horiznav_nav" style="margin: 5px 0 10px 0;">
+  <ul style="margin-right: 0; padding-right: 0;">
+        <li><a href="https://myanimelist.net/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans" class="horiznav_active">Details</a>
+    </li>
+        <li><a href="/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/video">Videos</a>
+    </li>
+        <li>      <a href="https://myanimelist.net/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/episode">Episodes</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/reviews">Reviews</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/userrecs">Recommendations</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/stats">Stats</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/characters">Characters &amp; Staff</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/news">News</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/forum">Forum</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/featured">Featured</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/clubs">Clubs</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/pics">Pictures</a>
+    </li>
+    </ul>
+</div>
+
+
+
+                    <div class="breadcrumb " itemscope itemtype="http://schema.org/BreadcrumbList"><div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/" itemprop="item"><span itemprop="name">
+              Top
+                          </span></a><meta itemprop="position" content="1"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime.php" itemprop="item"><span itemprop="name">
+              Anime
+                          </span></a><meta itemprop="position" content="2"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans" itemprop="item"><span itemprop="name">
+              Mobile Suit Gundam: Iron-Blood...
+                          </span></a><meta itemprop="position" content="3"></div></div>
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="78,284 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.02</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#527</strong></span><span class="numbers popularity">Popularity <strong>#899</strong></span><span class="numbers members">Members <strong>159,908</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2015/fall">Fall 2015</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/14/Sunrise" title="Sunrise">Sunrise</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="31251"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F31251%2FMobile_Suit_Gundam__Iron-Blooded_Orphans&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+        Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="25">25</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Mobile%20Suit%20Gundam%3A%20Iron-Blooded%20Orphans&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime js-shop-selecter icon-shop-default" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:31251,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><div class="anime-detail-header-affiliate-dialog js-shop-selecter-dialog" style="display:none"><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Mobile%20Suit%20Gundam%3A%20Iron-Blooded%20Orphans&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:31251,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><a href="http://www.cdjapan.co.jp/aff/click.cgi/PytJTGW7Lok/6039/A764127/searches?q=Mobile+Suit+Gundam%3A+Iron-Blooded+Orphans" class="btn-affiliate cdjapan js-shop-anime js-shop-cd-japan" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;cdjapan&quot;,&quot;id&quot;:31251,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/logo-cdjapan.png" width="118" height="25" alt="buy from CD Japan"></a><a href="http://www.shareasale.com/r.cfm?u=1384175&b=866986&m=65886&afftrack=&urllink=www.rightstufanime.com%2Fsearch%3Fkeywords%3DMobile%20Suit%20Gundam%20Iron-Blooded%20Orphans" class="btn-affiliate right_stuf js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;right_stuf&quot;,&quot;id&quot;:31251,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_right_stuf.png" width="118" height="25" alt="buy from Rightstuf"></a></div></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/eDDhJ01zlFs?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/eDDhJ01zlFs/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">PV Special version</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
+</div><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=31251&t=synopsis" style="font-weight: normal;">Edit</a></div><h2>Synopsis</h2></div><p itemprop="description">Over three hundred years have passed since the Calamity War, the great conflict between Earth and its outer space colonies. Now Earth is ruled over by four economic blocs, and the military organization Gjallarhorn is responsible for keeping the peace. Mars, on the other hand, depends heavily on Earth&#039;s economy.<br />
+<br />
+Horrified by the appalling living conditions that Mars&#039; inhabitants have to bear, Kudelia Aina Bernstein, a young aristocrat from the Chryse Autonomous Region, gets involved in the Red Planet&#039;s independence movement. She hires the services of a local company, Chryse Guard Security (CGS), to escort her on the journey to Earth to negotiate economic conditions with the earthly bloc that controls the region. The Third Army Division&mdash;consisting of Mikazuki Augus, Orga Itsuka, and many other child soldiers&mdash;are chosen to protect her.<br />
+<br />
+When Gjallarhorn attacks the CGS facilities to assassinate the young revolutionary threatening their interests, Orga and his comrades must not let the attackers accomplish their goal&mdash;in fact, Gjallarhorn&#039;s actions might turn out to be the unintentional catalyst that leads the children to be the forgers of their own destiny.<br />
+<br />
+[Written by MAL Rewrite]</p><div style="margin-top: 15px;"><div class="floatRightHeader"><a href="/dbchanges.php?aid=31251&t=background" style="font-weight: normal;">Edit</a></div><h2>Background</h2></div>No background information has been added to this title. Help improve our database by adding background information <a href="/dbchanges.php?aid=31251&t=background">here</a>.<br><div style="margin-top: 15px;"><div class="floatRightHeader"><a href="/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/video">More Videos</a></div><h2>Episode Videos</h2></div><div class="anime-slide-block" id="episode_video" data-json='{"width":800,"btnWidth":40,"margin":8}' style="height:129px;"><div class="btn-anime-slide-side left"><span class="btn-inner"></span></div><div class="btn-anime-slide-side right"><span class="btn-inner"></span></div><div class="anime-slide-outer"><ul class="anime-slide js-anime-slide" data-slide="4"><li class="btn-anime" style="width:194px;"><a href="https://myanimelist.net/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/episode/25" class="link" style="background-image:url('https://img1.ak.crunchyroll.com/i/spire1-tmb/c8b02c815c5090f47b108939c16015421459274618_large.jpg');width:194px;height:129px;"><span class="title pb8" style="width:184px;">
+            Episode 25<span class=" ml4"></span></span></a></li><li class="btn-anime" style="width:194px;"><a href="https://myanimelist.net/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/episode/24" class="link" style="background-image:url('https://img1.ak.crunchyroll.com/i/spire1-tmb/46849813e79ec54f4585e8e98d5766481458954320_large.jpg');width:194px;height:129px;"><span class="title pb8" style="width:184px;">
+            Episode 24<span class=" ml4"></span></span></a></li><li class="btn-anime" style="width:194px;"><a href="https://myanimelist.net/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/episode/23" class="link" style="background-image:url('https://img1.ak.crunchyroll.com/i/spire1-tmb/27ef04f48da2b36e43d7dd1e611dbdfa1458437561_large.jpg');width:194px;height:129px;"><span class="title pb8" style="width:184px;">
+            Episode 23<span class=" ml4"></span></span></a></li><li class="btn-anime" style="width:194px;"><a href="https://myanimelist.net/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/episode/22" class="link" style="background-image:url('https://img1.ak.crunchyroll.com/i/spire3-tmb/2ca08d75a8b94c3fe7e5cd1bcfc0c8fd1457757090_large.jpg');width:194px;height:129px;"><span class="title pb8" style="width:184px;">
+            Episode 22<span class=" ml4"></span></span></a></li></ul></div></div><div class="border_top" style="padding:16px 0px 0px 0px;margin:14px 0px 0px 0px;"><div style="padding: 20px 0 20px 40px; float: left; position: relative; z-index: 1;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540582" data-ad-slot="criteo_slot_1540582" id="criteo_slot_1540582"></div>
+
+      </div>
+    </div><div style="padding: 20px 40px 20px 0; float: right; position: relative;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540583" data-ad-slot="criteo_slot_1540583" id="criteo_slot_1540583"></div>
+
+      </div>
+    </div></div></td></tr><tr><td class="pb24"><br><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=31251&t=relations" style="font-weight: normal;">Edit</a></div><h2>Related Anime</h2></div><table class="anime_detail_related_anime" style="border-spacing:0px;"><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Adaptation:</td><td width="100%" class="borderClass"><a href="/manga/93408/Kidou_Senshi_Gundam__Tekketsu_no_Orphans">Kidou Senshi Gundam: Tekketsu no Orphans</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Other:</td><td width="100%" class="borderClass"><a href="/anime/80/Mobile_Suit_Gundam">Mobile Suit Gundam</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Sequel:</td><td width="100%" class="borderClass"><a href="/anime/33051/Mobile_Suit_Gundam__Iron-Blooded_Orphans_2nd_Season">Mobile Suit Gundam: Iron-Blooded Orphans 2nd Season</a>, <a href="/anime/38982/Mobile_Suit_Gundam__Iron-Blooded_Orphans_-_Urðr_Hunt">Mobile Suit Gundam: Iron-Blooded Orphans - Urðr Hunt</a></td></table><br><div><div class="floatRightHeader"><a href="/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/characters" style="font-weight: normal;">More characters</a></div><h2>Characters & Voice Actors</h2></div><div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/131894/Mikazuki_Augus" class="fw-n">
+            <img alt="Augus, Mikazuki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/11/328479.jpg?s=03ad50af9d996ce4ee1256c329053ea4" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/11/328479.jpg?s=03ad50af9d996ce4ee1256c329053ea4 1x, https://cdn.myanimelist.net/r/84x124/images/characters/11/328479.jpg?s=7bd7e20bc1445e5a2ab5e0b0add2bfd7 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/131894/Mikazuki_Augus">Augus, Mikazuki</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/15877/Kengo_Kawanishi">Kawanishi, Kengo</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/15877/Kengo_Kawanishi">
+                      <img alt="Kawanishi, Kengo" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/46959.jpg?s=eb964e2f0c21298e0a50c1d7932e13cb" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/46959.jpg?s=eb964e2f0c21298e0a50c1d7932e13cb 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/46959.jpg?s=6869210bfe47b71877090b75664fe66b 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/131895/Orga_Itsuka" class="fw-n">
+            <img alt="Itsuka, Orga" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/14/301852.jpg?s=797f9895f712af8f071b794c0b42d938" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/14/301852.jpg?s=797f9895f712af8f071b794c0b42d938 1x, https://cdn.myanimelist.net/r/84x124/images/characters/14/301852.jpg?s=c4659bf7947614716fa7b388e7284ee2 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/131895/Orga_Itsuka">Itsuka, Orga</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/5626/Yoshimasa_Hosoya">Hosoya, Yoshimasa</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/5626/Yoshimasa_Hosoya">
+                      <img alt="Hosoya, Yoshimasa" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/61090.jpg?s=4089120aa7547c20abf8157edaede7a5" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/61090.jpg?s=4089120aa7547c20abf8157edaede7a5 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/61090.jpg?s=6d925e3398c404b4390b9d0b6adf2755 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/131900/Kudelia_Aina_Bernstein" class="fw-n">
+            <img alt="Bernstein, Kudelia Aina" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/7/292807.jpg?s=83dafbae4b4b1a780c234ce4a97883e8" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/7/292807.jpg?s=83dafbae4b4b1a780c234ce4a97883e8 1x, https://cdn.myanimelist.net/r/84x124/images/characters/7/292807.jpg?s=e73fd122322ffa03d683e57c026570df 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/131900/Kudelia_Aina_Bernstein">Bernstein, Kudelia Aina</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/671/Yuka_Terasaki">Terasaki, Yuka</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/671/Yuka_Terasaki">
+                      <img alt="Terasaki, Yuka" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/35199.jpg?s=aacfd5ca6c4e50dfaf902f371ed0aff6" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/35199.jpg?s=aacfd5ca6c4e50dfaf902f371ed0aff6 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/35199.jpg?s=711465313458a9eb94fe1251357f99c4 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/132557/McGillis_Fareed" class="fw-n">
+            <img alt="Fareed, McGillis" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/8/301380.jpg?s=115c8222d274bc76ca058314ce4732a4" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/8/301380.jpg?s=115c8222d274bc76ca058314ce4732a4 1x, https://cdn.myanimelist.net/r/84x124/images/characters/8/301380.jpg?s=a254a89ca1ce49701bc508ca0bbd9ab8 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/132557/McGillis_Fareed">Fareed, McGillis</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/79/Takahiro_Sakurai">Sakurai, Takahiro</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/79/Takahiro_Sakurai">
+                      <img alt="Sakurai, Takahiro" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/42157.jpg?s=fed156895f941257ce4a16a48ee27bdb" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/42157.jpg?s=fed156895f941257ce4a16a48ee27bdb 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/42157.jpg?s=08d8138259c7d520e4158d770cb305db 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/132556/Atra_Mixta" class="fw-n">
+            <img alt="Mixta, Atra" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/3/301384.jpg?s=5493ba1ab488a86b5b46a2809c047791" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/3/301384.jpg?s=5493ba1ab488a86b5b46a2809c047791 1x, https://cdn.myanimelist.net/r/84x124/images/characters/3/301384.jpg?s=96b4fea7876c2fe17bb8bf64c4785617 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/132556/Atra_Mixta">Mixta, Atra</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/8555/Hisako_Kanemoto">Kanemoto, Hisako</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/8555/Hisako_Kanemoto">
+                      <img alt="Kanemoto, Hisako" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/53110.jpg?s=eec77e045328947f4fe23698bc94463d" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/53110.jpg?s=eec77e045328947f4fe23698bc94463d 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/53110.jpg?s=39319afe74a8a2f6870d21272deb3848 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/135774/Lafter_Frankland" class="fw-n">
+            <img alt="Frankland, Lafter" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/15/296451.jpg?s=f6d9a3aeeb2d0f96ae634b3e12f1e3e8" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/15/296451.jpg?s=f6d9a3aeeb2d0f96ae634b3e12f1e3e8 1x, https://cdn.myanimelist.net/r/84x124/images/characters/15/296451.jpg?s=6b91c827dfc5db7177291820b40eee22 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/135774/Lafter_Frankland">Frankland, Lafter</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/7263/Yoko_Hikasa">Hikasa, Yoko</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/7263/Yoko_Hikasa">
+                      <img alt="Hikasa, Yoko" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/44597.jpg?s=322ecae926fad2611160fa7b5c251e3c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/44597.jpg?s=322ecae926fad2611160fa7b5c251e3c 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/44597.jpg?s=7c9114ba4b05d55546bc9db06edf7b8e 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/131898/Akihiro_Altland" class="fw-n">
+            <img alt="Altland, Akihiro" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/13/316245.jpg?s=52567c5e777f635aa082c49a91a3df79" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/13/316245.jpg?s=52567c5e777f635aa082c49a91a3df79 1x, https://cdn.myanimelist.net/r/84x124/images/characters/13/316245.jpg?s=09f26097808ccfab72a0e24ddd7fab82 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/131898/Akihiro_Altland">Altland, Akihiro</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/11510/Yasuaki_Takumi">Takumi, Yasuaki</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/11510/Yasuaki_Takumi">
+                      <img alt="Takumi, Yasuaki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/44256.jpg?s=29183149cd81a1e72e06d05c4121da9b" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/44256.jpg?s=29183149cd81a1e72e06d05c4121da9b 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/44256.jpg?s=b326aee67efb756636fc0803aad472c5 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/132558/Gaelio_Bauduin" class="fw-n">
+            <img alt="Bauduin, Gaelio" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/3/301377.jpg?s=d915d93edbc7f955a0f709152adac9df" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/3/301377.jpg?s=d915d93edbc7f955a0f709152adac9df 1x, https://cdn.myanimelist.net/r/84x124/images/characters/3/301377.jpg?s=e11e7598092ae8cd2e2ba6f787b06f37 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/132558/Gaelio_Bauduin">Bauduin, Gaelio</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/42/Masaya_Matsukaze">Matsukaze, Masaya</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/42/Masaya_Matsukaze">
+                      <img alt="Matsukaze, Masaya" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/61072.jpg?s=544fa6d47b9d8256f2c9d32c3c3e24ad" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/61072.jpg?s=544fa6d47b9d8256f2c9d32c3c3e24ad 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/61072.jpg?s=e8cbb90363250fd29196ae03adc92b9b 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/131899/Norba_Shino" class="fw-n">
+            <img alt="Shino, Norba" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/14/321236.jpg?s=3fda114fa78287b47501deca0386952a" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/14/321236.jpg?s=3fda114fa78287b47501deca0386952a 1x, https://cdn.myanimelist.net/r/84x124/images/characters/14/321236.jpg?s=78bb97942ea715d0237958bada74ddf6 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/131899/Norba_Shino">Shino, Norba</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/12705/Taishi_Murata">Murata, Taishi</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/12705/Taishi_Murata">
+                      <img alt="Murata, Taishi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/45693.jpg?s=0d0a4aca377118d557f902b3b0fdafec" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/45693.jpg?s=0d0a4aca377118d557f902b3b0fdafec 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/45693.jpg?s=b79b4c90eb0be4c1537ed0c50bf8b71a 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/135578/Naze_Turbine" class="fw-n">
+            <img alt="Turbine, Naze" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/11/295546.jpg?s=0dd4dba6efdc5ff61f37a7b02946f254" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/11/295546.jpg?s=0dd4dba6efdc5ff61f37a7b02946f254 1x, https://cdn.myanimelist.net/r/84x124/images/characters/11/295546.jpg?s=3b5afe73c046e8c6cf79170725fddd3b 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/135578/Naze_Turbine">Turbine, Naze</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/97/Kousuke_Toriumi">Toriumi, Kousuke</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/97/Kousuke_Toriumi">
+                      <img alt="Toriumi, Kousuke" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/56756.jpg?s=da69abd19900e74ae5817ffc973cb65a" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/56756.jpg?s=da69abd19900e74ae5817ffc973cb65a 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/56756.jpg?s=4285e8e69cf22b2bb1fd403af049eb49 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div></div>
+<div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div><br>
+<a name="staff"></a>
+<div>
+  <div class="floatRightHeader"><a href="https://myanimelist.net/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/characters#staff">More staff</a></div>
+  <h2>Staff</h2>
+</div>
+
+<div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/8539/Tatsuyuki_Nagai" class="fw-n">
+            <img alt="Nagai, Tatsuyuki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54569.jpg?s=fd78bc10ae8d64d01cf1a31d1a154f46" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54569.jpg?s=fd78bc10ae8d64d01cf1a31d1a154f46 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/54569.jpg?s=88642cec247e12847713a18fce680e5f 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/8539/Tatsuyuki_Nagai">Nagai, Tatsuyuki</a>
+        <div class="spaceit_pad">
+          <small>Director, Episode Director, Storyboard</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/8074/Jin_Aketagawa" class="fw-n">
+            <img alt="Aketagawa, Jin" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/53380.jpg?s=effa36418c3b694ce1175038f95ae154" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/53380.jpg?s=effa36418c3b694ce1175038f95ae154 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/53380.jpg?s=d5695e390c16f1990efb6c9440c4a5f1 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/8074/Jin_Aketagawa">Aketagawa, Jin</a>
+        <div class="spaceit_pad">
+          <small>Sound Director</small>
+        </div>
+      </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/21519/Naomichi_Yamato" class="fw-n">
+            <img alt="Yamato, Naomichi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/21519/Naomichi_Yamato">Yamato, Naomichi</a>
+        <div class="spaceit_pad">
+          <small>Episode Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/5978/Mari_Okada" class="fw-n">
+            <img alt="Okada, Mari" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/53505.jpg?s=8e2dfb2fd92fcae0d92f008daa16da23" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/53505.jpg?s=8e2dfb2fd92fcae0d92f008daa16da23 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/53505.jpg?s=db6e0df3f56d4f2898ca12ffe7565332 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/5978/Mari_Okada">Okada, Mari</a>
+        <div class="spaceit_pad">
+          <small>Script, Series Composition</small>
+        </div>
+      </td>
+    </tr>
+  </table></div></div>
+<br><br><div class="di-t">
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=31251&amp;t=theme" class="floatRightHeader">Edit</a>
+      <h2>Opening Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs opnening"><span class="theme-song">#1: &quot;Raise your flag&quot; by MAN WITH A MISSION (eps 2-13)</span><br><span class="theme-song">#2: &quot;Survivor&quot; by BLUE ENCOUNT (eps 14-25)</span><br></div>
+  </div>
+  <div class="di-tc va-t}" style="width:16px;"></div>
+
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=31251&amp;t=theme&amp;themetype=2" class="floatRightHeader">Edit</a>
+      <h2>Ending Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs ending"><span class="theme-song">#1: &quot;Raise your flag&quot; by MAN WITH A MISSION (ep 1)</span><br><span class="theme-song">#2: &quot;Orphans no Namida (オルフェンズの涙)&quot; by MISIA (eps 2-13, 21)</span><br><span class="theme-song">#3: &quot;Steel: Tekketsu no Kizuna (STEEL-鉄血の絆-)&quot; by TRUE (eps 14-18, 20, 22-25)</span><br><span class="theme-song">#4: &quot;Senka no Tomoshibi (戦火の灯火)&quot; by Yuko Suzuhana (ep 19)</span><br></div>
+  </div>
+</div>
+<br><br><br><div><span class="floatRightHeader"><a href="/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/reviews">More reviews</a></span><h2>Reviews</h2></div>
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="5:22 AM">Mar 27, 2016</div>
+      <div class="lightLink spaceit">
+                  25 of 25 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score214327').toggle()">Overall Rating</a>:
+        8
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Stark700">
+                  <img src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" data-src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Stark700">Stark700</a>
+              <small>(<a href="/profile/Stark700/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp214327">196</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score214327">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>8</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">7</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">7</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">8</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">9</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">9</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    The Gundam franchise is a massive universe. As another installment, there can be a lot of optimism for Iron-Blooded Orphans. I have to admit, getting into this show at first made me nervous. Some of the recent Gundam related series such as Gundam AGE and Gundam: G no Reconguista received very mixed reception. Furthermore, Iron-Blooded Orphans is spearheaded by Mari Okada, a director who is well-known for adding in melodrama into the story. But for this show, I can safely say that it’s definitely something worth investing time into whether you’re a fan of Gundam or not.<br />
+<br />
+For timeline purposes, the show takes place after the
+
+          <span style="display: none;" id="review214327">
+        Calamity War, a war between Earth and Outer colonies. Actually, make that 300+ years. A major conflict involves Mars and its city Chryse. The people there seek independence from the government and make their own lives into something better. A young Martian woman named Kudelia Aina Bernstein hopes to secure independence. Her role in the story becomes more complicated as she gets involved with a group known as the Tekkadan, whom is entrusted to protect her life. So begins this story that leads politics, warfare, and a world of internal conflicts. As the show’s catch phrase, this is “the sustenance of life is on the battlefield.&quot;<br />
+<br />
+In context, the show is a war story but also deals with a variety of real life issues. From poverty to child soldiers and imperialism, the show really offers a lot of insightful concepts. There’s even themes of experimentation as certain characters are fit with the Alaya-Vijnana System (Whiskers) to enhance their fighting abilities. Still, the show constructs a story that expands beyond just fighting a war for independence but also takes a look at the interpersonal conflicts of people in its universe. At the heart of it, we have members of the Tekkadan. Led by Orga Itsuka, the show capitalizes on their role to protect Aina. Their ace pilot, Mikazuki Augus (also known as Mika) pilots the mysterious mobile suit known as Barbartos. Throughout the show, we see his piloting and combat skills including his role to fight off Gjallarhorn, an Earth Military organization set up to capture Aina. Tekkadan also consists of other members including Biscuit Griffin (a strategist), Eugene Stark (former leader of the third army’s division), Norba Shino, Akihiro Atland, Atra Mixta, among others. What’s interesting about this group is that although they all come from different backgrounds, they are all united with similar purposes and treats each other like family. The family theme extends to not just the group but also Aina as she gets to know more of its core members. With such a colorful cast of characters, the show really can be appreciated for its characterization.<br />
+<br />
+A good part of the story involves the journey Aina and Tekkadan takes in order to reach their goals. Part of it feels like a cat-and-mouse story while other parts are calmer with even has a feel of slice of life. In addition, the show also introduces others factions, some who later become valuable ally of Tekkadan while others are against them. Now I have to admit though, the story itself may feel like it has some pacing problems. A few of the episodes are non-combat related and some lacks development with the overall presentation of the story. However, it also emphasizes on the characters because they really are something special. The director and producers are aiming high for with this TV show so everything constructed has a purpose. The main characters has an iron will with their goals so a few of the episodes examines at their personal lives. Throughout their on-screen roles and background storytelling, we learn more about them especially Mika. He is an orphan with poor social skills but learns throughout the show with help from Aina. There’s a change about his character through his acquaintance with her as he becomes more casual and more interested in his own future. Their relationship even has a taste of romance in it as time goes on and this doesn’t seem like a surprise. Aina’s a kind woman who cares about others’ well-being above her own. She is also a good role model for the children through her ways of teaching them how to write, in particular Mika. This opens up his interest to forging his own future someday. Similarly, Mika’s relationship with Orga is strong. Their friendship has already been established during their childhood and it’s evident that the two would risk their lives to protect each other and their goals. Now I don’t expect everyone to like Aina’s role in the story. Despite her aristocratic status and selfless nature, she is still a bit naïve at times. And furthermore, her insecurity to provide help during crucial moments of fighting can be a bit irritating. Because of the nature of the show, expect other characters to relive moments from the past that resurfaces in the present storyline. A prime example is Akihiro as he deals with a blast from the past. On the other hand, there are also lighthearted relationships such as Mika and Atra. Some may see her involvement with him to almost be part of a love triangle. However, don’t expect this show to be a love story. It’s still an iron-blooded war tale. In retrospect, the show really has an iron blood with its story and characters.<br />
+<br />
+When looking at the themes of the show, it’s easy to notice how much it has relations with the past, present, and future. The poverty of the past influences people to try and find a better future for themselves. The present has an emphasis on neo-colonism as we see advanced civilizations expand through funding and technology. For the future, Aina’s ambition to seek independence is a hopeful vision for her people. This is a bit contrast with Gjallarhorn. In essence, they are a military organization who seeks peace but pursuits them with violence means. Some of its core members such as McGillis Fareed, Gaelio Bauduin, Ein Dalton, and among others has their own ideologies. But one thing they seem to all share is strengthening their nation’s own relations and wealth. On the other hand, there’s also Teiwaz, a business conglomerate. Their relationship with Tekkadan also a similarity about family as their representative member forges a pact with Orga. The amount of relationships in this show is really special and something to take by heart. Whether you agree with their goals or ambitions, it’s important to understand why they fight. And this show is pretty damn good at making its point about that.<br />
+<br />
+<br />
+Produced by Sunrise, the show’s visual quality is a unique piece of work. Michinori Chiba is in charge of the character designs but visually looks a bit different compared to some of Gundam’s previous predecessors. I guess it feels like a fusion of Gundam 00 and Gundam AGE as the characters looks both childish and mature the same time. This is especially true with characters like Mika and Biscuit. Orga on the other hand has the look of a mature commander. Aina has more of the look of an aristocrat but can also look like a simple lady when she needs to be. Character visuals aren’t the only thing interesting about the artwork though. The universe of the show has colonies that shows wealth with its rich technology and weapons of war As such, it brings legitimacy to their statuses. From the mysterious Barbados to Teiwaz’s Saisei, everything looks crisp and establishes the studio’s effort to craft them as technological innovations. This is further enhanced by the solid action with a great amount of effort during fight scenes. Be amazed. This is a show that can be will leave strong memories even with its action.<br />
+<br />
+At first, I wasn’t much of a fan of the music or soundtrack. But after watching a good amount of the show, it’s definitely something to take in by heart. Masaru Yokoyama clearly invested a good amount of effort into producing the music for various scenarios in the show. From melancholic moments to intense combat oriented moments waged in space, it has everything that a mecha fan can wish for. The OP song “Raise Your Flag” is also a way that symbolizes the fight for independence especially with its catchy tone and choreography. And finally, voice mannerism is impressive. Characters such as Orga shows their commanding presence while Mika is known for his cold personality.<br />
+<br />
+Iron-Blooded Orphans is definitely a show to invest time in. Whether you’re a veteran or a causal viewer, the experience after watching this show will be memorable for its story, characters, themes, world-building, and powerful action. Characters’ actions all have purpose and the show offers a balanced way to showcase their motivations. I don’t expect everyone to like all the characters as some may find them less likeable than others. Still, this show is not to be underestimated and is a triumphant one at that. Watch it with an open mind and you’ll see why.
+        
+<div id="revhelp_output_214327" class="mt8 js-review-btn-helpful js-review-helpful-214327">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F31251%2FMobile_Suit_Gundam__Iron-Blooded_Orphans" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle214327"
+         class="js-toggle-review-button" data-id="214327">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=214327" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=214327" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="7:55 PM">Sep 27, 2020</div>
+      <div class="lightLink spaceit">
+                  25 of 25 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score357900').toggle()">Overall Rating</a>:
+        6
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/cameronrb24">
+                  <img src="https://cdn.myanimelist.net/images/userimages/6903262.jpg?t=1610524200" data-src="https://cdn.myanimelist.net/images/userimages/6903262.jpg?t=1610524200" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/cameronrb24">cameronrb24</a>
+              <small>(<a href="/profile/cameronrb24/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp357900">46</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score357900">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>6</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">5</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">6</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">7</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">4</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">6</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Quick Thought:<br />
+It&#039;s a fairly enjoyable action anime.<br />
+<br />
+Story:<br />
+The story is mainly about Tekkadan and their escort mission. There&#039;s some political subplots as well, but they weren&#039;t developed enough to be interesting. It&#039;s a  pretty simple story overall, which is fine considering the action is the main draw. Pacing is steady from start to finish, not much filler slowing it down. There are other minor issues though, one being it&#039;s liberal use of death flags which made an already basic story more predictable. Romance was an awkward point as well, but these moments are minimal thankfully. The ending was fine; it concluded the main plot well
+
+          <span style="display: none;" id="review357900">
+        enough.<br />
+<br />
+Art:<br />
+I think the art was decent overall. Character designs were a bit inconsistent; there&#039;s a weird mix of realistic looking characters and more stylized characters. It did at least make the characters easy to recognize. Most of the ships and gundams looked fine. There was one scenet I can recall where the framerate dropped pretty heavily, but the CGI was serviceable otherwise.<br />
+<br />
+Sound:<br />
+The voice acting itself was good, but I thought a few voices didn&#039;t fit their characters very well. It made some characters like Atra seem way younger than they actually were. I don&#039;t remember much background music, but the music that was there fit well enough.<br />
+<br />
+Characters:<br />
+There are a ton of characters in this show, and as a result, they generally feel one-dimensional. Not much in the way of development either; I think Kudelia saw reasonable growth but the rest of the main cast remained the same for the whole season. <br />
+<br />
+
+        
+<div id="revhelp_output_357900" class="mt8 js-review-btn-helpful js-review-helpful-357900">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F31251%2FMobile_Suit_Gundam__Iron-Blooded_Orphans" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle357900"
+         class="js-toggle-review-button" data-id="357900">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=357900" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=357900" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="1:31 PM">Mar 27, 2016</div>
+      <div class="lightLink spaceit">
+                  25 of 25 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score214407').toggle()">Overall Rating</a>:
+        8
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Rikuson1">
+                  <img src="https://cdn.myanimelist.net/images/userimages/4538743.jpg?t=1610342400" data-src="https://cdn.myanimelist.net/images/userimages/4538743.jpg?t=1610342400" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Rikuson1">Rikuson1</a>
+              <small>(<a href="/profile/Rikuson1/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp214407">124</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score214407">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>8</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">7</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">8</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">10</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">8</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">8</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Kidou Senshi Gundam: Tekketsu no Orphans/機動戦士ガンダム 鉄血のオルフェンズ Review<br />
+<br />
+Story (7/10) Good<br />
+More Specifically (7.75/10) Good+ <br />
+<br />
+The story for Mobile Suit Gundam: Iron-Blooded Orphans like majority of the gundam plots attempts to juggle two main plots at the same time. One being about the characters and their goals they want to achieve and the second being the political side of things and they intertwine with each other. One would say if you want to follow the Gundam story plot formula both of these story plots need to be present and as synced with each other as you can possibly get. Like majority of Gundam alternate universes this universe
+
+          <span style="display: none;" id="review214407">
+        does indeed have a just a little bit more focused on the character side of things (which there&#039;s nothing wrong with that). The political side of things (kind of like Gundam Wing&#039;s and Gundam 00) can be a little be hard to follow if one is not paying full attention during the political scenes. I personally think it wasn&#039;t too hard to follow but I can&#039;t say I understand majority of what was going down during the political scenes and that&#039;s kind of the thing that may turn off a lot of people because it did with previous Gundam series. Luckily in my personal opinion even with it&#039;s political influence side of things  Tekketsu no Orphans&#039; character is something that should keep most people a bay because the are good ones. <br />
+<br />
+<br />
+Art and Animation (8.75/10) Very Good<br />
+<br />
+The art and animation in Tekketsu no Orphans was for the most part very good. I couldn&#039;t give this second a 9 because there were obviously some art style derps here and there when it came to characters only slightly in the background and the actually mech fights some Mech designs looked a teensy bit whanky at times but the scenes they were focused on and polished out are what is keeping it at a high 8 for me. Another thing I appreciate is that it is hand drawn, not a lot of mech anime comes out these days and when they do most of the time it is all CG. And I don&#039;t mind CG mechs trust I&#039;m not one of those people to complain about CG mech (I love CG in Gundam Unicorn and The Origin). And I think CG on Mechs is the only thing that looks acceptable to an extent when it comes to putting anything CG in an anime. BUT I do appreciate to a well hand drawn mech anime because that&#039;s how it all started and what I&#039;m used to. And I&#039;m sure all the scenes that I felt could have looked better WILL look better in the retail blu-ray release... one would assume and hope.<br />
+<br />
+<br />
+Sound (10/10) Masterpiece <br />
+<br />
+The sound does not disappoint in any category and that&#039;s usually the case when it comes to Gundam. Voice acting (JP), BGM, both openings and endings are all outstanding.<br />
+<br />
+<br />
+Characters (8/10) Very Good <br />
+<br />
+The characters like I said in the story category are very good and what will keep newcomers to Gundam staying and watching. Although there are not a TON of characters that this applies to the ones that it does like our MC Mikazuki Augus is definitely a character that I&#039;ve heard nothing but positive things from. He&#039;s not like your typical whiny pilot that we&#039;ve seen in the past. He&#039;s more in the category of Heero Yuy and Setsuna F. Seiei but calling him a clone of either of the two is definitely not what I&#039;m saying either. Because honestly I think from a character standpoint Mikazuki is a better and more interesting character than both Heero and Setsuna combine. Yes he has traits from both of them but he also has his own flair of insanity which comes out in the heat of battle. I haven&#039;t seen a main gundam pilot with such a personality trait yet the closest I can think of is Haptism Allelujah but he&#039;s not an MC. They are either on the whiny, calm or dull for the most part so to see this definitely sparks things up. Majority of the other characters are very good and like Gundam tradition we have character deaths we didn&#039;t want but expect. I knew a hand full of people where going to die not because of the countless death flags we&#039;ve been given throughout the anime but because it&#039;s basically tradition at this point. <br />
+<br />
+<br />
+Enjoyment (8/10) Very Good<br />
+<br />
+I&#039;m a Gundam fan if you couldn&#039;t tell I love majority of the series and I&#039;m not your average anime fan that despises all mech anime expect Code Geass and Gurren Laggan. Some might say I give Gundam a little bit too much credit but that&#039;s all opinions and a discussion for another time. Going into Tekketsu no Orphans sadly I was already ready to like it because like I said it&#039;s Gundam. You have to really fuck up on some Reconguista type shit for me not to like you and it&#039;s definitely no where near as bad as that trash. Tekketsu no Orphans brings us a nice 8th MS Team vibe to the series. And I doubt a lot of people realize this but there was absolutely no beam sabers or laser guns in the series (as far as season 1 is concerned). Impressive because a lot of Gundam anime and other mech anime kind of have that as the requirement in their anime and it cool to see a series were as of season 1 is concern does not exist, it was enjoyable to watch the mech fights, characterization with the combination of outstanding BGM this series brought to the table.<br />
+<br />
+<br />
+Overall (8/10) Very Good<br />
+More Specifically (8.50/10) Very Good+<br />
+<br />
+Tekketsu no Orphans in my opinion delivered what it was suppose to which was a good spin off adaptation to the Gundam series and can be recommended proudly when the franchise Gundam is brought up in conversation. Tekketsu no Orphans had people worried not only because the series before it Reconguista was trash but because the Main Director Episode Director, and Storyboard creator Nagai Tatsuyuki had his hands on it and people were extremely worried that this was going to flop because of his past works. It even had me a bit worried when I heard that. But that wasn&#039;t the case as Tekketsu no Orphans in my opinion is a successful and very good alternate universe to the Gundam franchise. And with the announcement of the english dub a couple of months ago I hope Toonami grabs it and airs it on there so that the western toonami viewers can possibly get into the Gundam series like what happened back int the good ole Gundam Wing days.  
+        
+<div id="revhelp_output_214407" class="mt8 js-review-btn-helpful js-review-helpful-214407">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F31251%2FMobile_Suit_Gundam__Iron-Blooded_Orphans" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle214407"
+         class="js-toggle-review-button" data-id="214407">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=214407" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=214407" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="8:14 PM">Dec 30, 2018</div>
+      <div class="lightLink spaceit">
+                  25 of 25 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score297541').toggle()">Overall Rating</a>:
+        10
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Manthors">
+                  <img src="https://cdn.myanimelist.net/images/userimages/7676083.jpg?t=1609989000" data-src="https://cdn.myanimelist.net/images/userimages/7676083.jpg?t=1609989000" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Manthors">Manthors</a>
+              <small>(<a href="/profile/Manthors/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp297541">60</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score297541">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>10</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">10</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">10</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">10</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">10</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">10</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    [This is my 7th edit because all I say is still not enough to keep praising this series] As a big-time Gundam fan and Gunpla builder, I gotta say that Iron-Blooded Orphans (IBO) is my all-time favorite Gundam, and my all-time favorite anime. Please, do yourself a favor, and even if you never watched Gundam or are not a fan of the mecha genre, watch IBO, you must, just must. I`ll tell you why! <br />
+<br />
+Story: Let me start saying this is the most adult Gundam of all series. This show is meant to make you think about war, about poverty, about despair, about violence, and
+
+          <span style="display: none;" id="review297541">
+        human rights. This is a show to make you see how disgraced people found a way to survive. IBO, by far, the most emotional Gundam in the franchise. It is surreal how the writers could be so good in this series.<br />
+The story of the first season is slow-building. You can`t expect the mecha action to start right away. For a while, you will get more of the character&#039;s stories, motivations, dramas, interests, and backstory. And that&#039;s why IBO is the greatest of all Gundam series. The motivation is deep and emotional, full of meaning and sensible moments, but without the shonen drama! The characters have real-life motivation, trying to find their place in the world and when the action starts, you will be way more driven to see the outcome, you will learn to care for these characters in ways no other Gundam made me do. They are full of personalities, and their motivation is real world-like. The plot is interesting, with a different background that the regular Gundam anime. The plot is set with a different motivation, diverging from the classic Earth vs Space backstory that all Gundam try to achieve. In general is more about companies, war merchants, corrupt institutions, and economic motivations than anything else. Even the story of the mechas is more in-depth than any other because the reason the Gundams were created is awesome. It&#039;s just a masterpiece of a story. The only people that the story won&#039;t reach are those who are on this only for the action. Nevertheless, for those, I say: Don`t worry, when the action starts, you will get VERY satisfied since Mika and Barbatos are the most badass fighters in Gundam history yes, way more badass than Setsuna from 00). And the second season is pure action. Finally, I must say that IBO is the most adult Gundam ever, with hard scenes and adult themes, which makes it even more enjoyable and puts some distance from all other Gundam series.<br />
+<br />
+Art and Sound: Outstanding. I`ll only highlight the OST, which has the most awesome battle music from the franchise: Crescent Moon. Additionally, all three opening songs are amazing. I actually never devote myself to talk about the music, but IBO also stands out in this aspect. I have watched this show 3 times already, and in the second time, I notice that the opening songs align with the events of their seasons. Although you might think that&#039;s obvious, it is not straightforward as it seems. Even if you listen to them, you will only UNDERSTAND them after advancing in the story. And, well, this is beyond awesome.<br />
+<br />
+Characters: As I mentioned above, characters design and development is the major strong point of IBO. ALL OF THEM GET DEVELOPED. You won`t see the same thing that happens in other Gundam (I am looking at you 00), in which some characters never get the spotlight. They all do, they all have feelings, motivations, opinions of their one. You will see their past, they struggle (WHICH IS REAL) and you will get emotionally attached to them. They say deep stuff, do incredible feats and have more complex philosophies. The writers and director were superb in this Gundam, which I found amazing. They had the ability to make a show with dozens of characters to follow, but able to develop all of them. Orga is the best character of the Gundam franchise for me, and Mika, although having not much within him, is the best Gundam pilot in the history of Gundam. He is straight out savage and is not one single moment you will see him doubting his actions. No shonen dumb doubts about the war and &quot;which is the right thing&quot; with Mika. Mika sees the enemy of his friends and family, and he goes for the throat. All secondary characters like Biscuit, Akihiro, Dante, Eugene, Ride, etc are developed well. I must also highlight something: I could not found a true antagonist here. IBO plays in the grey area, such as in the real world, so all of them are right and wrong at some point, even the protagonists. And, be shocked people, the girl-politician (that almost all Gundam have at some point) has a great development. She is indeed relevant to the plot and to the events surrounding her, and her development is the best one for a political-centered character in the franchise. Even the antagonists have some serious philosophies and real backgrounds that put distance between all other antagonists in the Gundam verse. I`ll never find all the right words to describe how amazingly written the characters in IBO were. The characters will almost feel like family at the end of the show. Finally, let me add that the relationship between the two major protagonists (Orga and Mika) is something that no other Gundam ever did. Actually, is something that I haven&#039;t seen in another anime, not like that.<br />
+<br />
+Mechas: Barbatos, the main Gundam, became my favorite Gundam in terms of design. Calm down now, let me explain. I build Gunplas, so far I`ve built a lot of them. Although Barbatos follows some of the same formulae, he is the only feral-looking Gundam. He actually looks like a savage Gundam, which is consistent with Mika fighting style. Never before, and never again, some Gundam looked like Barbatos. The Graize models (your standard NPC-Mobile Suits) have also good designs, very distant from the Zaku/Tieren types. You will see some other MS, with not much to discuss, but Gusion Rebake is one nice Gundam as well, but it has some mechanics stolen from Seravee (Gundam 00). The amazing part of the mechas is also their backstory. In a final note, I would like to mention that the Gundam in IBO are, as well as their characters, the most &quot;real-mecha&quot; of the entire franchise. They break more often, they don`t use light-sabers, they use real weapons, like giant swords and axes. Hence, the fighting scenes are way more brutal.<br />
+Trivia: after watching the first season, look about Goetic mythology. <br />
+<br />
+Overall: Best Gundam in the series for me, with AMAZING, AWESOME, COLOSSAL character development. You will be cheering for Tekkadan the whole series and caring for their members in a way no other Gundam did. This is my favorite anime of all-time because it was able to make me more emotional than any other anime, movie, book, or manga in my life (and, damn, I am the type of guy that never cries). Even if you are not a mecha fan, IBO is still for you. At the end of this show Tekakdan will feel like family.
+        
+<div id="revhelp_output_297541" class="mt8 js-review-btn-helpful js-review-helpful-297541">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F31251%2FMobile_Suit_Gundam__Iron-Blooded_Orphans" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle297541"
+         class="js-toggle-review-button" data-id="297541">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=297541" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=297541" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+<div class="mt4"></div><div class="amazon-ads anime-manga-detail bottom pt20 pb16">
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "animedetail-20";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Buy on Amazon.com ";
+amzn_assoc_default_search_phrase = "Mobile Suit Gundam: Iron-Blooded Orphans";
+amzn_assoc_default_category = "DVD";
+amzn_assoc_linkid = "d33d41183eb8aee6216ffe9ff44ca735";
+amzn_assoc_rows = "1";
+amzn_assoc_search_bar_position = "bottom";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+</div>            <div class="mal-ad-unit" data-ad-width="801" data-ad-height="633">
+        <div id="taboola-below-article-thumbnails-anime"></div> <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'alternating-thumbnails-a',
+    container: 'taboola-below-article-thumbnails-anime',
+    placement: 'Below Article Thumbnails Anime',
+    target_type: 'mix'
+  });
+</script>
+
+      </div>
+    <br><div><div class="floatRightHeader"><a href="/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/news">More news</a></div><h2>Recent News</h2></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/55377295" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1533585740-adaf1206c5f94377e16cb8c47fffb362.jpeg?s=b5434521a28ddb7892c4d25ba836b1f1" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1533585740-adaf1206c5f94377e16cb8c47fffb362.jpeg?s=b5434521a28ddb7892c4d25ba836b1f1 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1533585740-adaf1206c5f94377e16cb8c47fffb362.jpeg?s=28f7bc7a37891caeea1f6e51eb71043b 2x" alt="North American Anime &amp; Manga Releases for August" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/55377295"><strong>North American Anime &amp; Manga Releases for August</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p>Here are the North American anime &amp; manga releases for August Week 1: August 7 - August 13 Anime releases Black Clover Part 1 Blu-ray &amp; DVD Combo Digimon Adv...<a href="/news/55377295">read more</a></p></div>
+		<p class="lightLink spaceit">Aug 6, 2018 2:33 PM by <a href="/profile/Sakana-san">Sakana-san</a> | <a href="/forum/?topicid=1732383">Discuss (0 comments)</a></p></div>
+		<div class="borderClass"></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/52936356" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1509987261-e26167b673fdfd2c80775df24c6ba86f.jpeg?s=f5164504ee445c4f7afcdb06e4235712" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1509987261-e26167b673fdfd2c80775df24c6ba86f.jpeg?s=f5164504ee445c4f7afcdb06e4235712 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1509987261-e26167b673fdfd2c80775df24c6ba86f.jpeg?s=1f3a952b7cba0ed80a7d6ab69f79d754 2x" alt="North American Anime &amp; Manga Releases for November" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/52936356"><strong>North American Anime &amp; Manga Releases for November</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p>Here are the North American anime &amp; manga releases for November Week 1: November 7 - 13 Anime Releases Cheer Danshi!! (incl. Recap &amp; Specials) Complete Colle...<a href="/news/52936356">read more</a></p></div>
+		<p class="lightLink spaceit">Nov 6, 2017 8:55 AM by <a href="/profile/Sakana-san">Sakana-san</a> | <a href="/forum/?topicid=1681133">Discuss (16 comments)</a></p></div>
+		<div class="borderClass"></div><br><div><div class="floatRightHeader"><a href="/forum/?animeid=31251"><a href="/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/forum">More discussions</a></div><h2>Recent Forum Discussion</h2></div><div class="page-forum">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F31251%2FMobile_Suit_Gundam__Iron-Blooded_Orphans&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1477946">Mobile Suit Gundam: Iron-Blooded Orphans Episode 17 Discussion</a> <small> ( <a href="/forum/?topicid=1477946&show=0">1</a> <a href="/forum/?topicid=1477946&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Jan 31, 2016</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">82 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Ambjorn7635">Ambjorn7635</a> <a href="/forum/?topicid=1477946&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Jan 8, 12:18 PM</td>
+            </tr>
+            <tr id="topicRow2">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F31251%2FMobile_Suit_Gundam__Iron-Blooded_Orphans&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=1872295">Why it is not top rated</a> <small></small><br><span class="forum_postusername"><a href="/profile/Alifziad">Alifziad</a></span> - <span class="lightLink">Oct 26, 2020</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">2 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Alifziad">Alifziad</a> <a href="/forum/?topicid=1872295&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Dec 29, 2020 5:03 AM</td>
+            </tr>
+            </table></div><br><div><div class="floatRightHeader"><a href="/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/featured">More featured articles</a></div><h2>Recent Featured Articles</h2></div><div class="detail-page-featured-article"><div class="news-list">
+      
+    <div class="news-unit clearfix"><div class="picSurround fl-l mr8 ml3">
+          <a href="https://myanimelist.net/featured/2309/In_Numbers__The_Best_Anime_of_the_Decade"><img src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1577540570-6cd00ecbf3483b617d40670f43868d2c.jpeg?s=9b135c843346a9061dede8eb1733608a" alt="In Numbers: The Best Anime of the Decade" class="image lazyload" width="50" height="78" srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1577540570-6cd00ecbf3483b617d40670f43868d2c.jpeg?s=9b135c843346a9061dede8eb1733608a 1x, https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1577540570-6cd00ecbf3483b617d40670f43868d2c.jpeg?s=e68e4dccba068951010dabd27951a025 2x" /></a>
+        </div><div class="news-unit-right rect">
+        <p class="title">
+          <a href="https://myanimelist.net/featured/2309/In_Numbers__The_Best_Anime_of_the_Decade" title="In Numbers: The Best Anime of the Decade">In Numbers: The Best Anime of the Decade</a>
+        </p>
+        <div class="text">
+          What&#039;s the #1 anime of the 2010s? Which year was the best? What studio had the most hits? We have the answers to all these questions and more!
+        </div>
+        <div class="information">
+          <p class="info pr8">
+            by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
+          </p><p class="di-tc pv pr8">
+              <b>319,615</b> views
+            </p></div>
+      </div>
+    </div>
+            
+    <div class="news-unit clearfix"><div class="picSurround fl-l mr8 ml3">
+          <a href="https://myanimelist.net/featured/2157/Pervy_Master_Roshi_Gets_in_Trouble_With_Broadcasting_Watchdog"><img src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1498557072-135fa3670809033076519caa98fff6da.jpeg?s=c6dc44dfd02c82d6ed3ec3e3aebfe2ec" alt="Pervy Master Roshi Gets in Trouble With Broadcasting Watchdog" class="image lazyload" width="50" height="78" srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1498557072-135fa3670809033076519caa98fff6da.jpeg?s=c6dc44dfd02c82d6ed3ec3e3aebfe2ec 1x, https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1498557072-135fa3670809033076519caa98fff6da.jpeg?s=c526df7af53c26b886ce082eeb9ae408 2x" /></a>
+        </div><div class="news-unit-right rect">
+        <p class="title">
+          <a href="https://myanimelist.net/featured/2157/Pervy_Master_Roshi_Gets_in_Trouble_With_Broadcasting_Watchdog" title="Pervy Master Roshi Gets in Trouble With Broadcasting Watchdog">Pervy Master Roshi Gets in Trouble With Broadcasting Watchdog</a>
+        </p>
+        <div class="text">
+          For many Dragon Ball fans, Master Roshi is an absolute legend! He&#039;s one of the coolest and most colorful characters in the Dragon Ball universe. However, this old man has a roaming eye that&#039;s easily distracted by the younger ladies, which can lead to more problems than simply a nosebleed.
+
+        </div>
+        <div class="information">
+          <p class="info pr8">
+            by <a href="https://myanimelist.net/profile/MisterD98">MisterD98</a>
+          </p><p class="di-tc pv pr8">
+              <b>43,120</b> views
+            </p></div>
+      </div>
+    </div>
+        </div>
+</div><div style="padding:16px 0px 0px 0px;"><div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div></div><br><div>
+            <div class="floatRightHeader"><a href="/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/userrecs">More recommendations</a></div>
+            <h2>Recommendations
+            </h2></div>  <div class=""><a href="https://myanimelist.net/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans/userrecs" class="btn-detail-recommendations-view-all fl-r">
+      <span class="text">View All</span>
+      <span class="icon-next"><i class="fa fa-chevron-right icon-chevron" aria-hidden="true"></i></span>
+    </a><div class="anime-slide-block" id="anime_recommendation" data-json='{"width":702,"btnWidth":40,"margin":8}'><div class="btn-anime-slide-side left"><span class="btn-inner"></span></div><div class="btn-anime-slide-side right"><span class="btn-inner"></span></div><div class="anime-slide-outer" style="height:140px;"><ul class="anime-slide js-anime-slide" data-slide="7"><li class="btn-anime" style="width:90px" title="Aldnoah.Zero"><a href="https://myanimelist.net/recommendations/anime/22729-31251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Aldnoah.Zero</span><span class="users">7 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/7/60263.jpg?s=a1b911632311d569ee1928d2ba96df47" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/7/60263.jpg?s=a1b911632311d569ee1928d2ba96df47 1x,https://cdn.myanimelist.net/r/180x280/images/anime/7/60263.jpg?s=b6b7683df92a1a8cf6cd31059cfc1d0b 2x" width="90" height="140" class="image lazyload" alt="Aldnoah.Zero" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Tengen Toppa Gurren Lagann"><a href="https://myanimelist.net/recommendations/anime/2001-31251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Tengen Toppa Gurren Lagann</span><span class="users">4 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/5123.jpg?s=0e3c5959f2043c3c9a7465ca2920273f" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/5123.jpg?s=0e3c5959f2043c3c9a7465ca2920273f 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/5123.jpg?s=511b84f2971a734613a70184c1749020 2x" width="90" height="140" class="image lazyload" alt="Tengen Toppa Gurren Lagann" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Code Geass: Hangyaku no Lelouch"><a href="https://myanimelist.net/recommendations/anime/1575-31251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Code Geass: Hangyaku no Lelouch</span><span class="users">3 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/50331.jpg?s=ed0d2b743dfac79f78ffc1c8e5aa4edf" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/50331.jpg?s=ed0d2b743dfac79f78ffc1c8e5aa4edf 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/50331.jpg?s=db2f93ae6264fc886d5e525e02c78a30 2x" width="90" height="140" class="image lazyload" alt="Code Geass: Hangyaku no Lelouch" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Neon Genesis Evangelion"><a href="https://myanimelist.net/recommendations/anime/30-31251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Neon Genesis Evangelion</span><span class="users">3 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1314/108941.jpg?s=77eb0253cdb45c4c1a5344ee5242e7eb" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1314/108941.jpg?s=77eb0253cdb45c4c1a5344ee5242e7eb 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1314/108941.jpg?s=9b48b2e979f54e63f88a72c748f7ec47 2x" width="90" height="140" class="image lazyload" alt="Neon Genesis Evangelion" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Yu☆Gi☆Oh! Arc-V"><a href="https://myanimelist.net/recommendations/anime/21639-31251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Yu☆Gi☆Oh! Arc-V</span><span class="users">3 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/10/62939.jpg?s=9a88509601e04636fe7ccf9195997dce" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/10/62939.jpg?s=9a88509601e04636fe7ccf9195997dce 1x,https://cdn.myanimelist.net/r/180x280/images/anime/10/62939.jpg?s=74655085ba386b2d54c00461202fa99d 2x" width="90" height="140" class="image lazyload" alt="Yu☆Gi☆Oh! Arc-V" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Turn A Gundam"><a href="https://myanimelist.net/recommendations/anime/95-31251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Turn A Gundam</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/78330.jpg?s=8fa1a4d1cb38f0bfbf3fef6ec0cd187e" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/78330.jpg?s=8fa1a4d1cb38f0bfbf3fef6ec0cd187e 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/78330.jpg?s=ca1db0f8f5eefb3b89beb853f89c9ef2 2x" width="90" height="140" class="image lazyload" alt="Turn A Gundam" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Darling in the FranXX"><a href="https://myanimelist.net/recommendations/anime/31251-35849" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Darling in the FranXX</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1614/90408.jpg?s=dad8e6ac952be206e3e2ea7b446e4f8f" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1614/90408.jpg?s=dad8e6ac952be206e3e2ea7b446e4f8f 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1614/90408.jpg?s=91a4e3dbe6f1001346628e13e1eb3015 2x" width="90" height="140" class="image lazyload" alt="Darling in the FranXX" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Mobile Suit Gundam 00"><a href="https://myanimelist.net/recommendations/anime/2581-31251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Mobile Suit Gundam 00</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/3/13200.jpg?s=3c96ae2b1e74351f66da3a5e996e95d7" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/3/13200.jpg?s=3c96ae2b1e74351f66da3a5e996e95d7 1x,https://cdn.myanimelist.net/r/180x280/images/anime/3/13200.jpg?s=af15f41c6dce0ecdb7c7ea6573166ec5 2x" width="90" height="140" class="image lazyload" alt="Mobile Suit Gundam 00" border="0" ></a></li><li class="btn-anime" style="width:90px" title="After War Gundam X"><a href="https://myanimelist.net/recommendations/anime/92-31251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">After War Gundam X</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/10/16054.jpg?s=d65bc371871e1c4315838b31767e4962" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/10/16054.jpg?s=d65bc371871e1c4315838b31767e4962 1x,https://cdn.myanimelist.net/r/180x280/images/anime/10/16054.jpg?s=b94d317ded4854902bcfa451b8db7945 2x" width="90" height="140" class="image lazyload" alt="After War Gundam X" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Mobile Suit Gundam SEED"><a href="https://myanimelist.net/recommendations/anime/93-31251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Mobile Suit Gundam SEED</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1792/91081.jpg?s=ff3f5df488b8938bc2cd995774244ffc" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1792/91081.jpg?s=ff3f5df488b8938bc2cd995774244ffc 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1792/91081.jpg?s=3f2345fa84c7daaa2f29e1a2440486b4 2x" width="90" height="140" class="image lazyload" alt="Mobile Suit Gundam SEED" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Heroic Age"><a href="https://myanimelist.net/recommendations/anime/2002-31251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Heroic Age</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/50435.jpg?s=96ab0f063ddae6c462f45ab7aacc76e1" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/50435.jpg?s=96ab0f063ddae6c462f45ab7aacc76e1 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/50435.jpg?s=834f9fe522c91504d18f79a68848a563 2x" width="90" height="140" class="image lazyload" alt="Heroic Age" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Mobile Suit Victory Gundam"><a href="https://myanimelist.net/recommendations/anime/89-31251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Mobile Suit Victory Gundam</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1913/102693.jpg?s=6559de4f2ee5d03f0f850127f17e2f17" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1913/102693.jpg?s=6559de4f2ee5d03f0f850127f17e2f17 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1913/102693.jpg?s=a253ee46c7d7048bce0b18cde6a70fbf 2x" width="90" height="140" class="image lazyload" alt="Mobile Suit Victory Gundam" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Youjo Senki"><a href="https://myanimelist.net/recommendations/anime/31251-32615" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Youjo Senki</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/82890.jpg?s=6c46409cdd26190659cbfad156ed2fb2" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/82890.jpg?s=6c46409cdd26190659cbfad156ed2fb2 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/82890.jpg?s=df444358fee8f9c14c2293d6e274dc56 2x" width="90" height="140" class="image lazyload" alt="Youjo Senki" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Full Metal Panic!"><a href="https://myanimelist.net/recommendations/anime/71-31251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Full Metal Panic!</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/2/75259.jpg?s=61d3b45b2e9c11cb2ed464453dc47b3c" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/2/75259.jpg?s=61d3b45b2e9c11cb2ed464453dc47b3c 1x,https://cdn.myanimelist.net/r/180x280/images/anime/2/75259.jpg?s=615dfc1c653af50425bc8ab07f8850ea 2x" width="90" height="140" class="image lazyload" alt="Full Metal Panic!" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Soukou Kihei Votoms"><a href="https://myanimelist.net/recommendations/anime/2582-31251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Soukou Kihei Votoms</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1295/91064.jpg?s=093f30536eb088a4ec89b55432256d85" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1295/91064.jpg?s=093f30536eb088a4ec89b55432256d85 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1295/91064.jpg?s=6e640a74b30ff0a5e20eea24c780b2e5 2x" width="90" height="140" class="image lazyload" alt="Soukou Kihei Votoms" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Break Blade"><a href="https://myanimelist.net/recommendations/anime/22433-31251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Break Blade</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/7/58635.jpg?s=fe07bde9da97e3a19a8f4d2f2fe1d399" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/7/58635.jpg?s=fe07bde9da97e3a19a8f4d2f2fe1d399 1x,https://cdn.myanimelist.net/r/180x280/images/anime/7/58635.jpg?s=43edb2ba5e8b915dd63146461e52b553 2x" width="90" height="140" class="image lazyload" alt="Break Blade" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Knight&#039;s &amp; Magic"><a href="https://myanimelist.net/recommendations/anime/31251-34104" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Knight&#039;s &amp; Magic</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1472/93813.jpg?s=4141b5b782ec8bab5e1d1691ec789f19" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1472/93813.jpg?s=4141b5b782ec8bab5e1d1691ec789f19 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1472/93813.jpg?s=0dfa4c900dac6d43b96109756c96b216 2x" width="90" height="140" class="image lazyload" alt="Knight&#039;s &amp; Magic" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Change!! Getter Robo: Sekai Saigo no Hi"><a href="https://myanimelist.net/recommendations/anime/978-31251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Change!! Getter Robo: Sekai Saigo no Hi</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/23767.jpg?s=fac0d51fd129fe2d80fe667590732cf1" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/23767.jpg?s=fac0d51fd129fe2d80fe667590732cf1 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/23767.jpg?s=fc11229c69074d6641ccb6bac1b582e3 2x" width="90" height="140" class="image lazyload" alt="Change!! Getter Robo: Sekai Saigo no Hi" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Rainbow: Nisha Rokubou no Shichinin"><a href="https://myanimelist.net/recommendations/anime/6114-31251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Rainbow: Nisha Rokubou no Shichinin</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/9/72697.jpg?s=ed13162c0fabdcac7edf0a4622296260" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/9/72697.jpg?s=ed13162c0fabdcac7edf0a4622296260 1x,https://cdn.myanimelist.net/r/180x280/images/anime/9/72697.jpg?s=52951e709310fe5cd366ab15b109fd6a 2x" width="90" height="140" class="image lazyload" alt="Rainbow: Nisha Rokubou no Shichinin" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Schwarzesmarken"><a href="https://myanimelist.net/recommendations/anime/30806-31251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Schwarzesmarken</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/13/77386.jpg?s=4606a90e45da976fca6c40735a2c7ee2" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/13/77386.jpg?s=4606a90e45da976fca6c40735a2c7ee2 1x,https://cdn.myanimelist.net/r/180x280/images/anime/13/77386.jpg?s=e216c50da449cdb59df6e57e4c7c2da4 2x" width="90" height="140" class="image lazyload" alt="Schwarzesmarken" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Fate/stay night: Unlimited Blade Works"><a href="https://myanimelist.net/recommendations/anime/22297-31251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Fate/stay night: Unlimited Blade Works</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/67333.jpg?s=c6a19239d6b2ed2a7e71dbe0b3c5fcb4" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/67333.jpg?s=c6a19239d6b2ed2a7e71dbe0b3c5fcb4 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/67333.jpg?s=c4c4f42cc5a4a81cf552500f31160f38 2x" width="90" height="140" class="image lazyload" alt="Fate/stay night: Unlimited Blade Works" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Mobile Suit Gundam AGE"><a href="https://myanimelist.net/recommendations/anime/10808-31251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Mobile Suit Gundam AGE</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/42535.jpg?s=9d5ee1e78941151c3ae9f4ea7bc910aa" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/42535.jpg?s=9d5ee1e78941151c3ae9f4ea7bc910aa 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/42535.jpg?s=75ead60bb8d2b425fc66e463d0670a05 2x" width="90" height="140" class="image lazyload" alt="Mobile Suit Gundam AGE" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara"><a href="https://myanimelist.net/recommendations/anime/15201-31251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/6/74757.jpg?s=4e27cb4d2fc5c08548a5e6e0b430ad08" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/6/74757.jpg?s=4e27cb4d2fc5c08548a5e6e0b430ad08 1x,https://cdn.myanimelist.net/r/180x280/images/anime/6/74757.jpg?s=a0b6c0169c04649144f7d7b438872541 2x" width="90" height="140" class="image lazyload" alt="Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Fate/Zero"><a href="https://myanimelist.net/recommendations/anime/10087-31251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Fate/Zero</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/2/73249.jpg?s=5978387772f47a457efc50ae4160d233" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/2/73249.jpg?s=5978387772f47a457efc50ae4160d233 1x,https://cdn.myanimelist.net/r/180x280/images/anime/2/73249.jpg?s=93ec9065e9fd6585ee0b7561683ee110 2x" width="90" height="140" class="image lazyload" alt="Fate/Zero" border="0" ></a></li></ul></div></div></div>
+    </td>
+    </tr>
+    </table>
+    </div>  <div class="mauto clearfix pt24" style="width:760px;">
+    <div class="fl-l">
+      </div>
+      <div class="fl-r">
+      </div>
+    </div>
+
+</td>
+</tr>
+</table>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js" data-pin-hover="true"></script></div><!-- end of contentHome -->
+</div><!-- end of contentWrapper -->
+
+
+            
+  
+
+
+            
+  
+
+  <script>
+    $(document).ready(function() {
+      $(window).scroll(function() {
+        var cHeight = $("#myanimelist").height();
+        $("div[data-ad-sticky='manual']").each(function (i, o) {
+          var aHeight = $(o).height();
+          var aTop = $(o).parent().offset().top;
+          if (window.pageYOffset >= (cHeight - aHeight)) {
+            $(o).css("top", ((cHeight - aHeight) - window.pageYOffset) + "px");
+          } else if (window.pageYOffset >= aTop) {
+            $(o).addClass("sticky");
+            $(o).css("top", "");
+          } else {
+            $(o).removeClass("sticky");
+          }
+        });
+      });
+    });
+  </script>
+
+<!--  control container height -->
+<div style="clear:both;"></div>
+
+<!-- end rightbody -->
+
+</div><!-- wrapper -->
+
+
+    <div id="ad-skin-bg-right" class="ad-skin-side-outer ad-skin-side-bg bg-right">
+    <div id="ad-skin-right" class="ad-skin-side right" style="display: none;">
+      <div id="ad-skin-right-absolute-block">
+        <div id="ad-skin-right-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+</div><!-- #myanimelist -->
+
+
+<div class="footer-ranking">
+  <div class="ranking-container">
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php" class="view_more fl-r">More</a>Top Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Fullmetal Alchemist: Brotherhood</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011">Hunter x Hunter (2011)</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php?type=airing" class="view_more fl-r">More</a>Top Airing Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/42203/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season_Part_2">Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/42897/Horimiya">Horimiya</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/38474/Yuru_Camp△_Season_2">Yuru Camp△ Season 2</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/character.php" class="view_more fl-r">More</a>Most Popular Characters
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/character/417/Lelouch_Lamperouge">Lamperouge, Lelouch</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/character/45627/Levi">Levi</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/character/80/Light_Yagami">Yagami, Light</a>
+            </li>
+                  </ol>
+      </div>
+      </div>
+</div>
+<footer>
+  <div id="footer-block">
+    <div class="footer-link-block">
+      <p class="footer-link home di-ib">
+        <a href="https://myanimelist.net/">Home</a>
+      </p>
+      <p class="footer-link di-ib">
+        <a href="https://myanimelist.net/about.php">About</a>
+        <a href="https://myanimelist.net/pressroom">Press Room</a>
+        <a href="https://myanimelist.net/about.php?go=contact">Support</a>
+        <a href="https://myanimelist.net/advertising">Advertising</a>
+        <a href="https://myanimelist.net/forum/?topicid=515949">FAQ</a>
+        <a href="https://myanimelist.net/about/terms_of_use">Terms</a>
+        <a href="https://myanimelist.net/about/privacy_policy">Privacy</a>
+        <a href="#/" class="cmp-gdpr-only">Privacy Settings</a>
+        <a href="#/" class="cmp-ccpa-only">Do Not Sell My Personal Information</a>
+        <a href="https://myanimelist.net/about/cookie_policy">Cookie</a>
+        <a href="https://myanimelist.net/about/notice_at_collection">Notice at Collection</a>
+        <a href="https://myanimelist.net/about/sitemap">Sitemap</a>
+      </p>
+            <p class="footer-link login di-ib">
+        <a href="https://myanimelist.net/login.php?from=%2Fanime%2F31251%2FMobile_Suit_Gundam__Iron-Blooded_Orphans" id="malLogin" rel="nofollow">Login</a>
+        <a href="https://myanimelist.net/register.php?from=%2Fanime%2F31251%2FMobile_Suit_Gundam__Iron-Blooded_Orphans">Sign Up</a>
+      </p>
+          </div>
+
+    
+    <div class="banner-footer-anime-streaming">
+      <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+    </div>
+
+        <div class="footer-link-icon-block">
+            <div class="footer-social-media ac">
+        <a target="_blank" class="icon-sns icon-fb di-ib" href="https://www.facebook.com/OfficialMyAnimeList" rel="noreferrer"></a>
+        <a target="_blank" class="icon-sns icon-tw di-ib" title="Follow @myanimelist on Twitter" href="https://twitter.com/myanimelist" rel="noreferrer"></a></div>
+            <div class="footer-recommended ac">
+        <a target="_blank" class="icon-recommended icon-tokyo-otaku-mode" href="http://otakumode.com/fb/5aO" rel="noopener">Tokyo Otaku Mode</a>
+        <a target="_blank" class="icon-recommended icon-honeys-anime" href="https://honeysanime.com" rel="noopener">Honey's Anime</a>
+        <a target="_blank" class="icon-recommended icon-manga-store" href="https://myanimelist.net/store?_location=mal_f_m">Manga Store</a>
+      </div>
+    </div>
+
+    <div class="footer-fb">
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+      <div class="footer-fb-item">
+                <iframe class="fb-page" src="" width="450" height="154" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+      </div>
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+    </div>
+        
+    <div id="copyright">
+      MyAnimeList.net is a property of MyAnimeList Co.,Ltd. &copy;2021 All Rights Reserved.
+    </div>
+  </div>
+</footer>
+
+<script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+
+<script async>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga')
+
+  ga('create', 'UA-369102-1', 'auto')
+  ga('set', 'anonymizeIp', true)
+  ga('require', 'linkid') // Enhanced Link Attribution
+    ga('set', 'dimension1', 'guest')
+    ga('send', 'pageview')
+</script>   <script>
+window.onscroll = function(e){
+    const scrollThreshold = 50;
+    if (window.pageYOffset >= scrollThreshold) {
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            let t_height = ad.offsetHeight;
+            let offsetY = ad.getBoundingClientRect().top;
+            let screenHeight = window.outerHeight;
+            let t_position = offsetY - screenHeight;
+            if(-screenHeight<=(t_position　+　t_height) && t_position<0) {
+                ad.className = 'ad-tag';
+                (deployads = window.deployads || []).push({});
+            }
+        });
+    }
+}
+var timer = 0;
+window.onresize = function(e){
+    if (timer > 0) {
+        clearTimeout(timer);
+    }
+
+    timer = setTimeout(function () {
+        console.log('window resized');
+        [].forEach.call(document.querySelectorAll('.ad-tag'), function(ad) {
+            ad.className = 'no-ad';
+            (deployads = window.deployads || []).push({});
+        });
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            ad.className = 'ad-tag';
+            (deployads = window.deployads || []).push({});
+        });
+    }, 200);
+}
+</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WL4QW3G');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+var path = location.pathname;
+var param = location.search;
+
+dataLayer = dataLayer || [];
+
+// login.php
+
+function ga_notlogin(){
+  ga('send', 'event', 'not_login', '2.未ログインの場合', '/login.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=1');
+}
+
+function ga_sns(){
+  ga('send', 'event', 'sns_login', '2-1-1.ソーシャルログインの場合', '/login.php?login-mode=social&c-ms-mode=1');
+}
+
+function ga_login(){
+  ga('send', 'event', 'id_login', '2-1-2.IDログインの場合', '/login.php?login-mode=id&c-ms-mode=1');
+}
+
+// register.php
+
+function ga_registration(){
+  ga('send', 'event', 'registration', '2-2.会員登録ボタン', '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=2');
+}
+
+if ( path.match("register.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2F&c-ms-mode=2',
+        'member_title': '2-2-1.会員情報入力完了',
+        'event': 'loadready-register'
+    });
+}
+
+if ( path.match("login.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': path.concat(param, "&c-ms-mode=2"),
+        'member_title': '2-2-1.メールからの会員認証ページ',
+        'event': 'loadready-login'
+    });
+}
+
+// membership
+
+function ga_mal_banner(){
+  ga('send', 'event', 'support_mal', '2-3.MALバナー', '/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner&c-ms-mode=3');
+}
+
+if ( path.match("login.php") && param.match("from=%2F") ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=3',
+        'member_title': '2-2.会員登録ボタン',
+        'event': 'loadready-login'
+    });
+}
+
+function ga_credit(){
+  ga('send', 'event', 'support_mal', '3-1-1.クレカ登録', '/member-register?c-ms_payment=1&c-ms_mode=3');
+}
+
+function ga_paypal(){
+  ga('send', 'event', 'support_mal', '3-1-2.Paypal登録', '/member-register?c-ms_payment=2&c-ms_mode=3');
+}
+
+if ( path.match("account/membership/complete") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/member-register-complete?c-ms_payment=2&c-ms_mode=3',
+        'member_title': '3-1-2.MAL会員登録成功',
+        'event': 'loadready-member-register-complete'
+    });
+}
+
+</script>
+<script type="text/javascript">
+    window.MAL.magia = "06410c4e6b2518e9add8f6df0ccb2da2876bb8c980aacb43a8dcaa8153c0f92c";
+  window.MAL.madoka = "hZrDKm9k6FVRnqd3i%=K";
+
+  window.MAL.SLVK = "g4OvMLVOmEI3J8u7dt8f8+mAuualsqCo";
+  window.MAL.CDN_URL = "https://cdn.myanimelist.net";
+
+  window.MAL.CURRENT_TUTORIAL_STEP_ID = null;
+  window.MAL.USER_NAME = ""
+  window.MAL.FACEBOOK.APP_ID = "360769957454434"
+  window.MAL.FACEBOOK.API_VERSION = "v2.12"
+</script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+                    <script type="text/javascript">
+          window._taboola = window._taboola || [];
+          _taboola.push({flush: true});
+        </script>
+    </body>
+</html>

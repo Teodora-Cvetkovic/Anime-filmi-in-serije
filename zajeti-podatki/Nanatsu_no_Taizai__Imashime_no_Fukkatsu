@@ -1,0 +1,1721 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    
+<link rel="preconnect" href="//fonts.gstatic.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//fonts.googleapis.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tags-cdn.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagservices.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagmanager.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//apis.google.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel-sync.sitescout.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel.tapad.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//c.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tpc.googlesyndication.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//googleads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="//securepubads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="https://cdn.myanimelist.net" crossorigin="anonymous" />
+
+
+<title>
+Nanatsu no Taizai: Imashime no Fukkatsu - MyAnimeList.net
+</title>
+<meta name="description" content="Looking for information on the anime Nanatsu no Taizai: Imashime no Fukkatsu (The Seven Deadly Sins: Revival of the Commandments)? Find out more with MyAnimeList, the world&#039;s most active online anime and manga community and database. The fierce battle between Meliodas, the captain of the Seven Deadly Sins, and the Great Holy Knight Hendrickson has devastating consequences. Armed with the fragments necessary for the revival of the Demon Clan, Hendrickson breaks the seal, allowing the Commandments..." />
+
+  
+<meta name="keywords" content="anime, myanimelist, anime news, manga" />
+  
+
+
+    <meta property="og:locale" content="en_US"><meta property="fb:app_id" content="360769957454434"><meta property="og:site_name" content="MyAnimeList.net"><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@myanimelist"><meta property="og:title" content="Nanatsu no Taizai: Imashime no Fukkatsu"><meta property="og:type" content="video.tv_show"><meta property="og:image" content="https://cdn.myanimelist.net/images/anime/11/90089.jpg"><meta name="twitter:image:src" content="https://cdn.myanimelist.net/r/360x360/images/anime/11/90089.jpg?s=9412fd422b23a297427597d543982e83"><meta property="og:url" content="https://myanimelist.net/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu"><meta property="og:description" content="The fierce battle between Meliodas, the captain of the Seven Deadly Sins, and the Great Holy Knight Hendrickson has devastating consequences. Armed with the fragments necessary for the revival of the Demon Clan, Hendrickson breaks the seal, allowing the Commandments to escape, all of whom are mighty warriors working directly under the Demon King himself. Through a mysterious connection, Meliodas instantly identifies them; likewise, the 10 Commandments, too, seem to sense his presence. As the demons leave a path of destruction in their wake, the Seven Deadly Sins must find a way to stop them before the Demon Clan drowns Britannia in blood and terror. [Written by MAL Rewrite]">
+
+
+<meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
+
+<meta name='csrf_token' content='9066623cd0b7d8cb5149a76b240c38f7b725d110'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
+<meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" />
+
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" href="https://myanimelist.net/plugins/myanimelist.xml" title="MyAnimeList" />
+
+<link rel="shortcut icon" href="https://cdn.myanimelist.net/images/favicon.ico" />
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+      <script src="//tags-cdn.deployads.com/a/myanimelist.net.js" async="async"></script>
+            <script async="async" type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script>
+$(document).ready(function(){
+  window.Criteo = window.Criteo || {};
+  window.Criteo.events = window.Criteo.events || [];
+  $('.ad-criteo').each(function(){
+    var slotid = $(this).attr('data-ad-slot');
+    var zoneid = $(this).attr('data-ad-zone');
+    var CriteoAdUnits = {"placements":[{"slotid":slotid, "zoneid":zoneid}]};
+    var processCdbBid = function(){
+      var bids = Criteo.GetBidsForAdUnit(slotid);
+      if(bids.length > 0){
+        Criteo.RenderAd({bidId:bids[0].id, containerId:bids[0].impressionId});
+      }
+    };
+    Criteo.events.push(function(){Criteo.RequestBids(CriteoAdUnits, processCdbBid, 2000);});
+  });
+});
+</script>
+
+
+
+            <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/myanimelist/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>    
+</head>
+
+<body onload=" " class="page-common"data-ms="true" data-country-code="SI" >
+<div id="myanimelist">
+
+    
+  
+    <script type='text/javascript'>
+    window.MAL.SkinAd.prepareForSkin('');
+  </script>
+
+    <div id="ad-skin-bg-left" class="ad-skin-side-outer ad-skin-side-bg bg-left">
+    <div id="ad-skin-left" class="ad-skin-side left" style="display: none;">
+      <div id="ad-skin-left-absolute-block">
+        <div id="ad-skin-left-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
+    <script>(deployads = window.deployads || []).pageSegment = 'anime_title_34577';</script>
+
+
+<script>
+    var trackOutboundLink = function(url) {
+        ga('send', 'event', 'outbound', 'click', url, {
+            'transport': 'beacon',
+            'hitCallback': function(){return true;}
+        });
+    }
+</script><div class="banner-header-anime-straming" style="right:480px;">
+  <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+</div>
+
+
+<div id="header-menu" ><div class="header-menu-login"><a class="btn-mal-service"
+             href="https://myanimelist.net/membership?_location=mal_h_u" onClick="ga_mal_banner()">Hide Ads</a><a class="btn-login" href="https://myanimelist.net/login.php?from=%2Fanime%2F34577%2FNanatsu_no_Taizai__Imashime_no_Fukkatsu" id="malLogin" onClick="ga_notlogin()">Login</a><a class="btn-signup" href="https://myanimelist.net/register.php?from=%2Fanime%2F34577%2FNanatsu_no_Taizai__Imashime_no_Fukkatsu" onClick="ga_registration()">Sign Up</a></div></div></div>  <div id="menu" class="">
+    <div id="menu_right"><script type="text/x-template" id="incremental-result-item-anime"><div class="list anime" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info anime"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Aired: ${ item.payload.aired }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info anime"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-manga"><div class="list manga" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info manga"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Published: ${ item.payload.published }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info manga"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-character"><div class="list character" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div><div class="extra-info"><ul class="related-works"><li v-for="work in item.payload.related_works" class="fs-i">- ${ work }</li></ul>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-person"><div class="list person" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.alternative_name">${ item.payload.alternative_name }<br></span>Birthday: ${ item.payload.birthday }<br>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-store"><div class="list store" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info store"></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info store"></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-club"><div class="list club" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div><div class="extra-info">Members: ${ item.payload.members }<br>Category: ${ item.payload.category }<br>Created by: ${ item.payload.created_by }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-user"><div class="list user" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.authority">${ item.payload.authority }<br></span>Joined: ${ item.payload.joined }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-news"><div class="list news" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-featured"><div class="list featured" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-forum"><div class="list forum" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="extra-info">${ item.payload.date }<br><span>in ${ item.payload.category }</span></div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-separator"><div class="list separator"><div class="separator"><span v-show="item.name == 'anime'">Anime</span><span v-show="item.name == 'manga'">Manga</span><span v-show="item.name == 'character'">Characters</span><span v-show="item.name == 'person'">People</span></div></div></script><div id="top-search-bar"><form id="searchBar" method="get" class="searchBar" @submit.prevent="jump()"><div class="form-select-outer fl-l"><select name="type" id="topSearchValue" class="inputtext" v-model="type"><option value="all">All</option><option value="anime">Anime</option><option value="manga">Manga</option><option value="character">Characters</option><option value="person">People</option><option value="store">Manga Store</option><option value="news">News</option><option value="featured">Featured Articles</option><option value="forum">Forum</option><option value="club">Clubs</option><option value="user">Users</option></select></div><input v-model="keyword" id="topSearchText" type="text"
+            name="keyword" class="inputtext fl-l" placeholder="Search Anime, Manga, and more..."
+            size="30" autocomplete="off"
+            @keydown.up.prevent="moveSelection(-1)" @keydown.down.prevent="moveSelection(1)"
+            @focus="isFocused = true" @blur="isFocused = false"><input id="topSearchButon" class="fl-l" :class="{'notActive': (keyword.length < 3)}" type="submit" value="&#xf002"></form><div id="topSearchResultList" class="incrementalSearchResultList" :style="{display: (showResult ? 'block' : 'none')}" @mousedown.prevent=""><div v-for="(item, i) in items" @mouseover="selection=i"><component :is="resolveComponent(item)" :item="item" :focus="selection == i" :url="generateItemPageUrl(item)"></component></div><div class="list list-bottom" :class="{'focus': selection == -1}" @mouseover="selection = -1"
+               :style="{display: (showViewAllLink ? 'block' : 'none')}"><a :href="resultPageUrl">
+              View all results for <span class="fw-b">${ keyword }</span><i v-show="isRequesting" class="fa fa-spinner fa-spin ml4"></i></a></div></div></div></div><div id="menu_left">
+      <ul id="nav">
+        <li class="small"><a href="#" class="non-link">Anime</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/anime.php?_location=mal_h_m">Anime Search</a></li>
+            <li><a href="https://myanimelist.net/topanime.php?_location=mal_h_m">Top Anime</a></li>
+            <li><a href="https://myanimelist.net/anime/season?_location=mal_h_m">Seasonal Anime</a></li>
+                        <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m_a">Videos</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=anime&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=anime&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1885985&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Manga</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/manga.php?_location=mal_h_m">Manga Search</a></li>
+            <li><a href="https://myanimelist.net/topmanga.php?_location=mal_h_m">Top Manga</a></li>
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=manga&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=manga&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1886113&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li><a href="#" class="non-link">Community</a>
+          <ul>
+            <li><a href="https://myanimelist.net/forum/?_location=mal_h_m">Forums</a></li>
+            <li><a href="https://myanimelist.net/clubs.php?_location=mal_h_m">Clubs</a></li>
+            <li><a href="https://myanimelist.net/blog.php?_location=mal_h_m">Blogs</a></li>
+            <li><a href="https://myanimelist.net/users.php?_location=mal_h_m">Users</a></li>
+            <li><a href="https://discord.gg/E2xC8ZF">Discord Chat</a></li>
+          </ul>
+        </li>
+        <li class="small2"><a href="#" class="non-link">Industry</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/news?_location=mal_h_m">News</a></li>
+            <li><a href="https://myanimelist.net/featured?_location=mal_h_m">Featured Articles</a></li>
+            <li><a href="https://myanimelist.net/people.php?_location=mal_h_m">People</a></li>
+            <li><a href="https://myanimelist.net/character.php?_location=mal_h_m">Characters</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Watch</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m">Episode Videos</a></li>
+            <li><a href="https://myanimelist.net/watch/promotion?_location=mal_h_m">Promotional Videos</a></li></ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Read</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+          </ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Help</a>
+          <ul class="wide">
+            <li><a href="https://myanimelist.net/about.php?_location=mal_h_m">About</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=support&amp;_location=mal_h_m">Support</a></li>
+            <li><a href="https://myanimelist.net/advertising?_location=mal_h_m">Advertising</a></li>
+            <li><a href="https://myanimelist.net/forum/?topicid=515949&amp;_location=mal_h_m">FAQ</a></li>
+            <li><a href="https://myanimelist.net/modules.php?go=report&amp;_location=mal_h_m">Report</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=team&amp;_location=mal_h_m">Staff</a></li><li><a href="https://myanimelist.net/membership?_location=mal_h_m">MAL Supporter</a></li>
+          </ul>
+        </li>
+        
+            
+      </ul>
+    </div>  </div><div id="contentWrapper" itemscope itemtype="http://schema.org/TVSeries"><div><div class="h1 edit-info">
+      <div class="h1-title"><div itemprop="name"><h1 class="title-name h1_bold_none"><strong>Nanatsu no Taizai: Imashime no Fukkatsu</strong></h1><br><p class="title-english title-inherit">The Seven Deadly Sins: Revival of the Commandments</p></div></div><div class="header-right">
+          <a href="https://myanimelist.net/login.php?from=%2Fanime%2F34577%2FNanatsu_no_Taizai__Imashime_no_Fukkatsu&amp;error=login_required" class="js-anime-edit-info-button"><i class="fa fa-pencil mr4"></i>Edit</a>
+<div id="editdiv" class="fw-n fs11">
+  <form method="GET" action="https://myanimelist.net/dbchanges.php" class="di-i">
+    <input type="hidden" name="aid" value="34577">
+    <div class="pb8">What would you like to edit?</div>
+                      <select name="t" id="t" class="inputtext"><option value="synopsis">Synopsis</option><option value="background">Background</option><option value="alternative_titles">Alternative Titles</option><option value="pic">Picture</option><option value="airingdates">Airing Dates</option><option value="producers">Producers</option><option value="relations">Relations</option><option value="rating">Rating</option><option value="duration">Duration</option><option value="source">Source</option><option value="broadcast">Broadcast</option></select>
+     &nbsp;<input type="submit" value="Go" class="inputButton flat btn-middle">
+  </form>
+</div>
+</div></div></div><div id="content" >
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+	 <td class="borderClass" width="225" style="border-width: 0 1px 0 0;" valign="top"><div style="width: 225px">
+
+<div style="text-align: center;">
+          <a href="https://myanimelist.net/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu/pics">
+      <img class="lazyload" data-src="https://cdn.myanimelist.net/images/anime/11/90089.jpg" alt="Nanatsu no Taizai: Imashime no Fukkatsu" class="ac" itemprop="image">
+    </a>
+  </div>
+
+<!-- My List -->
+<div class="profileRows pb0">
+  <a href="https://myanimelist.net/login.php?from=%2Fanime%2F34577%2FNanatsu_no_Taizai__Imashime_no_Fukkatsu&amp;error=login_required">Add to My List</a>
+</div>
+
+<div id="addtolist" class="addtolist-block js-anime-addtolist-block" style="display: none;">
+  <input type="hidden" id="myinfo_anime_id" value="34577">
+  <input type="hidden" id="myinfo_curstatus" value="">
+
+  <span class="notice_open_public pb4">* Your list is public by default.</span>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td class="spaceit">Status:</td>
+      <td class="spaceit">
+        <select name="myinfo_status" id="myinfo_status" class="inputtext js-anime-status-dropdown"><option value="1">Watching</option><option value="2">Completed</option><option value="3">On-Hold</option><option value="4">Dropped</option><option value="6">Plan to Watch</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td class="spaceit">Eps Seen:</td>
+      <td class="spaceit">
+        <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext" value=""> / <span id="curEps">24</span></td>
+    </tr>
+    <tr>
+      <td class="spaceit">Your Score:</td>
+      <td class="spaceit">
+        <select name="myinfo_score" id="myinfo_score" class="inputtext"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>
+                <input type="button" name="myinfo_submit" value="Add" class="inputButton btn-middle flat js-anime-add-button">
+        <span id="addtolistresult"><a href="https://myanimelist.net/ownlist/anime/add?selected_series_id=34577">Add Detailed Info</a></span>
+              </td>
+    </tr>
+  </table>
+  <div id="myinfoDisplay" style="padding-left: 89px; margin-top: 3px;"></div>
+</div>
+<!-- end My List -->
+
+<div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F34577%2FNanatsu_no_Taizai__Imashime_no_Fukkatsu&amp;error=login_required" style="font-weight:normal;">Add to Favorites</a></div>
+
+<div class="di-b mt4 mb16 ac">
+    
+<a href="https://myanimelist.net/store/manga/42/The_Seven_Deadly_Sins?_location=mal_atf_button" class="left-info-block-manga-store-button">
+  <i class="fa fa-shopping-cart" aria-hidden="true"></i> Buy on Manga Store
+</a>
+  </div><div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F34577%2FNanatsu_no_Taizai__Imashime_no_Fukkatsu"></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F34577%2FNanatsu_no_Taizai__Imashime_no_Fukkatsu&amp;text=Nanatsu%20no%20Taizai%3A%20Imashime%20no%20Fukkatsu&amp;hashtags=anime"></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F34577%2FNanatsu_no_Taizai__Imashime_no_Fukkatsu&amp;title=Nanatsu%20no%20Taizai%3A%20Imashime%20no%20Fukkatsu"></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F34577%2FNanatsu_no_Taizai__Imashime_no_Fukkatsu&amp;name=Nanatsu%20no%20Taizai%3A%20Imashime%20no%20Fukkatsu"></a></div>  <br />
+
+  <h2>Alternative Titles</h2><div class="spaceit_pad">
+    <span class="dark_text">English:</span> The Seven Deadly Sins: Revival of the Commandments
+  </div><div class="spaceit_pad">
+    <span class="dark_text">Japanese:</span> 七つの大罪 戒めの復活
+  </div><br />
+
+<h2>Information</h2>
+
+<div>
+  <span class="dark_text">Type:</span>
+  <a href="https://myanimelist.net/topanime.php?type=tv">TV</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Episodes:</span>
+  24
+  </div>
+
+<div>
+  <span class="dark_text">Status:</span>
+  Finished Airing
+  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Aired:</span>
+  Jan 13, 2018 to Jun 30, 2018
+  </div>
+
+  <div>
+    <span class="dark_text">Premiered:</span>
+          <a href="https://myanimelist.net/anime/season/2018/winter">Winter 2018</a>
+          </div>
+
+  <div class="spaceit">
+    <span class="dark_text">Broadcast:</span>
+    Saturdays at 06:30 (JST)
+      </div>
+
+  <div>
+    <span class="dark_text">Producers:</span>
+          <a href="/anime/producer/17/Aniplex" title="Aniplex">Aniplex</a>,       <a href="/anime/producer/53/Dentsu" title="Dentsu">Dentsu</a>,       <a href="/anime/producer/159/Kodansha" title="Kodansha">Kodansha</a>,       <a href="/anime/producer/166/Movic" title="Movic">Movic</a>,       <a href="/anime/producer/1345/Sammy" title="Sammy">Sammy</a>  </div>
+  <div class="spaceit">
+    <span class="dark_text">Licensors:</span>
+    None found, <a href="https://myanimelist.net/dbchanges.php?aid=34577&amp;t=producers">add some</a>  </div>
+  <div>
+    <span class="dark_text">Studios:</span>
+          <a href="/anime/producer/56/A-1_Pictures" title="A-1 Pictures">A-1 Pictures</a>  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Source:</span>
+  Manga
+  </div>
+
+<div>
+  <span class="dark_text">Genres:</span>
+      <span itemprop="genre" style="display: none">Action</span><a href="/anime/genre/1/Action" title="Action">Action</a>,     <span itemprop="genre" style="display: none">Adventure</span><a href="/anime/genre/2/Adventure" title="Adventure">Adventure</a>,     <span itemprop="genre" style="display: none">Fantasy</span><a href="/anime/genre/10/Fantasy" title="Fantasy">Fantasy</a>,     <span itemprop="genre" style="display: none">Magic</span><a href="/anime/genre/16/Magic" title="Magic">Magic</a>,     <span itemprop="genre" style="display: none">Shounen</span><a href="/anime/genre/27/Shounen" title="Shounen">Shounen</a>,     <span itemprop="genre" style="display: none">Supernatural</span><a href="/anime/genre/37/Supernatural" title="Supernatural">Supernatural</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Duration:</span>
+  24 min. per ep.
+  </div>
+
+<div>
+  <span class="dark_text">Rating:</span>
+  PG-13 - Teens 13 or older
+  </div>
+
+<br />
+
+<h2>Statistics</h2>
+<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" class="po-r js-statistics-info di-ib" data-id="info1">
+  <span class="dark_text">Score:</span>
+  <span itemprop="ratingValue" class="score-label score-7">7.88</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">408087</span>408,087 users)
+      <meta itemprop="bestRating" content="10">
+    <meta itemprop="worstRating" content="1">
+      <div class="statistics-info info1">
+    <small><sup>1</sup>
+          indicates a <a href="javascript:void(0);" onclick="window.open('/info.php?go=topanime','topanime','menubar=no,scrollbars=no,status=no,width=500,height=380');">weighted score</a>.
+    </small>
+  </div>
+</div>
+<div class="spaceit po-r js-statistics-info di-ib" data-id="info2">
+  <span class="dark_text">Ranked:</span>
+  #709<sup>2</sup>
+    <div class="statistics-info info2">
+    <small><sup>2</sup>
+    based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
+    </small>
+  </div>
+</div>
+<div>
+  <span class="dark_text">Popularity:</span>
+  #118
+</div>
+<div class="spaceit">
+  <span class="dark_text">Members:</span>
+    707,007
+</div>
+<div>
+  <span class="dark_text">Favorites:</span>
+  6,522
+</div>
+
+  <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
+          </div>
+
+</div></td><td valign="top" style="padding-left: 5px;"><div class="js-scrollfix-bottom-rel"><div style="width:728px; margin:0 auto"></div><a name="lower"></a>
+<div id="horiznav_nav" style="margin: 5px 0 10px 0;">
+  <ul style="margin-right: 0; padding-right: 0;">
+        <li><a href="https://myanimelist.net/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu" class="horiznav_active">Details</a>
+    </li>
+        <li><a href="/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu/video">Videos</a>
+    </li>
+        <li>      <a href="https://myanimelist.net/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu/episode">Episodes</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu/reviews">Reviews</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu/userrecs">Recommendations</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu/stats">Stats</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu/characters">Characters &amp; Staff</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu/news">News</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu/forum">Forum</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu/featured">Featured</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu/clubs">Clubs</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu/pics">Pictures</a>
+    </li>
+    </ul>
+</div>
+
+
+
+                    <div class="breadcrumb " itemscope itemtype="http://schema.org/BreadcrumbList"><div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/" itemprop="item"><span itemprop="name">
+              Top
+                          </span></a><meta itemprop="position" content="1"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime.php" itemprop="item"><span itemprop="name">
+              Anime
+                          </span></a><meta itemprop="position" content="2"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu" itemprop="item"><span itemprop="name">
+              Nanatsu no Taizai: Imashime no...
+                          </span></a><meta itemprop="position" content="3"></div></div>
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="408,087 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-7">7.88</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#709</strong></span><span class="numbers popularity">Popularity <strong>#118</strong></span><span class="numbers members">Members <strong>707,007</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2018/winter">Winter 2018</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/56/A-1_Pictures" title="A-1 Pictures">A-1 Pictures</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="34577"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F34577%2FNanatsu_no_Taizai__Imashime_no_Fukkatsu&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+        Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="24">24</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://myanimelist.net/store/manga/42/The_Seven_Deadly_Sins?_location=mal_atf_affiliate"
+           class="btn-affiliate manga-store js-shop-anime icon-shop-default"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Buy on Manga Store
+        </a></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/lgkv0Lqr-Iw?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/lgkv0Lqr-Iw/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">Announcement CM</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
+</div><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=34577&t=synopsis" style="font-weight: normal;">Edit</a></div><h2>Synopsis</h2></div><p itemprop="description">The fierce battle between Meliodas, the captain of the Seven Deadly Sins, and the Great Holy Knight Hendrickson has devastating consequences. Armed with the fragments necessary for the revival of the Demon Clan, Hendrickson breaks the seal, allowing the Commandments to escape, all of whom are mighty warriors working directly under the Demon King himself. Through a mysterious connection, Meliodas instantly identifies them; likewise, the 10 Commandments, too, seem to sense his presence.<br />
+<br />
+As the demons leave a path of destruction in their wake, the Seven Deadly Sins must find a way to stop them before the Demon Clan drowns Britannia in blood and terror.<br />
+<br />
+[Written by MAL Rewrite]</p><div style="margin-top: 15px;"><div class="floatRightHeader"><a href="/dbchanges.php?aid=34577&t=background" style="font-weight: normal;">Edit</a></div><h2>Background</h2></div>No background information has been added to this title. Help improve our database by adding background information <a href="/dbchanges.php?aid=34577&t=background">here</a>.<br><div class="border_top" style="padding:16px 0px 0px 0px;margin:14px 0px 0px 0px;"><div style="padding: 20px 0 20px 40px; float: left; position: relative; z-index: 1;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540582" data-ad-slot="criteo_slot_1540582" id="criteo_slot_1540582"></div>
+
+      </div>
+    </div><div style="padding: 20px 40px 20px 0; float: right; position: relative;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540583" data-ad-slot="criteo_slot_1540583" id="criteo_slot_1540583"></div>
+
+      </div>
+    </div></div></td></tr><tr><td class="pb24"><br><div><div class="floatRightHeader"><a href="https://myanimelist.net/store/manga/42/The_Seven_Deadly_Sins?_location=mal_mid_slider" style="font-weight: normal;">Preview Manga</a></div><h2>Manga Store</h2></div><div class="di-b clearfix">
+  <div class="v-manga-store-book-slider"
+       data-items="[{&quot;id&quot;:559,&quot;item_type&quot;:1,&quot;title&quot;:&quot;The Seven Deadly Sins&quot;,&quot;numbering_text&quot;:&quot;Volume 1&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/559\/The_Seven_Deadly_Sins_Volume_1&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/559&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/559\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/703\/e721b8eb927a3291a1bc99b2973d1ea627641000e2e803eb9ea57b40764a92dc&quot;,&quot;on_preorder_at&quot;:1395734400,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1395734400,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:1099,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:7057,&quot;item_type&quot;:1,&quot;title&quot;:&quot;The Seven Deadly Sins&quot;,&quot;numbering_text&quot;:&quot;Volume 40&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/7057\/The_Seven_Deadly_Sins_Volume_40&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/7057&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/7057\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/8978\/49b2e96e4044bef3e145d18a7acbca12acea58d0a07ac5f17df4a8e760e1e240&quot;,&quot;on_preorder_at&quot;:1605600000,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1605600000,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:1099,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:6869,&quot;item_type&quot;:1,&quot;title&quot;:&quot;The Seven Deadly Sins&quot;,&quot;numbering_text&quot;:&quot;Volume 39&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/6869\/The_Seven_Deadly_Sins_Volume_39&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/6869&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/6869\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/8646\/768ff524f258fed835c7aadf66065c90e06f61d2f6932f63c26e816cddc45d87&quot;,&quot;on_preorder_at&quot;:1599548400,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1599548400,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:1099,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:6043,&quot;item_type&quot;:1,&quot;title&quot;:&quot;The Seven Deadly Sins&quot;,&quot;numbering_text&quot;:&quot;Volume 38&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/6043\/The_Seven_Deadly_Sins_Volume_38&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/6043&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/6043\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/7712\/9391f64c1dcbeefaa7ee922373ff50b91b1253d8fc62e0ceb31e639a28eeec57&quot;,&quot;on_preorder_at&quot;:1591081200,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1591081200,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:1099,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:5358,&quot;item_type&quot;:1,&quot;title&quot;:&quot;The Seven Deadly Sins&quot;,&quot;numbering_text&quot;:&quot;Volume 37&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/5358\/The_Seven_Deadly_Sins_Volume_37&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/5358&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/5358\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/6855\/dfbcebab5a84e757da4d0b5810b0446516be0fa7e43c474139b4efed97dcc906&quot;,&quot;on_preorder_at&quot;:1585033200,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1585033200,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:1099,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:4035,&quot;item_type&quot;:1,&quot;title&quot;:&quot;The Seven Deadly Sins&quot;,&quot;numbering_text&quot;:&quot;Volume 36&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/4035\/The_Seven_Deadly_Sins_Volume_36&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/4035&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/4035\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/4229\/90718e3baeea3c390a25b89054ca386bb668876e49d6ebe98d7ded709af93211&quot;,&quot;on_preorder_at&quot;:1579593600,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1579593600,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:1099,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:3950,&quot;item_type&quot;:1,&quot;title&quot;:&quot;The Seven Deadly Sins&quot;,&quot;numbering_text&quot;:&quot;Volume 35&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/3950\/The_Seven_Deadly_Sins_Volume_35&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/3950&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/3950\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/4107\/a2788d22d027dc2a0520b90168f7f6f5e74486142643137e24cb4ddb956a52dc&quot;,&quot;on_preorder_at&quot;:1574150400,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1574150400,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:1099,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:3867,&quot;item_type&quot;:1,&quot;title&quot;:&quot;The Seven Deadly Sins&quot;,&quot;numbering_text&quot;:&quot;Volume 34&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/3867\/The_Seven_Deadly_Sins_Volume_34&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/3867&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/3867\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/4015\/1aba23e58cad0af2b3766c219ef7774f7ed390dd6c845e73315f1ef25d0924af&quot;,&quot;on_preorder_at&quot;:1568703600,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1568703600,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:1099,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:3793,&quot;item_type&quot;:1,&quot;title&quot;:&quot;The Seven Deadly Sins&quot;,&quot;numbering_text&quot;:&quot;Volume 33&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/3793\/The_Seven_Deadly_Sins_Volume_33&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/3793&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/3793\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/3934\/7ae0d8d87e316db52f752098dab5194def6e8c5d9957500b30937b60a32fbae5&quot;,&quot;on_preorder_at&quot;:1563865200,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1563865200,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:1099,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:3718,&quot;item_type&quot;:1,&quot;title&quot;:&quot;The Seven Deadly Sins&quot;,&quot;numbering_text&quot;:&quot;Volume 32&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/3718\/The_Seven_Deadly_Sins_Volume_32&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/3718&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/3718\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/3852\/77dbe0240d50be5bb8765023d40561c4b693e8833d38d101be9abe454bb4727b&quot;,&quot;on_preorder_at&quot;:1557817200,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1557817200,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:1099,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:3620,&quot;item_type&quot;:1,&quot;title&quot;:&quot;The Seven Deadly Sins&quot;,&quot;numbering_text&quot;:&quot;Volume 31&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/3620\/The_Seven_Deadly_Sins_Volume_31&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/3620&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/3620\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/3730\/0afd181c56d850eec0de2f835d5344b179901f6684e795ecff5e3fc511c4c3dc&quot;,&quot;on_preorder_at&quot;:1551772800,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1551772800,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:1099,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:3598,&quot;item_type&quot;:1,&quot;title&quot;:&quot;The Seven Deadly Sins&quot;,&quot;numbering_text&quot;:&quot;Volume 30&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/3598\/The_Seven_Deadly_Sins_Volume_30&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/3598&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/3598\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/3716\/33db5d12ee4dccaf45ad95d3e2acbe8464d7257b403530dda0b54fb262d5d389&quot;,&quot;on_preorder_at&quot;:1548748800,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1548748800,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:1099,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:3465,&quot;item_type&quot;:1,&quot;title&quot;:&quot;The Seven Deadly Sins&quot;,&quot;numbering_text&quot;:&quot;Volume 29&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/3465\/The_Seven_Deadly_Sins_Volume_29&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/3465&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/3465\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/3585\/c2dbd8cba114e85875af5418499363a77f8e5e93cd6fee33cae6c168d91c751e&quot;,&quot;on_preorder_at&quot;:1543305600,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1543305600,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:1099,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:3388,&quot;item_type&quot;:1,&quot;title&quot;:&quot;The Seven Deadly Sins&quot;,&quot;numbering_text&quot;:&quot;Volume 28&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/3388\/The_Seven_Deadly_Sins_Volume_28&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/3388&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/3388\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/3487\/9357ccc6ee90a320ba0c6496f0ceac64a71048cda7b060457a9452ba77c34031&quot;,&quot;on_preorder_at&quot;:1537858800,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1537858800,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:1099,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:3309,&quot;item_type&quot;:1,&quot;title&quot;:&quot;The Seven Deadly Sins&quot;,&quot;numbering_text&quot;:&quot;Volume 27&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/3309\/The_Seven_Deadly_Sins_Volume_27&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/3309&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/3309\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/3437\/123756559c8b3b10c490ce41c96976412c10023702c275272a97281998da5262&quot;,&quot;on_preorder_at&quot;:1530601200,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1530601200,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:1099,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false}]"
+       data-currency="{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100}"
+       data-options="{&quot;num_items_per_page&quot;:6,&quot;location&quot;:&quot;mal_mid_slider&quot;}"
+    >
+    <div class="ac pt16"><i class="fa fa-spinner fa-2x fa-spin"></i></div>
+  </div>
+</div>
+</td></tr><tr><td class="pb24"><br><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=34577&t=relations" style="font-weight: normal;">Edit</a></div><h2>Related Anime</h2></div><table class="anime_detail_related_anime" style="border-spacing:0px;"><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Adaptation:</td><td width="100%" class="borderClass"><a href="/manga/44485/Nanatsu_no_Taizai">Nanatsu no Taizai</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Prequel:</td><td width="100%" class="borderClass"><a href="/anime/31722/Nanatsu_no_Taizai__Seisen_no_Shirushi">Nanatsu no Taizai: Seisen no Shirushi</a>, <a href="/anime/36923/Nanatsu_no_Taizai__Imashime_no_Fukkatsu_Joshou">Nanatsu no Taizai: Imashime no Fukkatsu Joshou</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Side story:</td><td width="100%" class="borderClass"><a href="/anime/35946/Nanatsu_no_Taizai_Movie__Tenkuu_no_Torawarebito">Nanatsu no Taizai Movie: Tenkuu no Torawarebito</a>, <a href="/anime/38198/Nanatsu_no_Taizai__Eiyuu-tachi_wa_Hashagu">Nanatsu no Taizai: Eiyuu-tachi wa Hashagu</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Sequel:</td><td width="100%" class="borderClass"><a href="/anime/39701/Nanatsu_no_Taizai__Kamigami_no_Gekirin">Nanatsu no Taizai: Kamigami no Gekirin</a></td></table><br><div><div class="floatRightHeader"><a href="/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu/characters" style="font-weight: normal;">More characters</a></div><h2>Characters & Voice Actors</h2></div><div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/77605/Ban" class="fw-n">
+            <img alt="Ban" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/14/267813.jpg?s=9f8b63b284dbaf0f66f394be818191ed" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/14/267813.jpg?s=9f8b63b284dbaf0f66f394be818191ed 1x, https://cdn.myanimelist.net/r/84x124/images/characters/14/267813.jpg?s=9f4bd033b5a94377bed901110b5f21d7 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/77605/Ban">Ban</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/735/Tatsuhisa_Suzuki">Suzuki, Tatsuhisa</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/735/Tatsuhisa_Suzuki">
+                      <img alt="Suzuki, Tatsuhisa" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/46267.jpg?s=7a4249e028a41b8993b717530454f9e3" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/46267.jpg?s=7a4249e028a41b8993b717530454f9e3 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/46267.jpg?s=28beea74ef3257c58296fc0ce6eb99ed 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/72921/Meliodas" class="fw-n">
+            <img alt="Meliodas" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/9/253713.jpg?s=dd42646d3101aef32366a53f6fd439cc" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/9/253713.jpg?s=dd42646d3101aef32366a53f6fd439cc 1x, https://cdn.myanimelist.net/r/84x124/images/characters/9/253713.jpg?s=195232c456a193d6f47ac9a5c4d9e795 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/72921/Meliodas">Meliodas</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/672/Yuki_Kaji">Kaji, Yuki</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/672/Yuki_Kaji">
+                      <img alt="Kaji, Yuki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54595.jpg?s=09bcf94375f5b3b533b58ac5b0fc2abc" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54595.jpg?s=09bcf94375f5b3b533b58ac5b0fc2abc 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/54595.jpg?s=242ecdb1fdfd8ead96bddd259c04197a 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/83801/King" class="fw-n">
+            <img alt="King" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/16/277006.jpg?s=427ed49f6a0b6c456d2a1a9fe9acfa23" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/16/277006.jpg?s=427ed49f6a0b6c456d2a1a9fe9acfa23 1x, https://cdn.myanimelist.net/r/84x124/images/characters/16/277006.jpg?s=e4937744decaf1feaac622a5751797b6 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/83801/King">King</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/86/Jun_Fukuyama">Fukuyama, Jun</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/86/Jun_Fukuyama">
+                      <img alt="Fukuyama, Jun" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/60810.jpg?s=e3f5b394ae1e215359052aef53b5d844" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/60810.jpg?s=e3f5b394ae1e215359052aef53b5d844 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/60810.jpg?s=b9bc53db49dafc16750eb472d3969ac9 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/86683/Hawk" class="fw-n">
+            <img alt="Hawk" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/2/255451.jpg?s=95b4c7fca48dbdc8346e1697e781917a" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/2/255451.jpg?s=95b4c7fca48dbdc8346e1697e781917a 1x, https://cdn.myanimelist.net/r/84x124/images/characters/2/255451.jpg?s=2abab098aabb3a05733e7c34df3654e3 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/86683/Hawk">Hawk</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/11641/Misaki_Kuno">Kuno, Misaki</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/11641/Misaki_Kuno">
+                      <img alt="Kuno, Misaki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/55554.jpg?s=bf28bde027f46025f1504b9e6e1adf55" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/55554.jpg?s=bf28bde027f46025f1504b9e6e1adf55 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/55554.jpg?s=5df7905278a07206fddf27b0dede0d8f 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/74653/Diane" class="fw-n">
+            <img alt="Diane" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/5/264509.jpg?s=0957d7f755a8ec42e46af69461db8b02" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/5/264509.jpg?s=0957d7f755a8ec42e46af69461db8b02 1x, https://cdn.myanimelist.net/r/84x124/images/characters/5/264509.jpg?s=3aea916846dbcaf6e916f92f99d41561 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/74653/Diane">Diane</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/6686/Aoi_Yuuki">Yuuki, Aoi</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/6686/Aoi_Yuuki">
+                      <img alt="Yuuki, Aoi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/50769.jpg?s=52738204f2e8ab1c01e53a938ce99efa" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/50769.jpg?s=52738204f2e8ab1c01e53a938ce99efa 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/50769.jpg?s=0226d1836be7f69713e973b95d8697b4 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/95977/Gowther" class="fw-n">
+            <img alt="Gowther" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/3/277118.jpg?s=afceb4ed7162909516bbac16cee3cb60" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/3/277118.jpg?s=afceb4ed7162909516bbac16cee3cb60 1x, https://cdn.myanimelist.net/r/84x124/images/characters/3/277118.jpg?s=11815a26e2f2e6010be11e400949682e 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/95977/Gowther">Gowther</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/36667/Yuuhei_Takagi">Takagi, Yuuhei</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/36667/Yuuhei_Takagi">
+                      <img alt="Takagi, Yuuhei" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/38980.jpg?s=6cc1bab04779f6b47cd3d9fa96b3fa84" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/38980.jpg?s=6cc1bab04779f6b47cd3d9fa96b3fa84 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/38980.jpg?s=53d0a96af6e4205665465eae4adb5e43 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/72923/Elizabeth_Liones" class="fw-n">
+            <img alt="Liones, Elizabeth" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/11/255449.jpg?s=649a435bfe2a15b6515044fdecdad06b" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/11/255449.jpg?s=649a435bfe2a15b6515044fdecdad06b 1x, https://cdn.myanimelist.net/r/84x124/images/characters/11/255449.jpg?s=b179f5447c2b87e9c1395b5aebced792 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/72923/Elizabeth_Liones">Liones, Elizabeth</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/21517/Sora_Amamiya">Amamiya, Sora</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/21517/Sora_Amamiya">
+                      <img alt="Amamiya, Sora" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54663.jpg?s=9367f0c83b2c3a3f6a3cf69ee7d9d8e3" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54663.jpg?s=9367f0c83b2c3a3f6a3cf69ee7d9d8e3 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/54663.jpg?s=e3d7eedcc1531702f5de139518d174d6 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/95981/Merlin" class="fw-n">
+            <img alt="Merlin" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/6/277480.jpg?s=10922d3d690f2863a66cd2efca979a0a" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/6/277480.jpg?s=10922d3d690f2863a66cd2efca979a0a 1x, https://cdn.myanimelist.net/r/84x124/images/characters/6/277480.jpg?s=7bbc6fd46c84b19a0cbcd6a6e86b0790 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/95981/Merlin">Merlin</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/90/Maaya_Sakamoto">Sakamoto, Maaya</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/90/Maaya_Sakamoto">
+                      <img alt="Sakamoto, Maaya" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/57912.jpg?s=d071040a2c0d703b8447811f8ab37b7e" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/57912.jpg?s=d071040a2c0d703b8447811f8ab37b7e 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/57912.jpg?s=e160860110c05db99fbac08980605681 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/95985/Escanor" class="fw-n">
+            <img alt="Escanor" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/10/406047.jpg?s=def64e428541bc70b14ca23809fb5149" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/10/406047.jpg?s=def64e428541bc70b14ca23809fb5149 1x, https://cdn.myanimelist.net/r/84x124/images/characters/10/406047.jpg?s=f30d2e4a4df5d2900aac7498bf2bc68f 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/95985/Escanor">Escanor</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/2/Tomokazu_Sugita">Sugita, Tomokazu</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/2/Tomokazu_Sugita">
+                      <img alt="Sugita, Tomokazu" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/60638.jpg?s=fc67e5d86f56b139e93b50e9d73e6bae" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/60638.jpg?s=fc67e5d86f56b139e93b50e9d73e6bae 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/60638.jpg?s=c825f1aee965b142c3163b026a299853 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/124936/Zeldris" class="fw-n">
+            <img alt="Zeldris" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/5/348159.jpg?s=119417d638c128629d28fa015967a604" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/5/348159.jpg?s=119417d638c128629d28fa015967a604 1x, https://cdn.myanimelist.net/r/84x124/images/characters/5/348159.jpg?s=a4fb7df33ef43cf7cc0f3c6ab49785db 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/124936/Zeldris">Zeldris</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/672/Yuki_Kaji">Kaji, Yuki</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/672/Yuki_Kaji">
+                      <img alt="Kaji, Yuki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54595.jpg?s=09bcf94375f5b3b533b58ac5b0fc2abc" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54595.jpg?s=09bcf94375f5b3b533b58ac5b0fc2abc 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/54595.jpg?s=242ecdb1fdfd8ead96bddd259c04197a 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div></div>
+<div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div><br>
+<a name="staff"></a>
+<div>
+  <div class="floatRightHeader"><a href="https://myanimelist.net/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu/characters#staff">More staff</a></div>
+  <h2>Staff</h2>
+</div>
+
+<div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/51841/Muneyuki_Kii" class="fw-n">
+            <img alt="Kii, Muneyuki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/60404.jpg?s=eeb4b0cd88acdd1da9070f04d2ef92de" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/60404.jpg?s=eeb4b0cd88acdd1da9070f04d2ef92de 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/60404.jpg?s=cee419b19a5a5a20b2d4b00912523b07 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/51841/Muneyuki_Kii">Kii, Muneyuki</a>
+        <div class="spaceit_pad">
+          <small>Producer</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/32969/Jouji_Furuta" class="fw-n">
+            <img alt="Furuta, Jouji" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/53748.jpg?s=de79b529bc50d94329772c9125314bc6" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/53748.jpg?s=de79b529bc50d94329772c9125314bc6 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/53748.jpg?s=afeae8002d41053c9165bcdedb157a26 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/32969/Jouji_Furuta">Furuta, Jouji</a>
+        <div class="spaceit_pad">
+          <small>Director</small>
+        </div>
+      </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/33967/Kazuhiro_Wakabayashi" class="fw-n">
+            <img alt="Wakabayashi, Kazuhiro" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54563.jpg?s=64caf8f7db9d6099f27e736997a48f0a" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54563.jpg?s=64caf8f7db9d6099f27e736997a48f0a 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/54563.jpg?s=0d9b1a8f2fedd38835de9ba957bfc91a 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/33967/Kazuhiro_Wakabayashi">Wakabayashi, Kazuhiro</a>
+        <div class="spaceit_pad">
+          <small>Sound Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/38963/Masahiro_Shinohara" class="fw-n">
+            <img alt="Shinohara, Masahiro" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/38963/Masahiro_Shinohara">Shinohara, Masahiro</a>
+        <div class="spaceit_pad">
+          <small>Episode Director</small>
+        </div>
+      </td>
+    </tr>
+  </table></div></div>
+<br><br><div class="di-t">
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=34577&amp;t=theme" class="floatRightHeader">Edit</a>
+      <h2>Opening Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs opnening"><span class="theme-song">#1: &quot;Howling&quot; by FLOW x GRANRODEO (eps 2-12)</span><br><span class="theme-song">#2: &quot;Ame ga Furu kara Niji ga Deru (雨が降るから虹が出る)&quot; by Sky Peace (スカイピース) (eps 13-23)</span><br></div>
+  </div>
+  <div class="di-tc va-t}" style="width:16px;"></div>
+
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=34577&amp;t=theme&amp;themetype=2" class="floatRightHeader">Edit</a>
+      <h2>Ending Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs ending"><span class="theme-song">#1: &quot;Howling&quot; by FLOW x GRANRODEO (ep 1)</span><br><span class="theme-song">#2: &quot;Beautiful&quot; by Anly (eps 2-12)</span><br><span class="theme-song">#3: &quot;Chikai (誓い)&quot; by Sora Amamiya (eps 13-23)</span><br><span class="theme-song">#4: &quot;Ame ga Furu kara Niji ga Deru (雨が降るから虹が出る)&quot; by Sky Peace (スカイピース) (ep 24)</span><br></div>
+  </div>
+</div>
+<br><br><br><div><span class="floatRightHeader"><a href="/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu/reviews">More reviews</a></span><h2>Reviews</h2></div>
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="2:22 AM">Jun 30, 2018</div>
+      <div class="lightLink spaceit">
+                  24 of 24 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score282584').toggle()">Overall Rating</a>:
+        5
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Raggadish">
+                  <img src="https://cdn.myanimelist.net/images/userimages/5471783.jpg?t=1610287800" data-src="https://cdn.myanimelist.net/images/userimages/5471783.jpg?t=1610287800" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Raggadish">Raggadish</a>
+              <small>(<a href="/profile/Raggadish/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp282584">261</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score282584">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>5</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">3</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">8</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">8</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">4</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">4</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    A total score of 5 may seem hard on Nanatsu no Taizai: Imashime no Fukkatsu (The Seven Deadly Sins: Revival of the 10 commandments or simply The Sins S2). Especially according to its high score. But I´m disappointed. I really enjoyed the first season and was glad when I read that a season 2 were coming, and with 24-episodes at that. But my excitement was steadily replaced with disappointment and uninterest. My review will contain minor spoilers to specify why I had problems with this sequel, but they will be heads ups for those (₴).<br />
+<br />
+The biggest let down with The Sins S2 for me was
+
+          <span style="display: none;" id="review282584">
+        the story and character developments. With that I mean a very uninspired story direction and an almost non-existing character development. What I truly loved about the prequel was the goofy but adventures story, filled with small surprises of meaningful meetings and overdramatic but interesting character interactions. I even didn´t care about Meliodas repetitively grouping of Elizabeth. Some shounen tropes were of course present, but it had its own style, feeling and inventiveness. The battles and fights made sense, they had drive and feeling in them, and some were really nice to look at. The mystic and allure of the sins and their past was thick, and some strong friendships and relationships were formed. <br />
+<br />
+And then S2 happened. The far from straight but entertaining story path took a straight battle shounen path, becoming randomly magic/power level face offs, and character interaction became either repetitive, cliché shounen troopy or melodramatic. Let me give you an example, spoiler alert is on ₴. The battles changes from being about enemies facing off each other in creative ways with emotional investment, to be about magic and power levels, tournaments and powerups. Spoiler alert off. Why taking that direction? If this is a faithful adaptation, I think Nakaba Suzuki (the author and artist behind the manga), abandoned the good adventures concept he had established in the first half, for washed out Dragon Ball power level bs. I´m sorry but it is really how I feel. <br />
+<br />
+Let me elaborate. You know the classic battle scene with the top bad asses, where you have proper build ups to get really emotionally invested in it? Well, don´t expect them here. The new threat appears, and in the beginning the whole thing had much potential. A demon clan has been freed (by Hendrickson in the end of the last season), and Meliodas seems to be connected to them. Many potential interesting meetings between the Sins and the Demon clan members, or plot/character developments/interaction as well as background stories. But most of it turned out to be pretty basic shounen trope encounters, with cliché battle speeches and brawly screams of their attacks with cool names such as “Death Breath” and wired mid fight power ups.  <br />
+<br />
+I really wanted to like this sequel. I was absolutely a bit enchanted by the prequel - the magical world with all its different inhabitants and magical functions was very enjoyable. I lost that feeling in S2. A few things are easy to pin point out, as the depletion of the story as well as the amount of new characters. In S2 the numbers of characters keep bashing in, diffusing the time and space from a lot of key characters. Some characters like Jericho got some nice development and time even if her Ban fixation could become a bit embarrassing. Ban gets more time as well (his background mini arc was one of the best parts of the show for me), Diane gets a solid number of episodes focused on her, and Meliodas is Meliodas so time has been spared for him as well. The rest? Is mostly neglected for new characters. Elizabeth? Gets less development than both Sakura and Orihime put together.<br />
+<br />
+It felt like the narrative both speed up and slowed down at the same time. The scenes took 1s or 10 episodes. Most things happened to fast or to slow. A crashing battle there, and suddenly is guy 1, 2, 3, 4 and girl 1, 2 in a completely different geographical location, training and unlocking powers to left and right for episodes, for them to next split up and be in like 6 different places, to end up little randomly together at a third place later on. The reasons behind it? Weak at best, and mostly poorly explained. I lost interest in who the demon clan members were and ₴ how in hell they can remember things from 3000 years ago so clearly. I lost interest in the powerups, I lost interest in Ban´s and Elaine’s relationship, and I lost interest in Meliodas grouping of Elizabeth. <br />
+<br />
+And here I think we are reaching the shows main problem. I just lost interest, in my eyes it didn´t carry this “new” direction well. It crumbled away along known and common battle shounen paths and ruining the atmosphere it built up to that point. The new stereotypical shounen approach just didn´t work well for me. <br />
+<br />
+The Sins S2 is as its prequel an A-1 Picture production. If your familiar with the studio, think A-1 on a good day there they are putting some in some effort and money in their creation. The style is simplistic but characteristic, and as most A-1 productions, with some nice colourful backgrounds and with curvy ladies and muscly men. And since A-1 actually put in some effort in it, the animation is more than decent, with some intense battle scenes as the one between Meliodas and Ten Commandments or Escanors swift encounter with the demon Galand. <br />
+<br />
+One of the highlights of the prequel was the solid rock-fantasy inspired soundtrack, which was affect full and well composed. Which they luckily stuck to this time around as well. No complains there. <br />
+<br />
+So, to summon things up, The Sins S2 didn´t get the job done in my eyes and ears, even if I have no complaints against A-1´s accomplishment. I can see why many still love the show, but the magical spell that The Sins S1 had put on me was utterly crushed. Generic battle shounen can absolutely work, but this direction felt cheap, especially since Nakaba Suzuki had established a very magical world which could been focused on instead of long ego speeches on who´s the toughest, strongest, and most powerful fighter. #disappointedatthemediocracy  <br />
+
+        
+<div id="revhelp_output_282584" class="mt8 js-review-btn-helpful js-review-helpful-282584">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F34577%2FNanatsu_no_Taizai__Imashime_no_Fukkatsu" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle282584"
+         class="js-toggle-review-button" data-id="282584">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=282584" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=282584" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="3:12 PM">Jun 29, 2018</div>
+      <div class="lightLink spaceit">
+                  24 of 24 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score282556').toggle()">Overall Rating</a>:
+        7
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Stark700">
+                  <img src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" data-src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Stark700">Stark700</a>
+              <small>(<a href="/profile/Stark700/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp282556">83</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score282556">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>7</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">7</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">7</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">6</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">6</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">7</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Stop me if you’ve heard this one before but it seems that battle shounen anime in recent years have been on the decline. Boku Hero no Academia became a big name that is able to carry itself but beyond that, there’s hardly any other that made a name for itself. Well, there’s Black Clover but that abomination is an example of giving battle shounen a bad name in recent years. Boruto has been an underwhelming sequel that looked more like a cheap cash grab for the franchise. Where does a show like Nanatsu no Taizai still stand?<br />
+<br />
+To be fair, the series already established itself from
+
+          <span style="display: none;" id="review282556">
+        some of its other projects like the first season, OVAs, and movie. It isn’t as long as some other shounen like Naruto, Bleach, or One Piece. In fact, it’s not even part of the “Big 3” as Westerners would call it. However, Nanatsu no Taizai does make a name for itself by developing its own ideas. The first season established the principle cast and felt more like a way to get viewers familiar with the story. In this sequel, the business really picks up as new dangers are unleashed into the world.<br />
+<br />
+For those who don’t remember, the story picks up right after the first season as Hendrickson breaks the seal on the Coffin of Eternal Darkness. By doing so, he unleashes a group of powerful demons known as the “Ten Commandments”. Essentially, they are the central antagonists of this season. While we don’t know too much about them, it’s known that they hold a deep grudge against Meliodas for betraying them in the past. The first few episodes establishes their testament in power as one of their members is able to make Meliodas look like a jobber in a one-sided fight. This implies that the Ten Commandments are more powerful than anything Meliodas and his friends ever dealt with. In terms of characteristics, the Ten Commandments are known for their unique “Commandment” power and various personalities. For new viewers, you may be surprised at how much personality these beings show for their characters. It’s actually somewhat human for characters like Galand’s arrogance, Fraudrin’s manipulative nature, or Monspeet’s politeness. Unfortunately, there’s not much concrete characterization for the Commandments. I blame this mostly on the pacing because the manga explores much more about their past and roles.  <br />
+<br />
+There’s actually two sides of the coin regarding the pacing of the show. On the surface, it is indeed slow and some elements of the plot can really be condensed. I actually felt impatient after seeing the season focus so much on characters like Diane and Ban. The latter is actually more important but really should of been shorter than shown on TV. In addition, Meliodas’ past is explored only enough to give viewers an impression of who he is. In essence, it isn’t enough to show the more important side of his role as a “betrayer” to the Commandments. In addition, anime only viewers will probably question what it really means when certain characters call him a “demon” and “former leader”. The other side to look at is how faithful the anime adaptation is. Most chapters cover literally everything from the book with many chapters on a panel-by-panel basis. It’s loyal to the manga readers that really bought the show into what it is. Nothing is changed for fans of the manga especially those who are looking forward to certain scenes to be adapted.<br />
+<br />
+Despite the season focusing on the conflict with the Commandments, new characters are also introduced from the good guy’s side. The most noticeable character is Escanor, the seventh and final member of the Seven Deadly Sins. He makes a hell of an impression that will make viewers hunger for more of his role this season. Other important support characters also make returns that may surprise you. <br />
+<br />
+A-1 Pictures once again uses their resources to adapt this sequel although it actually impressed me for their work. There are certain episodes that really stood out that includes Escanor’s character debut, Meliodas’ confrontation with the Ten Commandments, and Galand’s rampage. Animation quality remains similar to the previous season although A-1 Pictures still falls into the occasional trap of awkward character models. There are also some scenes that didn’t feel as impactful as those in the manga especially in terms of character expressions. However, the battle scenes lived up to its expectations. This especially applies to climatic battles in the latter half of the show that also brings credibility of character power levels. <br />
+<br />
+The music and OST is still composed by Hiroyuki Sawano although I’m a bit disappointed that most of it is just a rehash of the previous season’s. The new theme songs also sounds less impactful. Despite that, I think character voice mannerism should be given praise especially for the Ten Commandments. Yuki Kaji is able to voice two characters with very contrasting personalities. Others such as Escanor makes their personality stand out much more thanks to the modern talent of Tomokazu Sugita. <br />
+<br />
+Nanatsu no Taizai: Revival of the Commandments is a battle shounen that is faithful but perhaps a bit too much for its own good. This series suffered from some pacing issues that I feel like some viewers will not easily forgive. Plus, some of the new characters didn’t really get the amount of charaterization it deserves. However, I would like to say to give this sequel a chance. It’s still part of the franchise that is committed to its ideas and continues to develop the main story as it’s intended. I just hope that when the next inevitable season comes, we get a real showstopper.
+        
+<div id="revhelp_output_282556" class="mt8 js-review-btn-helpful js-review-helpful-282556">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F34577%2FNanatsu_no_Taizai__Imashime_no_Fukkatsu" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle282556"
+         class="js-toggle-review-button" data-id="282556">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=282556" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=282556" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="5:55 PM">Oct 14, 2018</div>
+      <div class="lightLink spaceit">
+                  24 of 24 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score291769').toggle()">Overall Rating</a>:
+        4
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Snack__">
+                  <img src="https://cdn.myanimelist.net/images/userimages/6188903.jpg?t=1610529000" data-src="https://cdn.myanimelist.net/images/userimages/6188903.jpg?t=1610529000" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Snack__">Snack__</a>
+              <small>(<a href="/profile/Snack__/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp291769">69</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score291769">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>4</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">4</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">8</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">5</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">4</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">4</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    The bad part about expecting a show to be good, is that you end up hating it even if it&#039;s ok-ish. That&#039;s what happened to me after watching Nanatsu no Taizai: Imashime no Fukkatsu, I thought it was gonna be great.<br />
+<br />
+I don&#039;t know about you guys, but what I care about most in Animé, Movies and tv series, is the dramatic structure, the characters and the dialogues. <br />
+<br />
+The dramatic structure sucks, a lot of back stories, and cheesy drama.<br />
+I couldn&#039;t stand the dialogues. They were so dry, and predictable.<br />
+Nanatsu no Taizai&#039;s characters have never been good in my opinion, Ban is always mad and angry,
+
+          <span style="display: none;" id="review291769">
+        Diane is a crybaby, cute wannabe, Eli is so annoying. This show has one of the worst cast ever.<br />
+<br />
+The Art style and the fights kinda saved the Animé from being a disaster. 
+        
+<div id="revhelp_output_291769" class="mt8 js-review-btn-helpful js-review-helpful-291769">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F34577%2FNanatsu_no_Taizai__Imashime_no_Fukkatsu" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle291769"
+         class="js-toggle-review-button" data-id="291769">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=291769" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=291769" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="6:47 PM">Jun 30, 2018</div>
+      <div class="lightLink spaceit">
+                  24 of 24 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score282653').toggle()">Overall Rating</a>:
+        4
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Yellow_INC">
+                  <img src="https://cdn.myanimelist.net/images/questionmark_50.gif" data-src="https://cdn.myanimelist.net/images/questionmark_50.gif" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Yellow_INC">Yellow_INC</a>
+              <small>(<a href="/profile/Yellow_INC/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp282653">49</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score282653">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>4</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">3</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">4</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">7</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">3</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">5</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    The sequel I desired, but not the sequel I expected it to be.<br />
+<br />
+Pretty much the show starts off with a big thump, direct continuation from the first season. As strongly and unexpectable it could be, the rest of the show didn&#039;t follow the tempo.<br />
+<br />
+At the start we are getting familar with an old-new, even greater threat than before. To be honest I felt like it was the most generic way the show could possibly go and further on I realized I was right.<br />
+Post-intro part gets only slower and slower while implementing stuff which doesn&#039;t feel that important for the main plot.<br />
+A LOT clichés for fantasy-supernatural
+
+          <span style="display: none;" id="review282653">
+        anime world has been used, not many explanations that I wanted and some that looked like a filler... Well I feel like vast part of this season was one big filler.<br />
+Getting to the point, I didn&#039;t notice much of the story development (possible spoiler here: show ends in like half of what it wanted to tell!), not much of the character development (well, it tries to tell us about one thing, it tells but then it repeats it over and over in next episodes).<br />
+As long as the story is not doing its best, it can be still quite enjoyable.<br />
+<br />
+Getting to the art, I don&#039;t know if the previous season was similar, but I noticed quite a few scenes here and there that were literally boring which lead my attention to focus on the art and what I noticed was poverty... It&#039;s understandable to make some cuts on the less important moments or backgrounds, while focusing on the first plan, but... Literally when making some &#039;fill in&#039; dialogue, scene is one and long frame, with almost none movement, probably they expected to cover it with some nudity.<br />
+I would say that it&#039;s fair most of the time with some really awful moments.<br />
+<br />
+I&#039;m not really good with rating sounds, so I&#039;m gonna say that it&#039;s avarage with some good tracks and openings.<br />
+<br />
+Character development feels poor, focusing on few and neglecting all the rest, not much to say without a spoilers, but I didn&#039;t learn many new things about most of the cast.  Good example of decent character introduction, but poor development (that was present all the time) is Escanor - such potential, mysterious and undiscovered character has been revealed with flat backstory, well, atleast his behaviour was interesting, but not much time was invested in that.<br />
+<br />
+Coming to the end, show is fine, enjoyable but it got noticable flaws, that make it taste like an undercooked pork.
+        
+<div id="revhelp_output_282653" class="mt8 js-review-btn-helpful js-review-helpful-282653">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F34577%2FNanatsu_no_Taizai__Imashime_no_Fukkatsu" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle282653"
+         class="js-toggle-review-button" data-id="282653">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=282653" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=282653" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+<div class="mt4"></div><div class="amazon-ads anime-manga-detail bottom pt20 pb16">
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "animedetail-20";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Buy on Amazon.com ";
+amzn_assoc_default_search_phrase = "The Seven Deadly Sins: Revival of the Commandments";
+amzn_assoc_default_category = "DVD";
+amzn_assoc_linkid = "d33d41183eb8aee6216ffe9ff44ca735";
+amzn_assoc_rows = "1";
+amzn_assoc_search_bar_position = "bottom";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+</div>            <div class="mal-ad-unit" data-ad-width="801" data-ad-height="633">
+        <div id="taboola-below-article-thumbnails-anime"></div> <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'alternating-thumbnails-a',
+    container: 'taboola-below-article-thumbnails-anime',
+    placement: 'Below Article Thumbnails Anime',
+    target_type: 'mix'
+  });
+</script>
+
+      </div>
+    <br><div><div class="floatRightHeader"><a href="/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu/news">More news</a></div><h2>Recent News</h2></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/57356286" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1564978744-dbcff364bf11749e00d157edd7a0a416.jpeg?s=1292486ea29c3bee7c8f6ba398264460" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1564978744-dbcff364bf11749e00d157edd7a0a416.jpeg?s=1292486ea29c3bee7c8f6ba398264460 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1564978744-dbcff364bf11749e00d157edd7a0a416.jpeg?s=8941944b23e857c1467fc6480ec5953d 2x" alt="&#039;Nanatsu no Taizai&#039; Gets New TV Anime in Fall 2019" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/57356286"><strong>&#039;Nanatsu no Taizai&#039; Gets New TV Anime in Fall 2019</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p>The official website of Nanatsu no Taizai (The Seven Deadly Sins) announced a new television anime for the series on Wednesday. The new series, titled Nanatsu no Tai...<a href="/news/57356286">read more</a></p></div>
+		<p class="lightLink spaceit">Apr 9, 2019 6:32 PM by <a href="/profile/Vindstot">Vindstot</a> | <a href="/forum/?topicid=1776566">Discuss (84 comments)</a></p></div>
+		<div class="borderClass"></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/55481037" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1534605842-b56f6548a18f703c7116991e6d8b3774.jpeg?s=33dc4e280ef24aef35ac899c1b5265a1" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1534605842-b56f6548a18f703c7116991e6d8b3774.jpeg?s=33dc4e280ef24aef35ac899c1b5265a1 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1534605842-b56f6548a18f703c7116991e6d8b3774.jpeg?s=0c612f844cf11ca5a2e4e539b18235d8 2x" alt="Manga &#039;Nanatsu no Taizai&#039; to Bundle New OVA" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/55481037"><strong>Manga &#039;Nanatsu no Taizai&#039; to Bundle New OVA</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p>Amazon Japan has listed that 34th volume of Nanatsu no Taizai manga, which is scheduled to release on November 14, will bundle a new OVA. Nanatsu no Taizai has been ...<a href="/news/55481037">read more</a></p></div>
+		<p class="lightLink spaceit">Aug 18, 2018 8:24 AM by <a href="/profile/tsubasalover">tsubasalover</a> | <a href="/forum/?topicid=1735284">Discuss (7 comments)</a></p></div>
+		<div class="borderClass"></div><br><div><div class="floatRightHeader"><a href="/forum/?animeid=34577"><a href="/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu/forum">More discussions</a></div><h2>Recent Forum Discussion</h2></div><div class="page-forum">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F34577%2FNanatsu_no_Taizai__Imashime_no_Fukkatsu&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=1750099">The manga chapter after the anime season 3!</a> <small></small><br><span class="forum_postusername"><a href="/profile/Qaos">Qaos</a></span> - <span class="lightLink">Nov 6, 2018</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">3 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Slo_">Slo_</a> <a href="/forum/?topicid=1750099&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Nov 15, 2020 1:10 AM</td>
+            </tr>
+            <tr id="topicRow2">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F34577%2FNanatsu_no_Taizai__Imashime_no_Fukkatsu&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1732612">Nanatsu no Taizai: Imashime no Fukkatsu Episode 21 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/tsubasalover">tsubasalover</a></span> - <span class="lightLink">Aug 8, 2018</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">18 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Camboi1606">Camboi1606</a> <a href="/forum/?topicid=1732612&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Nov 9, 2020 4:23 AM</td>
+            </tr>
+            </table></div><br><div><div class="floatRightHeader"><a href="/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu/featured">More featured articles</a></div><h2>Recent Featured Articles</h2></div><div class="detail-page-featured-article"><div class="news-list">
+      
+    <div class="news-unit clearfix"><div class="picSurround fl-l mr8 ml3">
+          <a href="https://myanimelist.net/featured/2351/The_Winter_2021_Seasonal_Catch-up_Guide"><img src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1607258059-3496417e47772940290d84beaeab7538.jpeg?s=2a843cc194047af00c0253db1b0f58fa" alt="The Winter 2021 Seasonal Catch-up Guide" class="image lazyload" width="50" height="78" srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1607258059-3496417e47772940290d84beaeab7538.jpeg?s=2a843cc194047af00c0253db1b0f58fa 1x, https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1607258059-3496417e47772940290d84beaeab7538.jpeg?s=92746fbd84652c7e6606034e228d2d9c 2x" /></a>
+        </div><div class="news-unit-right rect">
+        <p class="title">
+          <a href="https://myanimelist.net/featured/2351/The_Winter_2021_Seasonal_Catch-up_Guide" title="The Winter 2021 Seasonal Catch-up Guide">The Winter 2021 Seasonal Catch-up Guide</a>
+        </p>
+        <div class="text">
+          Everything you need to be sequel-ready for a whole new season of exciting anime!
+        </div>
+        <div class="information">
+          <p class="info pr8">
+            by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
+          </p><p class="di-tc pv pr8">
+              <b>46,271</b> views
+            </p></div>
+      </div>
+    </div>
+            
+    <div class="news-unit clearfix"><div class="picSurround fl-l mr8 ml3">
+          <a href="https://myanimelist.net/featured/2309/In_Numbers__The_Best_Anime_of_the_Decade"><img src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1577540570-6cd00ecbf3483b617d40670f43868d2c.jpeg?s=9b135c843346a9061dede8eb1733608a" alt="In Numbers: The Best Anime of the Decade" class="image lazyload" width="50" height="78" srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1577540570-6cd00ecbf3483b617d40670f43868d2c.jpeg?s=9b135c843346a9061dede8eb1733608a 1x, https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1577540570-6cd00ecbf3483b617d40670f43868d2c.jpeg?s=e68e4dccba068951010dabd27951a025 2x" /></a>
+        </div><div class="news-unit-right rect">
+        <p class="title">
+          <a href="https://myanimelist.net/featured/2309/In_Numbers__The_Best_Anime_of_the_Decade" title="In Numbers: The Best Anime of the Decade">In Numbers: The Best Anime of the Decade</a>
+        </p>
+        <div class="text">
+          What&#039;s the #1 anime of the 2010s? Which year was the best? What studio had the most hits? We have the answers to all these questions and more!
+        </div>
+        <div class="information">
+          <p class="info pr8">
+            by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
+          </p><p class="di-tc pv pr8">
+              <b>319,598</b> views
+            </p></div>
+      </div>
+    </div>
+        </div>
+</div><div style="padding:16px 0px 0px 0px;"><div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div></div><br><div>
+            <div class="floatRightHeader"><a href="/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu/userrecs">More recommendations</a></div>
+            <h2>Recommendations
+            </h2></div>  <div class=""><div class="anime-slide-block" id="anime_recommendation" data-json='{"width":800,"btnWidth":40,"margin":8}'><div class="btn-anime-slide-side left"><span class="btn-inner"></span></div><div class="btn-anime-slide-side right"><span class="btn-inner"></span></div><div class="anime-slide-outer" style="height:140px;"><ul class="anime-slide js-anime-slide" data-slide="8"><li class="btn-anime" style="width:90px" title="Bleach"><a href="https://myanimelist.net/recommendations/anime/269-34577" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Bleach</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/3/40451.jpg?s=4a061e8a9aa49cd1d8f765f457ae4c59" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/3/40451.jpg?s=4a061e8a9aa49cd1d8f765f457ae4c59 1x,https://cdn.myanimelist.net/r/180x280/images/anime/3/40451.jpg?s=c7e2e92295e2a99f699543d63340185a 2x" width="90" height="140" class="image lazyload" alt="Bleach" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Trinity Seven"><a href="https://myanimelist.net/recommendations/anime/25157-34577" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Trinity Seven</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/67795.jpg?s=116414597aba6322fcad31c7eed7fdf5" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/67795.jpg?s=116414597aba6322fcad31c7eed7fdf5 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/67795.jpg?s=c2ec68a0f637a293e1ee76fc25828327 2x" width="90" height="140" class="image lazyload" alt="Trinity Seven" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"><a href="https://myanimelist.net/recommendations/anime/34577-37999" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1295/106551.jpg?s=16549e3b6041fe18ac0e4a3a04cfb16f" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1295/106551.jpg?s=16549e3b6041fe18ac0e4a3a04cfb16f 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1295/106551.jpg?s=44bdc0bac66c2bdf0e6f2cf39c4e87b7 2x" width="90" height="140" class="image lazyload" alt="Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Natsume Yuujinchou Go"><a href="https://myanimelist.net/anime/32983/Natsume_Yuujinchou_Go?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Natsume Yuujinchou Go</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/11/81755.jpg?s=01ce064dc49ca021dbf19b653d204c22" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/11/81755.jpg?s=01ce064dc49ca021dbf19b653d204c22 1x,https://cdn.myanimelist.net/r/180x280/images/anime/11/81755.jpg?s=f48b2c4a3621632c03cdde0623072081 2x" width="90" height="140" class="image lazyload" alt="Natsume Yuujinchou Go" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Natsume Yuujinchou San"><a href="https://myanimelist.net/anime/10379/Natsume_Yuujinchou_San?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Natsume Yuujinchou San</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/8/82394.jpg?s=63b5bd799811986cded10b918d68b775" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/8/82394.jpg?s=63b5bd799811986cded10b918d68b775 1x,https://cdn.myanimelist.net/r/180x280/images/anime/8/82394.jpg?s=aafa18397122d86aa5299515a9fafe12 2x" width="90" height="140" class="image lazyload" alt="Natsume Yuujinchou San" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Haikyuu!!: To the Top 2nd Season"><a href="https://myanimelist.net/anime/40776/Haikyuu__To_the_Top_2nd_Season?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Haikyuu!!: To the Top 2nd Season</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1453/106768.jpg?s=8564e403d6506ba4fc636080be9bbd35" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1453/106768.jpg?s=8564e403d6506ba4fc636080be9bbd35 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1453/106768.jpg?s=cd768ade2803dbe7e99b2c6d6be34238 2x" width="90" height="140" class="image lazyload" alt="Haikyuu!!: To the Top 2nd Season" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Fate/stay night Movie: Heaven&#039;s Feel - II. Lost Butterfly"><a href="https://myanimelist.net/anime/33049/Fate_stay_night_Movie__Heavens_Feel_-_II_Lost_Butterfly?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Fate/stay night Movie: Heaven&#039;s Feel - II. Lost Butterfly</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1974/98158.jpg?s=92b5bf4625a4f74ce8efa001aedaf92d" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1974/98158.jpg?s=92b5bf4625a4f74ce8efa001aedaf92d 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1974/98158.jpg?s=f7bb50179d27f9e060f0b1d51dc3c0fa 2x" width="90" height="140" class="image lazyload" alt="Fate/stay night Movie: Heaven&#039;s Feel - II. Lost Butterfly" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Fruits Basket 2nd Season"><a href="https://myanimelist.net/anime/40417/Fruits_Basket_2nd_Season?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Fruits Basket 2nd Season</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1486/106692.jpg?s=46784625c0b1b94a5860aae496d952d2" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1486/106692.jpg?s=46784625c0b1b94a5860aae496d952d2 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1486/106692.jpg?s=d5329348312609254191dccbc38bac1c 2x" width="90" height="140" class="image lazyload" alt="Fruits Basket 2nd Season" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Kizumonogatari II: Nekketsu-hen"><a href="https://myanimelist.net/anime/31757/Kizumonogatari_II__Nekketsu-hen?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kizumonogatari II: Nekketsu-hen</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/8/80930.jpg?s=a398d7adbbba007948d8edd0a1c72ac2" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/8/80930.jpg?s=a398d7adbbba007948d8edd0a1c72ac2 1x,https://cdn.myanimelist.net/r/180x280/images/anime/8/80930.jpg?s=5cba838c5c956f2a6f7f8523e3ecaa49 2x" width="90" height="140" class="image lazyload" alt="Kizumonogatari II: Nekketsu-hen" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="One Punch Man"><a href="https://myanimelist.net/anime/30276/One_Punch_Man?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">One Punch Man</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/76049.jpg?s=7996680313e9884e2ecdd1bf6c042e78" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/76049.jpg?s=7996680313e9884e2ecdd1bf6c042e78 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/76049.jpg?s=d560865fb58c77de3c8d490b300f6680 2x" width="90" height="140" class="image lazyload" alt="One Punch Man" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Kimetsu no Yaiba"><a href="https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kimetsu no Yaiba</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1286/99889.jpg?s=b866831b109fac7cf6d971d49c2b6198" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1286/99889.jpg?s=b866831b109fac7cf6d971d49c2b6198 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1286/99889.jpg?s=3aeb6b6fc9db88b07d62eb304f43036c 2x" width="90" height="140" class="image lazyload" alt="Kimetsu no Yaiba" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Bakuman. 3rd Season"><a href="https://myanimelist.net/anime/12365/Bakuman_3rd_Season?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Bakuman. 3rd Season</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/6/41845.jpg?s=341e03b338f0c29ebaad1f7106e2160f" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/6/41845.jpg?s=341e03b338f0c29ebaad1f7106e2160f 1x,https://cdn.myanimelist.net/r/180x280/images/anime/6/41845.jpg?s=c6a8259ac503a87429206818166c12d1 2x" width="90" height="140" class="image lazyload" alt="Bakuman. 3rd Season" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Yuru Camp△ Season 2"><a href="https://myanimelist.net/anime/38474/Yuru_Camp△_Season_2?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Yuru Camp△ Season 2</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1255/110636.jpg?s=eeb5c29b4222fcd01eb8b4e45ca757f8" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1255/110636.jpg?s=eeb5c29b4222fcd01eb8b4e45ca757f8 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1255/110636.jpg?s=de77f23ad35ee497b76f6435ed43ba8e 2x" width="90" height="140" class="image lazyload" alt="Yuru Camp△ Season 2" border="0" ></a></li></ul></div></div></div>
+    </td>
+    </tr>
+    </table>
+    </div>  <div class="mauto clearfix pt24" style="width:760px;">
+    <div class="fl-l">
+      </div>
+      <div class="fl-r">
+      </div>
+    </div>
+
+</td>
+</tr>
+</table>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js" data-pin-hover="true"></script></div><!-- end of contentHome -->
+</div><!-- end of contentWrapper -->
+
+
+            
+  
+
+
+            
+  
+
+  <script>
+    $(document).ready(function() {
+      $(window).scroll(function() {
+        var cHeight = $("#myanimelist").height();
+        $("div[data-ad-sticky='manual']").each(function (i, o) {
+          var aHeight = $(o).height();
+          var aTop = $(o).parent().offset().top;
+          if (window.pageYOffset >= (cHeight - aHeight)) {
+            $(o).css("top", ((cHeight - aHeight) - window.pageYOffset) + "px");
+          } else if (window.pageYOffset >= aTop) {
+            $(o).addClass("sticky");
+            $(o).css("top", "");
+          } else {
+            $(o).removeClass("sticky");
+          }
+        });
+      });
+    });
+  </script>
+
+<!--  control container height -->
+<div style="clear:both;"></div>
+
+<!-- end rightbody -->
+
+</div><!-- wrapper -->
+
+
+    <div id="ad-skin-bg-right" class="ad-skin-side-outer ad-skin-side-bg bg-right">
+    <div id="ad-skin-right" class="ad-skin-side right" style="display: none;">
+      <div id="ad-skin-right-absolute-block">
+        <div id="ad-skin-right-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+</div><!-- #myanimelist -->
+
+
+<div class="footer-ranking">
+  <div class="ranking-container">
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php" class="view_more fl-r">More</a>Top Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Fullmetal Alchemist: Brotherhood</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011">Hunter x Hunter (2011)</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php?type=airing" class="view_more fl-r">More</a>Top Airing Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/42203/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season_Part_2">Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/42897/Horimiya">Horimiya</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/38474/Yuru_Camp△_Season_2">Yuru Camp△ Season 2</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/character.php" class="view_more fl-r">More</a>Most Popular Characters
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/character/417/Lelouch_Lamperouge">Lamperouge, Lelouch</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/character/45627/Levi">Levi</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/character/80/Light_Yagami">Yagami, Light</a>
+            </li>
+                  </ol>
+      </div>
+      </div>
+</div>
+<footer>
+  <div id="footer-block">
+    <div class="footer-link-block">
+      <p class="footer-link home di-ib">
+        <a href="https://myanimelist.net/">Home</a>
+      </p>
+      <p class="footer-link di-ib">
+        <a href="https://myanimelist.net/about.php">About</a>
+        <a href="https://myanimelist.net/pressroom">Press Room</a>
+        <a href="https://myanimelist.net/about.php?go=contact">Support</a>
+        <a href="https://myanimelist.net/advertising">Advertising</a>
+        <a href="https://myanimelist.net/forum/?topicid=515949">FAQ</a>
+        <a href="https://myanimelist.net/about/terms_of_use">Terms</a>
+        <a href="https://myanimelist.net/about/privacy_policy">Privacy</a>
+        <a href="#/" class="cmp-gdpr-only">Privacy Settings</a>
+        <a href="#/" class="cmp-ccpa-only">Do Not Sell My Personal Information</a>
+        <a href="https://myanimelist.net/about/cookie_policy">Cookie</a>
+        <a href="https://myanimelist.net/about/notice_at_collection">Notice at Collection</a>
+        <a href="https://myanimelist.net/about/sitemap">Sitemap</a>
+      </p>
+            <p class="footer-link login di-ib">
+        <a href="https://myanimelist.net/login.php?from=%2Fanime%2F34577%2FNanatsu_no_Taizai__Imashime_no_Fukkatsu" id="malLogin" rel="nofollow">Login</a>
+        <a href="https://myanimelist.net/register.php?from=%2Fanime%2F34577%2FNanatsu_no_Taizai__Imashime_no_Fukkatsu">Sign Up</a>
+      </p>
+          </div>
+
+    
+    <div class="banner-footer-anime-streaming">
+      <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+    </div>
+
+        <div class="footer-link-icon-block">
+            <div class="footer-social-media ac">
+        <a target="_blank" class="icon-sns icon-fb di-ib" href="https://www.facebook.com/OfficialMyAnimeList" rel="noreferrer"></a>
+        <a target="_blank" class="icon-sns icon-tw di-ib" title="Follow @myanimelist on Twitter" href="https://twitter.com/myanimelist" rel="noreferrer"></a></div>
+            <div class="footer-recommended ac">
+        <a target="_blank" class="icon-recommended icon-tokyo-otaku-mode" href="http://otakumode.com/fb/5aO" rel="noopener">Tokyo Otaku Mode</a>
+        <a target="_blank" class="icon-recommended icon-honeys-anime" href="https://honeysanime.com" rel="noopener">Honey's Anime</a>
+        <a target="_blank" class="icon-recommended icon-manga-store" href="https://myanimelist.net/store?_location=mal_f_m">Manga Store</a>
+      </div>
+    </div>
+
+    <div class="footer-fb">
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+      <div class="footer-fb-item">
+                <iframe class="fb-page" src="" width="450" height="154" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+      </div>
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+    </div>
+        
+    <div id="copyright">
+      MyAnimeList.net is a property of MyAnimeList Co.,Ltd. &copy;2021 All Rights Reserved.
+    </div>
+  </div>
+</footer>
+
+<script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+
+<script async>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga')
+
+  ga('create', 'UA-369102-1', 'auto')
+  ga('set', 'anonymizeIp', true)
+  ga('require', 'linkid') // Enhanced Link Attribution
+    ga('set', 'dimension1', 'guest')
+    ga('send', 'pageview')
+</script>   <script>
+window.onscroll = function(e){
+    const scrollThreshold = 50;
+    if (window.pageYOffset >= scrollThreshold) {
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            let t_height = ad.offsetHeight;
+            let offsetY = ad.getBoundingClientRect().top;
+            let screenHeight = window.outerHeight;
+            let t_position = offsetY - screenHeight;
+            if(-screenHeight<=(t_position　+　t_height) && t_position<0) {
+                ad.className = 'ad-tag';
+                (deployads = window.deployads || []).push({});
+            }
+        });
+    }
+}
+var timer = 0;
+window.onresize = function(e){
+    if (timer > 0) {
+        clearTimeout(timer);
+    }
+
+    timer = setTimeout(function () {
+        console.log('window resized');
+        [].forEach.call(document.querySelectorAll('.ad-tag'), function(ad) {
+            ad.className = 'no-ad';
+            (deployads = window.deployads || []).push({});
+        });
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            ad.className = 'ad-tag';
+            (deployads = window.deployads || []).push({});
+        });
+    }, 200);
+}
+</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WL4QW3G');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+var path = location.pathname;
+var param = location.search;
+
+dataLayer = dataLayer || [];
+
+// login.php
+
+function ga_notlogin(){
+  ga('send', 'event', 'not_login', '2.未ログインの場合', '/login.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=1');
+}
+
+function ga_sns(){
+  ga('send', 'event', 'sns_login', '2-1-1.ソーシャルログインの場合', '/login.php?login-mode=social&c-ms-mode=1');
+}
+
+function ga_login(){
+  ga('send', 'event', 'id_login', '2-1-2.IDログインの場合', '/login.php?login-mode=id&c-ms-mode=1');
+}
+
+// register.php
+
+function ga_registration(){
+  ga('send', 'event', 'registration', '2-2.会員登録ボタン', '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=2');
+}
+
+if ( path.match("register.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2F&c-ms-mode=2',
+        'member_title': '2-2-1.会員情報入力完了',
+        'event': 'loadready-register'
+    });
+}
+
+if ( path.match("login.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': path.concat(param, "&c-ms-mode=2"),
+        'member_title': '2-2-1.メールからの会員認証ページ',
+        'event': 'loadready-login'
+    });
+}
+
+// membership
+
+function ga_mal_banner(){
+  ga('send', 'event', 'support_mal', '2-3.MALバナー', '/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner&c-ms-mode=3');
+}
+
+if ( path.match("login.php") && param.match("from=%2F") ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=3',
+        'member_title': '2-2.会員登録ボタン',
+        'event': 'loadready-login'
+    });
+}
+
+function ga_credit(){
+  ga('send', 'event', 'support_mal', '3-1-1.クレカ登録', '/member-register?c-ms_payment=1&c-ms_mode=3');
+}
+
+function ga_paypal(){
+  ga('send', 'event', 'support_mal', '3-1-2.Paypal登録', '/member-register?c-ms_payment=2&c-ms_mode=3');
+}
+
+if ( path.match("account/membership/complete") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/member-register-complete?c-ms_payment=2&c-ms_mode=3',
+        'member_title': '3-1-2.MAL会員登録成功',
+        'event': 'loadready-member-register-complete'
+    });
+}
+
+</script>
+<script type="text/javascript">
+    window.MAL.magia = "06410c4e6b2518e9add8f6df0ccb2da2876bb8c980aacb43a8dcaa8153c0f92c";
+  window.MAL.madoka = "hZrDKm9k6FVRnqd3i%=K";
+
+  window.MAL.SLVK = "g4OvMLVOmEI3J8u7dt8f8+mAuualsqCo";
+  window.MAL.CDN_URL = "https://cdn.myanimelist.net";
+
+  window.MAL.CURRENT_TUTORIAL_STEP_ID = null;
+  window.MAL.USER_NAME = ""
+  window.MAL.FACEBOOK.APP_ID = "360769957454434"
+  window.MAL.FACEBOOK.API_VERSION = "v2.12"
+</script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+                    <script type="text/javascript">
+          window._taboola = window._taboola || [];
+          _taboola.push({flush: true});
+        </script>
+    </body>
+</html>

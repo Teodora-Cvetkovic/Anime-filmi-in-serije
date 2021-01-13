@@ -1,0 +1,1820 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    
+<link rel="preconnect" href="//fonts.gstatic.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//fonts.googleapis.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tags-cdn.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagservices.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagmanager.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//apis.google.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel-sync.sitescout.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel.tapad.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//c.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tpc.googlesyndication.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//googleads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="//securepubads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="https://cdn.myanimelist.net" crossorigin="anonymous" />
+
+
+<title>
+Vinland Saga - MyAnimeList.net
+</title>
+<meta name="description" content="Looking for information on the anime Vinland Saga? Find out more with MyAnimeList, the world&#039;s most active online anime and manga community and database. Young Thorfinn grew up listening to the stories of old sailors that had traveled the ocean and reached the place of legend, Vinland. It&#039;s said to be warm and fertile, a place where there would be no need for fighting—not at all like the frozen village in Iceland where he was born, and certainly not like his current life as a mercenary. War is..." />
+
+  
+<meta name="keywords" content="anime, myanimelist, anime news, manga" />
+  
+
+
+    <meta property="og:locale" content="en_US"><meta property="fb:app_id" content="360769957454434"><meta property="og:site_name" content="MyAnimeList.net"><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@myanimelist"><meta property="og:title" content="Vinland Saga"><meta property="og:type" content="video.tv_show"><meta property="og:image" content="https://cdn.myanimelist.net/images/anime/1500/103005.jpg"><meta name="twitter:image:src" content="https://cdn.myanimelist.net/r/360x360/images/anime/1500/103005.jpg?s=b54d4be0195d3c0423b1bd0a385e91ae"><meta property="og:url" content="https://myanimelist.net/anime/37521/Vinland_Saga"><meta property="og:description" content="Young Thorfinn grew up listening to the stories of old sailors that had traveled the ocean and reached the place of legend, Vinland. It&#039;s said to be warm and fertile, a place where there would be no need for fighting—not at all like the frozen village in Iceland where he was born, and certainly not like his current life as a mercenary. War is his home now. Though his father once told him, &quot;You have no enemies, nobody does. There is nobody who it&#039;s okay to hurt,&quot; as he grew, Thorfinn knew that nothing was further from the truth. The war between England and the Danes grows worse with each passing year. Death has become commonplace, and the viking mercenaries are loving every moment of it. Allying with either side will cause a massive swing in the balance of power, and the vikings are happy to make names for themselves and take any spoils they earn along the way. Among the chaos, Thorfinn must take his revenge and kill Askeladd, the man who murdered his father. The only paradise for the vikings, it seems, is the era of war and death that rages on. [Written by MAL Rewrite]">
+
+
+<meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
+
+<meta name='csrf_token' content='fbb38db99e8c53d555051be94bd1d6089d0f0c4f'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
+<meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" />
+
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" href="https://myanimelist.net/plugins/myanimelist.xml" title="MyAnimeList" />
+
+<link rel="shortcut icon" href="https://cdn.myanimelist.net/images/favicon.ico" />
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+      <script src="//tags-cdn.deployads.com/a/myanimelist.net.js" async="async"></script>
+            <script async="async" type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script>
+$(document).ready(function(){
+  window.Criteo = window.Criteo || {};
+  window.Criteo.events = window.Criteo.events || [];
+  $('.ad-criteo').each(function(){
+    var slotid = $(this).attr('data-ad-slot');
+    var zoneid = $(this).attr('data-ad-zone');
+    var CriteoAdUnits = {"placements":[{"slotid":slotid, "zoneid":zoneid}]};
+    var processCdbBid = function(){
+      var bids = Criteo.GetBidsForAdUnit(slotid);
+      if(bids.length > 0){
+        Criteo.RenderAd({bidId:bids[0].id, containerId:bids[0].impressionId});
+      }
+    };
+    Criteo.events.push(function(){Criteo.RequestBids(CriteoAdUnits, processCdbBid, 2000);});
+  });
+});
+</script>
+
+
+
+            <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/myanimelist/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>    
+</head>
+
+<body onload=" " class="page-common"data-ms="true" data-country-code="SI" >
+<div id="myanimelist">
+
+    
+  
+    <script type='text/javascript'>
+    window.MAL.SkinAd.prepareForSkin('');
+  </script>
+
+    <div id="ad-skin-bg-left" class="ad-skin-side-outer ad-skin-side-bg bg-left">
+    <div id="ad-skin-left" class="ad-skin-side left" style="display: none;">
+      <div id="ad-skin-left-absolute-block">
+        <div id="ad-skin-left-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
+    <script>(deployads = window.deployads || []).pageSegment = 'anime_title_37521';</script>
+
+
+<script>
+    var trackOutboundLink = function(url) {
+        ga('send', 'event', 'outbound', 'click', url, {
+            'transport': 'beacon',
+            'hitCallback': function(){return true;}
+        });
+    }
+</script><div class="banner-header-anime-straming" style="right:480px;">
+  <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+</div>
+
+
+<div id="header-menu" ><div class="header-menu-login"><a class="btn-mal-service"
+             href="https://myanimelist.net/membership?_location=mal_h_u" onClick="ga_mal_banner()">Hide Ads</a><a class="btn-login" href="https://myanimelist.net/login.php?from=%2Fanime%2F37521%2FVinland_Saga" id="malLogin" onClick="ga_notlogin()">Login</a><a class="btn-signup" href="https://myanimelist.net/register.php?from=%2Fanime%2F37521%2FVinland_Saga" onClick="ga_registration()">Sign Up</a></div></div></div>  <div id="menu" class="">
+    <div id="menu_right"><script type="text/x-template" id="incremental-result-item-anime"><div class="list anime" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info anime"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Aired: ${ item.payload.aired }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info anime"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-manga"><div class="list manga" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info manga"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Published: ${ item.payload.published }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info manga"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-character"><div class="list character" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div><div class="extra-info"><ul class="related-works"><li v-for="work in item.payload.related_works" class="fs-i">- ${ work }</li></ul>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-person"><div class="list person" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.alternative_name">${ item.payload.alternative_name }<br></span>Birthday: ${ item.payload.birthday }<br>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-store"><div class="list store" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info store"></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info store"></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-club"><div class="list club" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div><div class="extra-info">Members: ${ item.payload.members }<br>Category: ${ item.payload.category }<br>Created by: ${ item.payload.created_by }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-user"><div class="list user" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.authority">${ item.payload.authority }<br></span>Joined: ${ item.payload.joined }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-news"><div class="list news" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-featured"><div class="list featured" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-forum"><div class="list forum" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="extra-info">${ item.payload.date }<br><span>in ${ item.payload.category }</span></div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-separator"><div class="list separator"><div class="separator"><span v-show="item.name == 'anime'">Anime</span><span v-show="item.name == 'manga'">Manga</span><span v-show="item.name == 'character'">Characters</span><span v-show="item.name == 'person'">People</span></div></div></script><div id="top-search-bar"><form id="searchBar" method="get" class="searchBar" @submit.prevent="jump()"><div class="form-select-outer fl-l"><select name="type" id="topSearchValue" class="inputtext" v-model="type"><option value="all">All</option><option value="anime">Anime</option><option value="manga">Manga</option><option value="character">Characters</option><option value="person">People</option><option value="store">Manga Store</option><option value="news">News</option><option value="featured">Featured Articles</option><option value="forum">Forum</option><option value="club">Clubs</option><option value="user">Users</option></select></div><input v-model="keyword" id="topSearchText" type="text"
+            name="keyword" class="inputtext fl-l" placeholder="Search Anime, Manga, and more..."
+            size="30" autocomplete="off"
+            @keydown.up.prevent="moveSelection(-1)" @keydown.down.prevent="moveSelection(1)"
+            @focus="isFocused = true" @blur="isFocused = false"><input id="topSearchButon" class="fl-l" :class="{'notActive': (keyword.length < 3)}" type="submit" value="&#xf002"></form><div id="topSearchResultList" class="incrementalSearchResultList" :style="{display: (showResult ? 'block' : 'none')}" @mousedown.prevent=""><div v-for="(item, i) in items" @mouseover="selection=i"><component :is="resolveComponent(item)" :item="item" :focus="selection == i" :url="generateItemPageUrl(item)"></component></div><div class="list list-bottom" :class="{'focus': selection == -1}" @mouseover="selection = -1"
+               :style="{display: (showViewAllLink ? 'block' : 'none')}"><a :href="resultPageUrl">
+              View all results for <span class="fw-b">${ keyword }</span><i v-show="isRequesting" class="fa fa-spinner fa-spin ml4"></i></a></div></div></div></div><div id="menu_left">
+      <ul id="nav">
+        <li class="small"><a href="#" class="non-link">Anime</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/anime.php?_location=mal_h_m">Anime Search</a></li>
+            <li><a href="https://myanimelist.net/topanime.php?_location=mal_h_m">Top Anime</a></li>
+            <li><a href="https://myanimelist.net/anime/season?_location=mal_h_m">Seasonal Anime</a></li>
+                        <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m_a">Videos</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=anime&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=anime&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1885985&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Manga</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/manga.php?_location=mal_h_m">Manga Search</a></li>
+            <li><a href="https://myanimelist.net/topmanga.php?_location=mal_h_m">Top Manga</a></li>
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=manga&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=manga&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1886113&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li><a href="#" class="non-link">Community</a>
+          <ul>
+            <li><a href="https://myanimelist.net/forum/?_location=mal_h_m">Forums</a></li>
+            <li><a href="https://myanimelist.net/clubs.php?_location=mal_h_m">Clubs</a></li>
+            <li><a href="https://myanimelist.net/blog.php?_location=mal_h_m">Blogs</a></li>
+            <li><a href="https://myanimelist.net/users.php?_location=mal_h_m">Users</a></li>
+            <li><a href="https://discord.gg/E2xC8ZF">Discord Chat</a></li>
+          </ul>
+        </li>
+        <li class="small2"><a href="#" class="non-link">Industry</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/news?_location=mal_h_m">News</a></li>
+            <li><a href="https://myanimelist.net/featured?_location=mal_h_m">Featured Articles</a></li>
+            <li><a href="https://myanimelist.net/people.php?_location=mal_h_m">People</a></li>
+            <li><a href="https://myanimelist.net/character.php?_location=mal_h_m">Characters</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Watch</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m">Episode Videos</a></li>
+            <li><a href="https://myanimelist.net/watch/promotion?_location=mal_h_m">Promotional Videos</a></li></ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Read</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+          </ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Help</a>
+          <ul class="wide">
+            <li><a href="https://myanimelist.net/about.php?_location=mal_h_m">About</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=support&amp;_location=mal_h_m">Support</a></li>
+            <li><a href="https://myanimelist.net/advertising?_location=mal_h_m">Advertising</a></li>
+            <li><a href="https://myanimelist.net/forum/?topicid=515949&amp;_location=mal_h_m">FAQ</a></li>
+            <li><a href="https://myanimelist.net/modules.php?go=report&amp;_location=mal_h_m">Report</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=team&amp;_location=mal_h_m">Staff</a></li><li><a href="https://myanimelist.net/membership?_location=mal_h_m">MAL Supporter</a></li>
+          </ul>
+        </li>
+        
+            
+      </ul>
+    </div>  </div><div id="contentWrapper" itemscope itemtype="http://schema.org/TVSeries"><div><div class="h1 edit-info">
+      <div class="h1-title"><div itemprop="name"><h1 class="title-name h1_bold_none"><strong>Vinland Saga</strong></h1></div></div><div class="header-right">
+          <a href="https://myanimelist.net/login.php?from=%2Fanime%2F37521%2FVinland_Saga&amp;error=login_required" class="js-anime-edit-info-button"><i class="fa fa-pencil mr4"></i>Edit</a>
+<div id="editdiv" class="fw-n fs11">
+  <form method="GET" action="https://myanimelist.net/dbchanges.php" class="di-i">
+    <input type="hidden" name="aid" value="37521">
+    <div class="pb8">What would you like to edit?</div>
+                      <select name="t" id="t" class="inputtext"><option value="synopsis">Synopsis</option><option value="background">Background</option><option value="alternative_titles">Alternative Titles</option><option value="pic">Picture</option><option value="airingdates">Airing Dates</option><option value="producers">Producers</option><option value="relations">Relations</option><option value="rating">Rating</option><option value="duration">Duration</option><option value="source">Source</option><option value="broadcast">Broadcast</option></select>
+     &nbsp;<input type="submit" value="Go" class="inputButton flat btn-middle">
+  </form>
+</div>
+</div></div></div><div id="content" >
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+	 <td class="borderClass" width="225" style="border-width: 0 1px 0 0;" valign="top"><div style="width: 225px">
+
+<div style="text-align: center;">
+          <a href="https://myanimelist.net/anime/37521/Vinland_Saga/pics">
+      <img class="lazyload" data-src="https://cdn.myanimelist.net/images/anime/1500/103005.jpg" alt="Vinland Saga" class="ac" itemprop="image">
+    </a>
+  </div>
+
+<!-- My List -->
+<div class="profileRows pb0">
+  <a href="https://myanimelist.net/login.php?from=%2Fanime%2F37521%2FVinland_Saga&amp;error=login_required">Add to My List</a>
+</div>
+
+<div id="addtolist" class="addtolist-block js-anime-addtolist-block" style="display: none;">
+  <input type="hidden" id="myinfo_anime_id" value="37521">
+  <input type="hidden" id="myinfo_curstatus" value="">
+
+  <span class="notice_open_public pb4">* Your list is public by default.</span>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td class="spaceit">Status:</td>
+      <td class="spaceit">
+        <select name="myinfo_status" id="myinfo_status" class="inputtext js-anime-status-dropdown"><option value="1">Watching</option><option value="2">Completed</option><option value="3">On-Hold</option><option value="4">Dropped</option><option value="6">Plan to Watch</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td class="spaceit">Eps Seen:</td>
+      <td class="spaceit">
+        <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext" value=""> / <span id="curEps">24</span></td>
+    </tr>
+    <tr>
+      <td class="spaceit">Your Score:</td>
+      <td class="spaceit">
+        <select name="myinfo_score" id="myinfo_score" class="inputtext"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>
+                <input type="button" name="myinfo_submit" value="Add" class="inputButton btn-middle flat js-anime-add-button">
+        <span id="addtolistresult"><a href="https://myanimelist.net/ownlist/anime/add?selected_series_id=37521">Add Detailed Info</a></span>
+              </td>
+    </tr>
+  </table>
+  <div id="myinfoDisplay" style="padding-left: 89px; margin-top: 3px;"></div>
+</div>
+<!-- end My List -->
+
+<div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F37521%2FVinland_Saga&amp;error=login_required" style="font-weight:normal;">Add to Favorites</a></div>
+
+<div class="di-b mt4 mb16 ac">
+    
+<a href="https://myanimelist.net/store/manga/23/Vinland_Saga?_location=mal_atf_button" class="left-info-block-manga-store-button">
+  <i class="fa fa-shopping-cart" aria-hidden="true"></i> Buy on Manga Store
+</a>
+  </div><div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F37521%2FVinland_Saga"></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F37521%2FVinland_Saga&amp;text=Vinland%20Saga&amp;hashtags=anime"></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F37521%2FVinland_Saga&amp;title=Vinland%20Saga"></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F37521%2FVinland_Saga&amp;name=Vinland%20Saga"></a></div>  <br />
+
+  <h2>Alternative Titles</h2><div class="spaceit_pad">
+    <span class="dark_text">Japanese:</span> ヴィンランド・サガ
+  </div><br />
+
+<h2>Information</h2>
+
+<div>
+  <span class="dark_text">Type:</span>
+  <a href="https://myanimelist.net/topanime.php?type=tv">TV</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Episodes:</span>
+  24
+  </div>
+
+<div>
+  <span class="dark_text">Status:</span>
+  Finished Airing
+  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Aired:</span>
+  Jul 8, 2019 to Dec 30, 2019
+  </div>
+
+  <div>
+    <span class="dark_text">Premiered:</span>
+          <a href="https://myanimelist.net/anime/season/2019/summer">Summer 2019</a>
+          </div>
+
+  <div class="spaceit">
+    <span class="dark_text">Broadcast:</span>
+    Mondays at 00:10 (JST)
+      </div>
+
+  <div>
+    <span class="dark_text">Producers:</span>
+          <a href="/anime/producer/10/Production_IG" title="Production I.G">Production I.G</a>,       <a href="/anime/producer/53/Dentsu" title="Dentsu">Dentsu</a>,       <a href="/anime/producer/159/Kodansha" title="Kodansha">Kodansha</a>,       <a href="/anime/producer/1747/Twin_Engine" title="Twin Engine">Twin Engine</a>  </div>
+  <div class="spaceit">
+    <span class="dark_text">Licensors:</span>
+    None found, <a href="https://myanimelist.net/dbchanges.php?aid=37521&amp;t=producers">add some</a>  </div>
+  <div>
+    <span class="dark_text">Studios:</span>
+          <a href="/anime/producer/858/Wit_Studio" title="Wit Studio">Wit Studio</a>  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Source:</span>
+  Manga
+  </div>
+
+<div>
+  <span class="dark_text">Genres:</span>
+      <span itemprop="genre" style="display: none">Action</span><a href="/anime/genre/1/Action" title="Action">Action</a>,     <span itemprop="genre" style="display: none">Adventure</span><a href="/anime/genre/2/Adventure" title="Adventure">Adventure</a>,     <span itemprop="genre" style="display: none">Drama</span><a href="/anime/genre/8/Drama" title="Drama">Drama</a>,     <span itemprop="genre" style="display: none">Historical</span><a href="/anime/genre/13/Historical" title="Historical">Historical</a>,     <span itemprop="genre" style="display: none">Seinen</span><a href="/anime/genre/42/Seinen" title="Seinen">Seinen</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Duration:</span>
+  24 min. per ep.
+  </div>
+
+<div>
+  <span class="dark_text">Rating:</span>
+  R - 17+ (violence &amp; profanity)
+  </div>
+
+<br />
+
+<h2>Statistics</h2>
+<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" class="po-r js-statistics-info di-ib" data-id="info1">
+  <span class="dark_text">Score:</span>
+  <span itemprop="ratingValue" class="score-label score-8">8.71</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">293161</span>293,161 users)
+      <meta itemprop="bestRating" content="10">
+    <meta itemprop="worstRating" content="1">
+      <div class="statistics-info info1">
+    <small><sup>1</sup>
+          indicates a <a href="javascript:void(0);" onclick="window.open('/info.php?go=topanime','topanime','menubar=no,scrollbars=no,status=no,width=500,height=380');">weighted score</a>.
+    </small>
+  </div>
+</div>
+<div class="spaceit po-r js-statistics-info di-ib" data-id="info2">
+  <span class="dark_text">Ranked:</span>
+  #43<sup>2</sup>
+    <div class="statistics-info info2">
+    <small><sup>2</sup>
+    based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
+    </small>
+  </div>
+</div>
+<div>
+  <span class="dark_text">Popularity:</span>
+  #157
+</div>
+<div class="spaceit">
+  <span class="dark_text">Members:</span>
+    608,852
+</div>
+<div>
+  <span class="dark_text">Favorites:</span>
+  15,625
+</div>
+
+  <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
+          </div>
+
+</div></td><td valign="top" style="padding-left: 5px;"><div class="js-scrollfix-bottom-rel"><div style="width:728px; margin:0 auto"></div><a name="lower"></a>
+<div id="horiznav_nav" style="margin: 5px 0 10px 0;">
+  <ul style="margin-right: 0; padding-right: 0;">
+        <li><a href="https://myanimelist.net/anime/37521/Vinland_Saga" class="horiznav_active">Details</a>
+    </li>
+        <li><a href="/anime/37521/Vinland_Saga/video">Videos</a>
+    </li>
+        <li>      <a href="https://myanimelist.net/anime/37521/Vinland_Saga/episode">Episodes</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/37521/Vinland_Saga/reviews">Reviews</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/37521/Vinland_Saga/userrecs">Recommendations</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/37521/Vinland_Saga/stats">Stats</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/37521/Vinland_Saga/characters">Characters &amp; Staff</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/37521/Vinland_Saga/news">News</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/37521/Vinland_Saga/forum">Forum</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/37521/Vinland_Saga/featured">Featured</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/37521/Vinland_Saga/clubs">Clubs</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/37521/Vinland_Saga/pics">Pictures</a>
+    </li>
+    </ul>
+</div>
+
+
+
+                    <div class="breadcrumb " itemscope itemtype="http://schema.org/BreadcrumbList"><div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/" itemprop="item"><span itemprop="name">
+              Top
+                          </span></a><meta itemprop="position" content="1"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime.php" itemprop="item"><span itemprop="name">
+              Anime
+                          </span></a><meta itemprop="position" content="2"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime/37521/Vinland_Saga" itemprop="item"><span itemprop="name">
+              Vinland Saga
+                          </span></a><meta itemprop="position" content="3"></div></div>
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="293,161 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.71</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#43</strong></span><span class="numbers popularity">Popularity <strong>#157</strong></span><span class="numbers members">Members <strong>608,852</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2019/summer">Summer 2019</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/858/Wit_Studio" title="Wit Studio">Wit Studio</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="37521"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F37521%2FVinland_Saga&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+        Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="24">24</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://myanimelist.net/store/manga/23/Vinland_Saga?_location=mal_atf_affiliate"
+           class="btn-affiliate manga-store js-shop-anime icon-shop-default"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Buy on Manga Store
+        </a></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/y99VgqpW1-8?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/y99VgqpW1-8/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">Thors Character PV</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/37521/Vinland_Saga/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
+</div><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=37521&t=synopsis" style="font-weight: normal;">Edit</a></div><h2>Synopsis</h2></div><p itemprop="description">Young Thorfinn grew up listening to the stories of old sailors that had traveled the ocean and reached the place of legend, Vinland. It&#039;s said to be warm and fertile, a place where there would be no need for fighting&mdash;not at all like the frozen village in Iceland where he was born, and certainly not like his current life as a mercenary. War is his home now. Though his father once told him, &quot;You have no enemies, nobody does. There is nobody who it&#039;s okay to hurt,&quot; as he grew, Thorfinn knew that nothing was further from the truth.<br />
+<br />
+The war between England and the Danes grows worse with each passing year. Death has become commonplace, and the viking mercenaries are loving every moment of it. Allying with either side will cause a massive swing in the balance of power, and the vikings are happy to make names for themselves and take any spoils they earn along the way. Among the chaos, Thorfinn must take his revenge and kill Askeladd, the man who murdered his father. The only paradise for the vikings, it seems, is the era of war and death that rages on.<br />
+<br />
+[Written by MAL Rewrite]</p><div style="margin-top: 15px;"><div class="floatRightHeader"><a href="/dbchanges.php?aid=37521&t=background" style="font-weight: normal;">Edit</a></div><h2>Background</h2></div>The anime adapts the first eight volumes of the manga of the same name.<div class="border_top" style="padding:16px 0px 0px 0px;margin:14px 0px 0px 0px;"><div style="padding: 20px 0 20px 40px; float: left; position: relative; z-index: 1;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540582" data-ad-slot="criteo_slot_1540582" id="criteo_slot_1540582"></div>
+
+      </div>
+    </div><div style="padding: 20px 40px 20px 0; float: right; position: relative;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540583" data-ad-slot="criteo_slot_1540583" id="criteo_slot_1540583"></div>
+
+      </div>
+    </div></div></td></tr><tr><td class="pb24"><br><div><div class="floatRightHeader"><a href="https://myanimelist.net/store/manga/23/Vinland_Saga?_location=mal_mid_slider" style="font-weight: normal;">Preview Manga</a></div><h2>Manga Store</h2></div><div class="di-b clearfix">
+  <div class="v-manga-store-book-slider"
+       data-items="[{&quot;id&quot;:1717,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Vinland Saga&quot;,&quot;numbering_text&quot;:&quot;Volume 1&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/1717\/Vinland_Saga_Volume_1&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1717&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1717\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/558\/6c03b36408e1cb5a353e7e4e41c28acdf125bb4a8ded94dc6d8bebe669c76d7b&quot;,&quot;on_preorder_at&quot;:1381824000,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1381824000,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:1999,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:3962,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Vinland Saga&quot;,&quot;numbering_text&quot;:&quot;Volume 11&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/3962\/Vinland_Saga_Volume_11&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/3962&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/3962\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/4122\/09cb3ddf54b9e501ffa8372148222a0ed5f273ec0930d075fa7fd8623cf36d90&quot;,&quot;on_preorder_at&quot;:1576569600,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1576569600,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:1999,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:2188,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Vinland Saga&quot;,&quot;numbering_text&quot;:&quot;Volume 10&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/2188\/Vinland_Saga_Volume_10&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/2188&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/2188\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/2434\/27801fdca70b15d5f80ad9c51a2d8b8286504d0a0cf872cd46f53dd9a916d7f8&quot;,&quot;on_preorder_at&quot;:1528182000,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1528182000,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:2299,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:1744,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Vinland Saga&quot;,&quot;numbering_text&quot;:&quot;Volume 9&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/1744\/Vinland_Saga_Volume_9&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1744&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1744\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/1170\/ebf02655550828a1554be52c2e048476674cb48c1a5956c727737d9367bbe96d&quot;,&quot;on_preorder_at&quot;:1497945600,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1498550400,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:2299,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:1741,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Vinland Saga&quot;,&quot;numbering_text&quot;:&quot;Volume 8&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/1741\/Vinland_Saga_Volume_8&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1741&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1741\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/1801\/bf186fd001565da845893649c820ec0d65444c1392886da7a5bb5212e2b1c881&quot;,&quot;on_preorder_at&quot;:1481616000,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1482825600,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:2299,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:1734,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Vinland Saga&quot;,&quot;numbering_text&quot;:&quot;Volume 7&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/1734\/Vinland_Saga_Volume_7&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1734&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1734\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/688\/fb14adc29d58530e78eb22a7a886fcfb0c0834ac135d32c00cf2b76263be96ec&quot;,&quot;on_preorder_at&quot;:1451376000,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1451376000,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:2299,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:1731,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Vinland Saga&quot;,&quot;numbering_text&quot;:&quot;Volume 6&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/1731\/Vinland_Saga_Volume_6&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1731&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1731\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/728\/45277d5b02a6a9e4a6e00fba84d8ed14b81cfb05b814332acd69cde698054566&quot;,&quot;on_preorder_at&quot;:1443513600,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1443513600,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:2299,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:1728,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Vinland Saga&quot;,&quot;numbering_text&quot;:&quot;Volume 5&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/1728\/Vinland_Saga_Volume_5&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1728&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1728\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/727\/f825805a457336530ada0792b5bcf28222e96ae268c40a820837c3f06346b2bb&quot;,&quot;on_preorder_at&quot;:1412668800,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1412668800,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:1999,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:1725,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Vinland Saga&quot;,&quot;numbering_text&quot;:&quot;Volume 4&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/1725\/Vinland_Saga_Volume_4&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1725&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1725\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/726\/b771a87057f2e88a43259e18b826dbd1ac0e5d46206c477f5ff544f626daf846&quot;,&quot;on_preorder_at&quot;:1406620800,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1406620800,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:1999,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:1723,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Vinland Saga&quot;,&quot;numbering_text&quot;:&quot;Volume 3&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/1723\/Vinland_Saga_Volume_3&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1723&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1723\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/560\/b74ca01c32998b2020eec5102e829c1fc5389e88a5ac693a0d68a5758a5f4c5b&quot;,&quot;on_preorder_at&quot;:1398758400,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1398758400,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:1999,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:1720,&quot;item_type&quot;:1,&quot;title&quot;:&quot;Vinland Saga&quot;,&quot;numbering_text&quot;:&quot;Volume 2&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/1720\/Vinland_Saga_Volume_2&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1720&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/viewer\/1\/1720\/preview&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/559\/878aca446e9f6e5491836d49287fc1a25037bd3017a7f67a5e381a614b5e163a&quot;,&quot;on_preorder_at&quot;:1391500800,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1391500800,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:0,&quot;price&quot;:1999,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false}]"
+       data-currency="{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100}"
+       data-options="{&quot;num_items_per_page&quot;:6,&quot;location&quot;:&quot;mal_mid_slider&quot;}"
+    >
+    <div class="ac pt16"><i class="fa fa-spinner fa-2x fa-spin"></i></div>
+  </div>
+</div>
+</td></tr><tr><td class="pb24"><br><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=37521&t=relations" style="font-weight: normal;">Edit</a></div><h2>Related Anime</h2></div><table class="anime_detail_related_anime" style="border-spacing:0px;"><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Adaptation:</td><td width="100%" class="borderClass"><a href="/manga/642/Vinland_Saga">Vinland Saga</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Other:</td><td width="100%" class="borderClass"><a href="/anime/31647/Ponkotsuland_Saga">Ponkotsuland Saga</a></td></table><br><div><div class="floatRightHeader"><a href="/anime/37521/Vinland_Saga/characters" style="font-weight: normal;">More characters</a></div><h2>Characters & Voice Actors</h2></div><div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/13020/Askeladd" class="fw-n">
+            <img alt="Askeladd" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/4/402041.jpg?s=6b34cd9b815d4f4265febd7e7a5da022" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/4/402041.jpg?s=6b34cd9b815d4f4265febd7e7a5da022 1x, https://cdn.myanimelist.net/r/84x124/images/characters/4/402041.jpg?s=058025c8188ed4e9926ad25217460cdb 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/13020/Askeladd">Askeladd</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/338/Naoya_Uchida">Uchida, Naoya</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/338/Naoya_Uchida">
+                      <img alt="Uchida, Naoya" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/5706.jpg?s=3358b73f141f5c2d97bd864ba10c5a39" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/5706.jpg?s=3358b73f141f5c2d97bd864ba10c5a39 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/5706.jpg?s=746f8f0b8d051ef120f20ddf2fed714a 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/10138/Thorfinn" class="fw-n">
+            <img alt="Thorfinn" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/9/309871.jpg?s=faa6eee1fc55878afbc1625baf0c9f3e" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/9/309871.jpg?s=faa6eee1fc55878afbc1625baf0c9f3e 1x, https://cdn.myanimelist.net/r/84x124/images/characters/9/309871.jpg?s=5b0aa174e8cbe83f3cd87d7adc89b259 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/10138/Thorfinn">Thorfinn</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/24875/Yuuto_Uemura">Uemura, Yuuto</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/24875/Yuuto_Uemura">
+                      <img alt="Uemura, Yuuto" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54508.jpg?s=3099cf7374807c1a9bcd5e8024e6fc0f" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54508.jpg?s=3099cf7374807c1a9bcd5e8024e6fc0f 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/54508.jpg?s=09a413bc0abd7b8ff1a0f20d516384d1 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/17438/Canute" class="fw-n">
+            <img alt="Canute" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/2/395761.jpg?s=ba1d071951451fa1a7e25bef19c94f79" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/2/395761.jpg?s=ba1d071951451fa1a7e25bef19c94f79 1x, https://cdn.myanimelist.net/r/84x124/images/characters/2/395761.jpg?s=07fe03a45a0a91e3a6ee43d050c9a414 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/17438/Canute">Canute</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/819/Kensho_Ono">Ono, Kensho</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/819/Kensho_Ono">
+                      <img alt="Ono, Kensho" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/61244.jpg?s=6d807fe4d5affb6b245cbd8932d54bcf" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/61244.jpg?s=6d807fe4d5affb6b245cbd8932d54bcf 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/61244.jpg?s=014244980f38ce39dc344145c8a81bb2 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/17440/Thorkell" class="fw-n">
+            <img alt="Thorkell" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/6/398968.jpg?s=8f231cc528a7674fe509425e9d57a269" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/6/398968.jpg?s=8f231cc528a7674fe509425e9d57a269 1x, https://cdn.myanimelist.net/r/84x124/images/characters/6/398968.jpg?s=10b151c345d8819976332fe43515b6ef 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/17440/Thorkell">Thorkell</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/146/Akio_Ootsuka">Ootsuka, Akio</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/146/Akio_Ootsuka">
+                      <img alt="Ootsuka, Akio" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/58117.jpg?s=8168f341db3e6d45e2f06e8dbe4a1477" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/58117.jpg?s=8168f341db3e6d45e2f06e8dbe4a1477 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/58117.jpg?s=308faf9ed8833b2a1f695821f884b206 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/13021/Thors" class="fw-n">
+            <img alt="Thors" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/11/381890.jpg?s=01f1a15bb724c46309fca3132ae356cd" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/11/381890.jpg?s=01f1a15bb724c46309fca3132ae356cd 1x, https://cdn.myanimelist.net/r/84x124/images/characters/11/381890.jpg?s=3c2eb45e165a34608901cbb5c4b8f3f0 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/13021/Thors">Thors</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/10273/Kenichirou_Matsuda">Matsuda, Kenichirou</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/10273/Kenichirou_Matsuda">
+                      <img alt="Matsuda, Kenichirou" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/32521.jpg?s=e6a41e02c2ba8d5e2f8f545e8a5c1ac8" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/32521.jpg?s=e6a41e02c2ba8d5e2f8f545e8a5c1ac8 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/32521.jpg?s=7ae58bd0cfa227681ca4df2dad1016cb 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/131589/Hild" class="fw-n">
+            <img alt="Hild" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/2/290104.jpg?s=aa70b9ad739487e2735428ad2601f221" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/2/290104.jpg?s=aa70b9ad739487e2735428ad2601f221 1x, https://cdn.myanimelist.net/r/84x124/images/characters/2/290104.jpg?s=f8f7b20bb1d86bca3928c336e41efeb8 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/131589/Hild">Hild</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/27876/Ylva" class="fw-n">
+            <img alt="Ylva" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/13/384574.jpg?s=fe734c59fbc3c3b129787396035ce199" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/13/384574.jpg?s=fe734c59fbc3c3b129787396035ce199 1x, https://cdn.myanimelist.net/r/84x124/images/characters/13/384574.jpg?s=de8c547cba3035b21fbd9d2e695cdf3e 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/27876/Ylva">Ylva</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/184/Hitomi_Nabatame">Nabatame, Hitomi</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/184/Hitomi_Nabatame">
+                      <img alt="Nabatame, Hitomi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/44250.jpg?s=c50b38f553738396bc848b634369aeec" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/44250.jpg?s=c50b38f553738396bc848b634369aeec 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/44250.jpg?s=e0b77a9ef7023ec9f5d79d513129a7d9 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/104493/Gudrid" class="fw-n">
+            <img alt="Gudrid" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/4/290109.jpg?s=7b280ea9db9ffb6e8dc6295e1ccbae4d" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/4/290109.jpg?s=7b280ea9db9ffb6e8dc6295e1ccbae4d 1x, https://cdn.myanimelist.net/r/84x124/images/characters/4/290109.jpg?s=97f9d8c4d26a93985a80838760c704b9 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/104493/Gudrid">Gudrid</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/19485/Bjorn" class="fw-n">
+            <img alt="Bjorn" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/13/381887.jpg?s=19bf5713b5847152e498372c46836b2f" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/13/381887.jpg?s=19bf5713b5847152e498372c46836b2f 1x, https://cdn.myanimelist.net/r/84x124/images/characters/13/381887.jpg?s=36fb2c2ae9c33e92352b30176d09a999 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/19485/Bjorn">Bjorn</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/25/Hiroki_Yasumoto">Yasumoto, Hiroki</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/25/Hiroki_Yasumoto">
+                      <img alt="Yasumoto, Hiroki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/42158.jpg?s=7b70fcd60f26e4669cc945e4fde4b08d" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/42158.jpg?s=7b70fcd60f26e4669cc945e4fde4b08d 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/42158.jpg?s=53fe6ea14930d4c1f65099ecfda2f843 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/19486/Leif_Erikson" class="fw-n">
+            <img alt="Erikson, Leif" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/3/384570.jpg?s=53820409dd9080a552bffbed9d861bd6" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/3/384570.jpg?s=53820409dd9080a552bffbed9d861bd6 1x, https://cdn.myanimelist.net/r/84x124/images/characters/3/384570.jpg?s=8431eff4514232af47a51ace6e2c2bbb 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/19486/Leif_Erikson">Erikson, Leif</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/926/Youji_Ueda">Ueda, Youji</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/926/Youji_Ueda">
+                      <img alt="Ueda, Youji" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/56371.jpg?s=6d26b5c37d25e31c7b1336c9e6303c40" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/56371.jpg?s=6d26b5c37d25e31c7b1336c9e6303c40 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/56371.jpg?s=32d664ceff3013cd77f3dcad99fe7a0e 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div></div>
+<div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div><br>
+<a name="staff"></a>
+<div>
+  <div class="floatRightHeader"><a href="https://myanimelist.net/anime/37521/Vinland_Saga/characters#staff">More staff</a></div>
+  <h2>Staff</h2>
+</div>
+
+<div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/50408/Youko_Ueda" class="fw-n">
+            <img alt="Ueda, Youko" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/50408/Youko_Ueda">Ueda, Youko</a>
+        <div class="spaceit_pad">
+          <small>Producer</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/42800/Shuuhei_Yabuta" class="fw-n">
+            <img alt="Yabuta, Shuuhei" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/46607.jpg?s=025c72af15b212d8f8b1232705bd1362" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/46607.jpg?s=025c72af15b212d8f8b1232705bd1362 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/46607.jpg?s=69c6467a12d6d10ffa9419cd216345bb 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/42800/Shuuhei_Yabuta">Yabuta, Shuuhei</a>
+        <div class="spaceit_pad">
+          <small>Director, Episode Director</small>
+        </div>
+      </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/30689/Shouji_Hata" class="fw-n">
+            <img alt="Hata, Shouji" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/53577.jpg?s=eb641b65c1465e6013c2b842a0103ae0" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/53577.jpg?s=eb641b65c1465e6013c2b842a0103ae0 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/53577.jpg?s=160d51d6fa5ae054450e4b1445aabe1e 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/30689/Shouji_Hata">Hata, Shouji</a>
+        <div class="spaceit_pad">
+          <small>Sound Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/9464/Tadahito_Matsubayashi" class="fw-n">
+            <img alt="Matsubayashi, Tadahito" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/9464/Tadahito_Matsubayashi">Matsubayashi, Tadahito</a>
+        <div class="spaceit_pad">
+          <small>Episode Director, Storyboard, Key Animation</small>
+        </div>
+      </td>
+    </tr>
+  </table></div></div>
+<br><br><div class="di-t">
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=37521&amp;t=theme" class="floatRightHeader">Edit</a>
+      <h2>Opening Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs opnening"><span class="theme-song">#1: &quot;MUKANJYO&quot; by Survive Said The Prophet (eps 1-12)</span><br><span class="theme-song">#2: &quot;Dark Crow&quot; by MAN WITH A MISSION (eps 13-24)</span><br></div>
+  </div>
+  <div class="di-tc va-t}" style="width:16px;"></div>
+
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=37521&amp;t=theme&amp;themetype=2" class="floatRightHeader">Edit</a>
+      <h2>Ending Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs ending"><span class="theme-song">#1: &quot;Torches&quot; by Aimer (eps 1-12)</span><br><span class="theme-song">#2: &quot;Drown&quot; by milet (eps 13-24)</span><br></div>
+  </div>
+</div>
+<br><br><br><div><span class="floatRightHeader"><a href="/anime/37521/Vinland_Saga/reviews">More reviews</a></span><h2>Reviews</h2></div>
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="7:37 AM">Dec 29, 2019</div>
+      <div class="lightLink spaceit">
+                  24 of 24 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score325198').toggle()">Overall Rating</a>:
+        5
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/HellLyter">
+                  <img src="https://cdn.myanimelist.net/images/userimages/3813391.jpg?t=1610502000" data-src="https://cdn.myanimelist.net/images/userimages/3813391.jpg?t=1610502000" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/HellLyter">HellLyter</a>
+              <small>(<a href="/profile/HellLyter/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp325198">550</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score325198">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>5</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">3</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">8</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">8</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">4</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">6</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Tales of Vikings pillaging and plundering have always been exciting in my eyes, so the setting of Vinland Saga really grasped my attention. An anime produced by Wit Studio featuring a more historical take on the adventures of Vikings? What could possibly go wrong? A lot apparently. While it started off really promising, Vinland Saga got increasingly worse as it went along. And just like the pure English maidens that the Vikings violated and messed up, the Vikings did the same to the quality of this anime. Though it was primarily one Viking in particular.<br />
+<br />
+Frickin Thorfinn <br />
+<br />
+This dude is apparently the protagonist of the story,
+
+          <span style="display: none;" id="review325198">
+        but he does absolutely nothing to deserve this title. No wait, he runs like Naruto and is OP for some inexplicable reason after receiving absolutely no adequate training throughout his young life, so I guess he does check off most of the boxes for &quot;generic anime protagonist.&quot; Unfortunately, he has zero semblance of development until the very end of the anime. And I don&#039;t care if he evolves much more as a person in the much longer source material. I&#039;m basing everything off of what I see in the anime, and what I see is a poorly written character whose total stagnancy is astounding. Also, Vinland Saga is considered to be a historical anime and boasts a more realistic take on Vikings. Now no one, least of all me, expected this anime to be entirely realistic. I mean come on, it&#039;s an anime after all. But when Thorfinn can accomplish feats like Naruto running through hundreds of arrows, leaping 12 feet in the air over a moat, climbing up the side of a vertical castle wall, and running through dozens of trained soldiers while making abrupt slashing motions with his knives that decapitate all of them with one slice, then I start to have a problem with the &quot;realism&quot; factor. Moments like these had deleterious effects on the quality of the anime in my eyes, and Thorfinn&#039;s inexplicable demigod-like feats of strength and skill when compared to the generally normal capabilities of the majority of the rest of the cast caused a disconnect with the historical direction that the anime seemed to be aiming for.   <br />
+<br />
+Yes, I believe Thorfinn failed spectacularly as a character. But thankfully, there&#039;s Askeladd. He&#039;s honestly much more of a main character than Thorfinn, and is actually quite compelling and given a believable reason for his actions. He&#039;s clearly the deepest character and most entertaining part of the show, and despite my issues with many aspects of the anime *cough* Thorfinn *cough* he kept things interesting. He&#039;s the type of character that you initially want to hate but then grow to appreciate as time goes on, and I have to commend Vinland Saga for writing him in such a compelling way. But even Askeladd couldn&#039;t save Vinland Saga from falling into mediocrity. And that&#039;s thanks to the inclusion of another certain character.<br />
+<br />
+Frickin Canute <br />
+<br />
+Canute is a Norse princess waifu...but he&#039;s a dude. The entire arc surrounding Canute can be summarized as Askeladd&#039;s vikings with Canute in tow march through all of England in fear of Thorkell&#039;s vikings who are in pursuit. It&#039;s terribly boring and is worsened by Canute constantly whining to his cone-headed adviser until even Askeladd gets annoyed by his character and tries to make a man out of him. Canute remains stagnant for many episodes until he has this incredibly pathetic and laughable epiphany about love that doesn&#039;t really make any sense and his character suddenly does a complete 180. His voice proceeds to drop an octave and his eyes get smaller and sharper to visually imply that yes, Canute&#039;s balls have finally dropped. His character transformation is so abrupt and nonsensical that I can only describe it as a monumental failure when it comes to development. This is especially sad because I know that the author of Vinland Saga has the ability to write quality characters. He did it with Askeladd after all. It just feels like he sort of gave up on trying to realistically develop Canute over a proper period of time and was just like &quot;Screw it, he&#039;s a badass now!&quot; Which is honestly quite unfortunate.<br />
+<br />
+I also find the narrative to be quite weak and lazily written. Sure, it shows on multiple occasions how harsh and cruel Vikings can be, but in reality it just depicts a bunch of dudes traveling around accomplishing not much of anything for like 20 episodes with a few &quot;dark&quot; moments sprinkled in to remind viewers that they&#039;re watching a medieval fantasy. It&#039;s just not interesting to me whatsoever and feels like a ginormous waste of time. And the whole revenge plot surrounding Thorfinn and Askeladd had about as much substance as the revenge plot featured in Masamune-Kun&#039;s Revenge. Which is to say that there&#039;s practically zero substance, as it never feels like Thofinn makes any progress whatsoever at getting back at Askeladd. Now this would be fine if the anime took the route of trying to develop their bond and bring them closer over the years, but it doesn&#039;t feel like that either. That is of course until the anime force feeds us that angle at the end in a last ditch attempt to derive some emotional impact. The whole show is just Thorfinn being perpetually angry at Askeladd and Askeladd being sort of indifferent to Thorfinn, which was quite disappointing for me. And when I can draw parallels to frickin Masamune-Kun&#039;s Revenge, which is in my opinion one of the poorest produced anime of the 2010s, you just know that Vinland Saga done goofed up somewhere along the line.<br />
+<br />
+Despite my harsh criticism of Vinland Saga, I don&#039;t actually despise the show or anything. It does have some great visual and sound work (bar the jarring CGI), courtesy of Wit Studio. I&#039;m just disappointed that it squandered so much potential. While it admittedly starts strong with Thors and finishes strong with Askeladd, the rest...unfortunately isn&#039;t the best.
+        
+<div id="revhelp_output_325198" class="mt8 js-review-btn-helpful js-review-helpful-325198">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F37521%2FVinland_Saga" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle325198"
+         class="js-toggle-review-button" data-id="325198">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=325198" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=325198" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="7:40 AM">Dec 29, 2019</div>
+      <div class="lightLink spaceit">
+                  24 of 24 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score325203').toggle()">Overall Rating</a>:
+        8
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/AndoCommando">
+                  <img src="https://cdn.myanimelist.net/images/userimages/5453235.jpg?t=1610544000" data-src="https://cdn.myanimelist.net/images/userimages/5453235.jpg?t=1610544000" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/AndoCommando">AndoCommando</a>
+              <small>(<a href="/profile/AndoCommando/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp325203">349</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score325203">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>8</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">7</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">7</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">8</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">9</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">8</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    “From the distant north, beyond the frozen sea… They came, bringing with them the black clouds of war.”<br />
+<br />
+As the struggles between English and Danes grew worse each passing year, calls for peace had diminished, and death became commonplace. In the wake of these restless times were Vikings; violent raiders who reaped the spoils of war and marched to the beat of their drum. Brutal, merciless and unfeeling, they pillaged whoever they pleased and left only wreckage behind them. And raised by the band who murdered his father is Thorfinn, a young boy driven by hatred, longing to cut down the one responsible and avenge his
+
+          <span style="display: none;" id="review325203">
+        past.<br />
+<br />
+This is the tale of Vinland Saga, a sprawling epic penned by Makoto Yukimura that thrusts you into a world drenched in bloody violence and battle-hungry warriors. At least, that is what the manga first introduces readers to. Whereas the anime, produced by Wit Studio with director Shuuhei Yabuta at the helm, decides to take a different approach with the saga by telling its narrative chronologically. Aside from a short battle sequence, viewers aren’t subjected with carnage outright, but a calm and tranquil village on the coast of Iceland untouched by the remnants of war. In doing so, it trades the fast-paced feel of its original story for a more methodical slow burn that fortunately retains enough intrigue and uneasiness to keep it from becoming a tedious watch.<br />
+<br />
+Such a change carries significant implications for the remainder of its runtime, altering the show’s focus in such a way that brings more light to the world at large. Yukimura is often praised for his passion of technical realism as displayed in his previous work Planetes. Vinland Saga is no different, taking inspiration from Nordic tales that combine elements of culture, family and overarching philosophy into an engrossing plot. Here these features are given slightly more consideration, with early episodes providing a greater representation of the lifestyles embodied in this realistic setting. The nameless faces we encounter, though unimportant to the story at large do feel like real people, with their own goals, families and livelihoods. This level of realism is also found through various anime-only scenes later in the series, that both maintain the steady pace of the show between key events and help in conveying an appropriate air of verisimilitude for its interpretation of the saga at large.<br />
+<br />
+With a more methodical approach comes a better understanding of Vinland Saga’s characters initially. Some may be inclined to point out how this comes at the cost of cast members losing some degree of subtlety, feeling forced in the process. But what is important to note is that characters early on lay the foundation for the development of our protagonist. Thorfinn is easily impressionable and holds a curious eye from those he admires, most notably his father who he learned the concepts of honour and courage from. His actions when his morals are tested, and more importantly Thorfinn’s reactions aim to give viewers a clearer look at the bigger picture – a story of personal and global discovery. It is more than happy to let viewers dwell on the tender moments and melancholic scenery before the story inevitably shifts gears. As a child, Thorfinn sat at the feet of the great explorer Leif Erickson, captivated by his thrilling tales and in turn longed for adventure of his own. However, those youthful fantasies are soon shattered in a raid that leaves the boy craving revenge on the band’s leader, Askeladd.<br />
+<br />
+Vinland Saga thrives off the dichotomy between Thorfinn and Askeladd. A child’s innocence ruined with only vengeance left in its place, and a man that epitomizes what any Viking would want in a leader: strong, intelligent, calculated and charismatic. One wears his deadened heart on his sleeve, unfazed by the “comrades” around him and content with watching the world burn, while the other holds a silver tongue and laid-back demeanour, masking his desire for influence by any means necessary. Thorfinn is willing to take part in whatever atrocities asked of him if it means bringing him closer to killing his commander, even though he’s just a pawn in the greater game Askeladd is playing. Their relationship is one that walks on thin ice, giving each of their interactions a hint of uncertainty. Not only is it hard to predict how the plot will progress and subsequently where it&#039;ll take this band of misfits, but also how Thorfinn will be able to achieve his revenge, if at all. <br />
+<br />
+Consistent characterization is arguably the show&#039;s greatest strength, as within a story so epic in scope lies a profound study of character archetypes. The source material knows that historical stories often require authentic characters and the adaptation does not forget this. Vikings are neither vicious by nature nor are they depicted as idealized figures of legend, just men hardened through tough lives with dreams of making a fortune. The raids are done less out of malice but rather from the need to survive in a landscape where winters are long and resources are scarce. These warriors are humanized to an extent that prompts questions on the nature of war and those who voluntarily take part in such. The world and its inhabitants are considered for with a more holistic perspective than what anime normally offers, delivering on its rare setting that warrants a mature audience. There have been criticisms lobbied at the anime regarding some of the exaggerated feats of power and use of clichés as if it were a shounen story, which I find ironic given the manga was originally published as a shounen before being moved to a seinen magazine. Being a relatively faithful adaptation, the anime incorporates these parts but gradually grounds them into the plot, convincingly enough to where it slowly but surely no longer requires as much suspension of disbelief from the viewer.<br />
+<br />
+While Vinland Saga is rich in depth and subtext, it is still a story steeped in action and combat. Unfortunately, this is where the anime suffers most. It’s worth pointing out that this show does have its merits visually; art director Yusuke Takeda and his staff at studio BAMBOO boast some astounding digital background art that capture the gravity in times of mourning and sorrow. The voice acting performances – Thorfinn’s especially – are excellent in bringing the struggles and emotions to life. Character designs by Takahiko Abiru do well to imitate Yukimura’s artwork – albeit not with such excellent attention to detail or graphic displays of savagery, but still quite serviceable enough for a TV anime. There’s this myth that Vinland Saga is among the likes of Berserk, Kingdom and Vagabond as manga considered impossible to adapt. This is hyperbole, as apart from Vagabond’s aesthetic, these can all be realistically recreated in anime depending mostly on the staff, budget and scheduling. Fixating on atrocious efforts in the last decade only soils the standards that fandoms will have for future attempts. Thankfully, this adaptation is generally effective in transforming the majority of the manga’s illustrations and panel compositions to animated form... Expect for one key aspect: the action. <br />
+<br />
+The battles in Vinland Saga look about as disorderly as the computer-generated ocean that our cast frequently sail over. Of course, that isn’t the say that water is the only thing that is CG: the boats are always CG, the foot soldiers often turn CG, the entire environment in long-shots end up being CG, and all these examples of CG integration look especially jarring. It’s reminiscent of Shuuhei Yabuta’s work overseeing the 3D animation on Attack on Titan Season 3 Part 2, with short yet often noticeable faults. The direction overall is still an improvement over his last directorial effort on Inuyashiki, even holding flashes of excellence as the different animation styles, models and digital effects merge into great action sequences. But these moments are few and far between a multitude of scenes looking as though they were haphazardly worked on and do not coalesce well in comparison. <br />
+<br />
+Even the more experimental cinematography such as first-person perspective shots that appear great in concept pale in contrast to other anime that pulled off the same technique far better in the same year (Mob Psycho anyone?). By the time it finishes airing, there will be those eager to shower this series with immense praise for the art and animation, whilst forgetting to mention the inconsistent nature of its visuals. It’s tumultuous. There are great screenshots you can take of the anime at its most expressive and colourful – most of which are found away from the action. Likewise, there are short clips that highlight the visual blandness and worse portions that barely look as though they belong to the same season. The action still holds tension and weight when watching, but half the time you are probably better off glossing over them. <br />
+<br />
+These action scenes do gradually improve over the season, even if simply by not being as ambitious as before. However, there still lies various issues within the script that are worth mentioning, if only for their lasting effect on the project. Earlier I pointed out the importance of historical accuracy in Vinland Saga that pervades every corner of its setting. For the most part, the anime remains accurate in its portrayal of 11th century Northern Europe. But the screenplay is where most of its discrepancies exist. The staff in charge of writing such altered sections from the source material that acknowledge proper cultures, only to have such be overwritten for what I can only surmise as for the sake of localization. This furthermore muddles the various languages that characters are meant to speak throughout the story. There were never complaints about the manga including morsels of lore into the plot, and all these changes do is needlessly break immersion and consistency. This dialogue is also laden with telling the viewer actions that are clearly shown seconds beforehand. These could easily be brushed aside as nitpicking, but when these instances happen time and time again, it’s no longer a nitpick; it’s a recurring problem.<br />
+<br />
+But nevertheless, these problems do little to take away from the overall experience that makes Vinland Saga such a special piece of fiction in the realm of manga and now anime. While the premise does tell a tale of revenge, there is a balance ever-present. It rides a line which avoids getting too heady for its own good, but at the same time follows a linear path that realizes its potential to be intellectually stimulating. Drawing you in with its copious amounts of violence, before peeling back the layers to reveal something truly meaningful. Look beyond the strokes of bloodshed from mere pawns and see what caused these acts to occur. Vinland Saga casts a mirror over this time in history, on both famous figures and those forgotten overtime and simply asks us to think over what is shown. Consider if Thorfinn really has any enemies to justify his pursuit for vengeance. Ponder over the musings of a priest that fall on the deaf ears of most Vikings. And imagine if there were a land somewhere, far from slavery and the flames of war. <br />
+<br />
+Of all the clashing ideals of love, war and pacifism at play, the most fascinating comes from Prince Canute. Hard to fathom at first, being introduced as timid and weak, even drawn with a bishounen appearance. His inexperience in times of conflict and inability to function without his servant make him wholly unfit to rule over anyone, as demonstrated once held hostage by Askeladd. Every man is a slave to something: Thorfinn to his anger, Askeladd to the past, Thorkell to the battlefield and Canute to his own comfort. But it is once he loses the person closest to him when the shackles around him are broken. His preconceived notions about the world are shattered, leading to a startling epiphany where he is born anew as the strong leader history remembers. Canute’s ambition to spite God and create a utopia on Earth is chilling to watch develop, with heavy piano music accompanied that while ill-suited for the setting, hits all the emotional beats. His motivations not only serve as a compelling transformation of his character, but bring into question basic tenets of love and freedom with an intriguing yet complex theological framework. If the Vikings represent a struggle of maintaining independence, Canute&#039;s arc symbolises the first steps toward a nation state, where freedom is forcibly exchanged for stability – and the Prince is more than willing to cut his father down to achieve that dream.<br />
+<br />
+‘Every action has a consequence.’<br />
+<br />
+Behind the brutality and political scheming lies this constant message. They are felt by each character and echoed through the narrative. In part, this is what makes Vinland Saga such an unpredictable journey. Thorfinn’s past catches up to him and tries to sway him from the existence he chose after seeing his father slain with his own eyes. Askeladd’s craftiness and quick decision-making for years has brought him to serve under Canute as his right-hand man. And the Prince’s circumstances caused by the King’s order has resulted in the emergence of his greatest threat to the crown. From the beginning, the series has prepared its stage for an inevitable impasse, with each piece carefully positioned for their own personal growth. But despite all the planning and deliberation possible, the world may decide to deal you a different hand. The nature of the world is unflinching, with unexpected endings sometimes being peaceful, tragic and even undeserved, for better or for worse. After everything being built up to this moment, we are given more questions than answers, and left in shambles, unsure of what awaits these characters in the saga’s next entry. The prologue concludes. Such is life, and such is history.<br />
+<br />
+- - - - - - -<br />
+<br />
+For years, Vinland Saga has been proclaimed as a must-read classic manga, and here the anime does it justice. It’s a powerful tale with well-defined, palpable characters all living in a harsh yet beautifully captured world brought to life by rich colours, stellar landscapes and a varied selection of melodies that help convey a specific tone. Presenting the narrative in a different medium where it does falter on occasion, but essentially stays true to the heart of Vinland Saga, even providing original content that compliment the core material with a strong directorial voice and impressive execution. Some may be concerned for where the series can go after such an ending. But let me assure you that Vinland Saga knows what kind of story it’s telling, and it is nothing short of remarkable. <br />
+
+        
+<div id="revhelp_output_325203" class="mt8 js-review-btn-helpful js-review-helpful-325203">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F37521%2FVinland_Saga" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle325203"
+         class="js-toggle-review-button" data-id="325203">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=325203" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=325203" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="7:38 AM">Dec 29, 2019</div>
+      <div class="lightLink spaceit">
+                  24 of 24 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score325201').toggle()">Overall Rating</a>:
+        9
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Stark700">
+                  <img src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" data-src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Stark700">Stark700</a>
+              <small>(<a href="/profile/Stark700/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp325201">257</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score325201">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>9</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">8</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">9</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">9</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">9</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">9</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    If Don LaFonaine narrated Vinland Saga from the start, he’d begin the show with “In a world….” In Vinland Saga, we are introduced to a Viking world, a world of historical fiction rich with culture and testing the limits of survival. Based on the manga of the same name, it’s a show that teaches more than about survival. If you’re ready to embark on this epic adventure, then be ready for a 24-episode saga like you’ve never experienced before.<br />
+<br />
+Thorfinn Thorsson is the Icelandic protagonist, a character with complex personality driven with an ambition. After the death of his father, he becomes a warrior, someone who
+
+          <span style="display: none;" id="review325201">
+        will do whatever it takes to get his revenge. In this 11th century, the audience must understand how barbaric life is. Every day is an adventure where possibilities are almost limitless. Vinland Saga is very engrossing with a rich culture and preaches to the elements of historical fiction. This anime adaptation adapts a story to get us familiar with its Viking world, the harsh life of Thorfinn Throsson, and what it means to survive.<br />
+<br />
+Besides Planetes, Vinland Saga is mangaka Makoto Yukimura’s most prominent work. The anime adaptation remains faithful throughout the series but the director does mention that “there will be some adjustments to the manga”. With that in mind, the audience shouldn’t need to worry too much because Vinland Saga is fundamentally an adaptation for fans of the original series. The first few episodes takes off to showcase the violence and barbaric nature of the 11th century. From the harsh weather to immense amount of bloodshed, it is obvious the producers wanted to make the anime feels as real as possible. Wit Studio managed to carry a caliber of high production quality throughout a great deal of this series. The landscapes and Baltic Sea are illustrated with gorgeous visual quality enhanced by its realism. The scenes in some episodes contains elements of photorealism, characteristics that makes this show’s visual quality nothing less than a near masterpiece. There’s a Viking culture that we must quickly adapt to such as the rough clothing, crude ships, and historical weapons. Vehicles are replaced by horses and technology is crafted by the hands of humankind. In essence, this anime retains a beautiful setting but with dark elements of complex storytelling.<br />
+<br />
+With the characters in mind, Thorfinn is the central protagonist as we focus on his rebellious life. During his childhood, he was happier like an ordinary kid before his life changed forever. Now, he carries a vengeful attitude with a rebellious nature while trusting almost no one but himself. He is what I describe as a survivalist, someone who is opportunistic, wild, and unpredictable. He is fundamentally a decent person although some of his actions are questionable throughout the series. It’s hard to judge his character altogether in this adaptation but based on his actions, you could say he is far from a heroic protagonist. What is important is the relationship he develops with others in particular, Askeladd, the man who manipulated Thorfinn into his service. This becomes a complex relationship because Askeladd was contracted to kill Thors, Thorfinn’s father. As leader of his own Viking band, he is an important figure because of his influence on Thorfinn. And the more you watch Vinland Saga, the more you’ll realize how much certain characters have influence over others.<br />
+<br />
+Taking some steps back, the audience should also be familiar with Thors, the father of Thorfinn. As one of the most powerful character in the franchise, Thors is a testament and symbol of warrior. And despite not being around as much as the other characters, Thors teaches us what it means to be a true warrior. This is somewhat in contrast to Thorkell, a barbaric man with inhuman strength and widely considered to be one of the most brutal warriors in the series. He loves the thrill of fighting, to always find powerful opponents, and tests his strength. After encountering Thorfinn, he comes to respect the boy for his inner strength and determination. He is even somewhat honorable in that when facing against worth opponents, he prefers to settle it in a fair fight, without interference or bias. In my eyes, he is a breakout character to always keep an eye on.<br />
+<br />
+But Vinland Saga isn’t just about barbarism and violence. It has a society ruled by order with laws and dictatorship. From within the story, we meet Canute, a prince with a cowardly personality and bishonen-like appearance. Created as a foil as some of the main characters, he starts off as a meek man but transforms into a strong headed prince after losing someone close in his life. And that’s what makes Vinland Saga so meaningful. Character deaths are impactful and causes people to change as in the way it’s meant to. I can honestly say from heart that character evolution in Vinland Saga is one of the core fundamentals of the series. It’s not just about evolving characters either but showing the reality of death. It’s a clever way to avoid character assassination by changing their personalities through events. As I watched more of the show, it becomes more and more intriguing to understand each one. Unfortunately, a 2-cour adaptation does limit the potential of full character development. There’s much more to be found in the manga but that’s for another story.<br />
+<br />
+If I said it once, I’ve said it a hundred times. Vinland Saga contains a cruel world and filled with moments of despair, emotions, and conviction driven by action. If you’re here to see fan service, it’s served with bloodshed and body horror, not half naked women. It has little time to humor as its time period isn’t an era to enjoy life. It’s to survive in it. What will seduce the audience to this series’ theme ultimately come down its hallmark of creative realism. It manages to be exactly what it advertised from the start and in Thors’ words, make a “true warrior with no sword”.
+        
+<div id="revhelp_output_325201" class="mt8 js-review-btn-helpful js-review-helpful-325201">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F37521%2FVinland_Saga" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle325201"
+         class="js-toggle-review-button" data-id="325201">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=325201" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=325201" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="4:33 PM">Dec 29, 2019</div>
+      <div class="lightLink spaceit">
+                  24 of 24 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score325266').toggle()">Overall Rating</a>:
+        8
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/RebelPanda">
+                  <img src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610523600" data-src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610523600" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/RebelPanda">RebelPanda</a>
+              <small>(<a href="/profile/RebelPanda/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp325266">222</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score325266">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>8</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">7</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">8</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">8</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">8</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">7</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    There is a profound feeling to Vinland Saga. Whether or not the events depicted are entirely accurate, you are watching monumental history unfold. Although it is frustrating at times, it&#039;s gripping in the end. <br />
+<br />
+Warrior&#039;s pride, loss of innocence, betrayal, and the quest for the biggest bounty: This is what it means to be a Viking in Vinland Saga. In the beginning, our hero Thorfinn was just a kid, and his immaturity is prevalent throughout the series. Slowly—and frustratingly—he grows into a man. His father, the great Viking general, Thors, raised him to be a compassionate person until his untimely death. Stay away from the
+
+          <span style="display: none;" id="review325266">
+        path of a Viking, never kill, take care of your family. These were the values Thors taught him. When Thors was murdered right before Thorfinn&#039;s innocent eyes, none of these values mattered. Instead of growing up, Thorfinn survived his childhood by learning to kill. Years passed, and he became an angst-ridden killing machine.<br />
+<br />
+Enduring the bitter frost of northern Europe was the least of his problems; he needed to prove himself on the battlefield for a chance at revenge. The power that drives him is a hunger to seek revenge against the mercenary leader, Askeladd—this is where Thorfinn shines. His perseverance in the face of impossible odds shows he has real motivation anyone can believe. Thorfinn&#039;s frustrating immaturity is intentional, but what kept me caring about his journey was his slow evolution. I told myself that even if he doesn&#039;t grow up this season, it will come. His arc is a slow one, but I don&#039;t doubt he will improve in later seasons. Thorfinn&#039;s immaturity extends to his duels with Askeladd too. He makes the same mistakes over and over. He is desperate to win, yet his anger gets the best of him. Once Thorfinn loses his temper, he waves his sword like a maniac and gives up strategy. As Askeladd points out, he is predictable. Even so, the fights are still very entertaining. Askeladd critiques his fighting techniques and gives him a purpose in life. To grow and one day murder him. <br />
+<br />
+Over time, Askeladd becomes the closest thing Thorfinn has to a father. Witnessing their complicated duality throughout the show is genuinely intriguing. I&#039;ll admit it was quite frustrating to see Thorfinn try to kill Askeladd in duels, yet he was always eager to save his life during battles. It allowed their relationship to be dragged on for as long as possible, hindering Thorfinn&#039;s growth. Thankfully, Askeladd more of a protagonist of this season. He is the best character by far. He leads his army of mercenaries, but there&#039;s more to him than meets the eye. He is the wild card of the cast. He has the most in-depth backstory; throughout the show, his motivations become profoundly nuanced as we learn about him. The strategies he concocts are exciting to see play out—He&#039;s a villain, but a clever one. Like Askeladd, the entire cast is from different European countries. Despite this, all of the dialogue gets voiced in Japanese. Usually, I wouldn&#039;t be bothered by this at all. It&#039;s done in movies/TV all the time. You should expect to suspend your disbelief. It would be unrealistic to expect a TV anime to use multiple languages, but it led to problems. Occasionally people need to translate different languages to form allegiances or communicate with enemies. But they&#039;re all speaking Japanese, so it comes off as awkward.<br />
+<br />
+A language barrier is an integral part of war stories between different cultures. The lack of understanding for each other fuels prejudices, which sparks hatred between either side of the battlefield. Vinland Saga misses this entirely—which is hardly a knock against its high-quality production. I wish they would have hired some actors who spoke a little bit of the languages. Norsk, English, Danish, Icelandic, all absent. The script addresses this somewhat by using different Japanese dialects and honorifics between social classes. A better fix would have been to fix mix in certain words or phrases from the existing languages. The language barrier could quickly fix this minor flaw with an English dub. <br />
+<br />
+There are times the violence gets so unrealistic you might mistake it as an ultraviolent schlockfest. It&#039;s far more believable than WIT Studio&#039;s other blood-soaked action anime like Attack on Titan and less ridiculous than Kabaneri of the Iron Fortress. Dozens of people get chopped in half, decapitated, and dismembered throughout the show. Some of the gore bends the fabric of reality with how absurd it gets. You shouldn&#039;t be shocked by it. Instead, you get placed in the bloodthirsty mindsets of the savage killers. Violence is commonplace to Vinland Saga. It&#039;s just as thrilling for the Vikings as it is for the audience.<br />
+<br />
+When the giant warrior Thorkell the Tall decapitates five people AND takes down a ship mast with a throw of an axe, I laughed along with him. This anime is aware of how unbelievably violent Vikings were, and it leans into it—and I love it. However, it&#039;s not all fun and games. Once you realize that the hands of evil psychos carried out the action you&#039;ve been enjoying—you start to question your morality too. In stark comparison to the entertaining battles is the real shock factor. Men, women, and children get mercilessly slaughtered in droves. To show a loving family for five minutes only to kill them all right after is horrible, senseless, but yet it is part of the world. At first, it seemed like shock factor, and then I realized it is true to the historical setting. The mass murders were part of history, and Vinland never shies from the truth. It&#039;s never afraid to be nihilistic—like in one instance where a sole survivor of a murdered family is left behind to hear the sounds of their kin getting slaughtered. The camera hovers around them until their final moments. Full of despair. You will remember the real lives the Vikings brutally stole. It&#039;s horrible being on the side of villains like these. <br />
+<br />
+Most of the screen time in Vinland Saga is either fights, arguments, or dialogue. Politics of power struggles, contemplating morality in war, and conjuring witty strategies. When the script integrates real background information into the story, it shines. In one scene, Askeladd tortures a man while arguing that both sides of the war are savages by detailing their land&#039;s history. To prevent the plot from seeming predictable, they use plenty of paranoia-inducing foreshadowing. The script suffers from a common anime adaptation issue where characters over-explain what we can see for ourselves. Manga often describes movement with text; unfortunately, they left these lines in the adaptation. There were many times when fights would be interrupted by cross-cutting to people talking, halting the pace.<br />
+<br />
+Rather than always focusing on the main characters, the script often follows various mercenaries; they discuss their past and future battles and share their opinions on other people. The slow pacing made room for a well-written script, but also for it to meander. Men would banter about heaps of money and women being the meaning of their lives. While a drunken priest would mumble about ale being his only God now. It fit the show so well; none of them had meaning in their lives other than drinking, killing, fucking, then dying a warrior&#039;s death. Then Canute entered the show. Rejected by his father, the king, he is sent to war to grow into a man or die trying. His arc writes itself, yet he&#039;s one of the most compelling characters. The Vikings mock his firm Christian values. With an earnest dream of creating world peace—spurred by his religion—I found myself rooting for him. The themes are pro-religion; the devils are the Vikings because they&#039;ve forsaken God, and every Christain is innocent. Compared to the devils, the Christians get led like lambs to a slaughter. We see the story from the devils&#039; perspective; they reject God&#039;s path and forsake him for letting horrors happen. Instead, they choose to pave their way in blood. Over time, the themes get discussed by Canute and the priest. They feel more like mouthpieces than well-rounded characters, despite their relevance to the plot. The discussions of morality in Vinland might come off as pretentious and convoluted to some viewers. The art carries much of the weight in making these ankle-deep philosophies feel profound.<br />
+<br />
+There are moments the art looks manga quality—close-ups drawn with incredible detail to emphasize severity. Deep shadows beneath wrinkles and strained muscles, showing the weathered souls of the characters. Those are the faces you will remember. There are several imaginative storyboards used to convey the conflicting motives between characters. Boundaries separate them, and trees divide them in the frame to symbolize their unspoken hatred. The radiant light of hope shines emanating from behind the compassionate people shines down on the tormented savages below; on the nose perhaps, but powerful nonetheless. The artists drew the backgrounds beautifully. Always the sky is shrouded with clouds, which is why the lighting has a cool hue. Warm red sunsets radiate beautifully just beyond the horizon through white skies, contrasted against the horrible blood splattered across the snow-covered forests redder than ripe tomatoes. <br />
+<br />
+Harsh snowstorms whip across the screen; gorgeous, but sometimes distracting because the CGI weather feels disconnected from the picture. Speaking of which, Vinland&#039;s egregious use of CGI is quite unfortunate. The animators rendered cannon fodder soldiers and ships at a low framerate. It is reminiscent of the ugly art used in the schlockfest Inuyashiki—the director&#039;s previous adaptation. The use of CGI is not in vain, however. It allowed for 3D dynamic camera movements during fight scenes. Yet, the camera lingers too close to the eyes-searing CGI and for way too long. As for the music, it&#039;s okay. Nothing I would seek out on my own, even though it fits the show well. The opening songs are both light metal, closer to metalcore. I love it when anime try something different with their theme songs. As metal songs, they are fine. For WIT Studio&#039;s standards, this anime isn&#039;t entirely on the level of Attack on Titan or Kabaneri of the Iron Fortress. Thankfully, it has a stronger narrative than both.<br />
+<br />
+After a full season, Vinland Saga has only just begun. If this represents what&#039;s to come, I&#039;m thrilled to see where this story goes from here. Perhaps it moved too slowly for a lengthy prologue; nevertheless, it was engaging. With beautifully drawn artwork, a well-realized setting, and creative writing, this adaptation is impressive in many aspects. With this merely being a prologue, a sequel will be promising if it mends this season&#039;s flaws. It gets weighed down by reality-bending action sequences, a frustrating main character, cliched plotting, and redundant themes. Although it struggles along the way, it sticks the landing with a fantastic finale. Vinland Saga rises above its flaws to become an authentic piece of Eleventh Century historical fiction. 
+        
+<div id="revhelp_output_325266" class="mt8 js-review-btn-helpful js-review-helpful-325266">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F37521%2FVinland_Saga" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle325266"
+         class="js-toggle-review-button" data-id="325266">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=325266" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=325266" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+<div class="mt4"></div><div class="amazon-ads anime-manga-detail bottom pt20 pb16">
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "animedetail-20";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Buy on Amazon.com ";
+amzn_assoc_default_search_phrase = "Vinland_Saga";
+amzn_assoc_default_category = "DVD";
+amzn_assoc_linkid = "d33d41183eb8aee6216ffe9ff44ca735";
+amzn_assoc_rows = "1";
+amzn_assoc_search_bar_position = "bottom";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+</div>            <div class="mal-ad-unit" data-ad-width="801" data-ad-height="633">
+        <div id="taboola-below-article-thumbnails-anime"></div> <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'alternating-thumbnails-a',
+    container: 'taboola-below-article-thumbnails-anime',
+    placement: 'Below Article Thumbnails Anime',
+    target_type: 'mix'
+  });
+</script>
+
+      </div>
+    <br><div><div class="floatRightHeader"><a href="/anime/37521/Vinland_Saga/news">More news</a></div><h2>Recent News</h2></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/58335668" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1567963644-b21a2882bf411e24df875726fddc3efd.jpeg?s=7edcf9aa24a2bb3bfa173ed61b9c735f" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1567963644-b21a2882bf411e24df875726fddc3efd.jpeg?s=7edcf9aa24a2bb3bfa173ed61b9c735f 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1567963644-b21a2882bf411e24df875726fddc3efd.jpeg?s=171deeae103ae39432ca5630352b996d 2x" alt="Broadcast of &#039;Vinland Saga&#039; Episode 10 Delayed" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/58335668"><strong>Broadcast of &#039;Vinland Saga&#039; Episode 10 Delayed</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p>The official website for Wit Studio&#039;s Vinland Saga announced on Sunday that the broadcast for the tenth episode will be delayed due to news coverage on an appro...<a href="/news/58335668">read more</a></p></div>
+		<p class="lightLink spaceit">Sep 8, 2019 10:27 AM by <a href="/profile/Sakana-san">Sakana-san</a> | <a href="/forum/?topicid=1800877">Discuss (15 comments)</a></p></div>
+		<div class="borderClass"></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/58299228" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1567377253-e13d3f8d9cbb33918300ead18bf0587d.jpeg?s=6744cbead48b1e29375cc920da476525" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1567377253-e13d3f8d9cbb33918300ead18bf0587d.jpeg?s=6744cbead48b1e29375cc920da476525 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1567377253-e13d3f8d9cbb33918300ead18bf0587d.jpeg?s=05ef39f868b687cc5878c3a289b628a9 2x" alt="PV Collection for Aug 26 - Sep 1" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/58299228"><strong>PV Collection for Aug 26 - Sep 1</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p>Here is a collection of promotional videos (PVs), TV ads (CMs), and trailers for the last week. This thread excludes videos that have already been featured in an art...<a href="/news/58299228">read more</a></p></div>
+		<p class="lightLink spaceit">Sep 1, 2019 3:34 PM by <a href="/profile/Sakana-san">Sakana-san</a> | <a href="/forum/?topicid=1799970">Discuss (7 comments)</a></p></div>
+		<div class="borderClass"></div><br><div><div class="floatRightHeader"><a href="/forum/?animeid=37521"><a href="/anime/37521/Vinland_Saga/forum">More discussions</a></div><h2>Recent Forum Discussion</h2></div><div class="page-forum">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F37521%2FVinland_Saga&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1817927">Vinland Saga Episode 24 Discussion</a> <small> ( <a href="/forum/?topicid=1817927&show=0">1</a> <a href="/forum/?topicid=1817927&show=50">2</a> <a href="/forum/?topicid=1817927&show=100">3</a> <a href="/forum/?topicid=1817927&show=150">4</a> <a href="/forum/?topicid=1817927&show=200">5</a>  ... <a href="/forum/?topicid=1817927&show=550">Last Page</a> ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Dec 29, 2019</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">592 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Reapermask">Reapermask</a> <a href="/forum/?topicid=1817927&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Dec 30, 2020 3:56 AM</td>
+            </tr>
+            <tr id="topicRow2">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F37521%2FVinland_Saga&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1816857">Vinland Saga Episode 23 Discussion</a> <small> ( <a href="/forum/?topicid=1816857&show=0">1</a> <a href="/forum/?topicid=1816857&show=50">2</a> <a href="/forum/?topicid=1816857&show=100">3</a> <a href="/forum/?topicid=1816857&show=150">4</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Dec 22, 2019</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">163 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Reapermask">Reapermask</a> <a href="/forum/?topicid=1816857&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Dec 30, 2020 3:28 AM</td>
+            </tr>
+            </table></div><br><div><div class="floatRightHeader"><a href="/anime/37521/Vinland_Saga/featured">More featured articles</a></div><h2>Recent Featured Articles</h2></div><div class="detail-page-featured-article"><div class="news-list">
+      
+    <div class="news-unit clearfix"><div class="picSurround fl-l mr8 ml3">
+          <a href="https://myanimelist.net/featured/2309/In_Numbers__The_Best_Anime_of_the_Decade"><img src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1577540570-6cd00ecbf3483b617d40670f43868d2c.jpeg?s=9b135c843346a9061dede8eb1733608a" alt="In Numbers: The Best Anime of the Decade" class="image lazyload" width="50" height="78" srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1577540570-6cd00ecbf3483b617d40670f43868d2c.jpeg?s=9b135c843346a9061dede8eb1733608a 1x, https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1577540570-6cd00ecbf3483b617d40670f43868d2c.jpeg?s=e68e4dccba068951010dabd27951a025 2x" /></a>
+        </div><div class="news-unit-right rect">
+        <p class="title">
+          <a href="https://myanimelist.net/featured/2309/In_Numbers__The_Best_Anime_of_the_Decade" title="In Numbers: The Best Anime of the Decade">In Numbers: The Best Anime of the Decade</a>
+        </p>
+        <div class="text">
+          What&#039;s the #1 anime of the 2010s? Which year was the best? What studio had the most hits? We have the answers to all these questions and more!
+        </div>
+        <div class="information">
+          <p class="info pr8">
+            by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
+          </p><p class="di-tc pv pr8">
+              <b>319,599</b> views
+            </p></div>
+      </div>
+    </div>
+            
+    <div class="news-unit clearfix"><div class="picSurround fl-l mr8 ml3">
+          <a href="https://myanimelist.net/featured/2303/In_Numbers__The_Best_and_Worst_Anime_of_Summer_2019"><img src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1572578320-3674d82bf57f4303ce07979f94c2a6e2.jpeg?s=4f8bb455bb10569398ec7a726a56ea3f" alt="In Numbers: The Best and Worst Anime of Summer 2019" class="image lazyload" width="50" height="78" srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1572578320-3674d82bf57f4303ce07979f94c2a6e2.jpeg?s=4f8bb455bb10569398ec7a726a56ea3f 1x, https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1572578320-3674d82bf57f4303ce07979f94c2a6e2.jpeg?s=5ce136001911530b558a2ca98806eed5 2x" /></a>
+        </div><div class="news-unit-right rect">
+        <p class="title">
+          <a href="https://myanimelist.net/featured/2303/In_Numbers__The_Best_and_Worst_Anime_of_Summer_2019" title="In Numbers: The Best and Worst Anime of Summer 2019">In Numbers: The Best and Worst Anime of Summer 2019</a>
+        </p>
+        <div class="text">
+          Scores, members, favorites — everything you need to know about who won and lost Summer 2019.
+        </div>
+        <div class="information">
+          <p class="info pr8">
+            by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
+          </p><p class="di-tc pv pr8">
+              <b>86,026</b> views
+            </p><div class="tags">
+              <div class="tags-inner"><span class="tag tag-color-feature-spoiler">Spoiler</span></div>
+            </div></div>
+      </div>
+    </div>
+        </div>
+</div><div style="padding:16px 0px 0px 0px;"><div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div></div><br><div>
+            <div class="floatRightHeader"><a href="/anime/37521/Vinland_Saga/userrecs">More recommendations</a></div>
+            <h2>Recommendations
+            </h2></div>  <div class=""><a href="https://myanimelist.net/anime/37521/Vinland_Saga/userrecs" class="btn-detail-recommendations-view-all fl-r">
+      <span class="text">View All</span>
+      <span class="icon-next"><i class="fa fa-chevron-right icon-chevron" aria-hidden="true"></i></span>
+    </a><div class="anime-slide-block" id="anime_recommendation" data-json='{"width":702,"btnWidth":40,"margin":8}'><div class="btn-anime-slide-side left"><span class="btn-inner"></span></div><div class="btn-anime-slide-side right"><span class="btn-inner"></span></div><div class="anime-slide-outer" style="height:140px;"><ul class="anime-slide js-anime-slide" data-slide="7"><li class="btn-anime" style="width:90px" title="Shingeki no Kyojin"><a href="https://myanimelist.net/recommendations/anime/16498-37521" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Shingeki no Kyojin</span><span class="users">12 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/10/47347.jpg?s=6f15de5e242b40673393fce69500f1ea" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/10/47347.jpg?s=6f15de5e242b40673393fce69500f1ea 1x,https://cdn.myanimelist.net/r/180x280/images/anime/10/47347.jpg?s=7e22de0807c6ed2f0478fc026de58933 2x" width="90" height="140" class="image lazyload" alt="Shingeki no Kyojin" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kenpuu Denki Berserk"><a href="https://myanimelist.net/recommendations/anime/33-37521" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kenpuu Denki Berserk</span><span class="users">8 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/18520.jpg?s=1e4d647492f708cc01f21ca5f6c2b169" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/18520.jpg?s=1e4d647492f708cc01f21ca5f6c2b169 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/18520.jpg?s=ba9a618d3321748adb58e033b1038802 2x" width="90" height="140" class="image lazyload" alt="Kenpuu Denki Berserk" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Arslan Senki (TV)"><a href="https://myanimelist.net/recommendations/anime/28249-37521" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Arslan Senki (TV)</span><span class="users">6 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/6/73588.jpg?s=77b33365214e37a8a680721a88fd0b49" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/6/73588.jpg?s=77b33365214e37a8a680721a88fd0b49 1x,https://cdn.myanimelist.net/r/180x280/images/anime/6/73588.jpg?s=b073cde048e4d7a1ff5804f0a44e1914 2x" width="90" height="140" class="image lazyload" alt="Arslan Senki (TV)" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Dororo"><a href="https://myanimelist.net/recommendations/anime/37520-37521" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Dororo</span><span class="users">5 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1879/100467.jpg?s=5e085ec401dac431fbd04ec949699eda" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1879/100467.jpg?s=5e085ec401dac431fbd04ec949699eda 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1879/100467.jpg?s=423d82e76a8f736b84230502da72e99c 2x" width="90" height="140" class="image lazyload" alt="Dororo" border="0" ></a></li><li class="btn-anime" style="width:90px" title="91 Days"><a href="https://myanimelist.net/recommendations/anime/32998-37521" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">91 Days</span><span class="users">4 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/13/80515.jpg?s=3d97a0f7d30342d5f08e6ba02ad6df1f" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/13/80515.jpg?s=3d97a0f7d30342d5f08e6ba02ad6df1f 1x,https://cdn.myanimelist.net/r/180x280/images/anime/13/80515.jpg?s=a2d586ff09ec7c475285681df2fad0f5 2x" width="90" height="140" class="image lazyload" alt="91 Days" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Mobile Suit Gundam: The Origin"><a href="https://myanimelist.net/recommendations/anime/10937-37521" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Mobile Suit Gundam: The Origin</span><span class="users">3 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/72702.jpg?s=19c604cc8936cc3ef34fe3c0a27d6967" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/72702.jpg?s=19c604cc8936cc3ef34fe3c0a27d6967 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/72702.jpg?s=1399293e393683f7e45a4265b52c5946 2x" width="90" height="140" class="image lazyload" alt="Mobile Suit Gundam: The Origin" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Golden Kamuy"><a href="https://myanimelist.net/recommendations/anime/36028-37521" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Golden Kamuy</span><span class="users">3 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1145/90880.jpg?s=1871afb98358c601d77fb65410a78ed2" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1145/90880.jpg?s=1871afb98358c601d77fb65410a78ed2 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1145/90880.jpg?s=adc241de2df2858385640d5a50c33e5b 2x" width="90" height="140" class="image lazyload" alt="Golden Kamuy" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Angolmois: Genkou Kassenki"><a href="https://myanimelist.net/recommendations/anime/35834-37521" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Angolmois: Genkou Kassenki</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1469/95052.jpg?s=a658e99c294e2531a3f086a62f4d6810" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1469/95052.jpg?s=a658e99c294e2531a3f086a62f4d6810 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1469/95052.jpg?s=5594c258a0d471d7073651e36a0768c8 2x" width="90" height="140" class="image lazyload" alt="Angolmois: Genkou Kassenki" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Mobile Suit Gundam 0080: War in the Pocket"><a href="https://myanimelist.net/recommendations/anime/82-37521" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Mobile Suit Gundam 0080: War in the Pocket</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1/82.jpg?s=47e104de11b046b086a0f04c31951c11" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1/82.jpg?s=47e104de11b046b086a0f04c31951c11 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1/82.jpg?s=a53305f439ac9c959bba331a2343dd70 2x" width="90" height="140" class="image lazyload" alt="Mobile Suit Gundam 0080: War in the Pocket" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kingdom"><a href="https://myanimelist.net/recommendations/anime/12031-37521" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kingdom</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/13/39511.jpg?s=1d9a49ed6b17cbff5379da342c05ca8b" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/13/39511.jpg?s=1d9a49ed6b17cbff5379da342c05ca8b 1x,https://cdn.myanimelist.net/r/180x280/images/anime/13/39511.jpg?s=91177e66f30f1489ed6bde6797a32dfa 2x" width="90" height="140" class="image lazyload" alt="Kingdom" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Akame ga Kill!"><a href="https://myanimelist.net/recommendations/anime/22199-37521" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Akame ga Kill!</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1429/95946.jpg?s=adb4bcab3ac606dcb25d08d817451f1c" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1429/95946.jpg?s=adb4bcab3ac606dcb25d08d817451f1c 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1429/95946.jpg?s=f58a59ea176e4e3e3c82397934bbbf0e 2x" width="90" height="140" class="image lazyload" alt="Akame ga Kill!" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Ginga Eiyuu Densetsu"><a href="https://myanimelist.net/recommendations/anime/820-37521" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Ginga Eiyuu Densetsu</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/13/13225.jpg?s=90a2a2194dd7cd64805b197167a3b34f" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/13/13225.jpg?s=90a2a2194dd7cd64805b197167a3b34f 1x,https://cdn.myanimelist.net/r/180x280/images/anime/13/13225.jpg?s=963cd10e5c7b7a7784f00d699bd3733c 2x" width="90" height="140" class="image lazyload" alt="Ginga Eiyuu Densetsu" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Rurouni Kenshin: Meiji Kenkaku Romantan"><a href="https://myanimelist.net/recommendations/anime/45-37521" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Rurouni Kenshin: Meiji Kenkaku Romantan</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/7/6803.jpg?s=daa95b8375ca16f36950b6f992c3b37d" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/7/6803.jpg?s=daa95b8375ca16f36950b6f992c3b37d 1x,https://cdn.myanimelist.net/r/180x280/images/anime/7/6803.jpg?s=b76fcc3fabcd7a1f991ec85c383fec47 2x" width="90" height="140" class="image lazyload" alt="Rurouni Kenshin: Meiji Kenkaku Romantan" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Junketsu no Maria"><a href="https://myanimelist.net/recommendations/anime/26441-37521" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Junketsu no Maria</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/7/69301.jpg?s=9e89a1937c08425421bc0d9a87ab8dfe" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/7/69301.jpg?s=9e89a1937c08425421bc0d9a87ab8dfe 1x,https://cdn.myanimelist.net/r/180x280/images/anime/7/69301.jpg?s=797ec74afbc811eb19eceb6db459d8bb 2x" width="90" height="140" class="image lazyload" alt="Junketsu no Maria" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen"><a href="https://myanimelist.net/recommendations/anime/44-37521" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1807/102419.jpg?s=f5863db023f3d7c0a65bfc8db661901a" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1807/102419.jpg?s=f5863db023f3d7c0a65bfc8db661901a 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1807/102419.jpg?s=15a31706f666a187e95ea6fc90bc67aa 2x" width="90" height="140" class="image lazyload" alt="Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Hunter x Hunter (2011)"><a href="https://myanimelist.net/recommendations/anime/11061-37521" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Hunter x Hunter (2011)</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/11/33657.jpg?s=003364fc3db2ae79817df73e4ad509b6" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/11/33657.jpg?s=003364fc3db2ae79817df73e4ad509b6 1x,https://cdn.myanimelist.net/r/180x280/images/anime/11/33657.jpg?s=7b5b726b7a0474005b91a997909d8227 2x" width="90" height="140" class="image lazyload" alt="Hunter x Hunter (2011)" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kingdom 3rd Season"><a href="https://myanimelist.net/recommendations/anime/37521-40682" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kingdom 3rd Season</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1723/109872.jpg?s=5991ef6adf1fad3334abbe616ac8fc90" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1723/109872.jpg?s=5991ef6adf1fad3334abbe616ac8fc90 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1723/109872.jpg?s=89481283df2fc2f574cab7ca0c409f1b 2x" width="90" height="140" class="image lazyload" alt="Kingdom 3rd Season" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kimetsu no Yaiba"><a href="https://myanimelist.net/recommendations/anime/37521-38000" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kimetsu no Yaiba</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1286/99889.jpg?s=b866831b109fac7cf6d971d49c2b6198" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1286/99889.jpg?s=b866831b109fac7cf6d971d49c2b6198 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1286/99889.jpg?s=3aeb6b6fc9db88b07d62eb304f43036c 2x" width="90" height="140" class="image lazyload" alt="Kimetsu no Yaiba" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Katsute Kami Datta Kemono-tachi e"><a href="https://myanimelist.net/recommendations/anime/37521-39199" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Katsute Kami Datta Kemono-tachi e</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1109/101230.jpg?s=038be731ba722e8feeaca4d76eca149c" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1109/101230.jpg?s=038be731ba722e8feeaca4d76eca149c 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1109/101230.jpg?s=5fd42d1bb86d545721bac1ffbaa53864 2x" width="90" height="140" class="image lazyload" alt="Katsute Kami Datta Kemono-tachi e" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Dorohedoro"><a href="https://myanimelist.net/recommendations/anime/37521-38668" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Dorohedoro</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1740/104786.jpg?s=6c194237d31497bb4568e23b56af0ca8" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1740/104786.jpg?s=6c194237d31497bb4568e23b56af0ca8 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1740/104786.jpg?s=5e05f466714b24f507789009bd08adde 2x" width="90" height="140" class="image lazyload" alt="Dorohedoro" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Nejimaki Seirei Senki: Tenkyou no Alderamin"><a href="https://myanimelist.net/recommendations/anime/31764-37521" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Nejimaki Seirei Senki: Tenkyou no Alderamin</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/11/79531.jpg?s=69c5668b4034ff57a60a8b4c2c54008c" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/11/79531.jpg?s=69c5668b4034ff57a60a8b4c2c54008c 1x,https://cdn.myanimelist.net/r/180x280/images/anime/11/79531.jpg?s=67754f0bffb7bb0b2d30899dd8bce1d6 2x" width="90" height="140" class="image lazyload" alt="Nejimaki Seirei Senki: Tenkyou no Alderamin" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Elfen Lied"><a href="https://myanimelist.net/recommendations/anime/226-37521" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Elfen Lied</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/10/6883.jpg?s=933f638f7bd44ced35c99bfd70df08ec" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/10/6883.jpg?s=933f638f7bd44ced35c99bfd70df08ec 1x,https://cdn.myanimelist.net/r/180x280/images/anime/10/6883.jpg?s=a21d701d3558aa9973a2966e50441d36 2x" width="90" height="140" class="image lazyload" alt="Elfen Lied" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Drifters"><a href="https://myanimelist.net/recommendations/anime/31339-37521" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Drifters</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/10/80271.jpg?s=c5c9e487d86a4b7226fd1f7ee4d521d7" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/10/80271.jpg?s=c5c9e487d86a4b7226fd1f7ee4d521d7 1x,https://cdn.myanimelist.net/r/180x280/images/anime/10/80271.jpg?s=604e09fcdbafbf7db863b09c002a02af 2x" width="90" height="140" class="image lazyload" alt="Drifters" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Berserk"><a href="https://myanimelist.net/recommendations/anime/32379-37521" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Berserk</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/10/79352.jpg?s=a32009efe65ac9300f05971c86b7ab44" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/10/79352.jpg?s=a32009efe65ac9300f05971c86b7ab44 1x,https://cdn.myanimelist.net/r/180x280/images/anime/10/79352.jpg?s=59d0dbeba83b896225b34f30ab80a895 2x" width="90" height="140" class="image lazyload" alt="Berserk" border="0" ></a></li></ul></div></div></div>
+    </td>
+    </tr>
+    </table>
+    </div>  <div class="mauto clearfix pt24" style="width:760px;">
+    <div class="fl-l">
+      </div>
+      <div class="fl-r">
+      </div>
+    </div>
+
+</td>
+</tr>
+</table>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js" data-pin-hover="true"></script></div><!-- end of contentHome -->
+</div><!-- end of contentWrapper -->
+
+
+            
+  
+
+
+            
+  
+
+  <script>
+    $(document).ready(function() {
+      $(window).scroll(function() {
+        var cHeight = $("#myanimelist").height();
+        $("div[data-ad-sticky='manual']").each(function (i, o) {
+          var aHeight = $(o).height();
+          var aTop = $(o).parent().offset().top;
+          if (window.pageYOffset >= (cHeight - aHeight)) {
+            $(o).css("top", ((cHeight - aHeight) - window.pageYOffset) + "px");
+          } else if (window.pageYOffset >= aTop) {
+            $(o).addClass("sticky");
+            $(o).css("top", "");
+          } else {
+            $(o).removeClass("sticky");
+          }
+        });
+      });
+    });
+  </script>
+
+<!--  control container height -->
+<div style="clear:both;"></div>
+
+<!-- end rightbody -->
+
+</div><!-- wrapper -->
+
+
+    <div id="ad-skin-bg-right" class="ad-skin-side-outer ad-skin-side-bg bg-right">
+    <div id="ad-skin-right" class="ad-skin-side right" style="display: none;">
+      <div id="ad-skin-right-absolute-block">
+        <div id="ad-skin-right-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+</div><!-- #myanimelist -->
+
+
+<div class="footer-ranking">
+  <div class="ranking-container">
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php" class="view_more fl-r">More</a>Top Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Fullmetal Alchemist: Brotherhood</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011">Hunter x Hunter (2011)</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php?type=airing" class="view_more fl-r">More</a>Top Airing Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/42203/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season_Part_2">Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/42897/Horimiya">Horimiya</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/38474/Yuru_Camp△_Season_2">Yuru Camp△ Season 2</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/character.php" class="view_more fl-r">More</a>Most Popular Characters
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/character/417/Lelouch_Lamperouge">Lamperouge, Lelouch</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/character/45627/Levi">Levi</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/character/80/Light_Yagami">Yagami, Light</a>
+            </li>
+                  </ol>
+      </div>
+      </div>
+</div>
+<footer>
+  <div id="footer-block">
+    <div class="footer-link-block">
+      <p class="footer-link home di-ib">
+        <a href="https://myanimelist.net/">Home</a>
+      </p>
+      <p class="footer-link di-ib">
+        <a href="https://myanimelist.net/about.php">About</a>
+        <a href="https://myanimelist.net/pressroom">Press Room</a>
+        <a href="https://myanimelist.net/about.php?go=contact">Support</a>
+        <a href="https://myanimelist.net/advertising">Advertising</a>
+        <a href="https://myanimelist.net/forum/?topicid=515949">FAQ</a>
+        <a href="https://myanimelist.net/about/terms_of_use">Terms</a>
+        <a href="https://myanimelist.net/about/privacy_policy">Privacy</a>
+        <a href="#/" class="cmp-gdpr-only">Privacy Settings</a>
+        <a href="#/" class="cmp-ccpa-only">Do Not Sell My Personal Information</a>
+        <a href="https://myanimelist.net/about/cookie_policy">Cookie</a>
+        <a href="https://myanimelist.net/about/notice_at_collection">Notice at Collection</a>
+        <a href="https://myanimelist.net/about/sitemap">Sitemap</a>
+      </p>
+            <p class="footer-link login di-ib">
+        <a href="https://myanimelist.net/login.php?from=%2Fanime%2F37521%2FVinland_Saga" id="malLogin" rel="nofollow">Login</a>
+        <a href="https://myanimelist.net/register.php?from=%2Fanime%2F37521%2FVinland_Saga">Sign Up</a>
+      </p>
+          </div>
+
+    
+    <div class="banner-footer-anime-streaming">
+      <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+    </div>
+
+        <div class="footer-link-icon-block">
+            <div class="footer-social-media ac">
+        <a target="_blank" class="icon-sns icon-fb di-ib" href="https://www.facebook.com/OfficialMyAnimeList" rel="noreferrer"></a>
+        <a target="_blank" class="icon-sns icon-tw di-ib" title="Follow @myanimelist on Twitter" href="https://twitter.com/myanimelist" rel="noreferrer"></a></div>
+            <div class="footer-recommended ac">
+        <a target="_blank" class="icon-recommended icon-tokyo-otaku-mode" href="http://otakumode.com/fb/5aO" rel="noopener">Tokyo Otaku Mode</a>
+        <a target="_blank" class="icon-recommended icon-honeys-anime" href="https://honeysanime.com" rel="noopener">Honey's Anime</a>
+        <a target="_blank" class="icon-recommended icon-manga-store" href="https://myanimelist.net/store?_location=mal_f_m">Manga Store</a>
+      </div>
+    </div>
+
+    <div class="footer-fb">
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+      <div class="footer-fb-item">
+                <iframe class="fb-page" src="" width="450" height="154" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+      </div>
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+    </div>
+        
+    <div id="copyright">
+      MyAnimeList.net is a property of MyAnimeList Co.,Ltd. &copy;2021 All Rights Reserved.
+    </div>
+  </div>
+</footer>
+<div class="welcome-back popup-background">
+  <div class="popup">
+    <img class="logo" src="/img/pc/ownlist/logo_mal.png" alt="MyAnimeList">
+    <h3 class="popup-title">Welcome!</h3>
+    <p class="description">Join MyAnimeList to catalog your anime and manga, compare with your friends, create your own profile, and plenty more. It's free and easy to join.</p>
+    <div class="anime-slide1">
+      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/9/9453.jpg');"></div>
+      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/10/47347.jpg');"></div>
+      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/11/39717.jpg');"></div>
+      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
+
+      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/9/9453.jpg');"></div>
+      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/10/47347.jpg');"></div>
+      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/11/39717.jpg');"></div>
+      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
+    </div>
+    <div class="anime-slide2">
+      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/12/76049.jpg');"></div>
+      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/5/64449.jpg');"></div>
+      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/5/73199.jpg');"></div>
+      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/5/65187.jpg');"></div>
+
+      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/12/76049.jpg');"></div>
+      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/5/64449.jpg');"></div>
+      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/5/73199.jpg');"></div>
+      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/5/65187.jpg');"></div>
+    </div>
+    <h3 class="sign-up-with">Free Sign Up with</h3>
+    <div class="sns-sign-up">
+      <a class="sns-button google" href="/sns/login/google?from=%2Fanime%2F37521%2FVinland_Saga&utm_medium=ldialog_google" onclick="ga('send', 'event', 'ldialog', 'click', 'google');">Google</a>
+      <a class="sns-button facebook" href="/sns/login/facebook?from=%2Fanime%2F37521%2FVinland_Saga&utm_medium=ldialog_facebook" onclick="ga('send', 'event', 'ldialog', 'click', 'facebook');">Facebook</a>
+      <a class="sns-button twitter" href="/sns/login/twitter?from=%2Fanime%2F37521%2FVinland_Saga&utm_medium=ldialog_twitter" onclick="ga('send', 'event', 'ldialog', 'click', 'twitter');">Twitter</a>
+    </div>
+    <div class="sign-up">
+      <a class="account register" href="/register.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'mail');">Create an account</a>
+      <br>      <a class="account" href="/login.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'login');">Already have an account?</a>
+    </div>
+    <div class="close-button" onclick="ga('send', 'event', 'ldialog', 'click', 'close');"></div>
+  </div>
+  <script>
+    $(function () {
+      ga('send', 'event', 'popup_login_form', 'show', location.href, {nonInteraction: true});
+      var onresize = function () {
+        var $welcome_back = $('.welcome-back');
+        var $popup = $('.welcome-back .popup');
+        var top = ($welcome_back.outerHeight() - $popup.outerHeight()) / 2;
+        $popup.css('top', top < 0 ? 0 : top);
+      };
+      var onclose = function () {
+        $('.welcome-back').addClass('fade-out')
+          .one('animationend', function () { $(this).remove(); });
+        $(window).off('resize', onresize);
+      };
+
+      var timer_id = null;
+      var show = function () {
+        timer_id = null;
+        // 優先順位の高いポップアップが出ていたら表示しない
+        if (($('.app_gdpr--2k2uB').length > 0 && $('.banner_hidden--MXmJ_').length === 0) || $('._cm-os-slider').length > 0 || $('#tbl-next-up').length > 0 || $('#gdpr-modal-bottom').length > 0) {
+          return
+        }
+        $('.welcome-back').addClass('fade-in');
+        onresize();
+        var timer = setTimeout(onclose,30000);
+        $('.popup').on('mousemove',function(){
+            clearTimeout(timer);
+            timer=setTimeout(onclose, 30000);
+        });
+      };
+
+      $(window)
+        .one('load', function () {
+          onresize();
+          timer_id = setTimeout(show,3000);
+          $('body').on('keydown mousedown mousemove',function(){
+            if(timer_id) {
+              clearTimeout(timer_id);
+              timer_id = setTimeout(show, 3000);
+            }
+          });
+          $(window).scroll(function(){
+            if(timer_id) {
+              clearTimeout(timer_id);
+              timer_id = setTimeout(show, 3000);
+            }
+          });
+        })
+        .on('resize', onresize);
+      $(document).one('click', '.close-button', function () {
+        onclose();
+      });
+      $('.register').click(function () {
+        ga('send', 'event', 'popup_login_form', 'click', location.href, {nonInteraction: true});
+      });
+    });
+  </script>
+</div>
+
+<script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+
+<script async>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga')
+
+  ga('create', 'UA-369102-1', 'auto')
+  ga('set', 'anonymizeIp', true)
+  ga('require', 'linkid') // Enhanced Link Attribution
+    ga('set', 'dimension1', 'guest')
+    ga('send', 'pageview')
+</script>   <script>
+window.onscroll = function(e){
+    const scrollThreshold = 50;
+    if (window.pageYOffset >= scrollThreshold) {
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            let t_height = ad.offsetHeight;
+            let offsetY = ad.getBoundingClientRect().top;
+            let screenHeight = window.outerHeight;
+            let t_position = offsetY - screenHeight;
+            if(-screenHeight<=(t_position　+　t_height) && t_position<0) {
+                ad.className = 'ad-tag';
+                (deployads = window.deployads || []).push({});
+            }
+        });
+    }
+}
+var timer = 0;
+window.onresize = function(e){
+    if (timer > 0) {
+        clearTimeout(timer);
+    }
+
+    timer = setTimeout(function () {
+        console.log('window resized');
+        [].forEach.call(document.querySelectorAll('.ad-tag'), function(ad) {
+            ad.className = 'no-ad';
+            (deployads = window.deployads || []).push({});
+        });
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            ad.className = 'ad-tag';
+            (deployads = window.deployads || []).push({});
+        });
+    }, 200);
+}
+</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WL4QW3G');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+var path = location.pathname;
+var param = location.search;
+
+dataLayer = dataLayer || [];
+
+// login.php
+
+function ga_notlogin(){
+  ga('send', 'event', 'not_login', '2.未ログインの場合', '/login.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=1');
+}
+
+function ga_sns(){
+  ga('send', 'event', 'sns_login', '2-1-1.ソーシャルログインの場合', '/login.php?login-mode=social&c-ms-mode=1');
+}
+
+function ga_login(){
+  ga('send', 'event', 'id_login', '2-1-2.IDログインの場合', '/login.php?login-mode=id&c-ms-mode=1');
+}
+
+// register.php
+
+function ga_registration(){
+  ga('send', 'event', 'registration', '2-2.会員登録ボタン', '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=2');
+}
+
+if ( path.match("register.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2F&c-ms-mode=2',
+        'member_title': '2-2-1.会員情報入力完了',
+        'event': 'loadready-register'
+    });
+}
+
+if ( path.match("login.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': path.concat(param, "&c-ms-mode=2"),
+        'member_title': '2-2-1.メールからの会員認証ページ',
+        'event': 'loadready-login'
+    });
+}
+
+// membership
+
+function ga_mal_banner(){
+  ga('send', 'event', 'support_mal', '2-3.MALバナー', '/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner&c-ms-mode=3');
+}
+
+if ( path.match("login.php") && param.match("from=%2F") ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=3',
+        'member_title': '2-2.会員登録ボタン',
+        'event': 'loadready-login'
+    });
+}
+
+function ga_credit(){
+  ga('send', 'event', 'support_mal', '3-1-1.クレカ登録', '/member-register?c-ms_payment=1&c-ms_mode=3');
+}
+
+function ga_paypal(){
+  ga('send', 'event', 'support_mal', '3-1-2.Paypal登録', '/member-register?c-ms_payment=2&c-ms_mode=3');
+}
+
+if ( path.match("account/membership/complete") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/member-register-complete?c-ms_payment=2&c-ms_mode=3',
+        'member_title': '3-1-2.MAL会員登録成功',
+        'event': 'loadready-member-register-complete'
+    });
+}
+
+</script>
+<script type="text/javascript">
+    window.MAL.magia = "06410c4e6b2518e9add8f6df0ccb2da2876bb8c980aacb43a8dcaa8153c0f92c";
+  window.MAL.madoka = "hZrDKm9k6FVRnqd3i%=K";
+
+  window.MAL.SLVK = "g4OvMLVOmEI3J8u7dt8f8+mAuualsqCo";
+  window.MAL.CDN_URL = "https://cdn.myanimelist.net";
+
+  window.MAL.CURRENT_TUTORIAL_STEP_ID = null;
+  window.MAL.USER_NAME = ""
+  window.MAL.FACEBOOK.APP_ID = "360769957454434"
+  window.MAL.FACEBOOK.API_VERSION = "v2.12"
+</script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+                    <script type="text/javascript">
+          window._taboola = window._taboola || [];
+          _taboola.push({flush: true});
+        </script>
+    </body>
+</html>

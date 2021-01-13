@@ -1,0 +1,1720 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    
+<link rel="preconnect" href="//fonts.gstatic.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//fonts.googleapis.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tags-cdn.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagservices.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagmanager.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//apis.google.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel-sync.sitescout.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel.tapad.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//c.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tpc.googlesyndication.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//googleads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="//securepubads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="https://cdn.myanimelist.net" crossorigin="anonymous" />
+
+
+<title>
+Date A Live III - MyAnimeList.net
+</title>
+<meta name="description" content="Looking for information on the anime Date A Live III? Find out more with MyAnimeList, the world&#039;s most active online anime and manga community and database. Shidou Itsuka carries on with his quest for Ratatoskr in finding Spirits and trying to seal their powers, all while maintaining his relationships with the ones he had already sealed. Moreover, as new Spirits appear, he must undergo more complicated trials—all to put a stop to further disasters as he discovers more about the Spirits&#039; origin..." />
+
+  
+<meta name="keywords" content="anime, myanimelist, anime news, manga" />
+  
+
+
+    <meta property="og:locale" content="en_US"><meta property="fb:app_id" content="360769957454434"><meta property="og:site_name" content="MyAnimeList.net"><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@myanimelist"><meta property="og:title" content="Date A Live III"><meta property="og:type" content="video.tv_show"><meta property="og:image" content="https://cdn.myanimelist.net/images/anime/1055/100468.jpg"><meta name="twitter:image:src" content="https://cdn.myanimelist.net/r/360x360/images/anime/1055/100468.jpg?s=e960073fa2aed6d12476c9134db21d60"><meta property="og:url" content="https://myanimelist.net/anime/36633/Date_A_Live_III"><meta property="og:description" content="Shidou Itsuka carries on with his quest for Ratatoskr in finding Spirits and trying to seal their powers, all while maintaining his relationships with the ones he had already sealed. Moreover, as new Spirits appear, he must undergo more complicated trials—all to put a stop to further disasters as he discovers more about the Spirits&#039; origin. [Written by MAL Rewrite] ">
+
+
+<meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
+
+<meta name='csrf_token' content='464e30964ad4a5d6f933dd5e0da42defa20f43a5'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
+<meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" />
+
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" href="https://myanimelist.net/plugins/myanimelist.xml" title="MyAnimeList" />
+
+<link rel="shortcut icon" href="https://cdn.myanimelist.net/images/favicon.ico" />
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+      <script src="//tags-cdn.deployads.com/a/myanimelist.net.js" async="async"></script>
+            <script async="async" type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script>
+$(document).ready(function(){
+  window.Criteo = window.Criteo || {};
+  window.Criteo.events = window.Criteo.events || [];
+  $('.ad-criteo').each(function(){
+    var slotid = $(this).attr('data-ad-slot');
+    var zoneid = $(this).attr('data-ad-zone');
+    var CriteoAdUnits = {"placements":[{"slotid":slotid, "zoneid":zoneid}]};
+    var processCdbBid = function(){
+      var bids = Criteo.GetBidsForAdUnit(slotid);
+      if(bids.length > 0){
+        Criteo.RenderAd({bidId:bids[0].id, containerId:bids[0].impressionId});
+      }
+    };
+    Criteo.events.push(function(){Criteo.RequestBids(CriteoAdUnits, processCdbBid, 2000);});
+  });
+});
+</script>
+
+
+
+            <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/myanimelist/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>    
+</head>
+
+<body onload=" " class="page-common"data-ms="true" data-country-code="SI" >
+<div id="myanimelist">
+
+    
+  
+    <script type='text/javascript'>
+    window.MAL.SkinAd.prepareForSkin('');
+  </script>
+
+    <div id="ad-skin-bg-left" class="ad-skin-side-outer ad-skin-side-bg bg-left">
+    <div id="ad-skin-left" class="ad-skin-side left" style="display: none;">
+      <div id="ad-skin-left-absolute-block">
+        <div id="ad-skin-left-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
+    <script>(deployads = window.deployads || []).pageSegment = 'anime_title_36633';</script>
+
+
+<script>
+    var trackOutboundLink = function(url) {
+        ga('send', 'event', 'outbound', 'click', url, {
+            'transport': 'beacon',
+            'hitCallback': function(){return true;}
+        });
+    }
+</script><div class="banner-header-anime-straming" style="right:480px;">
+  <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+</div>
+
+
+<div id="header-menu" ><div class="header-menu-login"><a class="btn-mal-service"
+             href="https://myanimelist.net/membership?_location=mal_h_u" onClick="ga_mal_banner()">Hide Ads</a><a class="btn-login" href="https://myanimelist.net/login.php?from=%2Fanime%2F36633%2FDate_A_Live_III" id="malLogin" onClick="ga_notlogin()">Login</a><a class="btn-signup" href="https://myanimelist.net/register.php?from=%2Fanime%2F36633%2FDate_A_Live_III" onClick="ga_registration()">Sign Up</a></div></div></div>  <div id="menu" class="">
+    <div id="menu_right"><script type="text/x-template" id="incremental-result-item-anime"><div class="list anime" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info anime"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Aired: ${ item.payload.aired }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info anime"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-manga"><div class="list manga" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info manga"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Published: ${ item.payload.published }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info manga"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-character"><div class="list character" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div><div class="extra-info"><ul class="related-works"><li v-for="work in item.payload.related_works" class="fs-i">- ${ work }</li></ul>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-person"><div class="list person" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.alternative_name">${ item.payload.alternative_name }<br></span>Birthday: ${ item.payload.birthday }<br>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-store"><div class="list store" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info store"></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info store"></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-club"><div class="list club" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div><div class="extra-info">Members: ${ item.payload.members }<br>Category: ${ item.payload.category }<br>Created by: ${ item.payload.created_by }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-user"><div class="list user" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.authority">${ item.payload.authority }<br></span>Joined: ${ item.payload.joined }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-news"><div class="list news" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-featured"><div class="list featured" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-forum"><div class="list forum" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="extra-info">${ item.payload.date }<br><span>in ${ item.payload.category }</span></div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-separator"><div class="list separator"><div class="separator"><span v-show="item.name == 'anime'">Anime</span><span v-show="item.name == 'manga'">Manga</span><span v-show="item.name == 'character'">Characters</span><span v-show="item.name == 'person'">People</span></div></div></script><div id="top-search-bar"><form id="searchBar" method="get" class="searchBar" @submit.prevent="jump()"><div class="form-select-outer fl-l"><select name="type" id="topSearchValue" class="inputtext" v-model="type"><option value="all">All</option><option value="anime">Anime</option><option value="manga">Manga</option><option value="character">Characters</option><option value="person">People</option><option value="store">Manga Store</option><option value="news">News</option><option value="featured">Featured Articles</option><option value="forum">Forum</option><option value="club">Clubs</option><option value="user">Users</option></select></div><input v-model="keyword" id="topSearchText" type="text"
+            name="keyword" class="inputtext fl-l" placeholder="Search Anime, Manga, and more..."
+            size="30" autocomplete="off"
+            @keydown.up.prevent="moveSelection(-1)" @keydown.down.prevent="moveSelection(1)"
+            @focus="isFocused = true" @blur="isFocused = false"><input id="topSearchButon" class="fl-l" :class="{'notActive': (keyword.length < 3)}" type="submit" value="&#xf002"></form><div id="topSearchResultList" class="incrementalSearchResultList" :style="{display: (showResult ? 'block' : 'none')}" @mousedown.prevent=""><div v-for="(item, i) in items" @mouseover="selection=i"><component :is="resolveComponent(item)" :item="item" :focus="selection == i" :url="generateItemPageUrl(item)"></component></div><div class="list list-bottom" :class="{'focus': selection == -1}" @mouseover="selection = -1"
+               :style="{display: (showViewAllLink ? 'block' : 'none')}"><a :href="resultPageUrl">
+              View all results for <span class="fw-b">${ keyword }</span><i v-show="isRequesting" class="fa fa-spinner fa-spin ml4"></i></a></div></div></div></div><div id="menu_left">
+      <ul id="nav">
+        <li class="small"><a href="#" class="non-link">Anime</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/anime.php?_location=mal_h_m">Anime Search</a></li>
+            <li><a href="https://myanimelist.net/topanime.php?_location=mal_h_m">Top Anime</a></li>
+            <li><a href="https://myanimelist.net/anime/season?_location=mal_h_m">Seasonal Anime</a></li>
+                        <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m_a">Videos</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=anime&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=anime&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1885985&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Manga</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/manga.php?_location=mal_h_m">Manga Search</a></li>
+            <li><a href="https://myanimelist.net/topmanga.php?_location=mal_h_m">Top Manga</a></li>
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=manga&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=manga&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1886113&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li><a href="#" class="non-link">Community</a>
+          <ul>
+            <li><a href="https://myanimelist.net/forum/?_location=mal_h_m">Forums</a></li>
+            <li><a href="https://myanimelist.net/clubs.php?_location=mal_h_m">Clubs</a></li>
+            <li><a href="https://myanimelist.net/blog.php?_location=mal_h_m">Blogs</a></li>
+            <li><a href="https://myanimelist.net/users.php?_location=mal_h_m">Users</a></li>
+            <li><a href="https://discord.gg/E2xC8ZF">Discord Chat</a></li>
+          </ul>
+        </li>
+        <li class="small2"><a href="#" class="non-link">Industry</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/news?_location=mal_h_m">News</a></li>
+            <li><a href="https://myanimelist.net/featured?_location=mal_h_m">Featured Articles</a></li>
+            <li><a href="https://myanimelist.net/people.php?_location=mal_h_m">People</a></li>
+            <li><a href="https://myanimelist.net/character.php?_location=mal_h_m">Characters</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Watch</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m">Episode Videos</a></li>
+            <li><a href="https://myanimelist.net/watch/promotion?_location=mal_h_m">Promotional Videos</a></li></ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Read</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+          </ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Help</a>
+          <ul class="wide">
+            <li><a href="https://myanimelist.net/about.php?_location=mal_h_m">About</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=support&amp;_location=mal_h_m">Support</a></li>
+            <li><a href="https://myanimelist.net/advertising?_location=mal_h_m">Advertising</a></li>
+            <li><a href="https://myanimelist.net/forum/?topicid=515949&amp;_location=mal_h_m">FAQ</a></li>
+            <li><a href="https://myanimelist.net/modules.php?go=report&amp;_location=mal_h_m">Report</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=team&amp;_location=mal_h_m">Staff</a></li><li><a href="https://myanimelist.net/membership?_location=mal_h_m">MAL Supporter</a></li>
+          </ul>
+        </li>
+        
+            
+      </ul>
+    </div>  </div><div id="contentWrapper" itemscope itemtype="http://schema.org/TVSeries"><div><div class="h1 edit-info">
+      <div class="h1-title"><div itemprop="name"><h1 class="title-name h1_bold_none"><strong>Date A Live III</strong></h1></div></div><div class="header-right">
+          <a href="https://myanimelist.net/login.php?from=%2Fanime%2F36633%2FDate_A_Live_III&amp;error=login_required" class="js-anime-edit-info-button"><i class="fa fa-pencil mr4"></i>Edit</a>
+<div id="editdiv" class="fw-n fs11">
+  <form method="GET" action="https://myanimelist.net/dbchanges.php" class="di-i">
+    <input type="hidden" name="aid" value="36633">
+    <div class="pb8">What would you like to edit?</div>
+                      <select name="t" id="t" class="inputtext"><option value="synopsis">Synopsis</option><option value="background">Background</option><option value="alternative_titles">Alternative Titles</option><option value="pic">Picture</option><option value="airingdates">Airing Dates</option><option value="producers">Producers</option><option value="relations">Relations</option><option value="rating">Rating</option><option value="duration">Duration</option><option value="source">Source</option><option value="broadcast">Broadcast</option></select>
+     &nbsp;<input type="submit" value="Go" class="inputButton flat btn-middle">
+  </form>
+</div>
+</div></div></div><div id="content" >
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+	 <td class="borderClass" width="225" style="border-width: 0 1px 0 0;" valign="top"><div style="width: 225px">
+
+<div style="text-align: center;">
+          <a href="https://myanimelist.net/anime/36633/Date_A_Live_III/pics">
+      <img class="lazyload" data-src="https://cdn.myanimelist.net/images/anime/1055/100468.jpg" alt="Date A Live III" class="ac" itemprop="image">
+    </a>
+  </div>
+
+<!-- My List -->
+<div class="profileRows pb0">
+  <a href="https://myanimelist.net/login.php?from=%2Fanime%2F36633%2FDate_A_Live_III&amp;error=login_required">Add to My List</a>
+</div>
+
+<div id="addtolist" class="addtolist-block js-anime-addtolist-block" style="display: none;">
+  <input type="hidden" id="myinfo_anime_id" value="36633">
+  <input type="hidden" id="myinfo_curstatus" value="">
+
+  <span class="notice_open_public pb4">* Your list is public by default.</span>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td class="spaceit">Status:</td>
+      <td class="spaceit">
+        <select name="myinfo_status" id="myinfo_status" class="inputtext js-anime-status-dropdown"><option value="1">Watching</option><option value="2">Completed</option><option value="3">On-Hold</option><option value="4">Dropped</option><option value="6">Plan to Watch</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td class="spaceit">Eps Seen:</td>
+      <td class="spaceit">
+        <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext" value=""> / <span id="curEps">12</span></td>
+    </tr>
+    <tr>
+      <td class="spaceit">Your Score:</td>
+      <td class="spaceit">
+        <select name="myinfo_score" id="myinfo_score" class="inputtext"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>
+                <input type="button" name="myinfo_submit" value="Add" class="inputButton btn-middle flat js-anime-add-button">
+        <span id="addtolistresult"><a href="https://myanimelist.net/ownlist/anime/add?selected_series_id=36633">Add Detailed Info</a></span>
+              </td>
+    </tr>
+  </table>
+  <div id="myinfoDisplay" style="padding-left: 89px; margin-top: 3px;"></div>
+</div>
+<!-- end My List -->
+
+<div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F36633%2FDate_A_Live_III&amp;error=login_required" style="font-weight:normal;">Add to Favorites</a></div>
+
+<div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F36633%2FDate_A_Live_III"></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F36633%2FDate_A_Live_III&amp;text=Date%20A%20Live%20III&amp;hashtags=anime"></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F36633%2FDate_A_Live_III&amp;title=Date%20A%20Live%20III"></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F36633%2FDate_A_Live_III&amp;name=Date%20A%20Live%20III"></a></div>  <br />
+
+  <h2>Alternative Titles</h2><div class="spaceit_pad">
+    <span class="dark_text">English:</span> Date A Live III
+  </div><div class="spaceit_pad">
+    <span class="dark_text">Synonyms:</span> Date A Live 3, Date A Live 3rd Season, DAL 3
+  </div><div class="spaceit_pad">
+    <span class="dark_text">Japanese:</span> デート・ア・ライブⅢ
+  </div><br />
+
+<h2>Information</h2>
+
+<div>
+  <span class="dark_text">Type:</span>
+  <a href="https://myanimelist.net/topanime.php?type=tv">TV</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Episodes:</span>
+  12
+  </div>
+
+<div>
+  <span class="dark_text">Status:</span>
+  Finished Airing
+  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Aired:</span>
+  Jan 11, 2019 to Mar 29, 2019
+  </div>
+
+  <div>
+    <span class="dark_text">Premiered:</span>
+          <a href="https://myanimelist.net/anime/season/2019/winter">Winter 2019</a>
+          </div>
+
+  <div class="spaceit">
+    <span class="dark_text">Broadcast:</span>
+    Fridays at 21:30 (JST)
+      </div>
+
+  <div>
+    <span class="dark_text">Producers:</span>
+          <a href="/anime/producer/323/Nippon_Columbia" title="Nippon Columbia">Nippon Columbia</a>,       <a href="/anime/producer/1696/Kadokawa" title="Kadokawa">Kadokawa</a>  </div>
+  <div class="spaceit">
+    <span class="dark_text">Licensors:</span>
+          <a href="/anime/producer/102/Funimation" title="Funimation">Funimation</a>  </div>
+  <div>
+    <span class="dark_text">Studios:</span>
+          <a href="/anime/producer/7/JCStaff" title="J.C.Staff">J.C.Staff</a>  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Source:</span>
+  Light novel
+  </div>
+
+<div>
+  <span class="dark_text">Genres:</span>
+      <span itemprop="genre" style="display: none">Sci-Fi</span><a href="/anime/genre/24/Sci-Fi" title="Sci-Fi">Sci-Fi</a>,     <span itemprop="genre" style="display: none">Harem</span><a href="/anime/genre/35/Harem" title="Harem">Harem</a>,     <span itemprop="genre" style="display: none">Comedy</span><a href="/anime/genre/4/Comedy" title="Comedy">Comedy</a>,     <span itemprop="genre" style="display: none">Romance</span><a href="/anime/genre/22/Romance" title="Romance">Romance</a>,     <span itemprop="genre" style="display: none">Mecha</span><a href="/anime/genre/18/Mecha" title="Mecha">Mecha</a>,     <span itemprop="genre" style="display: none">School</span><a href="/anime/genre/23/School" title="School">School</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Duration:</span>
+  24 min. per ep.
+  </div>
+
+<div>
+  <span class="dark_text">Rating:</span>
+  R - 17+ (violence &amp; profanity)
+  </div>
+
+<br />
+
+<h2>Statistics</h2>
+<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" class="po-r js-statistics-info di-ib" data-id="info1">
+  <span class="dark_text">Score:</span>
+  <span itemprop="ratingValue" class="score-label score-7">7.14</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">92168</span>92,168 users)
+      <meta itemprop="bestRating" content="10">
+    <meta itemprop="worstRating" content="1">
+      <div class="statistics-info info1">
+    <small><sup>1</sup>
+          indicates a <a href="javascript:void(0);" onclick="window.open('/info.php?go=topanime','topanime','menubar=no,scrollbars=no,status=no,width=500,height=380');">weighted score</a>.
+    </small>
+  </div>
+</div>
+<div class="spaceit po-r js-statistics-info di-ib" data-id="info2">
+  <span class="dark_text">Ranked:</span>
+  #3046<sup>2</sup>
+    <div class="statistics-info info2">
+    <small><sup>2</sup>
+    based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
+    </small>
+  </div>
+</div>
+<div>
+  <span class="dark_text">Popularity:</span>
+  #674
+</div>
+<div class="spaceit">
+  <span class="dark_text">Members:</span>
+    208,700
+</div>
+<div>
+  <span class="dark_text">Favorites:</span>
+  2,516
+</div>
+
+  <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
+          </div>
+
+</div></td><td valign="top" style="padding-left: 5px;"><div class="js-scrollfix-bottom-rel"><div style="width:728px; margin:0 auto"></div><a name="lower"></a>
+<div id="horiznav_nav" style="margin: 5px 0 10px 0;">
+  <ul style="margin-right: 0; padding-right: 0;">
+        <li><a href="https://myanimelist.net/anime/36633/Date_A_Live_III" class="horiznav_active">Details</a>
+    </li>
+        <li><a href="/anime/36633/Date_A_Live_III/video">Videos</a>
+    </li>
+        <li>      <a href="https://myanimelist.net/anime/36633/Date_A_Live_III/episode">Episodes</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36633/Date_A_Live_III/reviews">Reviews</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36633/Date_A_Live_III/userrecs">Recommendations</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36633/Date_A_Live_III/stats">Stats</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36633/Date_A_Live_III/characters">Characters &amp; Staff</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36633/Date_A_Live_III/news">News</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36633/Date_A_Live_III/forum">Forum</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36633/Date_A_Live_III/clubs">Clubs</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36633/Date_A_Live_III/pics">Pictures</a>
+    </li>
+    <li>
+      <a href="https://myanimelist.net/anime/36633/Date_A_Live_III/moreinfo">
+        More Info
+      </a>
+    </li></ul>
+</div>
+
+
+
+                    <div class="breadcrumb " itemscope itemtype="http://schema.org/BreadcrumbList"><div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/" itemprop="item"><span itemprop="name">
+              Top
+                          </span></a><meta itemprop="position" content="1"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime.php" itemprop="item"><span itemprop="name">
+              Anime
+                          </span></a><meta itemprop="position" content="2"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime/36633/Date_A_Live_III" itemprop="item"><span itemprop="name">
+              Date A Live III
+                          </span></a><meta itemprop="position" content="3"></div></div>
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="92,168 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-7">7.14</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#3046</strong></span><span class="numbers popularity">Popularity <strong>#674</strong></span><span class="numbers members">Members <strong>208,700</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2019/winter">Winter 2019</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/7/JCStaff" title="J.C.Staff">J.C.Staff</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="36633"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F36633%2FDate_A_Live_III&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+        Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="12">12</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Date%20A%20Live%20III&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime js-shop-selecter icon-shop-default" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:36633,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><div class="anime-detail-header-affiliate-dialog js-shop-selecter-dialog" style="display:none"><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Date%20A%20Live%20III&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:36633,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><a href="http://www.cdjapan.co.jp/aff/click.cgi/PytJTGW7Lok/6039/A764127/searches?q=Date+A+Live+III" class="btn-affiliate cdjapan js-shop-anime js-shop-cd-japan" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;cdjapan&quot;,&quot;id&quot;:36633,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/logo-cdjapan.png" width="118" height="25" alt="buy from CD Japan"></a><a href="http://www.shareasale.com/r.cfm?u=1384175&b=866986&m=65886&afftrack=&urllink=www.rightstufanime.com%2Fsearch%3Fkeywords%3DDate%20A%20Live%20III" class="btn-affiliate right_stuf js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;right_stuf&quot;,&quot;id&quot;:36633,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_right_stuf.png" width="118" height="25" alt="buy from Rightstuf"></a></div></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/iz_sAWpBNrI?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/iz_sAWpBNrI/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">PV</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/36633/Date_A_Live_III/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
+</div><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=36633&t=synopsis" style="font-weight: normal;">Edit</a></div><h2>Synopsis</h2></div><p itemprop="description">Shidou Itsuka carries on with his quest for Ratatoskr in finding Spirits and trying to seal their powers, all while maintaining his relationships with the ones he had already sealed. Moreover, as new Spirits appear, he must undergo more complicated trials&mdash;all to put a stop to further disasters as he discovers more about the Spirits&#039; origin.<br />
+<br />
+[Written by MAL Rewrite]<br />
+</p><div style="margin-top: 15px;"><div class="floatRightHeader"><a href="/dbchanges.php?aid=36633&t=background" style="font-weight: normal;">Edit</a></div><h2>Background</h2></div>No background information has been added to this title. Help improve our database by adding background information <a href="/dbchanges.php?aid=36633&t=background">here</a>.<br><div class="border_top" style="padding:16px 0px 0px 0px;margin:14px 0px 0px 0px;"><div style="padding: 20px 0 20px 40px; float: left; position: relative; z-index: 1;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540582" data-ad-slot="criteo_slot_1540582" id="criteo_slot_1540582"></div>
+
+      </div>
+    </div><div style="padding: 20px 40px 20px 0; float: right; position: relative;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540583" data-ad-slot="criteo_slot_1540583" id="criteo_slot_1540583"></div>
+
+      </div>
+    </div></div></td></tr><tr><td class="pb24"><br><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=36633&t=relations" style="font-weight: normal;">Edit</a></div><h2>Related Anime</h2></div><table class="anime_detail_related_anime" style="border-spacing:0px;"><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Adaptation:</td><td width="100%" class="borderClass"><a href="/manga/37523/Date_A_Live">Date A Live</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Prequel:</td><td width="100%" class="borderClass"><a href="/anime/24655/Date_A_Live_Movie__Mayuri_Judgment">Date A Live Movie: Mayuri Judgment</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Sequel:</td><td width="100%" class="borderClass"><a href="/anime/41461/Date_A_Live_IV">Date A Live IV</a></td></table><br><div><div class="floatRightHeader"><a href="/anime/36633/Date_A_Live_III/characters" style="font-weight: normal;">More characters</a></div><h2>Characters & Voice Actors</h2></div><div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/65259/Tooka_Yatogami" class="fw-n">
+            <img alt="Yatogami, Tooka" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/7/203347.jpg?s=5e5a6371f8d756f18be7ef58c12b9d70" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/7/203347.jpg?s=5e5a6371f8d756f18be7ef58c12b9d70 1x, https://cdn.myanimelist.net/r/84x124/images/characters/7/203347.jpg?s=f5c0afda3cb7b3827889b3a21316279e 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/65259/Tooka_Yatogami">Yatogami, Tooka</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/158/Marina_Inoue">Inoue, Marina</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/158/Marina_Inoue">
+                      <img alt="Inoue, Marina" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/42668.jpg?s=a6430c9a4e3ad00c38e3282eb1657618" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/42668.jpg?s=a6430c9a4e3ad00c38e3282eb1657618 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/42668.jpg?s=a853164abc0ea5dd62ff0039f05575a6 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/65263/Kotori_Itsuka" class="fw-n">
+            <img alt="Itsuka, Kotori" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/16/211505.jpg?s=53e9332b27a1194fe4c1a6de402523e3" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/16/211505.jpg?s=53e9332b27a1194fe4c1a6de402523e3 1x, https://cdn.myanimelist.net/r/84x124/images/characters/16/211505.jpg?s=240125b2e98d4fd919d0f3ecd80a19b9 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/65263/Kotori_Itsuka">Itsuka, Kotori</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/6996/Ayana_Taketatsu">Taketatsu, Ayana</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/6996/Ayana_Taketatsu">
+                      <img alt="Taketatsu, Ayana" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/54669.jpg?s=be5279ce59db05ccc9c11041b10245fc" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/54669.jpg?s=be5279ce59db05ccc9c11041b10245fc 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/54669.jpg?s=26af5664ba1c65184812cd8e0d55f1ce 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/65261/Origami_Tobiichi" class="fw-n">
+            <img alt="Tobiichi, Origami" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/3/193285.jpg?s=abfdbae89145a01df0fa23fa6729c3ec" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/3/193285.jpg?s=abfdbae89145a01df0fa23fa6729c3ec 1x, https://cdn.myanimelist.net/r/84x124/images/characters/3/193285.jpg?s=f1f5da8740bf07f9749fc9bb1eb0fa39 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/65261/Origami_Tobiichi">Tobiichi, Origami</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/8806/Misuzu_Togashi">Togashi, Misuzu</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/8806/Misuzu_Togashi">
+                      <img alt="Togashi, Misuzu" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/31689.jpg?s=d43609c21e68ea4ead503cd6d825e039" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/31689.jpg?s=d43609c21e68ea4ead503cd6d825e039 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/31689.jpg?s=9cd8f3f318654606c8b79795bab3f246 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/65257/Shidou_Itsuka" class="fw-n">
+            <img alt="Itsuka, Shidou" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/12/202607.jpg?s=3aee89013d670804f0bc0622b31e46ba" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/12/202607.jpg?s=3aee89013d670804f0bc0622b31e46ba 1x, https://cdn.myanimelist.net/r/84x124/images/characters/12/202607.jpg?s=4c646b1579ce87ed3198dbd7ae19cff6 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/65257/Shidou_Itsuka">Itsuka, Shidou</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/10989/Nobunaga_Shimazaki">Shimazaki, Nobunaga</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/10989/Nobunaga_Shimazaki">
+                      <img alt="Shimazaki, Nobunaga" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/28339.jpg?s=5a17f760b042f3a14a6cb76fb2ee1d6e" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/28339.jpg?s=5a17f760b042f3a14a6cb76fb2ee1d6e 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/28339.jpg?s=9e9fab21f0a8c24fd8471f09f6b86ec8 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/70069/Kurumi_Tokisaki" class="fw-n">
+            <img alt="Tokisaki, Kurumi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/8/310255.jpg?s=3d0fd94edfe0288fcaa29dcf74ff09e2" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/8/310255.jpg?s=3d0fd94edfe0288fcaa29dcf74ff09e2 1x, https://cdn.myanimelist.net/r/84x124/images/characters/8/310255.jpg?s=16da31c19e40fdae72e47c166d0c95f6 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/70069/Kurumi_Tokisaki">Tokisaki, Kurumi</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/126/Asami_Sanada">Sanada, Asami</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/126/Asami_Sanada">
+                      <img alt="Sanada, Asami" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/19885.jpg?s=b90a4b5049c4b7d2781dc1fb256c57ba" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/19885.jpg?s=b90a4b5049c4b7d2781dc1fb256c57ba 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/19885.jpg?s=734b3c038dac7499f67aa0db639dfd2e 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/70603/Yoshino" class="fw-n">
+            <img alt="Yoshino" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/4/215469.jpg?s=882aaf1813a750f168dfe81b45706455" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/4/215469.jpg?s=882aaf1813a750f168dfe81b45706455 1x, https://cdn.myanimelist.net/r/84x124/images/characters/4/215469.jpg?s=1a196f6a2366871a71a05131c03e4969 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/70603/Yoshino">Yoshino</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/8956/Iori_Nomizu">Nomizu, Iori</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/8956/Iori_Nomizu">
+                      <img alt="Nomizu, Iori" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/17945.jpg?s=fb85ba62200534636180697bb8ae57d8" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/17945.jpg?s=fb85ba62200534636180697bb8ae57d8 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/17945.jpg?s=14a194b1151de24b6ed4513b7a24c92f 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/84063/Miku_Izayoi" class="fw-n">
+            <img alt="Izayoi, Miku" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/16/244971.jpg?s=65b144d05471cbbc209e2c9623d734bf" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/16/244971.jpg?s=65b144d05471cbbc209e2c9623d734bf 1x, https://cdn.myanimelist.net/r/84x124/images/characters/16/244971.jpg?s=42b676abfe242700c829d7642158da02 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/84063/Miku_Izayoi">Izayoi, Miku</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/53/Minori_Chihara">Chihara, Minori</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/53/Minori_Chihara">
+                      <img alt="Chihara, Minori" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/46268.jpg?s=0c16423b7c55c3df3cf013e0e3dadaf0" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/46268.jpg?s=0c16423b7c55c3df3cf013e0e3dadaf0 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/46268.jpg?s=a4df2b8252a3715b61ae94c504abd71f 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/86647/Yuzuru_Yamai" class="fw-n">
+            <img alt="Yamai, Yuzuru" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/9/249039.jpg?s=73d02c808ea7a2a233defbadac4d3cb6" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/9/249039.jpg?s=73d02c808ea7a2a233defbadac4d3cb6 1x, https://cdn.myanimelist.net/r/84x124/images/characters/9/249039.jpg?s=2e885e6170f03ee0ec3531da22bf31a0 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/86647/Yuzuru_Yamai">Yamai, Yuzuru</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/19371/Sarah_Emi_Bridcutt">Bridcutt, Sarah Emi</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/19371/Sarah_Emi_Bridcutt">
+                      <img alt="Bridcutt, Sarah Emi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/61286.jpg?s=4dc538557aa6da835e3a5e631f655b43" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/61286.jpg?s=4dc538557aa6da835e3a5e631f655b43 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/61286.jpg?s=205400f3acffc2dea77d35d779ca601e 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/90473/Natsumi" class="fw-n">
+            <img alt="Natsumi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/6/296481.jpg?s=4b10be884cb9f06b0cae30d3054f9ccb" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/6/296481.jpg?s=4b10be884cb9f06b0cae30d3054f9ccb 1x, https://cdn.myanimelist.net/r/84x124/images/characters/6/296481.jpg?s=216be17d2a37b545cfd2f0d449c13c86 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/90473/Natsumi">Natsumi</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/45496/Ayumi_Mano">Mano, Ayumi</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/45496/Ayumi_Mano">
+                      <img alt="Mano, Ayumi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/56326.jpg?s=6be567bb351b12f47269c84d5f6e50d0" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/56326.jpg?s=6be567bb351b12f47269c84d5f6e50d0 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/56326.jpg?s=11da6d2175455f493b25986dfcf08ccc 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/86645/Kaguya_Yamai" class="fw-n">
+            <img alt="Yamai, Kaguya" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/5/249041.jpg?s=271ba62ad18d445684c30cde589a6e39" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/5/249041.jpg?s=271ba62ad18d445684c30cde589a6e39 1x, https://cdn.myanimelist.net/r/84x124/images/characters/5/249041.jpg?s=e4613150cab5960b6d25a9296f850eff 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/86645/Kaguya_Yamai">Yamai, Kaguya</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/13639/Maaya_Uchida">Uchida, Maaya</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/13639/Maaya_Uchida">
+                      <img alt="Uchida, Maaya" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/53851.jpg?s=e151c79d59020740b869f2b31852b842" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/53851.jpg?s=e151c79d59020740b869f2b31852b842 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/53851.jpg?s=99169a27097fcd488546f1d216df4844 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div></div>
+<div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div><br>
+<a name="staff"></a>
+<div>
+  <div class="floatRightHeader"><a href="https://myanimelist.net/anime/36633/Date_A_Live_III/characters#staff">More staff</a></div>
+  <h2>Staff</h2>
+</div>
+
+<div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/8143/Keitarou_Motonaga" class="fw-n">
+            <img alt="Motonaga, Keitarou" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/42923.jpg?s=1c0f57865a59efe4c6ad86e234e1db17" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/42923.jpg?s=1c0f57865a59efe4c6ad86e234e1db17 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/42923.jpg?s=ee9331436c6f44e84abcda9c5c561bea 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/8143/Keitarou_Motonaga">Motonaga, Keitarou</a>
+        <div class="spaceit_pad">
+          <small>Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/8110/Yasunori_Ebina" class="fw-n">
+            <img alt="Ebina, Yasunori" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/43008.jpg?s=917c5a96b279f6ed38cd3f10f7c73450" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/43008.jpg?s=917c5a96b279f6ed38cd3f10f7c73450 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/43008.jpg?s=a4e9972b0d384a9f560301b940c82861 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/8110/Yasunori_Ebina">Ebina, Yasunori</a>
+        <div class="spaceit_pad">
+          <small>Sound Director</small>
+        </div>
+      </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/22703/Makoto_Sokuza" class="fw-n">
+            <img alt="Sokuza, Makoto" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/22703/Makoto_Sokuza">Sokuza, Makoto</a>
+        <div class="spaceit_pad">
+          <small>Episode Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/16901/Nana_Harada" class="fw-n">
+            <img alt="Harada, Nana" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/16901/Nana_Harada">Harada, Nana</a>
+        <div class="spaceit_pad">
+          <small>Episode Director</small>
+        </div>
+      </td>
+    </tr>
+  </table></div></div>
+<br><br><div class="di-t">
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=36633&amp;t=theme" class="floatRightHeader">Edit</a>
+      <h2>Opening Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs opnening"><span class="theme-song">&quot;I swear&quot; by sweet ARMS</span><br></div>
+  </div>
+  <div class="di-tc va-t}" style="width:16px;"></div>
+
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=36633&amp;t=theme&amp;themetype=2" class="floatRightHeader">Edit</a>
+      <h2>Ending Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs ending"><span class="theme-song">&quot;Last Promise&quot; by Erii Yamazaki</span><br></div>
+  </div>
+</div>
+<br><br><br><div><span class="floatRightHeader"><a href="/anime/36633/Date_A_Live_III/reviews">More reviews</a></span><h2>Reviews</h2></div>
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="5:56 AM">Mar 29, 2019</div>
+      <div class="lightLink spaceit">
+                  12 of 12 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score304706').toggle()">Overall Rating</a>:
+        3
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Stark700">
+                  <img src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" data-src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Stark700">Stark700</a>
+              <small>(<a href="/profile/Stark700/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp304706">64</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score304706">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>3</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">3</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">3</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">3</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">3</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">3</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Why is it so damn hard to make a proper harem sequel these days? Date a Live needs no introduction as the franchise had established its principle cast from the previous seasons. All we need really is some well-crafted storytelling with clever humor and this could have been a redemption of the catastrophe known as Date a Live season 2.<br />
+<br />
+I’ll be a straightforward here. I only advise watching Date a Live Season III if you are absolutely curious about the continuation of this franchise. Regardless if you’ve read the light novel or an anime only viewer, this show requires knowledge from the previous season for
+
+          <span style="display: none;" id="review304706">
+        a watchable experience. With that being said, there’s little to really praise about the show together when you see what they’ve set on the table.<br />
+<br />
+Even before this aired, some red flags are raised regarding the technical elements of the show. The production quality from the previews seems to have taken a nose dive to hell. While the first episode made improvements compared to the online pre-air, the visual quality overall is at best be described as subpar. At worst, the third season would be a fine example of a plastic broken art piece. However, I am willing to look over this since Date a Live has never been known for its art style. It’s the standard generic harem with a cast of characters who all fall for the main protagonist eventually. The catch is that the show’s premise adheres to such genre with its dating elements.<br />
+<br />
+Date a Live III returns with the familiar formula of main protagonist Shido Itsuka as he helps to seal Spirits into his body with a kiss. The new season introduces Natsumi, the seventh spirit who actually has two forms – a child and young adult. The first few episodes has her play mind games against Shido and his friends. Similar to previous seasons, she puts Shido’s life on a rollercoaster of drama. However, I felt like the first arc became more and more idiotic with each passing episode. Let’s start with Natsumi herself. She is an attention seeker and seems to throw fits like a child would when things don’t go her way. In her adult form, she’s prone to jealousy with pride and a bit of ego. To put it simply, she’s an irritating character to deal with. It doesn’t take long for Shido to realize this either with the childish games she puts them through. By the time this arc ended, I felt nothing for Natsumi and she became yet another harem member in Shido’s collection. Except in her case, she&#039;s an annoying little bitch.<br />
+<br />
+Then, the second half of the show aired. Unlike Natsumi’s arc, the second arc adapts a more serious and emotional tone. The show takes a dive into Origami’s past while also reintroducing a popular character from the previous seasons. Oh yes, remember Origami? She’s the girl that has been trying to seduce Shido at every chance she gets. However, we see a side of Origami that people may not be used to. From this season, she shows a corrupted side of her character. She forsakes her friends while even attacking Shido as an enemy. There’s actually a more complex reason why she wants to change her past but the execution fails to live up to my expectations. Sure, there’s emotional content but the show never managed to convince me to like Origami as a character. Regardless what timeline she is in, Origami exposes the weakness of the main cast as a character who relies on others too much. In particular, Shido is someone she confides her emotions in although I never felt the two had a strong connection. Even compared to relationships with others like Tohka, she always felt like a background character. That being said, I don’t really want to devalue all the characters. The main cast returns with their mainstream personalities. While there’s not much character development, it’s still fun to watch their goofy interactions with Shido. It’s a harem after all and every girl wants their chance to be with him. The amount of witty dialogues and humor remains in the show that occasionally can draw out a few laughs. But be aware, you may quickly find most of it to be a snoozefest. <br />
+<br />
+If the third season really wanted to redeem itself, it could have taken risks to try something different. Instead, it still relied on its usual gimmicks while focusing on a character that I never put faith into. Here’s a season that I can’t recommend and it’s a real shame. Because really, I wanted Date a Live to be something more special. Instead, it came out as a garbage harem that can be best described as atrocious. 
+        
+<div id="revhelp_output_304706" class="mt8 js-review-btn-helpful js-review-helpful-304706">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F36633%2FDate_A_Live_III" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle304706"
+         class="js-toggle-review-button" data-id="304706">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=304706" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=304706" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="7:51 AM">Mar 29, 2019</div>
+      <div class="lightLink spaceit">
+                  12 of 12 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score304719').toggle()">Overall Rating</a>:
+        2
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Ryuseishun">
+                  <img src="https://cdn.myanimelist.net/images/userimages/5242474.jpg?t=1610547000" data-src="https://cdn.myanimelist.net/images/userimages/5242474.jpg?t=1610547000" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Ryuseishun">Ryuseishun</a>
+              <small>(<a href="/profile/Ryuseishun/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp304719">52</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score304719">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>2</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">2</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">1</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">3</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">3</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">1</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    I’ve never seen a sequel to a popular series so butchered since Michael Bay’s stand-alone film Transformers: Age of Extinction in 2014.<br />
+<br />
+This review is coming from someone who actually enjoyed the Date A Live series quite a bit, especially the “semi-canon” film back in 2015. So when I first heard about the series getting a third season, I was quite elated, to say the least. However, not too long after, I received the unsettling news of the original studio that handled the previous two seasons and the OVAs, Production IMS, undergoing bankruptcy and shutting down permanently, and thus the project was handed off to JC
+
+          <span style="display: none;" id="review304719">
+        Staff. At the time, the studio wasn’t exactly a hot topic of controversy or debate, so I didn’t think too much of it. Unfortunately, the issues befalling the studio have started to become more apparent in the season of Fall 2018, especially during the production of the third season of Toaru Majutsu No Index. Needless to say, regardless of whatever the financial and business reasons and so-called justifications as to why the studio is currently conducting itself as of recently, it is not a good enough excuse to brush off what has obviously has become a contagious disease known as “JC Staph Infection”.<br />
+<br />
+(May or may not have some spoilers*)<br />
+<br />
+STORY:<br />
+By now, anyone who watched or plans to watch this show should already know the common drill with how the story goes. A seemingly ordinary young man, Shido Itsuka, encounters and befriends beings called “Spirits”, and in order to stop them from wrecking havoc on Tenguu City, his home, he must make them fall in love with him and then seal their powers with a kiss. In the process, those Spirits become his best friends and allies and also part of the self-inserted harem.<br />
+<br />
+The premises of the show are quite generic but not necessarily bad at all, especially with how the previous seasons depicted certain scenes and moments as fleeting moments of emotion and beauty. However, this was absolutely not the case here with Season 3. While I try to handle animation quality and story quality separately, this is one of those cases where both seem linked to each other in a bad way. So when the animation quality dropped, so did the course and depiction of the storyline.<br />
+<br />
+The immediate problem I already have is how certain scenes shift so suddenly and without a proper sort of siegeway between them. Because of the entire lack of buildup between events and arcs, the scenes that are supposed to be the important chunks of the story…..just feel abstract and soulless. There is no sense of anything emotionally invested at all, not even with the most important arc of the season, the Tobiichi Origami arc. While I can’t really apply problems in terms of something like world-building, there are obvious plot holes and unwarranted plot devices throughout the story. While such occurrences are not exactly rare with most anime adaptations, Date A Live’s case during this particular season grew far too problematic.<br />
+For one particular example, during the Origami Arc, Shido, having travelled back to the past to try to undo the changing of history, seemingly dies in the act of protecting a younger Origami; however, the very next scene shows him alive and well in a brand new timeline. Regardless of whether the source material contained an answer or not, there seemed to be no clear-cut explanation as to why a brand new timeline was made, much less as to how Shido isn’t dead or even erased from existence due to the possible time paradox. Additionally, the rest of the Spirits somehow regain their memories from the old timeline without much consequence. The fact that the arc relied on an often mishandled plot element known as time travel can stir up unwarranted plot devices like that. Even then, if the production crew implemented genuine emotional investment into many of the events, instead of just forcing it down our throats, such “deux ex machina” foolery would be honestly easier to overlook in at least at face value.<br />
+<br />
+CHARACTERS:<br />
+Oh boy, one of my favorite parts of the review, breaking down the focused characters.’<br />
+<br />
+Since this is a sequel, I don’t think I really need to talk too much about the cast that took to the sidelines for this season. The main focus here are the two characters with the two primary arcs: Natsumi and Origami.<br />
+Natsumi, in my honest opinion, is a very unlikeable character, even when she “turned a new leaf” due to Shido’s action. She is extremely childish, and is extremely self-loathing of her original petite form. She perceives everything in a negative light, including herself. Unwilling to accept this feeling of worthlessness, she took on a more physically mature-looking form to perceive herself as the perfect image of what she wanted to be. However, she is really just wanting attention, praising, acknowledgment, and recognition. The problem is that the show fails to depict her in a way where we can have at least some sort of sympathy of her, but instead, due to aforementioned plot holes, she comes off as more of a bipolar, bratty, complaining, and nosy child that only wants to cause trouble for everyone else just because she doesn’t feel confident about the image of her true self. If someone I become associated with does something along the lines of what Natsumi did during her arc, I would kick him or her out of the house almost instantaneously. Even after she was sealed by Shido, her mischievous, annoying personality is still there…just not as willing to cause unneeded trouble now, because she simply became a bench player from then on for the next arcs like all the other characters.<br />
+<br />
+Origami is a primary character from way back in season 1 that I was able to put up with for the most part, up until her segment came up here this season. What I regret now is not immediately realizing that Origami had not gotten over her desire for revenge against the Spirits, even though she has allied with them on a number of occasions. Instead, she started having a growing, self-conceited desire to obtain more power, which caused her to join the villainous group of DEM and later on obtain a Sephira Crystal to become a Spirit herself. Her reasonings for her questionable acts are more immature and unwarranted than Shinji Ikari’s reasonings to not “get in the f***ing robot”. It became all too laughable when she finally realized that she became the very monster that she had always hated since the day she swore revenge for her parents in the old timeline. Her feelings of insecurity finally reaches a breaking point when she herself became the killer of her own parents in yet another (you guessed it) “well-played” case of time paradox. She then just literally loses all her emotions and became very much mentally dead as an Inverted Spirit. By now, all of us should realize that all of these foolery caused by her during her arc would be completely prevented if her deep-rooted naivety, glossed over by her serious looking expressions, didn’t cause to her to turn to the frigging DEM, of all groups. If she opened up her eyes more and tried to look at the bright side of things or even try to think about forgiveness seriously for once, regardless of what happened back then (which is now irrelevant due to the now changed timeline), she would’ve obtained something that would qualify as ACTUAL character development. Everything about her just felt absolutely wasted in her segment, in my personal opinion. I feel like if she did need to become a Spirit, such an event should’ve been set up with a totally different situation.<br />
+As for the other characters, I already stated before: they’re just mostly benchwarmers, saved for Kurumi. She actually contributed to the Origami Arc….by starting the whole time travel thing. Ugh, great. Well, at least she was sort of a saving grace in terms of enjoyment value if you’re a Kurumi fan.<br />
+<br />
+ART/SOUND:<br />
+From the very get-go, even with re-release of the first episode, the animation was immediately something I find hard to bear on a psychological level. In contrast to what the previous installment of the series had, the characters just feel very “off”. What I received was just a discombobulation of still frames and cheaply drawn movements that made the characters look like they’re from some goofy low-budget parody show. This bombardment of slideshows consequently downplayed numerous important scenes, including the fights, and it almost hindered the ability to drive home any sort of emotional investment for even the casual viewer. It’s almost as bad as the crapfest from the second season of TG:Re. I don’t think I really need to revisit the situation regarding JC Staff, as like I stated earlier, there’s no good enough excuse to show us such a poorly made high school project.<br />
+<br />
+As for the soundtracks, they’re not exactly bad, but pretty meh compared to the previous seasons. While it was nice to hear some of the old soundtracks, it wasn’t really enough to make us ignore how awkward the majority of the scenes are visually displayed. The voice acting here is pretty mediocre; it really feels like the seiyuus are just rushing their lines as the show zips through different scenes without much of a proper transition between them. I can only fathom how depressed they are as they realize how poor the show’s quality became while they read off from the scripts.<br />
+<br />
+ENJOYMENT:<br />
+Needless to say, watching the show felt like a chore, which made me really depressed as this was part of a series that I really enjoyed, even though it’s not a particular personal favorite. I did not want to drop this show because my mindset as a completionist kept giving me this false hope that the show will turn around. However, a part of me is resigned to the virtue I follow: “for every good or great show, try to watch at least a bad one to balance out your experience.” So I stuck with it until the end, but boy it was a pain train to behold. While I did get some sort of kick out of scenes like Natsumi trying to seduce Shido or Kurumi making her reappearance, I don’t get much else outside of the heavy shelling of my PC from the agonizing display of still frames and laughable overplayed voice acting.<br />
+<br />
+OVERALL:<br />
+Date A Live III was a tragic case of a sequel being handled by the wrong people, though it definitely isn’t the only one for sure. If you didn’t really enjoy the previous seasons for some reason, I’ll highly advise you to avoid this trash at all costs. If you’re like me and actually did enjoy the previous installments, though, prepare yourself for lots of cringe and agony as you watch a near perfect example of how to NOT handle a sequel season. Or you can just nope out and completely avoid the torture chamber that I went through.<br />
+<br />
+Needless to say, this atrocity will inevitably reflect badly on JC Staff, and while I’d hope they’ll learn from their mistakes eventually, it’ll be quite a long while until the day we stop shaking our heads in disappointment when we hear the news “JC Staff will take over for production of this show/season”.<br />
+
+        
+<div id="revhelp_output_304719" class="mt8 js-review-btn-helpful js-review-helpful-304719">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F36633%2FDate_A_Live_III" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle304719"
+         class="js-toggle-review-button" data-id="304719">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=304719" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=304719" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="6:17 AM">Mar 29, 2019</div>
+      <div class="lightLink spaceit">
+                  12 of 12 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score304710').toggle()">Overall Rating</a>:
+        5
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/KANLen09">
+                  <img src="https://cdn.myanimelist.net/images/userimages/6448140.jpg?t=1610547000" data-src="https://cdn.myanimelist.net/images/userimages/6448140.jpg?t=1610547000" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/KANLen09">KANLen09</a>
+              <small>(<a href="/profile/KANLen09/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp304710">21</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score304710">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>5</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">5</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">2</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">7</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">6</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">5</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    YES, finally after 5 years, we&#039;re seeing the light of Date A Live once again...thank you Tachibana-sensei (the author of the series)!<br />
+NO, to production woes, the J.C.Staff that could do no wrong, proceeded to trash this series! Where are you ENGI???<br />
+<br />
+I&#039;ll admit, being a long-time DAL fan ever since its inception in 2013 has its benefits and drawbacks. For one, we get a fairly generic harem story and action that was somewhat interesting and intriguing for its time, its lineup of character Spirits and the MC harem &quot;Master&quot; that is Shido Itsuki, that left us wanting for more of them ever since Season 2&#039;s end
+
+          <span style="display: none;" id="review304710">
+        in 2014. But finally, and with a very long wait, the original LN writer Koushi Tachibana has green-lit Season 3 for long-time fans like us to once again, MILK on the success that is the past 2 seasons. AND...you all saw how that fared out in 3 months. And that&#039;s a massive disappointment.<br />
+<br />
+*Spoilers be warned*<br />
+<br />
+Let&#039;s start with the story, which continues the events from past DAL series into Volumes 8 to 12 of the Light Novel: The 7th and 8th Spirits Natsumi and the resurrected Tobiichi Origami in her Spirit form, along with the (rushed and story-squished) Itsuka Disaster arc. For the majority of the series, we go through the life and happenings of the transformation queen that is Natsumi, being able to shapeshift into people with almost perfect results. And this time, Shido is left with a very daunting task of finding out Natsumi&#039;s real intentions while covering her true chibi-kid form (which makes her embarrassed and is a real pain-in-the-butt), at the expense of using Tohka and Co. and exterminating them should Shido fail to solve her puzzle. Everything totally felt like how the main series was intended to be, and that&#039;s always very welcome.<br />
+<br />
+Next, new revelations about the friend-cum-enemy Tobiichi Origami, whom for the longest time that we&#039;ve been searching her long-awaited answers since the start of Season 1: The reasoning behind her hatred for Spirits. And this arc being animated is a true taste of the &quot;how many questions&quot; we all have at the end of both seasons, finally giving us the action-solutions and resolution to Origami&#039;s antagonistic purposes, with her history being rewritten at long last, for the better. Last but not least, the Itsuka Disaster arc, where in true DAL fashion, Shido does not become the initiator, but becomes the instigated for the girls to date him! Of course, trouble ensues but as always the girls will do anything to save his life *kisses*.<br />
+<br />
+Once again, open hearts, open minds: The story is a love/hate relationship with those of us who grew up with this series, so whether you love or hate it, I respect all opinions.<br />
+<br />
+The characters, or should I mention, the NEW ones brought forth to this season: Natsumi, Origami&#039;s new Spirit form and of course the mysterious Spirit that is Phantom. Natsumi, aside from her Halloween costume, she is a force to be reckoned with, with her shapeshifting disguises into people similar being the standout that really causes a whole lot of issues. Once she is brought down to her tsundere loli form, she is pretty much like Yoshino in terms of care and sensitivity. With Origami&#039;s position this time, she is finally vindicated of her past that has her holding back for very long, siding with DEM Industries all the while until this issue is resolved. Good for you Origami! And Phantom&#039;s presence which we didn&#039;t see a lot of, that is sadly left for another time to pursue more information about her (in the future...?). Of course, Tohka and Co. still acts like their usual selves.<br />
+<br />
+The elephant in the room, you&#039;ve guessed it, is the art and animation, which by all accounts, factoring in both Season 1 and 2, is the worst looking of them all. With the relevant production studio changes (AIC Plus+ for Season 1, the recently-bankrupt Production IMS for Season 2), it&#039;s no surprise that this is an (industry-wide) issue, but honestly I didn&#039;t find the average art-animation combi to be off-putting, at least not by a mile. With J.C.Staff however, even before the anime aired, the PV and posters were the red flags that long-time fans were trashing it, saying: &quot;This isn&#039;t the DAL that I remember!&quot; And...it doesn;t get any better than this. Character models have that superifical J.C.Staff generic model, instead of the ever-so-memorable DAL aesthetics. Art and animation is decent, but action scenes were rife with mediocrity all around, with many people were complaining that this series took a turn for the worse with overall animation, and my opinions are no different. Sure, ENGI came back to help out with the production woes that J.C.Staff faced (that&#039;s evident on the episodes he worked on if you checked the ED credits), but overall, it definitely left a very sour taste in my mouth.<br />
+<br />
+Music-wise, I&#039;m very glad and happy that the all-female group &quot;sweet ARMS&quot; is back once again to deliver another stellar song, titled &quot;I Swear&quot; (by the moon and the stars and the sky...oops sorry, wrong song!). Probably out of the 3 OP songs in the series, this may just be my favourite &quot;sweet ARMS&quot; song yet, with Season 1&#039;s &quot;Date A Live&quot; in 2nd place. Such a heartwarming and cute, small action-pumping song. New and upcoming female artist Eri Yamazaki shows her new song for the ED, and it&#039;s also quite good (as expected from Shichisei no Subaru&#039;s ED song). OST wise, it&#039;s largely the same assortment of tracks from previous series to stoke nostalgia, and it works for the better.<br />
+<br />
+Production woes aside, as predictable and obvious as much as past seasons are, this is still a somewhat worthy (but worse) sequel entry to the series, with the story still holding up just as decent with many hiccups in the storytelling. But, apologies to long-time DAL fans both old and new, this isn&#039;t recommended unless it&#039;s for the story alone. Pass this up.<br />
+<br />
+Now if only there was ever a chance of a Season 4 (which is highly unlikely), we the audience highly implore the future production staff: &quot;Please get the series QC-checked first before showing it to us!&quot; 
+        
+<div id="revhelp_output_304710" class="mt8 js-review-btn-helpful js-review-helpful-304710">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F36633%2FDate_A_Live_III" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle304710"
+         class="js-toggle-review-button" data-id="304710">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=304710" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=304710" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="6:53 PM">Mar 29, 2019</div>
+      <div class="lightLink spaceit">
+                  12 of 12 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score304802').toggle()">Overall Rating</a>:
+        5
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/PyraXadon">
+                  <img src="https://cdn.myanimelist.net/images/userimages/3086139.jpg?t=1610547000" data-src="https://cdn.myanimelist.net/images/userimages/3086139.jpg?t=1610547000" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/PyraXadon">PyraXadon</a>
+              <small>(<a href="/profile/PyraXadon/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp304802">9</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score304802">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>5</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">5</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">6</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">8</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">6</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">6</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    I hope that by the time we get to volume...20 or so in the adaptation, we don&#039;t end up just going through every conceivable animation studio to make this thing.  <br />
+<br />
+Story:<br />
+<br />
+Find the spirit, date the girl, make her fall in love, seal the deal with a kiss.  Like its predecessors, Date A Live III continues the story of Itsuka Shido and the crew of the Ratatoskr as this strange boy capable of sealing the mysterious spirits finds and helps the girls, both old and new, while starting to uncover the mystery of the spirits and their origin.<br />
+<br />
+Covering roughly volumes 8-12 of the light novel, DAL III
+
+          <span style="display: none;" id="review304802">
+        arrives at roughly the point where I regard the story as expanding on the narrative and the mystery of the series by tying up a few loose ends and introducing a few new ones to further fill in the blanks.  It&#039;s by far the most interesting (and convoluted) part of the series thus far and deserves praise for just throwing itself out there despite its copy/pasted plot, which to the show&#039;s credit is a lot less &#039;Date A Live&#039; than normal given there are a lot less dates, Shido&#039;s typical &#039;harem protagonist&#039; reactions are well warranted given the absurdity of particular situations that occur around him, it&#039;s not ALL about the girls falling in love with him since their stories take more precedence, and the plot is (usually) more serious overall, especially in the latter half.<br />
+<br />
+Of course inherent flaws with the series are still existent: Shido despite being more of an active protagonist doesn&#039;t feel all that important in the long run, the series is still about the girls so the one in the spotlight takes the forefront of everything despite anything else that happens, and tonal/pacing breaks are still jarring at times with instances of the series feeling rushed or too slow depending on what&#039;s going on due to how much material is being condensed in a small timeframe.  It&#039;s the last point that particularly irks me because not enough of the plot seems to sink in enough for the audience to process what&#039;s going on before we&#039;re thrown into a dramatic fight scene without properly understanding who or what is participating at any given time.  <br />
+<br />
+Another troublesome point is the last episode.  I don&#039;t know why they decided to squeeze the entire plot of volume 12 into episode 12.  It takes at least 2-3 episodes to get through one volume, and all of this season&#039;s issues become crystal clear here where nothing feels coherent because missing context, details, and reasons to give a damn are all but non-existent.<br />
+<br />
+Overall, DAL III is a decent narrative improvement over what we were presented in previous seasons due to the length and severity of arcs given more time than usual, Shido seems to continue having agency over his actions now we&#039;re post-Miku, and the overall narrative of the series is more explored with a decent enough time dedicated to expanding on the mystery of the spirits that&#039;s yet to really be revealed.  However because of inherent series problems as well as production and time issues on J.C.&#039;s side with pacing issues rushing on parts so much of the series that really needed time to sink in, a lot of what could&#039;ve been good just isn&#039;t.<br />
+<br />
+Characters:<br />
+<br />
+Shido this time seems to stay on-character with his growth and determination to save the various spirit girls that come into his life, fervently trying his best to convince the girls at hand that he will take on their burden as cliched as that sounds.  But a lot of it feels really hollow in comparison to what we ended up with in Season 2.  Most of the time this season it feels like he&#039;s just screaming out the words without any merit behind them.  I partly blame this on the adaptation&#039;s pacing because it feels like we&#039;re skipping over A LOT of important scenes to merit Shido giving the spiel to the girls that they don&#039;t have to continue being a terror on society, which really is a shame considering one of the girls this time is someone who&#039;s been around since the BEGINNING and to have that feel less impactful makes me feel a little cheated.<br />
+<br />
+Since the series this time primarily covers the material from Natsumi Search to Tobiichi Devil, the featured girls this time is the 7th spirit, Natsumi, and Origami, which thanks to poster arts and several promotional material, arrives (finally) as the 8th spirit.<br />
+<br />
+Nicknamed &#039;Witch&#039;, Natsumi continues the chain of &#039;unconventional&#039; captures where her story and involvement of the series mixes up the formula due to her aloof qualities and conflicting nature, sporting a confident facade that masks how little she thinks of herself, which really shows how this series can portray these personal issues of the girls and put them in a good limelight.  If they get the time that is.  Because pacing is such a major issue this season, Natsumi&#039;s issues don&#039;t feel as fleshed out over the course of the time she&#039;s given and ultimately feels contrived in the end because her arc ended up being a lot shorter than I expected, especially with the whole climax of it seemingly coming out of fucking nowhere since not enough time was devoted to really showing off what&#039;s happening in the background.<br />
+<br />
+Instead, most of the season&#039;s runtime is devoted to Origami, who has quite possibly the most expansive and interesting arc the series has had thus far.  Becoming the things she hates, learning the truth of the death of her parents, Shido&#039;s resolve to save his stalker, all culminating in a final scene where everyone bands together to cull the sadness and loneliness from this girl&#039;s life?  Origami honestly just feels like she&#039;s going through the motions of her story without BEING her story.  It&#039;s the disconnect of character vs. plot that makes what&#039;s happening to her feel a lot less genuine than I expected.  Now that&#039;s not to say it&#039;s all bad, as the latter half of her arc definitely lived up to some of my expectations, but the way it started felt so rocky and half baked that I actually wondered if I was even watching the same series because it just didn&#039;t click in the way I wanted it to.<br />
+<br />
+The rest of the cast from all of the other girls to all of the side characters more or less fall to the wayside as the structure of DAL is NOT kind to anyone that isn&#039;t Shido or the 10 or so girls he&#039;s got attached to his hip.  A shame too considering this is supposed to really be the point where antagonistic motivation starts arising from the depths, and we don&#039;t really get enough of that beyond one or two instances that happens in the middle of the series.  I was honestly expecting it to happen a few more times, but...I guess that&#039;s happening in DAL IV.  If that&#039;s even happening.<br />
+<br />
+Aesthetics:<br />
+<br />
+Going from AIC+ to Production IMS, DAL now finds its new home in J.C. Staff (since everyone else basically crashed and burned) which compared to the other two looks the worst out of the three!  While the series still has the feel of Tsunako&#039;s original artstyle, the colors this time are a LOT more dull and don&#039;t have enough of light in any aspect of the color scheme to compare to what was achieved from the other two seasons.  This issue also extends to the way the characters are drawn as model irregularities are semi-common and there&#039;s apparent stiffness with the characters as they literally stand in place with a few mouth flaps to ensure the characters are talking rather than anything natural to make them seem more in tune with the environment, which is made even more apparent with models of the cast in distance shots appearing a lot worse than previous seasons.<br />
+<br />
+In addition to that, the overall quality of the animation feels like it suffered a lot due to how little movement or any kind of dynamic fighting that occurs this season, much less enough particle effects to make the series really stand out since there aren&#039;t as many &#039;spirit&#039; effects, flashy sword slashes, or what have you to fill in the action requirement of the show.<br />
+<br />
+Thankfully though, there is one consistent factor that stays with DAL, hopefully till the day the adaptation dies because they&#039;re probably contractually obligated to do so since two of their members are VAs for the show.  Once again, the OP &quot;I Swear&quot; is sung by Sweet Arms, and is quite possibly my favorite of all three of the OPs (four if you count the movie) that they&#039;ve done.  The tone and energy of the song resonates well with the tone of the series, which is made even better when the lyrics literally spell out what happens in the second half better than what what we see happen in the second half.  Conversely Erii Yamazaki&#039;s &quot;Last Promise&quot; just isn&#039;t as good in comparison.  Compared to &quot;Day to Story&quot; in Season 2, this ED just doesn&#039;t really do it for me, which is a shame because I really wanted to know how they were gonna top that amazing ED.<br />
+<br />
+Thankfully the show still has the same OST as it had back in DAL II, so for that I&#039;m also thankful considering just how good that OST is and how well it actually increases the severity of any situation despite whatever&#039;s happening not seeming all that dire.<br />
+<br />
+Final Thoughts:<br />
+<br />
+J.C. staff is like that communal trash can that the industry seems to be defaulting to whenever a series license is begging to get made but no one else is willing to take the dive.  (Happened to High Score Girl too.)  I have been waiting years, years for this season to come out because we were finally, FINALLY getting to the start of the &#039;endgame&#039; where the series would start focusing on more serious narratives, and the stories of the girls would start to getting more interesting and in a sense, completely shave off the &#039;Date&#039; part of the series&#039;s title.  As DAL is quite possibly my favorite series, I am ultimately very disappointed with what J.C. Staff ended up doing to season 3.<br />
+<br />
+It doesn&#039;t feel like very much effort was put into this adaptation.  Natsumi and Origami seemed to really have their arcs sped through for the sake of &#039;getting it done&#039;, Shido feels like he had the potential to be a much better protagonist than he ultimately ended up becoming, and why in the hell did you people think that producing &#039;Itsuka Disaster&#039; alongside some of the largest arcs in the entire story of the light novel up to this point was a great idea?!  Seriously, that shit was so sped up I feel like even one more episode could&#039;ve made that entire thing so much better.  J.C. Staff&#039;s track record has always been pretty spotty, so seeing DAL essentially lose the coin flip was extremely disheartening, made even worse now that since AIC+ and Production IMS are bankrupt and basically no longer exist, J.C. Staff will most likely be the permanent home of this series, and if this season is any indication, I am NOT looking forward to the future.<br />
+<br />
+Honestly, even for DAL fans, I don&#039;t particularly think that this adaptation is even worth watching.  Season 2 is starting to seem like the cutting point where the adaptation is worth watching, and the rest of the series should just be experienced in the original source material.  Koushi Tachibana certainly isn&#039;t an amazing LN author given some of the questionable material that&#039;s present in DAL, but experiencing the series as it was originally shown is definitely an upgrade to J.C. Staff&#039;s half baked attempt at adapting it.
+        
+<div id="revhelp_output_304802" class="mt8 js-review-btn-helpful js-review-helpful-304802">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F36633%2FDate_A_Live_III" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle304802"
+         class="js-toggle-review-button" data-id="304802">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=304802" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=304802" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+<div class="mt4"></div><div class="amazon-ads anime-manga-detail bottom pt20 pb16">
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "animedetail-20";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Buy on Amazon.com ";
+amzn_assoc_default_search_phrase = "Date A Live III";
+amzn_assoc_default_category = "DVD";
+amzn_assoc_linkid = "d33d41183eb8aee6216ffe9ff44ca735";
+amzn_assoc_rows = "1";
+amzn_assoc_search_bar_position = "bottom";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+</div>            <div class="mal-ad-unit" data-ad-width="801" data-ad-height="633">
+        <div id="taboola-below-article-thumbnails-anime"></div> <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'alternating-thumbnails-a',
+    container: 'taboola-below-article-thumbnails-anime',
+    placement: 'Below Article Thumbnails Anime',
+    target_type: 'mix'
+  });
+</script>
+
+      </div>
+    <br><div><div class="floatRightHeader"><a href="/anime/36633/Date_A_Live_III/news">More news</a></div><h2>Recent News</h2></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/59512740" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1586104969-d54feffe05776c04877366f25c849700.jpeg?s=b97fde8b74ba428413335c9a4beeea10" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1586104969-d54feffe05776c04877366f25c849700.jpeg?s=b97fde8b74ba428413335c9a4beeea10 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1586104969-d54feffe05776c04877366f25c849700.jpeg?s=48604ad91cee4e8e8dfa9833472d85ad 2x" alt="North American Anime &amp; Manga Releases for April" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/59512740"><strong>North American Anime &amp; Manga Releases for April</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p>Here are the North American anime &amp; manga releases for April Week 1: April 7 - 13 Anime Releases After War Gundam X Collection 1 Blu-ray Animegataris Complete Co...<a href="/news/59512740">read more</a></p></div>
+		<p class="lightLink spaceit">Apr 5, 2020 10:06 AM by <a href="/profile/ImperfectBlue">ImperfectBlue</a> | <a href="/forum/?topicid=1833116">Discuss (0 comments)</a></p></div>
+		<div class="borderClass"></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/59356490" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1584364143-7222e9d556a5352b8313aed4641d084f.jpeg?s=6012d6fdcf2f286fd2f9d20cca48eb7a" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1584364143-7222e9d556a5352b8313aed4641d084f.jpeg?s=6012d6fdcf2f286fd2f9d20cca48eb7a 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1584364143-7222e9d556a5352b8313aed4641d084f.jpeg?s=6fd710cce69f97b13b840a9717357eaf 2x" alt="Fourth &#039;Date A Live&#039; Anime Season Announced" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/59356490"><strong>Fourth &#039;Date A Live&#039; Anime Season Announced</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p> Kadokawa opened an official website for a fourth anime season for Koushi Tachibana&#039;s Date A Live light novel series on Sunday. The new season will air under th...<a href="/news/59356490">read more</a></p></div>
+		<p class="lightLink spaceit">Mar 16, 2020 6:13 AM by <a href="/profile/Vindstot">Vindstot</a> | <a href="/forum/?topicid=1829435">Discuss (46 comments)</a></p></div>
+		<div class="borderClass"></div><br><div><div class="floatRightHeader"><a href="/forum/?animeid=36633"><a href="/anime/36633/Date_A_Live_III/forum">More discussions</a></div><h2>Recent Forum Discussion</h2></div><div class="page-forum">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F36633%2FDate_A_Live_III&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1774519">Date A Live Ⅲ Episode 12 Discussion</a> <small> ( <a href="/forum/?topicid=1774519&show=0">1</a> <a href="/forum/?topicid=1774519&show=50">2</a> <a href="/forum/?topicid=1774519&show=100">3</a> <a href="/forum/?topicid=1774519&show=150">4</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Mar 29, 2019</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">151 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/LadyLeeMing">LadyLeeMing</a> <a href="/forum/?topicid=1774519&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Dec 23, 2020 3:39 PM</td>
+            </tr>
+            <tr id="topicRow2">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F36633%2FDate_A_Live_III&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1773159">Date A Live Ⅲ Episode 11 Discussion</a> <small> ( <a href="/forum/?topicid=1773159&show=0">1</a> <a href="/forum/?topicid=1773159&show=50">2</a> <a href="/forum/?topicid=1773159&show=100">3</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Mar 22, 2019</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">105 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/FMmatron">FMmatron</a> <a href="/forum/?topicid=1773159&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Nov 10, 2020 12:05 PM</td>
+            </tr>
+            </table></div><div style="padding:16px 0px 0px 0px;"><div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div></div><br><div>
+            <div class="floatRightHeader"><a href="/anime/36633/Date_A_Live_III/userrecs">More recommendations</a></div>
+            <h2>Recommendations
+            </h2></div>  <div class=""><div class="anime-slide-block" id="anime_recommendation" data-json='{"width":800,"btnWidth":40,"margin":8}'><div class="btn-anime-slide-side left"><span class="btn-inner"></span></div><div class="btn-anime-slide-side right"><span class="btn-inner"></span></div><div class="anime-slide-outer" style="height:140px;"><ul class="anime-slide js-anime-slide" data-slide="8"><li class="btn-anime" style="width:90px" title="Toaru Majutsu no Index III"><a href="https://myanimelist.net/recommendations/anime/36432-36633" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Toaru Majutsu no Index III</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1583/93857.jpg?s=4bddded377ed34332ded38c899483333" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1583/93857.jpg?s=4bddded377ed34332ded38c899483333 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1583/93857.jpg?s=7e2bc6a7a94b6c68b5d108b2fe297129 2x" width="90" height="140" class="image lazyload" alt="Toaru Majutsu no Index III" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Rokka no Yuusha"><a href="https://myanimelist.net/recommendations/anime/28497-36633" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Rokka no Yuusha</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/9/74374.jpg?s=2bd80fe9f86a1a9b2810a521e3202554" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/9/74374.jpg?s=2bd80fe9f86a1a9b2810a521e3202554 1x,https://cdn.myanimelist.net/r/180x280/images/anime/9/74374.jpg?s=2806ced4729ed69d5396677cbe7bf3de 2x" width="90" height="140" class="image lazyload" alt="Rokka no Yuusha" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Natsume Yuujinchou Go"><a href="https://myanimelist.net/anime/32983/Natsume_Yuujinchou_Go?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Natsume Yuujinchou Go</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/11/81755.jpg?s=01ce064dc49ca021dbf19b653d204c22" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/11/81755.jpg?s=01ce064dc49ca021dbf19b653d204c22 1x,https://cdn.myanimelist.net/r/180x280/images/anime/11/81755.jpg?s=f48b2c4a3621632c03cdde0623072081 2x" width="90" height="140" class="image lazyload" alt="Natsume Yuujinchou Go" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Natsume Yuujinchou San"><a href="https://myanimelist.net/anime/10379/Natsume_Yuujinchou_San?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Natsume Yuujinchou San</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/8/82394.jpg?s=63b5bd799811986cded10b918d68b775" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/8/82394.jpg?s=63b5bd799811986cded10b918d68b775 1x,https://cdn.myanimelist.net/r/180x280/images/anime/8/82394.jpg?s=aafa18397122d86aa5299515a9fafe12 2x" width="90" height="140" class="image lazyload" alt="Natsume Yuujinchou San" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Haikyuu!!: To the Top 2nd Season"><a href="https://myanimelist.net/anime/40776/Haikyuu__To_the_Top_2nd_Season?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Haikyuu!!: To the Top 2nd Season</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1453/106768.jpg?s=8564e403d6506ba4fc636080be9bbd35" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1453/106768.jpg?s=8564e403d6506ba4fc636080be9bbd35 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1453/106768.jpg?s=cd768ade2803dbe7e99b2c6d6be34238 2x" width="90" height="140" class="image lazyload" alt="Haikyuu!!: To the Top 2nd Season" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Fate/stay night Movie: Heaven&#039;s Feel - II. Lost Butterfly"><a href="https://myanimelist.net/anime/33049/Fate_stay_night_Movie__Heavens_Feel_-_II_Lost_Butterfly?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Fate/stay night Movie: Heaven&#039;s Feel - II. Lost Butterfly</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1974/98158.jpg?s=92b5bf4625a4f74ce8efa001aedaf92d" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1974/98158.jpg?s=92b5bf4625a4f74ce8efa001aedaf92d 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1974/98158.jpg?s=f7bb50179d27f9e060f0b1d51dc3c0fa 2x" width="90" height="140" class="image lazyload" alt="Fate/stay night Movie: Heaven&#039;s Feel - II. Lost Butterfly" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Fruits Basket 2nd Season"><a href="https://myanimelist.net/anime/40417/Fruits_Basket_2nd_Season?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Fruits Basket 2nd Season</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1486/106692.jpg?s=46784625c0b1b94a5860aae496d952d2" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1486/106692.jpg?s=46784625c0b1b94a5860aae496d952d2 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1486/106692.jpg?s=d5329348312609254191dccbc38bac1c 2x" width="90" height="140" class="image lazyload" alt="Fruits Basket 2nd Season" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Kizumonogatari II: Nekketsu-hen"><a href="https://myanimelist.net/anime/31757/Kizumonogatari_II__Nekketsu-hen?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kizumonogatari II: Nekketsu-hen</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/8/80930.jpg?s=a398d7adbbba007948d8edd0a1c72ac2" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/8/80930.jpg?s=a398d7adbbba007948d8edd0a1c72ac2 1x,https://cdn.myanimelist.net/r/180x280/images/anime/8/80930.jpg?s=5cba838c5c956f2a6f7f8523e3ecaa49 2x" width="90" height="140" class="image lazyload" alt="Kizumonogatari II: Nekketsu-hen" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="One Punch Man"><a href="https://myanimelist.net/anime/30276/One_Punch_Man?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">One Punch Man</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/76049.jpg?s=7996680313e9884e2ecdd1bf6c042e78" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/76049.jpg?s=7996680313e9884e2ecdd1bf6c042e78 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/76049.jpg?s=d560865fb58c77de3c8d490b300f6680 2x" width="90" height="140" class="image lazyload" alt="One Punch Man" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Kimetsu no Yaiba"><a href="https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kimetsu no Yaiba</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1286/99889.jpg?s=b866831b109fac7cf6d971d49c2b6198" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1286/99889.jpg?s=b866831b109fac7cf6d971d49c2b6198 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1286/99889.jpg?s=3aeb6b6fc9db88b07d62eb304f43036c 2x" width="90" height="140" class="image lazyload" alt="Kimetsu no Yaiba" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Bakuman. 3rd Season"><a href="https://myanimelist.net/anime/12365/Bakuman_3rd_Season?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Bakuman. 3rd Season</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/6/41845.jpg?s=341e03b338f0c29ebaad1f7106e2160f" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/6/41845.jpg?s=341e03b338f0c29ebaad1f7106e2160f 1x,https://cdn.myanimelist.net/r/180x280/images/anime/6/41845.jpg?s=c6a8259ac503a87429206818166c12d1 2x" width="90" height="140" class="image lazyload" alt="Bakuman. 3rd Season" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Yuru Camp△ Season 2"><a href="https://myanimelist.net/anime/38474/Yuru_Camp△_Season_2?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Yuru Camp△ Season 2</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1255/110636.jpg?s=eeb5c29b4222fcd01eb8b4e45ca757f8" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1255/110636.jpg?s=eeb5c29b4222fcd01eb8b4e45ca757f8 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1255/110636.jpg?s=de77f23ad35ee497b76f6435ed43ba8e 2x" width="90" height="140" class="image lazyload" alt="Yuru Camp△ Season 2" border="0" ></a></li></ul></div></div></div>
+    </td>
+    </tr>
+    </table>
+    </div>  <div class="mauto clearfix pt24" style="width:760px;">
+    <div class="fl-l">
+      </div>
+      <div class="fl-r">
+      </div>
+    </div>
+
+</td>
+</tr>
+</table>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js" data-pin-hover="true"></script></div><!-- end of contentHome -->
+</div><!-- end of contentWrapper -->
+
+
+            
+  
+
+
+            
+  
+
+  <script>
+    $(document).ready(function() {
+      $(window).scroll(function() {
+        var cHeight = $("#myanimelist").height();
+        $("div[data-ad-sticky='manual']").each(function (i, o) {
+          var aHeight = $(o).height();
+          var aTop = $(o).parent().offset().top;
+          if (window.pageYOffset >= (cHeight - aHeight)) {
+            $(o).css("top", ((cHeight - aHeight) - window.pageYOffset) + "px");
+          } else if (window.pageYOffset >= aTop) {
+            $(o).addClass("sticky");
+            $(o).css("top", "");
+          } else {
+            $(o).removeClass("sticky");
+          }
+        });
+      });
+    });
+  </script>
+
+<!--  control container height -->
+<div style="clear:both;"></div>
+
+<!-- end rightbody -->
+
+</div><!-- wrapper -->
+
+
+    <div id="ad-skin-bg-right" class="ad-skin-side-outer ad-skin-side-bg bg-right">
+    <div id="ad-skin-right" class="ad-skin-side right" style="display: none;">
+      <div id="ad-skin-right-absolute-block">
+        <div id="ad-skin-right-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+</div><!-- #myanimelist -->
+
+
+<div class="footer-ranking">
+  <div class="ranking-container">
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php" class="view_more fl-r">More</a>Top Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Fullmetal Alchemist: Brotherhood</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011">Hunter x Hunter (2011)</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php?type=airing" class="view_more fl-r">More</a>Top Airing Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/42203/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season_Part_2">Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/42897/Horimiya">Horimiya</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/38474/Yuru_Camp△_Season_2">Yuru Camp△ Season 2</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/character.php" class="view_more fl-r">More</a>Most Popular Characters
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/character/417/Lelouch_Lamperouge">Lamperouge, Lelouch</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/character/45627/Levi">Levi</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/character/80/Light_Yagami">Yagami, Light</a>
+            </li>
+                  </ol>
+      </div>
+      </div>
+</div>
+<footer>
+  <div id="footer-block">
+    <div class="footer-link-block">
+      <p class="footer-link home di-ib">
+        <a href="https://myanimelist.net/">Home</a>
+      </p>
+      <p class="footer-link di-ib">
+        <a href="https://myanimelist.net/about.php">About</a>
+        <a href="https://myanimelist.net/pressroom">Press Room</a>
+        <a href="https://myanimelist.net/about.php?go=contact">Support</a>
+        <a href="https://myanimelist.net/advertising">Advertising</a>
+        <a href="https://myanimelist.net/forum/?topicid=515949">FAQ</a>
+        <a href="https://myanimelist.net/about/terms_of_use">Terms</a>
+        <a href="https://myanimelist.net/about/privacy_policy">Privacy</a>
+        <a href="#/" class="cmp-gdpr-only">Privacy Settings</a>
+        <a href="#/" class="cmp-ccpa-only">Do Not Sell My Personal Information</a>
+        <a href="https://myanimelist.net/about/cookie_policy">Cookie</a>
+        <a href="https://myanimelist.net/about/notice_at_collection">Notice at Collection</a>
+        <a href="https://myanimelist.net/about/sitemap">Sitemap</a>
+      </p>
+            <p class="footer-link login di-ib">
+        <a href="https://myanimelist.net/login.php?from=%2Fanime%2F36633%2FDate_A_Live_III" id="malLogin" rel="nofollow">Login</a>
+        <a href="https://myanimelist.net/register.php?from=%2Fanime%2F36633%2FDate_A_Live_III">Sign Up</a>
+      </p>
+          </div>
+
+    
+    <div class="banner-footer-anime-streaming">
+      <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+    </div>
+
+        <div class="footer-link-icon-block">
+            <div class="footer-social-media ac">
+        <a target="_blank" class="icon-sns icon-fb di-ib" href="https://www.facebook.com/OfficialMyAnimeList" rel="noreferrer"></a>
+        <a target="_blank" class="icon-sns icon-tw di-ib" title="Follow @myanimelist on Twitter" href="https://twitter.com/myanimelist" rel="noreferrer"></a></div>
+            <div class="footer-recommended ac">
+        <a target="_blank" class="icon-recommended icon-tokyo-otaku-mode" href="http://otakumode.com/fb/5aO" rel="noopener">Tokyo Otaku Mode</a>
+        <a target="_blank" class="icon-recommended icon-honeys-anime" href="https://honeysanime.com" rel="noopener">Honey's Anime</a>
+        <a target="_blank" class="icon-recommended icon-manga-store" href="https://myanimelist.net/store?_location=mal_f_m">Manga Store</a>
+      </div>
+    </div>
+
+    <div class="footer-fb">
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+      <div class="footer-fb-item">
+                <iframe class="fb-page" src="" width="450" height="154" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+      </div>
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+    </div>
+        
+    <div id="copyright">
+      MyAnimeList.net is a property of MyAnimeList Co.,Ltd. &copy;2021 All Rights Reserved.
+    </div>
+  </div>
+</footer>
+
+<script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+
+<script async>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga')
+
+  ga('create', 'UA-369102-1', 'auto')
+  ga('set', 'anonymizeIp', true)
+  ga('require', 'linkid') // Enhanced Link Attribution
+    ga('set', 'dimension1', 'guest')
+    ga('send', 'pageview')
+</script>   <script>
+window.onscroll = function(e){
+    const scrollThreshold = 50;
+    if (window.pageYOffset >= scrollThreshold) {
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            let t_height = ad.offsetHeight;
+            let offsetY = ad.getBoundingClientRect().top;
+            let screenHeight = window.outerHeight;
+            let t_position = offsetY - screenHeight;
+            if(-screenHeight<=(t_position　+　t_height) && t_position<0) {
+                ad.className = 'ad-tag';
+                (deployads = window.deployads || []).push({});
+            }
+        });
+    }
+}
+var timer = 0;
+window.onresize = function(e){
+    if (timer > 0) {
+        clearTimeout(timer);
+    }
+
+    timer = setTimeout(function () {
+        console.log('window resized');
+        [].forEach.call(document.querySelectorAll('.ad-tag'), function(ad) {
+            ad.className = 'no-ad';
+            (deployads = window.deployads || []).push({});
+        });
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            ad.className = 'ad-tag';
+            (deployads = window.deployads || []).push({});
+        });
+    }, 200);
+}
+</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WL4QW3G');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+var path = location.pathname;
+var param = location.search;
+
+dataLayer = dataLayer || [];
+
+// login.php
+
+function ga_notlogin(){
+  ga('send', 'event', 'not_login', '2.未ログインの場合', '/login.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=1');
+}
+
+function ga_sns(){
+  ga('send', 'event', 'sns_login', '2-1-1.ソーシャルログインの場合', '/login.php?login-mode=social&c-ms-mode=1');
+}
+
+function ga_login(){
+  ga('send', 'event', 'id_login', '2-1-2.IDログインの場合', '/login.php?login-mode=id&c-ms-mode=1');
+}
+
+// register.php
+
+function ga_registration(){
+  ga('send', 'event', 'registration', '2-2.会員登録ボタン', '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=2');
+}
+
+if ( path.match("register.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2F&c-ms-mode=2',
+        'member_title': '2-2-1.会員情報入力完了',
+        'event': 'loadready-register'
+    });
+}
+
+if ( path.match("login.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': path.concat(param, "&c-ms-mode=2"),
+        'member_title': '2-2-1.メールからの会員認証ページ',
+        'event': 'loadready-login'
+    });
+}
+
+// membership
+
+function ga_mal_banner(){
+  ga('send', 'event', 'support_mal', '2-3.MALバナー', '/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner&c-ms-mode=3');
+}
+
+if ( path.match("login.php") && param.match("from=%2F") ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=3',
+        'member_title': '2-2.会員登録ボタン',
+        'event': 'loadready-login'
+    });
+}
+
+function ga_credit(){
+  ga('send', 'event', 'support_mal', '3-1-1.クレカ登録', '/member-register?c-ms_payment=1&c-ms_mode=3');
+}
+
+function ga_paypal(){
+  ga('send', 'event', 'support_mal', '3-1-2.Paypal登録', '/member-register?c-ms_payment=2&c-ms_mode=3');
+}
+
+if ( path.match("account/membership/complete") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/member-register-complete?c-ms_payment=2&c-ms_mode=3',
+        'member_title': '3-1-2.MAL会員登録成功',
+        'event': 'loadready-member-register-complete'
+    });
+}
+
+</script>
+<script type="text/javascript">
+    window.MAL.magia = "06410c4e6b2518e9add8f6df0ccb2da2876bb8c980aacb43a8dcaa8153c0f92c";
+  window.MAL.madoka = "hZrDKm9k6FVRnqd3i%=K";
+
+  window.MAL.SLVK = "g4OvMLVOmEI3J8u7dt8f8+mAuualsqCo";
+  window.MAL.CDN_URL = "https://cdn.myanimelist.net";
+
+  window.MAL.CURRENT_TUTORIAL_STEP_ID = null;
+  window.MAL.USER_NAME = ""
+  window.MAL.FACEBOOK.APP_ID = "360769957454434"
+  window.MAL.FACEBOOK.API_VERSION = "v2.12"
+</script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+                    <script type="text/javascript">
+          window._taboola = window._taboola || [];
+          _taboola.push({flush: true});
+        </script>
+    </body>
+</html>

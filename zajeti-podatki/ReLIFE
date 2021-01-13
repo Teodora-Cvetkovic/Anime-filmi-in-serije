@@ -1,0 +1,1731 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    
+<link rel="preconnect" href="//fonts.gstatic.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//fonts.googleapis.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tags-cdn.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagservices.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagmanager.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//apis.google.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel-sync.sitescout.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel.tapad.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//c.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tpc.googlesyndication.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//googleads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="//securepubads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="https://cdn.myanimelist.net" crossorigin="anonymous" />
+
+
+<title>
+ReLIFE - MyAnimeList.net
+</title>
+<meta name="description" content="Looking for information on the anime ReLIFE? Find out more with MyAnimeList, the world&#039;s most active online anime and manga community and database. Dismissed as a hopeless loser by those around him, 27-year-old Arata Kaizaki bounces around from one job to another after quitting his first company. His unremarkable existence takes a sharp turn when he meets Ryou Yoake, a member of the ReLife Research Institute, who offers Arata the opportunity to change his life for the better with the help of a m..." />
+
+  
+<meta name="keywords" content="anime, myanimelist, anime news, manga" />
+  
+
+
+    <meta property="og:locale" content="en_US"><meta property="fb:app_id" content="360769957454434"><meta property="og:site_name" content="MyAnimeList.net"><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@myanimelist"><meta property="og:title" content="ReLIFE"><meta property="og:type" content="video.tv_show"><meta property="og:image" content="https://cdn.myanimelist.net/images/anime/3/82149.jpg"><meta name="twitter:image:src" content="https://cdn.myanimelist.net/r/360x360/images/anime/3/82149.jpg?s=7b5ee731f42f4c7a309ec526bf51076d"><meta property="og:url" content="https://myanimelist.net/anime/30015/ReLIFE"><meta property="og:description" content="Dismissed as a hopeless loser by those around him, 27-year-old Arata Kaizaki bounces around from one job to another after quitting his first company. His unremarkable existence takes a sharp turn when he meets Ryou Yoake, a member of the ReLife Research Institute, who offers Arata the opportunity to change his life for the better with the help of a mysterious pill. Taking it without a second thought, Arata awakens the next day to find that his appearance has reverted to that of a 17-year-old. Arata soon learns that he is now the subject of a unique experiment and must attend high school as a transfer student for one year. Though he initially believes it will be a cinch due to his superior life experience, Arata is proven horribly wrong on his first day: he flunks all his tests, is completely out of shape, and can&#039;t keep up with the new school policies that have cropped up in the last 10 years. Furthermore, Ryou has been assigned to observe him, bringing Arata endless annoyance. ReLIFE follows Arata&#039;s struggle to adjust to his hectic new lifestyle and avoid repeating his past mistakes, all while slowly discovering more about his fellow classmates. [Written by MAL Rewrite]">
+
+
+<meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
+
+<meta name='csrf_token' content='10f49e9edc68e45c09d91c7d32d4d71bade68f1b'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
+<meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" />
+
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" href="https://myanimelist.net/plugins/myanimelist.xml" title="MyAnimeList" />
+
+<link rel="shortcut icon" href="https://cdn.myanimelist.net/images/favicon.ico" />
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+      <script src="//tags-cdn.deployads.com/a/myanimelist.net.js" async="async"></script>
+            <script async="async" type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script>
+$(document).ready(function(){
+  window.Criteo = window.Criteo || {};
+  window.Criteo.events = window.Criteo.events || [];
+  $('.ad-criteo').each(function(){
+    var slotid = $(this).attr('data-ad-slot');
+    var zoneid = $(this).attr('data-ad-zone');
+    var CriteoAdUnits = {"placements":[{"slotid":slotid, "zoneid":zoneid}]};
+    var processCdbBid = function(){
+      var bids = Criteo.GetBidsForAdUnit(slotid);
+      if(bids.length > 0){
+        Criteo.RenderAd({bidId:bids[0].id, containerId:bids[0].impressionId});
+      }
+    };
+    Criteo.events.push(function(){Criteo.RequestBids(CriteoAdUnits, processCdbBid, 2000);});
+  });
+});
+</script>
+
+
+
+            <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/myanimelist/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>    
+</head>
+
+<body onload=" " class="page-common"data-ms="true" data-country-code="SI" >
+<div id="myanimelist">
+
+    
+  
+    <script type='text/javascript'>
+    window.MAL.SkinAd.prepareForSkin('');
+  </script>
+
+    <div id="ad-skin-bg-left" class="ad-skin-side-outer ad-skin-side-bg bg-left">
+    <div id="ad-skin-left" class="ad-skin-side left" style="display: none;">
+      <div id="ad-skin-left-absolute-block">
+        <div id="ad-skin-left-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
+    <script>(deployads = window.deployads || []).pageSegment = 'anime_title_30015';</script>
+
+
+<script>
+    var trackOutboundLink = function(url) {
+        ga('send', 'event', 'outbound', 'click', url, {
+            'transport': 'beacon',
+            'hitCallback': function(){return true;}
+        });
+    }
+</script><div class="banner-header-anime-straming" style="right:480px;">
+  <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+</div>
+
+
+<div id="header-menu" ><div class="header-menu-login"><a class="btn-mal-service"
+             href="https://myanimelist.net/membership?_location=mal_h_u" onClick="ga_mal_banner()">Hide Ads</a><a class="btn-login" href="https://myanimelist.net/login.php?from=%2Fanime%2F30015%2FReLIFE" id="malLogin" onClick="ga_notlogin()">Login</a><a class="btn-signup" href="https://myanimelist.net/register.php?from=%2Fanime%2F30015%2FReLIFE" onClick="ga_registration()">Sign Up</a></div></div></div>  <div id="menu" class="">
+    <div id="menu_right"><script type="text/x-template" id="incremental-result-item-anime"><div class="list anime" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info anime"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Aired: ${ item.payload.aired }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info anime"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-manga"><div class="list manga" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info manga"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Published: ${ item.payload.published }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info manga"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-character"><div class="list character" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div><div class="extra-info"><ul class="related-works"><li v-for="work in item.payload.related_works" class="fs-i">- ${ work }</li></ul>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-person"><div class="list person" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.alternative_name">${ item.payload.alternative_name }<br></span>Birthday: ${ item.payload.birthday }<br>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-store"><div class="list store" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info store"></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info store"></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-club"><div class="list club" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div><div class="extra-info">Members: ${ item.payload.members }<br>Category: ${ item.payload.category }<br>Created by: ${ item.payload.created_by }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-user"><div class="list user" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.authority">${ item.payload.authority }<br></span>Joined: ${ item.payload.joined }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-news"><div class="list news" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-featured"><div class="list featured" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-forum"><div class="list forum" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="extra-info">${ item.payload.date }<br><span>in ${ item.payload.category }</span></div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-separator"><div class="list separator"><div class="separator"><span v-show="item.name == 'anime'">Anime</span><span v-show="item.name == 'manga'">Manga</span><span v-show="item.name == 'character'">Characters</span><span v-show="item.name == 'person'">People</span></div></div></script><div id="top-search-bar"><form id="searchBar" method="get" class="searchBar" @submit.prevent="jump()"><div class="form-select-outer fl-l"><select name="type" id="topSearchValue" class="inputtext" v-model="type"><option value="all">All</option><option value="anime">Anime</option><option value="manga">Manga</option><option value="character">Characters</option><option value="person">People</option><option value="store">Manga Store</option><option value="news">News</option><option value="featured">Featured Articles</option><option value="forum">Forum</option><option value="club">Clubs</option><option value="user">Users</option></select></div><input v-model="keyword" id="topSearchText" type="text"
+            name="keyword" class="inputtext fl-l" placeholder="Search Anime, Manga, and more..."
+            size="30" autocomplete="off"
+            @keydown.up.prevent="moveSelection(-1)" @keydown.down.prevent="moveSelection(1)"
+            @focus="isFocused = true" @blur="isFocused = false"><input id="topSearchButon" class="fl-l" :class="{'notActive': (keyword.length < 3)}" type="submit" value="&#xf002"></form><div id="topSearchResultList" class="incrementalSearchResultList" :style="{display: (showResult ? 'block' : 'none')}" @mousedown.prevent=""><div v-for="(item, i) in items" @mouseover="selection=i"><component :is="resolveComponent(item)" :item="item" :focus="selection == i" :url="generateItemPageUrl(item)"></component></div><div class="list list-bottom" :class="{'focus': selection == -1}" @mouseover="selection = -1"
+               :style="{display: (showViewAllLink ? 'block' : 'none')}"><a :href="resultPageUrl">
+              View all results for <span class="fw-b">${ keyword }</span><i v-show="isRequesting" class="fa fa-spinner fa-spin ml4"></i></a></div></div></div></div><div id="menu_left">
+      <ul id="nav">
+        <li class="small"><a href="#" class="non-link">Anime</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/anime.php?_location=mal_h_m">Anime Search</a></li>
+            <li><a href="https://myanimelist.net/topanime.php?_location=mal_h_m">Top Anime</a></li>
+            <li><a href="https://myanimelist.net/anime/season?_location=mal_h_m">Seasonal Anime</a></li>
+                        <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m_a">Videos</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=anime&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=anime&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1885985&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Manga</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/manga.php?_location=mal_h_m">Manga Search</a></li>
+            <li><a href="https://myanimelist.net/topmanga.php?_location=mal_h_m">Top Manga</a></li>
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=manga&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=manga&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1886113&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li><a href="#" class="non-link">Community</a>
+          <ul>
+            <li><a href="https://myanimelist.net/forum/?_location=mal_h_m">Forums</a></li>
+            <li><a href="https://myanimelist.net/clubs.php?_location=mal_h_m">Clubs</a></li>
+            <li><a href="https://myanimelist.net/blog.php?_location=mal_h_m">Blogs</a></li>
+            <li><a href="https://myanimelist.net/users.php?_location=mal_h_m">Users</a></li>
+            <li><a href="https://discord.gg/E2xC8ZF">Discord Chat</a></li>
+          </ul>
+        </li>
+        <li class="small2"><a href="#" class="non-link">Industry</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/news?_location=mal_h_m">News</a></li>
+            <li><a href="https://myanimelist.net/featured?_location=mal_h_m">Featured Articles</a></li>
+            <li><a href="https://myanimelist.net/people.php?_location=mal_h_m">People</a></li>
+            <li><a href="https://myanimelist.net/character.php?_location=mal_h_m">Characters</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Watch</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m">Episode Videos</a></li>
+            <li><a href="https://myanimelist.net/watch/promotion?_location=mal_h_m">Promotional Videos</a></li></ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Read</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+          </ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Help</a>
+          <ul class="wide">
+            <li><a href="https://myanimelist.net/about.php?_location=mal_h_m">About</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=support&amp;_location=mal_h_m">Support</a></li>
+            <li><a href="https://myanimelist.net/advertising?_location=mal_h_m">Advertising</a></li>
+            <li><a href="https://myanimelist.net/forum/?topicid=515949&amp;_location=mal_h_m">FAQ</a></li>
+            <li><a href="https://myanimelist.net/modules.php?go=report&amp;_location=mal_h_m">Report</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=team&amp;_location=mal_h_m">Staff</a></li><li><a href="https://myanimelist.net/membership?_location=mal_h_m">MAL Supporter</a></li>
+          </ul>
+        </li>
+        
+            
+      </ul>
+    </div>  </div><div id="contentWrapper" itemscope itemtype="http://schema.org/TVSeries"><div><div class="h1 edit-info">
+      <div class="h1-title"><div itemprop="name"><h1 class="title-name h1_bold_none"><strong>ReLIFE</strong></h1></div></div><div class="header-right">
+          <a href="https://myanimelist.net/login.php?from=%2Fanime%2F30015%2FReLIFE&amp;error=login_required" class="js-anime-edit-info-button"><i class="fa fa-pencil mr4"></i>Edit</a>
+<div id="editdiv" class="fw-n fs11">
+  <form method="GET" action="https://myanimelist.net/dbchanges.php" class="di-i">
+    <input type="hidden" name="aid" value="30015">
+    <div class="pb8">What would you like to edit?</div>
+                      <select name="t" id="t" class="inputtext"><option value="synopsis">Synopsis</option><option value="background">Background</option><option value="alternative_titles">Alternative Titles</option><option value="pic">Picture</option><option value="airingdates">Airing Dates</option><option value="producers">Producers</option><option value="relations">Relations</option><option value="rating">Rating</option><option value="duration">Duration</option><option value="source">Source</option><option value="broadcast">Broadcast</option></select>
+     &nbsp;<input type="submit" value="Go" class="inputButton flat btn-middle">
+  </form>
+</div>
+</div></div></div><div id="content" >
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+	 <td class="borderClass" width="225" style="border-width: 0 1px 0 0;" valign="top"><div style="width: 225px">
+
+<div style="text-align: center;">
+          <a href="https://myanimelist.net/anime/30015/ReLIFE/pics">
+      <img class="lazyload" data-src="https://cdn.myanimelist.net/images/anime/3/82149.jpg" alt="ReLIFE" class="ac" itemprop="image">
+    </a>
+  </div>
+
+<!-- My List -->
+<div class="profileRows pb0">
+  <a href="https://myanimelist.net/login.php?from=%2Fanime%2F30015%2FReLIFE&amp;error=login_required">Add to My List</a>
+</div>
+
+<div id="addtolist" class="addtolist-block js-anime-addtolist-block" style="display: none;">
+  <input type="hidden" id="myinfo_anime_id" value="30015">
+  <input type="hidden" id="myinfo_curstatus" value="">
+
+  <span class="notice_open_public pb4">* Your list is public by default.</span>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td class="spaceit">Status:</td>
+      <td class="spaceit">
+        <select name="myinfo_status" id="myinfo_status" class="inputtext js-anime-status-dropdown"><option value="1">Watching</option><option value="2">Completed</option><option value="3">On-Hold</option><option value="4">Dropped</option><option selected="selected" value="6">Plan to Watch</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td class="spaceit">Eps Seen:</td>
+      <td class="spaceit">
+        <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext" value="0"> / <span id="curEps">13</span></td>
+    </tr>
+    <tr>
+      <td class="spaceit">Your Score:</td>
+      <td class="spaceit">
+        <select name="myinfo_score" id="myinfo_score" class="inputtext"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>
+                <input type="button" name="myinfo_submit" value="Add" class="inputButton btn-middle flat js-anime-add-button">
+        <span id="addtolistresult"><a href="https://myanimelist.net/ownlist/anime/add?selected_series_id=30015">Add Detailed Info</a></span>
+              </td>
+    </tr>
+  </table>
+  <div id="myinfoDisplay" style="padding-left: 89px; margin-top: 3px;"></div>
+</div>
+<!-- end My List -->
+
+<div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F30015%2FReLIFE&amp;error=login_required" style="font-weight:normal;">Add to Favorites</a></div>
+
+<div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F30015%2FReLIFE"></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F30015%2FReLIFE&amp;text=ReLIFE&amp;hashtags=anime"></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F30015%2FReLIFE&amp;title=ReLIFE"></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F30015%2FReLIFE&amp;name=ReLIFE"></a></div>  <br />
+
+  <h2>Alternative Titles</h2><div class="spaceit_pad">
+    <span class="dark_text">English:</span> ReLIFE
+  </div><div class="spaceit_pad">
+    <span class="dark_text">Synonyms:</span> Re LIFE
+  </div><div class="spaceit_pad">
+    <span class="dark_text">Japanese:</span> ReLIFE
+  </div><br />
+
+<h2>Information</h2>
+
+<div>
+  <span class="dark_text">Type:</span>
+  <a href="https://myanimelist.net/topanime.php?type=tv">TV</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Episodes:</span>
+  13
+  </div>
+
+<div>
+  <span class="dark_text">Status:</span>
+  Finished Airing
+  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Aired:</span>
+  Jul 2, 2016 to Sep 24, 2016
+  </div>
+
+  <div>
+    <span class="dark_text">Premiered:</span>
+          <a href="https://myanimelist.net/anime/season/2016/summer">Summer 2016</a>
+          </div>
+
+  <div class="spaceit">
+    <span class="dark_text">Broadcast:</span>
+    Saturdays at 00:00 (JST)
+      </div>
+
+  <div>
+    <span class="dark_text">Producers:</span>
+          <a href="/anime/producer/17/Aniplex" title="Aniplex">Aniplex</a>,       <a href="/anime/producer/213/Half_HP_Studio" title="Half H.P Studio">Half H.P Studio</a>,       <a href="/anime/producer/1481/comico" title="comico">comico</a>,       <a href="/anime/producer/1488/Hakuhodo_DY_Media_Partners" title="Hakuhodo DY Media Partners">Hakuhodo DY Media Partners</a>,       <a href="/anime/producer/1496/Lawson" title="Lawson">Lawson</a>,       <a href="/anime/producer/1497/C___I_entertainment" title="C &amp; I entertainment">C &amp; I entertainment</a>,       <a href="/anime/producer/2174/TMS_Music" title="TMS Music">TMS Music</a>  </div>
+  <div class="spaceit">
+    <span class="dark_text">Licensors:</span>
+          <a href="/anime/producer/102/Funimation" title="Funimation">Funimation</a>,       <a href="/anime/producer/1468/Crunchyroll" title="Crunchyroll">Crunchyroll</a>  </div>
+  <div>
+    <span class="dark_text">Studios:</span>
+          <a href="/anime/producer/73/TMS_Entertainment" title="TMS Entertainment">TMS Entertainment</a>  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Source:</span>
+  Web manga
+  </div>
+
+<div>
+  <span class="dark_text">Genres:</span>
+      <span itemprop="genre" style="display: none">Slice of Life</span><a href="/anime/genre/36/Slice_of_Life" title="Slice of Life">Slice of Life</a>,     <span itemprop="genre" style="display: none">Romance</span><a href="/anime/genre/22/Romance" title="Romance">Romance</a>,     <span itemprop="genre" style="display: none">School</span><a href="/anime/genre/23/School" title="School">School</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Duration:</span>
+  23 min. per ep.
+  </div>
+
+<div>
+  <span class="dark_text">Rating:</span>
+  PG-13 - Teens 13 or older
+  </div>
+
+<br />
+
+<h2>Statistics</h2>
+<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" class="po-r js-statistics-info di-ib" data-id="info1">
+  <span class="dark_text">Score:</span>
+  <span itemprop="ratingValue" class="score-label score-8">8.04</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">379525</span>379,525 users)
+      <meta itemprop="bestRating" content="10">
+    <meta itemprop="worstRating" content="1">
+      <div class="statistics-info info1">
+    <small><sup>1</sup>
+          indicates a <a href="javascript:void(0);" onclick="window.open('/info.php?go=topanime','topanime','menubar=no,scrollbars=no,status=no,width=500,height=380');">weighted score</a>.
+    </small>
+  </div>
+</div>
+<div class="spaceit po-r js-statistics-info di-ib" data-id="info2">
+  <span class="dark_text">Ranked:</span>
+  #490<sup>2</sup>
+    <div class="statistics-info info2">
+    <small><sup>2</sup>
+    based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
+    </small>
+  </div>
+</div>
+<div>
+  <span class="dark_text">Popularity:</span>
+  #125
+</div>
+<div class="spaceit">
+  <span class="dark_text">Members:</span>
+    687,002
+</div>
+<div>
+  <span class="dark_text">Favorites:</span>
+  7,306
+</div>
+
+  <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
+          </div>
+
+</div></td><td valign="top" style="padding-left: 5px;"><div class="js-scrollfix-bottom-rel"><div style="width:728px; margin:0 auto"></div><a name="lower"></a>
+<div id="horiznav_nav" style="margin: 5px 0 10px 0;">
+  <ul style="margin-right: 0; padding-right: 0;">
+        <li><a href="https://myanimelist.net/anime/30015/ReLIFE" class="horiznav_active">Details</a>
+    </li>
+        <li><a href="/anime/30015/ReLIFE/video">Videos</a>
+    </li>
+        <li>      <a href="https://myanimelist.net/anime/30015/ReLIFE/episode">Episodes</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/30015/ReLIFE/reviews">Reviews</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/30015/ReLIFE/userrecs">Recommendations</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/30015/ReLIFE/stats">Stats</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/30015/ReLIFE/characters">Characters &amp; Staff</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/30015/ReLIFE/news">News</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/30015/ReLIFE/forum">Forum</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/30015/ReLIFE/featured">Featured</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/30015/ReLIFE/clubs">Clubs</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/30015/ReLIFE/pics">Pictures</a>
+    </li>
+    <li>
+      <a href="https://myanimelist.net/anime/30015/ReLIFE/moreinfo">
+        More Info
+      </a>
+    </li></ul>
+</div>
+
+
+
+                    <div class="breadcrumb " itemscope itemtype="http://schema.org/BreadcrumbList"><div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/" itemprop="item"><span itemprop="name">
+              Top
+                          </span></a><meta itemprop="position" content="1"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime.php" itemprop="item"><span itemprop="name">
+              Anime
+                          </span></a><meta itemprop="position" content="2"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime/30015/ReLIFE" itemprop="item"><span itemprop="name">
+              ReLIFE
+                          </span></a><meta itemprop="position" content="3"></div></div>
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="379,525 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.04</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#490</strong></span><span class="numbers popularity">Popularity <strong>#125</strong></span><span class="numbers members">Members <strong>687,002</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2016/summer">Summer 2016</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/73/TMS_Entertainment" title="TMS Entertainment">TMS Entertainment</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="30015"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F30015%2FReLIFE&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+        Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="13">13</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=ReLIFE&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime js-shop-selecter icon-shop-default" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:30015,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><div class="anime-detail-header-affiliate-dialog js-shop-selecter-dialog" style="display:none"><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=ReLIFE&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:30015,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><a href="http://www.cdjapan.co.jp/aff/click.cgi/PytJTGW7Lok/6039/A764127/searches?q=ReLIFE" class="btn-affiliate cdjapan js-shop-anime js-shop-cd-japan" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;cdjapan&quot;,&quot;id&quot;:30015,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/logo-cdjapan.png" width="118" height="25" alt="buy from CD Japan"></a><a href="http://www.shareasale.com/r.cfm?u=1384175&b=866986&m=65886&afftrack=&urllink=www.rightstufanime.com%2Fsearch%3Fkeywords%3DReLIFE" class="btn-affiliate right_stuf js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;right_stuf&quot;,&quot;id&quot;:30015,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_right_stuf.png" width="118" height="25" alt="buy from Rightstuf"></a></div></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/fZCgXuxMAZY?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/fZCgXuxMAZY/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">PV 2</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/30015/ReLIFE/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
+</div><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=30015&t=synopsis" style="font-weight: normal;">Edit</a></div><h2>Synopsis</h2></div><p itemprop="description">Dismissed as a hopeless loser by those around him, 27-year-old Arata Kaizaki bounces around from one job to another after quitting his first company. His unremarkable existence takes a sharp turn when he meets Ryou Yoake, a member of the ReLife Research Institute, who offers Arata the opportunity to change his life for the better with the help of a mysterious pill. Taking it without a second thought, Arata awakens the next day to find that his appearance has reverted to that of a 17-year-old.<br />
+<br />
+Arata soon learns that he is now the subject of a unique experiment and must attend high school as a transfer student for one year. Though he initially believes it will be a cinch due to his superior life experience, Arata is proven horribly wrong on his first day: he flunks all his tests, is completely out of shape, and can&#039;t keep up with the new school policies that have cropped up in the last 10 years. Furthermore, Ryou has been assigned to observe him, bringing Arata endless annoyance. <i>ReLIFE</i> follows Arata&#039;s struggle to adjust to his hectic new lifestyle and avoid repeating his past mistakes, all while slowly discovering more about his fellow classmates.<br />
+<br />
+[Written by MAL Rewrite]</p><div style="margin-top: 15px;"><div class="floatRightHeader"><a href="/dbchanges.php?aid=30015&t=background" style="font-weight: normal;">Edit</a></div><h2>Background</h2></div>No background information has been added to this title. Help improve our database by adding background information <a href="/dbchanges.php?aid=30015&t=background">here</a>.<br><div style="margin-top: 15px;"><div class="floatRightHeader"><a href="/anime/30015/ReLIFE/video">More Videos</a></div><h2>Episode Videos</h2></div><div class="anime-slide-block" id="episode_video" data-json='{"width":800,"btnWidth":40,"margin":8}' style="height:129px;"><div class="btn-anime-slide-side left"><span class="btn-inner"></span></div><div class="btn-anime-slide-side right"><span class="btn-inner"></span></div><div class="anime-slide-outer"><ul class="anime-slide js-anime-slide" data-slide="4"><li class="btn-anime" style="width:194px;"><a href="https://myanimelist.net/anime/30015/ReLIFE/episode/13" class="link" style="background-image:url('https://img1.ak.crunchyroll.com/i/spire1-tmb/7844792436df0ee8b4209de354d3838d1467311923_large.jpg');width:194px;height:129px;"><span class="title pb8" style="width:184px;">
+            Episode 13<span class=" ml4"></span></span></a></li><li class="btn-anime" style="width:194px;"><a href="https://myanimelist.net/anime/30015/ReLIFE/episode/12" class="link" style="background-image:url('https://img1.ak.crunchyroll.com/i/spire3-tmb/51f11e1d68d6f14b4b7e40ec917a8dc21467311949_large.jpg');width:194px;height:129px;"><span class="title pb8" style="width:184px;">
+            Episode 12<span class=" ml4"></span></span></a></li><li class="btn-anime" style="width:194px;"><a href="https://myanimelist.net/anime/30015/ReLIFE/episode/11" class="link" style="background-image:url('https://img1.ak.crunchyroll.com/i/spire4-tmb/c63291fcfd207a628efbd0ed82d5f4e41467311907_large.jpg');width:194px;height:129px;"><span class="title pb8" style="width:184px;">
+            Episode 11<span class=" ml4"></span></span></a></li><li class="btn-anime" style="width:194px;"><a href="https://myanimelist.net/anime/30015/ReLIFE/episode/10" class="link" style="background-image:url('https://img1.ak.crunchyroll.com/i/spire1-tmb/599b0189f46a6646f91e3ad6d2f7b8581467160159_large.jpg');width:194px;height:129px;"><span class="title pb8" style="width:184px;">
+            Episode 10<span class=" ml4"></span></span></a></li></ul></div></div><div class="border_top" style="padding:16px 0px 0px 0px;margin:14px 0px 0px 0px;"><div style="padding: 20px 0 20px 40px; float: left; position: relative; z-index: 1;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540582" data-ad-slot="criteo_slot_1540582" id="criteo_slot_1540582"></div>
+
+      </div>
+    </div><div style="padding: 20px 40px 20px 0; float: right; position: relative;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540583" data-ad-slot="criteo_slot_1540583" id="criteo_slot_1540583"></div>
+
+      </div>
+    </div></div></td></tr><tr><td class="pb24"><br><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=30015&t=relations" style="font-weight: normal;">Edit</a></div><h2>Related Anime</h2></div><table class="anime_detail_related_anime" style="border-spacing:0px;"><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Adaptation:</td><td width="100%" class="borderClass"><a href="/manga/78523/ReLIFE">ReLIFE</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Sequel:</td><td width="100%" class="borderClass"><a href="/anime/35466/ReLIFE__Kanketsu-hen">ReLIFE: Kanketsu-hen</a></td></table><br><div><div class="floatRightHeader"><a href="/anime/30015/ReLIFE/characters" style="font-weight: normal;">More characters</a></div><h2>Characters & Voice Actors</h2></div><div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/127643/Chizuru_Hishiro" class="fw-n">
+            <img alt="Hishiro, Chizuru" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/13/299671.jpg?s=70cdd3822bced6090bd75a8bd936289e" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/13/299671.jpg?s=70cdd3822bced6090bd75a8bd936289e 1x, https://cdn.myanimelist.net/r/84x124/images/characters/13/299671.jpg?s=abb1e4d27ff3dff0369c58ca9f2081fd 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/127643/Chizuru_Hishiro">Hishiro, Chizuru</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/10765/Ai_Kayano">Kayano, Ai</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/10765/Ai_Kayano">
+                      <img alt="Kayano, Ai" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/60503.jpg?s=272504a79a03c8fa03a0183b3d9da8b4" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/60503.jpg?s=272504a79a03c8fa03a0183b3d9da8b4 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/60503.jpg?s=b1371788f4d13244785963117cde2712 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/123703/Arata_Kaizaki" class="fw-n">
+            <img alt="Kaizaki, Arata" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/16/299672.jpg?s=ed643cebc3662e48e1bdf32149b1d6c9" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/16/299672.jpg?s=ed643cebc3662e48e1bdf32149b1d6c9 1x, https://cdn.myanimelist.net/r/84x124/images/characters/16/299672.jpg?s=665930d5744232ee64080cc4fc1cb2b4 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/123703/Arata_Kaizaki">Kaizaki, Arata</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/819/Kensho_Ono">Ono, Kensho</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/819/Kensho_Ono">
+                      <img alt="Ono, Kensho" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/61244.jpg?s=6d807fe4d5affb6b245cbd8932d54bcf" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/61244.jpg?s=6d807fe4d5affb6b245cbd8932d54bcf 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/61244.jpg?s=014244980f38ce39dc344145c8a81bb2 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/127638/An_Onoya" class="fw-n">
+            <img alt="Onoya, An" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/12/299673.jpg?s=4778b9fa2b65266f95635fdcdb507ae1" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/12/299673.jpg?s=4778b9fa2b65266f95635fdcdb507ae1 1x, https://cdn.myanimelist.net/r/84x124/images/characters/12/299673.jpg?s=d6b1a7f5dd830a4165a09e959fbb3e11 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/127638/An_Onoya">Onoya, An</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/26063/Reina_Ueda">Ueda, Reina</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/26063/Reina_Ueda">
+                      <img alt="Ueda, Reina" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/56327.jpg?s=7c418da509345f77af4fed19257cc850" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/56327.jpg?s=7c418da509345f77af4fed19257cc850 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/56327.jpg?s=58086ab20491f14464501abd7ae22cda 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/127875/Rena_Kariu" class="fw-n">
+            <img alt="Kariu, Rena" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/10/299679.jpg?s=d4bc491cf25a837edc4b9cede4440e2d" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/10/299679.jpg?s=d4bc491cf25a837edc4b9cede4440e2d 1x, https://cdn.myanimelist.net/r/84x124/images/characters/10/299679.jpg?s=db9dea5c665e57bb6e4017db4cd2d7c6 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/127875/Rena_Kariu">Kariu, Rena</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/890/Haruka_Tomatsu">Tomatsu, Haruka</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/890/Haruka_Tomatsu">
+                      <img alt="Tomatsu, Haruka" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54591.jpg?s=59d98cf69807cb64edf914f860d8eee5" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54591.jpg?s=59d98cf69807cb64edf914f860d8eee5 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/54591.jpg?s=eee76be461d2ab216314b548eb1d5264 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/127640/Kazuomi_Ooga" class="fw-n">
+            <img alt="Ooga, Kazuomi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/14/302069.jpg?s=4ec5c9ae37143d725be10575cb99f79f" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/14/302069.jpg?s=4ec5c9ae37143d725be10575cb99f79f 1x, https://cdn.myanimelist.net/r/84x124/images/characters/14/302069.jpg?s=efbce1e3b948a2e9fdc54b161158e6e2 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/127640/Kazuomi_Ooga">Ooga, Kazuomi</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/33995/Yuuma_Uchida">Uchida, Yuuma</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/33995/Yuuma_Uchida">
+                      <img alt="Uchida, Yuuma" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/60806.jpg?s=59360d95614260807e8b9ba44ba3fdc0" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/60806.jpg?s=59360d95614260807e8b9ba44ba3fdc0 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/60806.jpg?s=87e169e02d3cb1b9b7b778e3d8782860 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/128210/Ryou_Yoake" class="fw-n">
+            <img alt="Yoake, Ryou" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/5/299674.jpg?s=dc22437b09aaaf9e13f761598e6a08ef" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/5/299674.jpg?s=dc22437b09aaaf9e13f761598e6a08ef 1x, https://cdn.myanimelist.net/r/84x124/images/characters/5/299674.jpg?s=ddf2137bcb5cf52856a1cfd94ba057d1 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/128210/Ryou_Yoake">Yoake, Ryou</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/1762/Ryouhei_Kimura">Kimura, Ryouhei</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/1762/Ryouhei_Kimura">
+                      <img alt="Kimura, Ryouhei" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/56754.jpg?s=81ffdf99524a0bb6ffeaa93dbed59411" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/56754.jpg?s=81ffdf99524a0bb6ffeaa93dbed59411 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/56754.jpg?s=f86c7dc59693bf508c68505566a44be0 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/129685/Akira_Inukai" class="fw-n">
+            <img alt="Inukai, Akira" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/2/284115.jpg?s=c2032f65bbeef4b041ac02814bc30aab" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/2/284115.jpg?s=c2032f65bbeef4b041ac02814bc30aab 1x, https://cdn.myanimelist.net/r/84x124/images/characters/2/284115.jpg?s=0a8a00cbe104a0a1f958b06116d19c3f 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/129685/Akira_Inukai">Inukai, Akira</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/16/Noriaki_Sugiyama">Sugiyama, Noriaki</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/16/Noriaki_Sugiyama">
+                      <img alt="Sugiyama, Noriaki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/44267.jpg?s=ea60df670e8cd49f7751cd84b18f5e13" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/44267.jpg?s=ea60df670e8cd49f7751cd84b18f5e13 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/44267.jpg?s=4eeb4bae397de870385170b5f5123767 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/129266/Honoka_Tamarai" class="fw-n">
+            <img alt="Tamarai, Honoka" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/8/299680.jpg?s=9d5a5b2a0f9eeaee28b51257bff0075a" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/8/299680.jpg?s=9d5a5b2a0f9eeaee28b51257bff0075a 1x, https://cdn.myanimelist.net/r/84x124/images/characters/8/299680.jpg?s=097f0a571a761ba08d5b883855e3fe52 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/129266/Honoka_Tamarai">Tamarai, Honoka</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/28921/Himika_Akaneya">Akaneya, Himika</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/28921/Himika_Akaneya">
+                      <img alt="Akaneya, Himika" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/45691.jpg?s=5ed33867b1777f671a08d978efd01639" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/45691.jpg?s=5ed33867b1777f671a08d978efd01639 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/45691.jpg?s=b49cdbfd817ed10602ab78af1004f327 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/127639/Kokoro_Amatsu" class="fw-n">
+            <img alt="Amatsu, Kokoro" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/9/280529.jpg?s=09f367e15f997360ebc69f23555d1dd8" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/9/280529.jpg?s=09f367e15f997360ebc69f23555d1dd8 1x, https://cdn.myanimelist.net/r/84x124/images/characters/9/280529.jpg?s=7c8932100cb1ce4049704c64c16eb830 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/127639/Kokoro_Amatsu">Amatsu, Kokoro</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/99/Miyuki_Sawashiro">Sawashiro, Miyuki</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/99/Miyuki_Sawashiro">
+                      <img alt="Sawashiro, Miyuki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/54600.jpg?s=0a5cb995dd9e0413e62d82f887329c43" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/54600.jpg?s=0a5cb995dd9e0413e62d82f887329c43 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/54600.jpg?s=a371b7e7c1cab3eaf0454fecdf92e876 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/129885/Sumire_Inukai" class="fw-n">
+            <img alt="Inukai, Sumire" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/4/284487.jpg?s=527b6caddd46ed09b082f175c0b33270" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/4/284487.jpg?s=527b6caddd46ed09b082f175c0b33270 1x, https://cdn.myanimelist.net/r/84x124/images/characters/4/284487.jpg?s=d479bd2981fb1b3ae001248a00bae6ee 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/129885/Sumire_Inukai">Inukai, Sumire</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/348/Ryouko_Shiraishi">Shiraishi, Ryouko</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/348/Ryouko_Shiraishi">
+                      <img alt="Shiraishi, Ryouko" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/26923.jpg?s=f1ddd87c9021fa4cb0ac3dc28961d2b5" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/26923.jpg?s=f1ddd87c9021fa4cb0ac3dc28961d2b5 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/26923.jpg?s=dffc4130b57b116a681dd525355ef820 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div></div>
+<div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div><br>
+<a name="staff"></a>
+<div>
+  <div class="floatRightHeader"><a href="https://myanimelist.net/anime/30015/ReLIFE/characters#staff">More staff</a></div>
+  <h2>Staff</h2>
+</div>
+
+<div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/40849/Satoru_Kosaka" class="fw-n">
+            <img alt="Kosaka, Satoru" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/40849/Satoru_Kosaka">Kosaka, Satoru</a>
+        <div class="spaceit_pad">
+          <small>Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/30689/Shouji_Hata" class="fw-n">
+            <img alt="Hata, Shouji" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/53577.jpg?s=eb641b65c1465e6013c2b842a0103ae0" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/53577.jpg?s=eb641b65c1465e6013c2b842a0103ae0 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/53577.jpg?s=160d51d6fa5ae054450e4b1445aabe1e 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/30689/Shouji_Hata">Hata, Shouji</a>
+        <div class="spaceit_pad">
+          <small>Sound Director</small>
+        </div>
+      </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/50397/Takashi_Sano" class="fw-n">
+            <img alt="Sano, Takashi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/50397/Takashi_Sano">Sano, Takashi</a>
+        <div class="spaceit_pad">
+          <small>Storyboard</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/5252/LArcenCiel" class="fw-n">
+            <img alt="L&#039;Arc~en~Ciel" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/8812.jpg?s=81ecc4c4e977155c7756949bb449e918" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/8812.jpg?s=81ecc4c4e977155c7756949bb449e918 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/8812.jpg?s=1838777dd403a32b4f0dfdb504514bcf 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/5252/LArcenCiel">L&#039;Arc~en~Ciel</a>
+        <div class="spaceit_pad">
+          <small>Theme Song Performance</small>
+        </div>
+      </td>
+    </tr>
+  </table></div></div>
+<br><br><div class="di-t">
+  <div class="di-tc va-t borderDark pb4" style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=30015&amp;t=theme" class="floatRightHeader">Edit</a>
+      <h2>Opening Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs opnening"><span class="theme-song">&quot;Button&quot; by PENGUIN RESEARCH</span><br></div>
+  </div>
+  <div class="di-tc va-t}" style="width:16px;"></div>
+
+  <div class="di-tc va-t borderDark pb4" style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=30015&amp;t=theme&amp;themetype=2" class="floatRightHeader">Edit</a>
+      <h2>Ending Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs ending"><span class="theme-song">#01: &quot;Iijuu★Rider (イ―ジュ－★ライダー)&quot; by Tamio Okuda (ep 1)</span><br><span class="theme-song">#02: &quot;HOT LIMIT&quot; by T.M.Revolution (ep 2)</span><br><span class="theme-song">#03: &quot;Timing (タイミング)&quot; by BLACK BISCUITS (ep 3)</span><br><span class="theme-song">#04: &quot;HONEY&quot; by L&#039;Arc~en~Ciel (ep 4)</span><br><span class="theme-song">#05: &quot;Kore ga Watashi no Ikiru Michi (これが私の生きる道)&quot; by PUFFY (ep 5)</span><br><span class="theme-song">#06: &quot;Sunny Day Sunday&quot; by Sentimental Bus (ep 6)</span><br><span class="theme-song">#07: &quot;Saudade (サウダージ)&quot; by Porno Graffitti (ep 7)</span><br><span class="theme-song">#08: &quot;Yuki no Hana (雪の華)&quot; by Mika Nakashima (ep 8)</span><br><span class="theme-song">#09: &quot;There will be love there -Ai no Aru Basho- (There will be love there -愛のある場所-)&quot; by The Brilliant Green (ep 9)</span><br><span class="theme-song">#10: &quot;Asu e no Tobira (明日への扉)&quot; by I WiSH (ep 10)</span><br><div class="hide js-viewOpEd" id="edTheme"><span class="theme-song">#11: &quot;PIECES OF A DREAM&quot; by CHEMISTRY (ep 11)</span><br><span class="theme-song">#12: &quot;Natsumatsuri (夏祭り)&quot; by Whiteberry (ep 12)</span><br><span class="theme-song">#13: &quot;Button (ボタン)&quot; by PENGUIN RESEARCH (ep 13)</span><br></div></div>
+  </div>
+</div>
+<div class="di-b ar">
+  <a href="javascript:void(0);" class="viewOpEdMore js-anime-toggle-op-ed-button"><i class="fa fa-chevron-down mr4"></i>More theme songs</a>
+</div><br><br><br><div><span class="floatRightHeader"><a href="/anime/30015/ReLIFE/reviews">More reviews</a></span><h2>Reviews</h2></div>
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="3:05 PM">Jul 1, 2016</div>
+      <div class="lightLink spaceit">
+                  13 of 13 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score222648').toggle()">Overall Rating</a>:
+        10
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/theunknownenemy">
+                  <img src="https://cdn.myanimelist.net/images/userimages/5159879.jpg?t=1610454000" data-src="https://cdn.myanimelist.net/images/userimages/5159879.jpg?t=1610454000" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/theunknownenemy">theunknownenemy</a>
+              <small>(<a href="/profile/theunknownenemy/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp222648">1983</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score222648">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>10</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">10</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">8</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">9</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">10</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">10</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    This review written by me has a reason, because I am myself a 27 year old somewhat failed person. The main character is easy for me to relate to what made this show really something for me to look forward to when I first read about it online.<br />
+<br />
+All episodes are well connected with each other and made me wanting to just watch it in one go as soon as I had the chance watching it. This proves the concept of the story and how well I could follow it. There were no gaps or plot holes for me to recognize. The art was fitting and
+
+          <span style="display: none;" id="review222648">
+        the comedy elements were well placed breather moments making the whole show not too dense and after a bit of drama acceptable. <br />
+<br />
+The big question is why or when should you watch it? Have you ever had moments in life when you thought: &quot;Damn, what if I didn&#039;t do this or what if I would had done that.&quot; Ever felt regret about something in the past? This show will unwind those questions in a really good way for you to relate to. <br />
+<br />
+To wrap this good and well written story and the animation fits perfectly. Best part is wanting more of the story to watch/read.
+        
+<div id="revhelp_output_222648" class="mt8 js-review-btn-helpful js-review-helpful-222648">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F30015%2FReLIFE" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle222648"
+         class="js-toggle-review-button" data-id="222648">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=222648" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=222648" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="12:15 PM">Jul 1, 2016</div>
+      <div class="lightLink spaceit">
+                  13 of 13 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score222623').toggle()">Overall Rating</a>:
+        7
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/LeaderTGW">
+                  <img src="https://cdn.myanimelist.net/images/userimages/2919861.jpg?t=1564232400" data-src="https://cdn.myanimelist.net/images/userimages/2919861.jpg?t=1564232400" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/LeaderTGW">LeaderTGW</a>
+              <small>(<a href="/profile/LeaderTGW/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp222623">855</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score222623">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>7</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">6</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">7</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">5</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">6</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">6</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Watching ReLIFE was quite an experience. Although it wasn&#039;t &quot;special&quot; it had its moments.<br />
+<br />
+Story 7.0/10<br />
+<br />
+Story, wasn&#039;t anything special. The duration of the series follows Kaizaki Arata, a 27-year-old neet or shut in. He gets offered a pill from some odd fellow, Ryou Yoake, because you know, when you meet a stranger on the streets you accept pills from them. Anyway, as you may already know he&#039;s able to start his life over, from high-school again. Now it&#039;s not one of those, starting over again from a different world, more so, main character Kaizaki is goes back in time, kinda sort of. He&#039;s still the same
+
+          <span style="display: none;" id="review222623">
+        age mentally, it&#039;s only his appearance that has changed. Nothing special is worth mentioning or pointing out in this story. The whole neet trying to redo his life gimmick seems overused and uninteresting at first however, the plot for each episode would have some interesting developments that were actually worth watching. The biggest issue I had was that sometimes intrusive sub-plots began taking over what was really important in the beginning which was the MC getting the opportunity to redo his life. It wasn&#039;t all that bad though, although the story-telling isn&#039;t consistent, the characters introduced later in the story, Arata&#039;s friends, their backstories and situations add for a very amusing, dramatic and emotional experience. From a comedic standpoint, the show is very light on jokes. Often times there were scenes that appeared to be made for laughs however, a majority of it felt forced and just didn&#039;t work out. I<br />
+<br />
+Pacing in the story is really slow, if you want to have a good experience watching for the interesting narrative, along with other features this series has to offer, then I highly recommend that viewers watch it at their own pace. Furthermore, please make sure that you don&#039;t take users, myself included (obviously.) opinions and reviews and let them ruin or change your perspective of how you perceived the show.  Towards the ending of the series, around episode 10 I noticed that there was a good amount of dramatic build up. There was a lot of potential opportunities for an amazing dramatic conclusion, however... NOPE! this potential was thrown out. I thought it would have made for great entertainment if the last few episodes focused more on drama however, this simply was not the case. Instead the last few episodes seemed like they should&#039;ve been aired around episodes 7 or 9 or at the very least should&#039;ve been released as an OVA or OAD.  If any improvements to the story could&#039;ve been made I would have liked to seen it focus less on branching out. Often times the story was all over the place. One episode the plot follows this character, doing this that and the other, next episode focuses on another character doing this that or the other. For me it came off as unbalanced, the story hardly focuses on the &quot;Why?&quot; and just keeps going forward. All and all, I wasn&#039;t impressed with everything that the story had to offer. Perhaps if there was a season 2 in the works then it would more than likely help me come to terms with the conclusion. Although predictable romances were made clear in the story, I still want to see the final outcome without reading the manga. The story earned a nice 7/10 from me mates.  <br />
+<br />
+Art 7.0/10<br />
+<br />
+Art, animation and other related things were pretty bad. Character designs along with the animation quality for settings looked outdated. I thought I was watching something from 2007 or 2008. This would not have been such a bad thing if only the show wasn&#039;t released in 2016... you know, the year we are currently in. In addition to that, the reaction faces and backgrounds used for the characters looked like they belonged in the late 2000&#039;s period too. Over the top reaction faces with settings that matched them. Speaking of backgrounds, the settings for a majority of the locations, school, parks, festivals, all looked like hand painted cels from before you and I were born. Traditional cel animation... I hope to see the Blu-Ray release improve the quality of the settings and character designs. If this was rushed then I would totally understand. overall it&#039;s just unacceptable. <br />
+<br />
+Sound 5.5/10<br />
+<br />
+I hope you like pianos...<br />
+<br />
+The soundtrack was pretty bad. It was like they were on a budget or something. I didn&#039;t really care for the opening and ending songs. In addition to that the background songs were not, in any way, special. Now ordinarily, I love pianos, if you&#039;ve ever read any of my past reviews then you already know I&#039;m a sucker for pianos, being a pianist and keyboardist and all.I&#039;ll be honest though, there is hardly any songs playing at all for the majority of the time. I kid you not, there are like 3 or 5 songs played in the background, all of them don&#039;t seem to match with whatever situations going on in the series. Often times it was as if the background music was added to prevent a scene for feeling bland or boring. It was too late for that though.... The voice actors were alright, I suppose. There isn&#039;t too much to say about them other than they did a pretty good job delivering their character&#039;s lines. What caught my attention in the sound department was how quiet the series is.  Background characters don&#039;t say anything. No talking from background characters at the fireworks festival, school, it felt a little too strange to me.  I mean, it&#039;s ordinary in lots of shows, however because the show was going for more of an authentic type setting, focusing on realistic settings, I think that background noise is necessary, especially since the show is very quiet in terms of sound.<br />
+<br />
+Characters 7.0/10<br />
+<br />
+The characters felt so one-sided. Each had one distinct trait about themselves that made the individual stand out, barely. Developing romantic relationships between the males and females were predictable and very, very, cliche. I mean, to the point where it wasn&#039;t cute, or sweet,  nor emotional. You can easily tell whose going to end up with who based upon their actions with one another. The character development in the show is somewhat minuscule. Chizuru is like the only character in the show that has any major character development and growth. I found this to be somewhat disappointing because I thought that if anything Arata would have been shown to have the most beneficial developments in the series.<br />
+<br />
+Enjoyment 7.0/10<br />
+<br />
+Entertaining isn&#039;t a word I would use for the &quot;enjoyment&quot; part of ReLIFE. If anything, any sense of enjoyment was rather weak due the inconsistent and often times &quot;strange&quot; way story telling... or presentation. Not to mention that somewhat inconclusive ending.  While watching ReLIFE it felt more like I was just in it for the ride. Nothing for me to think about other than how predictable the events will turn out and what characters will form a romantic relationship. Overall I wasn&#039;t too impressed with everything that ReLIFE had to offer in the Story, sound, art, and characters department. It felt rushed in those departments. Perhaps the producers were worried about time constraints and not finishing things in time, either way the final product just didn&#039;t live up to my expectations. The series just barley earned the 6/10 I gave it.
+        
+<div id="revhelp_output_222623" class="mt8 js-review-btn-helpful js-review-helpful-222623">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F30015%2FReLIFE" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle222623"
+         class="js-toggle-review-button" data-id="222623">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=222623" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=222623" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="6:23 PM">Jul 1, 2016</div>
+      <div class="lightLink spaceit">
+                  13 of 13 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score222679').toggle()">Overall Rating</a>:
+        9
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/sugarkiwi">
+                  <img src="https://cdn.myanimelist.net/images/userimages/1948894.jpg?t=1469075400" data-src="https://cdn.myanimelist.net/images/userimages/1948894.jpg?t=1469075400" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/sugarkiwi">sugarkiwi</a>
+              <small>(<a href="/profile/sugarkiwi/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp222679">516</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score222679">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>9</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">10</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">6</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">10</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">10</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">0</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    !FIRST REVIEW!<br />
+To start off, ReLife is an anime that you can learn from. There was always some sort of tactic to get you interested, whether it was character development, conflict, or the entertainment. All-in-all, it was a very good anime.<br />
+<br />
+The characters were so loveable and memorable, I even remember their names, plus got emotionally attached to each one of them. Their experiences really pull at your heart strings and make you love them even more. Even the tsundere character was loveable in this one.<br />
+<br />
+There is conflict around every corner, but you understand where the problem is coming from and want to know how it gets
+
+          <span style="display: none;" id="review222679">
+        solved. Most conflicts such as the ones in the story are not portrayed as commonly in other animes airing as of late. With this, I am going to have to say that it takes you back and gives you the feeling of nostalgia, especially with the music- mostly piano and jazz-, art - simple with cell-shading and cute editing used from older animes-, and of course the pacing.<br />
+<br />
+With this anime, I kept on laughing or on the edge of my seat. Every episode either had me in tears of joy or sadness. This anime is a slife of life done RIGHT. The simple highschooler, middle schooler, or even those with full-time jobs will love this anime, relating to the characters often. The anime is very light, however touch on inner conflicts that many people face, including jealousy between friends and the &quot;real world&quot;.<br />
+<br />
+I have to say that this was a fairly well-made anime. The creators were not afraid to take risks and produced a wonderful anime- and based off a japanese webtoon from comico at that! There were some minor issues, such as the sudden change in music. The modern animes made today have orchestral music or even the computer-made songs in the original soundtrack, but this anime continuously plays rather simple piano pieces to help portray mood. Another this was when in one episode, SOMEONE TYPES ON THE KEYBOARD WHERE THE WORDS ARE AND ON THE NUMBER PAD (usually on the right of the keyboard). (And yes I just had to notice that.)<br />
+<br />
+I REALLY RECOMMEND THIS ANIME. <br />
+<br />
+I have to admit that I was not expecting much when I jumped in to this - A slice of life anime based on a webtoon AND a completed tag when it first airs did not sound promising- HOWEVER, it exceeded my expectations and I ended up finishing the anime in one sitting. <br />
+<br />
+PLEASE, GIVE IT A CHANCE.
+        
+<div id="revhelp_output_222679" class="mt8 js-review-btn-helpful js-review-helpful-222679">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F30015%2FReLIFE" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle222679"
+         class="js-toggle-review-button" data-id="222679">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=222679" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=222679" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="1:44 PM">Jul 1, 2016</div>
+      <div class="lightLink spaceit">
+                  13 of 13 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score222635').toggle()">Overall Rating</a>:
+        8
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/cosmonautic">
+                  <img src="https://cdn.myanimelist.net/images/userimages/5417813.jpg?t=1610507400" data-src="https://cdn.myanimelist.net/images/userimages/5417813.jpg?t=1610507400" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/cosmonautic">cosmonautic</a>
+              <small>(<a href="/profile/cosmonautic/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp222635">426</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score222635">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>8</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">8</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">8</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">6</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">8</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">8</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Before I begin, I want to note that when I first wrote the majority of this review as first impressions, I still had 3 more episodes to watch. The original review didn&#039;t include my thoughts on the ending. This review you&#039;re about to read is my final opinion on ReLIFE and it was spell checked. I&#039;m only going to add my thoughts about the ending at the end and I decided not to edit the rest. Enjoy.<br />
+<br />
+Should you watch? Short answer: Yes. Long answer: No. This may sound confusing to some but it&#039;s how I feel about this series. I feel like if I get
+
+          <span style="display: none;" id="review222635">
+        into too many details describing the show then I&#039;ll sound like I&#039;m telling you not to watch. Even though I&#039;m not an expert at doing reviews, I&#039;ll try my best to express my thoughts while they&#039;re fresh.<br />
+<br />
+So as many of you already know, this story follows a 27-year-old jobless man that gets the offer to go back to high school. With a pill, he turns from a grown adult to a 17-year-old. One of the problems is that he still has the mentality of a 27-year-old and he can&#039;t tell anyone about the pill and his real age. He gets assigned to a high school nearby and ends up falling for a very shy and awkward girl named Hishiro and making many friends. The second problem is that this girl he has fallen for and his friends are 17-year-olds and the difference of age causes a problem on how he needs to act and how far can he go around them. What comes next is a &#039;not very original&#039; romance/friendship story between our cast.<br />
+<br />
+I came to this series with ridiculously low expectations (like really low). To my surprise, in the first episodes (episodes 1-6 to be specific) I was having a blast. I was laughing my ass off and I really enjoyed the character&#039;s interactions with each other. I thought that this series could be something unique and it could hold on its own against the other spectacular series that approach us this summer season. Then...I got to the 7th episode. It all fell downhill from here on.<br />
+<br />
+The main problem I have with episodes 7-10 is that they felt like nothing was progressing. Sure we got some character development for side characters, but to me it just felt like I was watching OVAs or specials. It wasn&#039;t until Episode 11 that somewhat picked the story up a little and I felt like shit was progressing. I was really enjoying the first episodes but suddenly I wasn&#039;t laughing as much and I wasn&#039;t having the same enjoyment as before.<br />
+<br />
+Even though the second half fell flat, it wasn&#039;t horrible nor unwatchable. I think that since I was having so much fun with episodes 1-6 that when it dialed down a bit, it felt a bit underwhelming. It was good seeing that development and it was a decent watch all the way through.<br />
+<br />
+The story is nothing extraordinary, but it&#039;s interesting. The characters are a bit cliché, but still lovable. The romance is nothing to fangirl about, but it&#039;s cute. It&#039;s not the best thing I&#039;ve watched, but I did have fun. I think I underestimated this anime and even though it had a couple of flaws, it was very enjoyable as a whole.<br />
+<br />
+THOUGHTS ON THE FINAL 3 EPISODES: So if you&#039;ve read this far, you&#039;d know how disappointed I was about the second half. Now that I have finished the show, I think these 3 episodes made up for the mess it got itself into. After 4 episodes of feeling like I was watching non-canon filler, the story really picked itself up, it felt funny again and we got a pretty good ending. Without spoiling anything, all the romantic doubts I had about who was going to end together were resolved (at least in my opinion). The only thing I&#039;m a bit disappointed about is that I feel like I&#039;ll need to pick up the manga to get a 100% satisfying ending. Don&#039;t get me wrong, it was somewhat satisfying, but my romance craving heart needs a full confirmation on things. Needless to say, I really enjoyed this anime and will be thinking about it for a while.<br />
+<br />
+Final Scores:<br />
+Story: 7.5<br />
+Art: 8<br />
+Sound: 6<br />
+Characters: 8<br />
+Enjoyment: 8<br />
+Overall: 8/10 (I originally gave it a 7.5 but after watching the last 3 episodes, it&#039;s a solid 8.)<br />
+<br />
+To conclude this review, I say to go give it a shot. It&#039;s only 13 episodes and I think it&#039;s worth at least one viewing. I really hope you found this review helpful.
+        
+<div id="revhelp_output_222635" class="mt8 js-review-btn-helpful js-review-helpful-222635">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F30015%2FReLIFE" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle222635"
+         class="js-toggle-review-button" data-id="222635">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=222635" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=222635" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+<div class="mt4"></div><div class="amazon-ads anime-manga-detail bottom pt20 pb16">
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "animedetail-20";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Buy on Amazon.com ";
+amzn_assoc_default_search_phrase = "ReLIFE";
+amzn_assoc_default_category = "DVD";
+amzn_assoc_linkid = "d33d41183eb8aee6216ffe9ff44ca735";
+amzn_assoc_rows = "1";
+amzn_assoc_search_bar_position = "bottom";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+</div>            <div class="mal-ad-unit" data-ad-width="801" data-ad-height="633">
+        <div id="taboola-below-article-thumbnails-anime"></div> <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'alternating-thumbnails-a',
+    container: 'taboola-below-article-thumbnails-anime',
+    placement: 'Below Article Thumbnails Anime',
+    target_type: 'mix'
+  });
+</script>
+
+      </div>
+    <br><div><div class="floatRightHeader"><a href="/anime/30015/ReLIFE/news">More news</a></div><h2>Recent News</h2></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/55626965" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1536011398-01bf364d2cdb42691ff35e50c3f13ee3.png?s=8178cd49c8fb363474601f25ba12ea2e" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1536011398-01bf364d2cdb42691ff35e50c3f13ee3.png?s=8178cd49c8fb363474601f25ba12ea2e 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1536011398-01bf364d2cdb42691ff35e50c3f13ee3.png?s=522c279a2ebced078f9a2a69504270ce 2x" alt="North American Anime &amp; Manga Releases for September" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/55626965"><strong>North American Anime &amp; Manga Releases for September</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p>Here are the North American anime &amp; manga releases for September Week 1: September 4 - 10 Anime Releases Bungou Stray Dogs 2nd Season (incl. Hitori Ayumu) Comple...<a href="/news/55626965">read more</a></p></div>
+		<p class="lightLink spaceit">Sep 3, 2018 2:56 PM by <a href="/profile/Sakana-san">Sakana-san</a> | <a href="/forum/?topicid=1738396">Discuss (2 comments)</a></p></div>
+		<div class="borderClass"></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/52528354" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1506971117-7da72f307cb7279b8d3d54731dac72a9.jpeg?s=0d990e693732123bd8314c0440034cbb" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1506971117-7da72f307cb7279b8d3d54731dac72a9.jpeg?s=0d990e693732123bd8314c0440034cbb 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1506971117-7da72f307cb7279b8d3d54731dac72a9.jpeg?s=fa9a26b64f95c3c62bf5cd3d92ac4228 2x" alt="North American Anime &amp; Manga Releases for October" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/52528354"><strong>North American Anime &amp; Manga Releases for October</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p>Here are the North American anime &amp; manga releases for October Week 1: October 3 - 9 Anime Releases Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen Comp...<a href="/news/52528354">read more</a></p></div>
+		<p class="lightLink spaceit">Oct 2, 2017 12:07 PM by <a href="/profile/Sakana-san">Sakana-san</a> | <a href="/forum/?topicid=1670192">Discuss (6 comments)</a></p></div>
+		<div class="borderClass"></div><br><div><div class="floatRightHeader"><a href="/forum/?animeid=30015"><a href="/anime/30015/ReLIFE/forum">More discussions</a></div><h2>Recent Forum Discussion</h2></div><div class="page-forum">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F30015%2FReLIFE&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1854722">「ReLIFE Anime Reboot」</a> <small></small><br><span class="forum_postusername"><a href="/profile/waalex11">waalex11</a></span> - <span class="lightLink">Jul 26, 2020</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">8 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/waalex11">waalex11</a> <a href="/forum/?topicid=1854722&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Jan 7, 7:26 AM</td>
+            </tr>
+            <tr id="topicRow2">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F30015%2FReLIFE&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1527304">ReLIFE Episode 13 Discussion</a> <small> ( <a href="/forum/?topicid=1527304&show=0">1</a> <a href="/forum/?topicid=1527304&show=50">2</a> <a href="/forum/?topicid=1527304&show=100">3</a> <a href="/forum/?topicid=1527304&show=150">4</a> <a href="/forum/?topicid=1527304&show=200">5</a>  ... <a href="/forum/?topicid=1527304&show=450">Last Page</a> ) </small><br><span class="forum_postusername"><a href="/profile/GoldenDevilGamer">GoldenDevilGamer</a></span> - <span class="lightLink">Jun 28, 2016</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">492 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Sulfur2">Sulfur2</a> <a href="/forum/?topicid=1527304&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Dec 25, 2020 8:43 PM</td>
+            </tr>
+            </table></div><br><div><div class="floatRightHeader"><a href="/anime/30015/ReLIFE/featured">More featured articles</a></div><h2>Recent Featured Articles</h2></div><div class="detail-page-featured-article"><div class="news-list">
+      
+    <div class="news-unit clearfix"><div class="picSurround fl-l mr8 ml3">
+          <a href="https://myanimelist.net/featured/2309/In_Numbers__The_Best_Anime_of_the_Decade"><img src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1577540570-6cd00ecbf3483b617d40670f43868d2c.jpeg?s=9b135c843346a9061dede8eb1733608a" alt="In Numbers: The Best Anime of the Decade" class="image lazyload" width="50" height="78" srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1577540570-6cd00ecbf3483b617d40670f43868d2c.jpeg?s=9b135c843346a9061dede8eb1733608a 1x, https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1577540570-6cd00ecbf3483b617d40670f43868d2c.jpeg?s=e68e4dccba068951010dabd27951a025 2x" /></a>
+        </div><div class="news-unit-right rect">
+        <p class="title">
+          <a href="https://myanimelist.net/featured/2309/In_Numbers__The_Best_Anime_of_the_Decade" title="In Numbers: The Best Anime of the Decade">In Numbers: The Best Anime of the Decade</a>
+        </p>
+        <div class="text">
+          What&#039;s the #1 anime of the 2010s? Which year was the best? What studio had the most hits? We have the answers to all these questions and more!
+        </div>
+        <div class="information">
+          <p class="info pr8">
+            by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
+          </p><p class="di-tc pv pr8">
+              <b>319,599</b> views
+            </p></div>
+      </div>
+    </div>
+            
+    <div class="news-unit clearfix"><div class="picSurround fl-l mr8 ml3">
+          <a href="https://myanimelist.net/featured/2084/Live_Action_ReLIFE_Film_Adaptation_Receives_90_Second_Trailer"><img src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1485419405-f01b0c2236b89be35aa278ebd51d2d3a.jpeg?s=d659d32e7272ac5f0a640ab602620729" alt="Live Action &quot;ReLIFE&quot; Film Adaptation Receives 90 Second Trailer" class="image lazyload" width="50" height="78" srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1485419405-f01b0c2236b89be35aa278ebd51d2d3a.jpeg?s=d659d32e7272ac5f0a640ab602620729 1x, https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1485419405-f01b0c2236b89be35aa278ebd51d2d3a.jpeg?s=ba927bb7b900c00707caf2582fed1054 2x" /></a>
+        </div><div class="news-unit-right rect">
+        <p class="title">
+          <a href="https://myanimelist.net/featured/2084/Live_Action_ReLIFE_Film_Adaptation_Receives_90_Second_Trailer" title="Live Action &quot;ReLIFE&quot; Film Adaptation Receives 90 Second Trailer">Live Action &quot;ReLIFE&quot; Film Adaptation Receives 90 Second Trailer</a>
+        </p>
+        <div class="text">
+          A lot of crying, girls in sailor outfits, and standard Japanese high school shenanigans make for a fairly innocuous full length trailer.
+        </div>
+        <div class="information">
+          <p class="info pr8">
+            by <a href="https://myanimelist.net/profile/yungyoshi">yungyoshi</a>
+          </p><p class="di-tc pv pr8">
+              <b>17,707</b> views
+            </p></div>
+      </div>
+    </div>
+        </div>
+</div><div style="padding:16px 0px 0px 0px;"><div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div></div><br><div>
+            <div class="floatRightHeader"><a href="/anime/30015/ReLIFE/userrecs">More recommendations</a></div>
+            <h2>Recommendations
+            </h2></div>  <div class=""><a href="https://myanimelist.net/anime/30015/ReLIFE/userrecs" class="btn-detail-recommendations-view-all fl-r">
+      <span class="text">View All</span>
+      <span class="icon-next"><i class="fa fa-chevron-right icon-chevron" aria-hidden="true"></i></span>
+    </a><div class="anime-slide-block" id="anime_recommendation" data-json='{"width":702,"btnWidth":40,"margin":8}'><div class="btn-anime-slide-side left"><span class="btn-inner"></span></div><div class="btn-anime-slide-side right"><span class="btn-inner"></span></div><div class="anime-slide-outer" style="height:140px;"><ul class="anime-slide js-anime-slide" data-slide="7"><li class="btn-anime" style="width:90px" title="Boku dake ga Inai Machi"><a href="https://myanimelist.net/recommendations/anime/30015-31043" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Boku dake ga Inai Machi</span><span class="users">19 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/10/77957.jpg?s=5f08babb8c8e803b966cb387b052cf41" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/10/77957.jpg?s=5f08babb8c8e803b966cb387b052cf41 1x,https://cdn.myanimelist.net/r/180x280/images/anime/10/77957.jpg?s=0bd7536ba557ac36d70fb2d0a580245d 2x" width="90" height="140" class="image lazyload" alt="Boku dake ga Inai Machi" border="0" ></a></li><li class="btn-anime" style="width:90px" title="NHK ni Youkoso!"><a href="https://myanimelist.net/recommendations/anime/1210-30015" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">NHK ni Youkoso!</span><span class="users">15 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/3/52675.jpg?s=96cd926b78642a776a6d17937ecad2c9" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/3/52675.jpg?s=96cd926b78642a776a6d17937ecad2c9 1x,https://cdn.myanimelist.net/r/180x280/images/anime/3/52675.jpg?s=71322dad6cf293b766f97a92f4f01478 2x" width="90" height="140" class="image lazyload" alt="NHK ni Youkoso!" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Yahari Ore no Seishun Love Comedy wa Machigatteiru."><a href="https://myanimelist.net/recommendations/anime/14813-30015" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Yahari Ore no Seishun Love Comedy wa Machigatteiru.</span><span class="users">10 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/11/49459.jpg?s=8706bbeaeb806d548e52d387ca8a03f4" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/11/49459.jpg?s=8706bbeaeb806d548e52d387ca8a03f4 1x,https://cdn.myanimelist.net/r/180x280/images/anime/11/49459.jpg?s=c538a19fa913bf6e30d64117b57d46d1 2x" width="90" height="140" class="image lazyload" alt="Yahari Ore no Seishun Love Comedy wa Machigatteiru." border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kokoro Connect"><a href="https://myanimelist.net/recommendations/anime/11887-30015" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kokoro Connect</span><span class="users">10 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/2/39665.jpg?s=9a8b15af47414f8f02346b860538469a" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/2/39665.jpg?s=9a8b15af47414f8f02346b860538469a 1x,https://cdn.myanimelist.net/r/180x280/images/anime/2/39665.jpg?s=5c5da3274892dcda8692b080a7850a9c 2x" width="90" height="140" class="image lazyload" alt="Kokoro Connect" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Orange"><a href="https://myanimelist.net/recommendations/anime/30015-32729" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Orange</span><span class="users">9 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/80110.jpg?s=a4c8734f1bc8a9f74bcddcf9abb1fd9c" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/80110.jpg?s=a4c8734f1bc8a9f74bcddcf9abb1fd9c 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/80110.jpg?s=c93198cd8975e8eeb52265554f34c2b1 2x" width="90" height="140" class="image lazyload" alt="Orange" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kimi ni Todoke"><a href="https://myanimelist.net/recommendations/anime/6045-30015" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kimi ni Todoke</span><span class="users">8 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/7/17890.jpg?s=1007505772cca4f766a6e3c36286aa8c" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/7/17890.jpg?s=1007505772cca4f766a6e3c36286aa8c 1x,https://cdn.myanimelist.net/r/180x280/images/anime/7/17890.jpg?s=8ae2ffa2b735805ad81b62a1dc47264e 2x" width="90" height="140" class="image lazyload" alt="Kimi ni Todoke" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Angel Beats!"><a href="https://myanimelist.net/recommendations/anime/6547-30015" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Angel Beats!</span><span class="users">7 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/10/22061.jpg?s=4b6eb5c29e818f7a7e97540dac34a40f" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/10/22061.jpg?s=4b6eb5c29e818f7a7e97540dac34a40f 1x,https://cdn.myanimelist.net/r/180x280/images/anime/10/22061.jpg?s=da24dd78d7000cbf1bdb26c173fc2db2 2x" width="90" height="140" class="image lazyload" alt="Angel Beats!" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Net-juu no Susume"><a href="https://myanimelist.net/recommendations/anime/30015-36038" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Net-juu no Susume</span><span class="users">6 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/3/87463.jpg?s=af882c15bc5617192c1538bee55e2c71" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/3/87463.jpg?s=af882c15bc5617192c1538bee55e2c71 1x,https://cdn.myanimelist.net/r/180x280/images/anime/3/87463.jpg?s=2c3c964642c99e523658a6fc2a8051d2 2x" width="90" height="140" class="image lazyload" alt="Net-juu no Susume" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Sakura-sou no Pet na Kanojo"><a href="https://myanimelist.net/recommendations/anime/13759-30015" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Sakura-sou no Pet na Kanojo</span><span class="users">6 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/43643.jpg?s=9647d99b182ef20e147fa5d641d7d8ad" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/43643.jpg?s=9647d99b182ef20e147fa5d641d7d8ad 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/43643.jpg?s=ccb680a80858cd1083691e2ac4d0020d 2x" width="90" height="140" class="image lazyload" alt="Sakura-sou no Pet na Kanojo" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kimi no Na wa."><a href="https://myanimelist.net/recommendations/anime/30015-32281" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kimi no Na wa.</span><span class="users">5 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/87048.jpg?s=3d0e8b7436ae0ba2226832d96c39c9e8" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/87048.jpg?s=3d0e8b7436ae0ba2226832d96c39c9e8 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/87048.jpg?s=c60c5c9b22a2c0badb8671e19d140bba 2x" width="90" height="140" class="image lazyload" alt="Kimi no Na wa." border="0" ></a></li><li class="btn-anime" style="width:90px" title="Golden Time"><a href="https://myanimelist.net/recommendations/anime/17895-30015" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Golden Time</span><span class="users">4 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/52091.jpg?s=47ceea9a30602381fa60b2c4b79e0930" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/52091.jpg?s=47ceea9a30602381fa60b2c4b79e0930 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/52091.jpg?s=df060ff1e19190a781fa33624faa0f05 2x" width="90" height="140" class="image lazyload" alt="Golden Time" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Toradora!"><a href="https://myanimelist.net/recommendations/anime/4224-30015" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Toradora!</span><span class="users">4 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/13/22128.jpg?s=5e993d4b0b061602510d0e8eae2204f0" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/13/22128.jpg?s=5e993d4b0b061602510d0e8eae2204f0 1x,https://cdn.myanimelist.net/r/180x280/images/anime/13/22128.jpg?s=9860f90d5d73246fe4d78a40eb0ca66f 2x" width="90" height="140" class="image lazyload" alt="Toradora!" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kiznaiver"><a href="https://myanimelist.net/recommendations/anime/30015-31798" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kiznaiver</span><span class="users">4 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/6/78466.jpg?s=1a81b4441478f0a024540d7e0911751f" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/6/78466.jpg?s=1a81b4441478f0a024540d7e0911751f 1x,https://cdn.myanimelist.net/r/180x280/images/anime/6/78466.jpg?s=cef3e58da67ebd746cf3ef00a271c022 2x" width="90" height="140" class="image lazyload" alt="Kiznaiver" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Barakamon"><a href="https://myanimelist.net/recommendations/anime/22789-30015" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Barakamon</span><span class="users">3 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/65427.jpg?s=443c0aa8ef2d0315caec001ab4397f50" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/65427.jpg?s=443c0aa8ef2d0315caec001ab4397f50 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/65427.jpg?s=c8e9d9ce9edbf274c49545face6a5120 2x" width="90" height="140" class="image lazyload" alt="Barakamon" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Detective Conan"><a href="https://myanimelist.net/recommendations/anime/235-30015" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Detective Conan</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/7/75199.jpg?s=f6407bbabdc233ff17106ff21beb089e" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/7/75199.jpg?s=f6407bbabdc233ff17106ff21beb089e 1x,https://cdn.myanimelist.net/r/180x280/images/anime/7/75199.jpg?s=8cd6d7441f57792fbd653fa808e435f3 2x" width="90" height="140" class="image lazyload" alt="Detective Conan" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Tonari no Kaibutsu-kun"><a href="https://myanimelist.net/recommendations/anime/14227-30015" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Tonari no Kaibutsu-kun</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/39779.jpg?s=0a0a99577e62a5ef6c83ac8f76248b31" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/39779.jpg?s=0a0a99577e62a5ef6c83ac8f76248b31 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/39779.jpg?s=66161f6bc82e6a3175a7d8dde25c2cce 2x" width="90" height="140" class="image lazyload" alt="Tonari no Kaibutsu-kun" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Irozuku Sekai no Ashita kara"><a href="https://myanimelist.net/recommendations/anime/30015-37497" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Irozuku Sekai no Ashita kara</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1424/93855.jpg?s=166d075d754e8dbbf89380e9cf6c0b87" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1424/93855.jpg?s=166d075d754e8dbbf89380e9cf6c0b87 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1424/93855.jpg?s=8b8a28544ba1259c5446589e808bcc84 2x" width="90" height="140" class="image lazyload" alt="Irozuku Sekai no Ashita kara" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Plastic Memories"><a href="https://myanimelist.net/recommendations/anime/27775-30015" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Plastic Memories</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/72750.jpg?s=3773c8d5c05969dbb28fd3e52db1d48b" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/72750.jpg?s=3773c8d5c05969dbb28fd3e52db1d48b 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/72750.jpg?s=a34cdad84d69c633107c1daa54e290e9 2x" width="90" height="140" class="image lazyload" alt="Plastic Memories" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Nijiiro Days"><a href="https://myanimelist.net/recommendations/anime/30015-31414" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Nijiiro Days</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/8/76691.jpg?s=861eae151103505d89b31a0a93767299" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/8/76691.jpg?s=861eae151103505d89b31a0a93767299 1x,https://cdn.myanimelist.net/r/180x280/images/anime/8/76691.jpg?s=2789425104b54e4c282ba53c8044eec8 2x" width="90" height="140" class="image lazyload" alt="Nijiiro Days" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kono Oto Tomare!"><a href="https://myanimelist.net/recommendations/anime/30015-38080" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kono Oto Tomare!</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1464/99881.jpg?s=27036469a3609653ddc4920d4564ad71" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1464/99881.jpg?s=27036469a3609653ddc4920d4564ad71 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1464/99881.jpg?s=fc06c5a887a76dcb0ab5a503e144247c 2x" width="90" height="140" class="image lazyload" alt="Kono Oto Tomare!" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku"><a href="https://myanimelist.net/recommendations/anime/23847-30015" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/11/75376.jpg?s=7d7c55ccbf697a6938ad7530c4ee5820" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/11/75376.jpg?s=7d7c55ccbf697a6938ad7530c4ee5820 1x,https://cdn.myanimelist.net/r/180x280/images/anime/11/75376.jpg?s=be68b542e562b16578a5a9625e1db9f5 2x" width="90" height="140" class="image lazyload" alt="Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"><a href="https://myanimelist.net/recommendations/anime/30015-37450" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1301/93586.jpg?s=f2a2aacf0be31f999294b28d657701d6" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1301/93586.jpg?s=f2a2aacf0be31f999294b28d657701d6 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1301/93586.jpg?s=619eba993ec909dd1bbf69fdd7c46e20 2x" width="90" height="140" class="image lazyload" alt="Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Gekkan Shoujo Nozaki-kun"><a href="https://myanimelist.net/recommendations/anime/23289-30015" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Gekkan Shoujo Nozaki-kun</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/66083.jpg?s=bbb8c64fb2a01d6deb7fd4e8b015e7b0" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/66083.jpg?s=bbb8c64fb2a01d6deb7fd4e8b015e7b0 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/66083.jpg?s=bc8ebd95d171239262f99129a4f96090 2x" width="90" height="140" class="image lazyload" alt="Gekkan Shoujo Nozaki-kun" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Charlotte"><a href="https://myanimelist.net/recommendations/anime/28999-30015" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Charlotte</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/74683.jpg?s=ca7d1e534a6a296eee0387d6f40d3281" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/74683.jpg?s=ca7d1e534a6a296eee0387d6f40d3281 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/74683.jpg?s=af98e93fd94c43d4d6ee529054ee0156 2x" width="90" height="140" class="image lazyload" alt="Charlotte" border="0" ></a></li></ul></div></div></div>
+    </td>
+    </tr>
+    </table>
+    </div>  <div class="mauto clearfix pt24" style="width:760px;">
+    <div class="fl-l">
+      </div>
+      <div class="fl-r">
+      </div>
+    </div>
+
+</td>
+</tr>
+</table>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js" data-pin-hover="true"></script></div><!-- end of contentHome -->
+</div><!-- end of contentWrapper -->
+
+
+            
+  
+
+
+            
+  
+
+  <script>
+    $(document).ready(function() {
+      $(window).scroll(function() {
+        var cHeight = $("#myanimelist").height();
+        $("div[data-ad-sticky='manual']").each(function (i, o) {
+          var aHeight = $(o).height();
+          var aTop = $(o).parent().offset().top;
+          if (window.pageYOffset >= (cHeight - aHeight)) {
+            $(o).css("top", ((cHeight - aHeight) - window.pageYOffset) + "px");
+          } else if (window.pageYOffset >= aTop) {
+            $(o).addClass("sticky");
+            $(o).css("top", "");
+          } else {
+            $(o).removeClass("sticky");
+          }
+        });
+      });
+    });
+  </script>
+
+<!--  control container height -->
+<div style="clear:both;"></div>
+
+<!-- end rightbody -->
+
+</div><!-- wrapper -->
+
+
+    <div id="ad-skin-bg-right" class="ad-skin-side-outer ad-skin-side-bg bg-right">
+    <div id="ad-skin-right" class="ad-skin-side right" style="display: none;">
+      <div id="ad-skin-right-absolute-block">
+        <div id="ad-skin-right-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+</div><!-- #myanimelist -->
+
+
+<div class="footer-ranking">
+  <div class="ranking-container">
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php" class="view_more fl-r">More</a>Top Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Fullmetal Alchemist: Brotherhood</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011">Hunter x Hunter (2011)</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php?type=airing" class="view_more fl-r">More</a>Top Airing Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/42203/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season_Part_2">Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/42897/Horimiya">Horimiya</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/38474/Yuru_Camp△_Season_2">Yuru Camp△ Season 2</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/character.php" class="view_more fl-r">More</a>Most Popular Characters
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/character/417/Lelouch_Lamperouge">Lamperouge, Lelouch</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/character/45627/Levi">Levi</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/character/80/Light_Yagami">Yagami, Light</a>
+            </li>
+                  </ol>
+      </div>
+      </div>
+</div>
+<footer>
+  <div id="footer-block">
+    <div class="footer-link-block">
+      <p class="footer-link home di-ib">
+        <a href="https://myanimelist.net/">Home</a>
+      </p>
+      <p class="footer-link di-ib">
+        <a href="https://myanimelist.net/about.php">About</a>
+        <a href="https://myanimelist.net/pressroom">Press Room</a>
+        <a href="https://myanimelist.net/about.php?go=contact">Support</a>
+        <a href="https://myanimelist.net/advertising">Advertising</a>
+        <a href="https://myanimelist.net/forum/?topicid=515949">FAQ</a>
+        <a href="https://myanimelist.net/about/terms_of_use">Terms</a>
+        <a href="https://myanimelist.net/about/privacy_policy">Privacy</a>
+        <a href="#/" class="cmp-gdpr-only">Privacy Settings</a>
+        <a href="#/" class="cmp-ccpa-only">Do Not Sell My Personal Information</a>
+        <a href="https://myanimelist.net/about/cookie_policy">Cookie</a>
+        <a href="https://myanimelist.net/about/notice_at_collection">Notice at Collection</a>
+        <a href="https://myanimelist.net/about/sitemap">Sitemap</a>
+      </p>
+            <p class="footer-link login di-ib">
+        <a href="https://myanimelist.net/login.php?from=%2Fanime%2F30015%2FReLIFE" id="malLogin" rel="nofollow">Login</a>
+        <a href="https://myanimelist.net/register.php?from=%2Fanime%2F30015%2FReLIFE">Sign Up</a>
+      </p>
+          </div>
+
+    
+    <div class="banner-footer-anime-streaming">
+      <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+    </div>
+
+        <div class="footer-link-icon-block">
+            <div class="footer-social-media ac">
+        <a target="_blank" class="icon-sns icon-fb di-ib" href="https://www.facebook.com/OfficialMyAnimeList" rel="noreferrer"></a>
+        <a target="_blank" class="icon-sns icon-tw di-ib" title="Follow @myanimelist on Twitter" href="https://twitter.com/myanimelist" rel="noreferrer"></a></div>
+            <div class="footer-recommended ac">
+        <a target="_blank" class="icon-recommended icon-tokyo-otaku-mode" href="http://otakumode.com/fb/5aO" rel="noopener">Tokyo Otaku Mode</a>
+        <a target="_blank" class="icon-recommended icon-honeys-anime" href="https://honeysanime.com" rel="noopener">Honey's Anime</a>
+        <a target="_blank" class="icon-recommended icon-manga-store" href="https://myanimelist.net/store?_location=mal_f_m">Manga Store</a>
+      </div>
+    </div>
+
+    <div class="footer-fb">
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+      <div class="footer-fb-item">
+                <iframe class="fb-page" src="" width="450" height="154" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+      </div>
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+    </div>
+        
+    <div id="copyright">
+      MyAnimeList.net is a property of MyAnimeList Co.,Ltd. &copy;2021 All Rights Reserved.
+    </div>
+  </div>
+</footer>
+
+<script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+
+<script async>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga')
+
+  ga('create', 'UA-369102-1', 'auto')
+  ga('set', 'anonymizeIp', true)
+  ga('require', 'linkid') // Enhanced Link Attribution
+    ga('set', 'dimension1', 'guest')
+    ga('send', 'pageview')
+</script>   <script>
+window.onscroll = function(e){
+    const scrollThreshold = 50;
+    if (window.pageYOffset >= scrollThreshold) {
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            let t_height = ad.offsetHeight;
+            let offsetY = ad.getBoundingClientRect().top;
+            let screenHeight = window.outerHeight;
+            let t_position = offsetY - screenHeight;
+            if(-screenHeight<=(t_position　+　t_height) && t_position<0) {
+                ad.className = 'ad-tag';
+                (deployads = window.deployads || []).push({});
+            }
+        });
+    }
+}
+var timer = 0;
+window.onresize = function(e){
+    if (timer > 0) {
+        clearTimeout(timer);
+    }
+
+    timer = setTimeout(function () {
+        console.log('window resized');
+        [].forEach.call(document.querySelectorAll('.ad-tag'), function(ad) {
+            ad.className = 'no-ad';
+            (deployads = window.deployads || []).push({});
+        });
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            ad.className = 'ad-tag';
+            (deployads = window.deployads || []).push({});
+        });
+    }, 200);
+}
+</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WL4QW3G');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+var path = location.pathname;
+var param = location.search;
+
+dataLayer = dataLayer || [];
+
+// login.php
+
+function ga_notlogin(){
+  ga('send', 'event', 'not_login', '2.未ログインの場合', '/login.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=1');
+}
+
+function ga_sns(){
+  ga('send', 'event', 'sns_login', '2-1-1.ソーシャルログインの場合', '/login.php?login-mode=social&c-ms-mode=1');
+}
+
+function ga_login(){
+  ga('send', 'event', 'id_login', '2-1-2.IDログインの場合', '/login.php?login-mode=id&c-ms-mode=1');
+}
+
+// register.php
+
+function ga_registration(){
+  ga('send', 'event', 'registration', '2-2.会員登録ボタン', '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=2');
+}
+
+if ( path.match("register.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2F&c-ms-mode=2',
+        'member_title': '2-2-1.会員情報入力完了',
+        'event': 'loadready-register'
+    });
+}
+
+if ( path.match("login.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': path.concat(param, "&c-ms-mode=2"),
+        'member_title': '2-2-1.メールからの会員認証ページ',
+        'event': 'loadready-login'
+    });
+}
+
+// membership
+
+function ga_mal_banner(){
+  ga('send', 'event', 'support_mal', '2-3.MALバナー', '/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner&c-ms-mode=3');
+}
+
+if ( path.match("login.php") && param.match("from=%2F") ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=3',
+        'member_title': '2-2.会員登録ボタン',
+        'event': 'loadready-login'
+    });
+}
+
+function ga_credit(){
+  ga('send', 'event', 'support_mal', '3-1-1.クレカ登録', '/member-register?c-ms_payment=1&c-ms_mode=3');
+}
+
+function ga_paypal(){
+  ga('send', 'event', 'support_mal', '3-1-2.Paypal登録', '/member-register?c-ms_payment=2&c-ms_mode=3');
+}
+
+if ( path.match("account/membership/complete") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/member-register-complete?c-ms_payment=2&c-ms_mode=3',
+        'member_title': '3-1-2.MAL会員登録成功',
+        'event': 'loadready-member-register-complete'
+    });
+}
+
+</script>
+<script type="text/javascript">
+    window.MAL.magia = "06410c4e6b2518e9add8f6df0ccb2da2876bb8c980aacb43a8dcaa8153c0f92c";
+  window.MAL.madoka = "hZrDKm9k6FVRnqd3i%=K";
+
+  window.MAL.SLVK = "g4OvMLVOmEI3J8u7dt8f8+mAuualsqCo";
+  window.MAL.CDN_URL = "https://cdn.myanimelist.net";
+
+  window.MAL.CURRENT_TUTORIAL_STEP_ID = null;
+  window.MAL.USER_NAME = ""
+  window.MAL.FACEBOOK.APP_ID = "360769957454434"
+  window.MAL.FACEBOOK.API_VERSION = "v2.12"
+</script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+                    <script type="text/javascript">
+          window._taboola = window._taboola || [];
+          _taboola.push({flush: true});
+        </script>
+    </body>
+</html>

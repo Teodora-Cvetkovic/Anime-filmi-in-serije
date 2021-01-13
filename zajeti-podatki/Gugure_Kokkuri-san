@@ -1,0 +1,1698 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    
+<link rel="preconnect" href="//fonts.gstatic.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//fonts.googleapis.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tags-cdn.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagservices.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagmanager.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//apis.google.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel-sync.sitescout.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel.tapad.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//c.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tpc.googlesyndication.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//googleads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="//securepubads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="https://cdn.myanimelist.net" crossorigin="anonymous" />
+
+
+<title>
+Gugure! Kokkuri-san - MyAnimeList.net
+</title>
+<meta name="description" content="Looking for information on the anime Gugure! Kokkuri-san? Find out more with MyAnimeList, the world&#039;s most active online anime and manga community and database. Gugure! Kokkuri-san is an eccentric comedy centered around the self-proclaimed doll, Kohina Ichimatsu. Her uneventful life goes from plain to absurd when she summons a fox spirit by the name of Kokkuri-san. But contrary to popular belief, he is not the omniscient, answer-granting spirit from the legend anymore. The loss of believers in m..." />
+
+  
+<meta name="keywords" content="anime, myanimelist, anime news, manga" />
+  
+
+
+    <meta property="og:locale" content="en_US"><meta property="fb:app_id" content="360769957454434"><meta property="og:site_name" content="MyAnimeList.net"><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@myanimelist"><meta property="og:title" content="Gugure! Kokkuri-san"><meta property="og:type" content="video.tv_show"><meta property="og:image" content="https://cdn.myanimelist.net/images/anime/6/65665.jpg"><meta name="twitter:image:src" content="https://cdn.myanimelist.net/r/360x360/images/anime/6/65665.jpg?s=c1bd561f0ad61860e09d69d6e307d3cf"><meta property="og:url" content="https://myanimelist.net/anime/23251/Gugure_Kokkuri-san"><meta property="og:description" content="Gugure! Kokkuri-san is an eccentric comedy centered around the self-proclaimed doll, Kohina Ichimatsu. Her uneventful life goes from plain to absurd when she summons a fox spirit by the name of Kokkuri-san. But contrary to popular belief, he is not the omniscient, answer-granting spirit from the legend anymore. The loss of believers in modern society has rendered him powerless. Upon meeting the bizarre girl who summoned him, Kokkuri-san is shocked to discover that Kohina not only lives alone, but survives on just cup ramen! Filled with concern for the young girl, he takes it upon himself to ensure that Kohina has proper meals and lives a decent life. Thus begin Kokkuri-san&#039;s less-than-hopeful endeavors and their peculiar life together. [Written by MAL Rewrite]">
+
+
+<meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
+
+<meta name='csrf_token' content='2bb7770925c6bfd56c66c97c4225b118f3a53015'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
+<meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" />
+
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" href="https://myanimelist.net/plugins/myanimelist.xml" title="MyAnimeList" />
+
+<link rel="shortcut icon" href="https://cdn.myanimelist.net/images/favicon.ico" />
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+      <script src="//tags-cdn.deployads.com/a/myanimelist.net.js" async="async"></script>
+            <script async="async" type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script>
+$(document).ready(function(){
+  window.Criteo = window.Criteo || {};
+  window.Criteo.events = window.Criteo.events || [];
+  $('.ad-criteo').each(function(){
+    var slotid = $(this).attr('data-ad-slot');
+    var zoneid = $(this).attr('data-ad-zone');
+    var CriteoAdUnits = {"placements":[{"slotid":slotid, "zoneid":zoneid}]};
+    var processCdbBid = function(){
+      var bids = Criteo.GetBidsForAdUnit(slotid);
+      if(bids.length > 0){
+        Criteo.RenderAd({bidId:bids[0].id, containerId:bids[0].impressionId});
+      }
+    };
+    Criteo.events.push(function(){Criteo.RequestBids(CriteoAdUnits, processCdbBid, 2000);});
+  });
+});
+</script>
+
+
+
+            <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/myanimelist/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>    
+</head>
+
+<body onload=" " class="page-common"data-ms="true" data-country-code="SI" >
+<div id="myanimelist">
+
+    
+  
+    <script type='text/javascript'>
+    window.MAL.SkinAd.prepareForSkin('');
+  </script>
+
+    <div id="ad-skin-bg-left" class="ad-skin-side-outer ad-skin-side-bg bg-left">
+    <div id="ad-skin-left" class="ad-skin-side left" style="display: none;">
+      <div id="ad-skin-left-absolute-block">
+        <div id="ad-skin-left-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
+    <script>(deployads = window.deployads || []).pageSegment = 'anime_title_23251';</script>
+
+
+<script>
+    var trackOutboundLink = function(url) {
+        ga('send', 'event', 'outbound', 'click', url, {
+            'transport': 'beacon',
+            'hitCallback': function(){return true;}
+        });
+    }
+</script><div class="banner-header-anime-straming" style="right:480px;">
+  <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+</div>
+
+
+<div id="header-menu" ><div class="header-menu-login"><a class="btn-mal-service"
+             href="https://myanimelist.net/membership?_location=mal_h_u" onClick="ga_mal_banner()">Hide Ads</a><a class="btn-login" href="https://myanimelist.net/login.php?from=%2Fanime%2F23251%2FGugure_Kokkuri-san" id="malLogin" onClick="ga_notlogin()">Login</a><a class="btn-signup" href="https://myanimelist.net/register.php?from=%2Fanime%2F23251%2FGugure_Kokkuri-san" onClick="ga_registration()">Sign Up</a></div></div></div>  <div id="menu" class="">
+    <div id="menu_right"><script type="text/x-template" id="incremental-result-item-anime"><div class="list anime" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info anime"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Aired: ${ item.payload.aired }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info anime"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-manga"><div class="list manga" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info manga"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Published: ${ item.payload.published }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info manga"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-character"><div class="list character" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div><div class="extra-info"><ul class="related-works"><li v-for="work in item.payload.related_works" class="fs-i">- ${ work }</li></ul>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-person"><div class="list person" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.alternative_name">${ item.payload.alternative_name }<br></span>Birthday: ${ item.payload.birthday }<br>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-store"><div class="list store" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info store"></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info store"></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-club"><div class="list club" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div><div class="extra-info">Members: ${ item.payload.members }<br>Category: ${ item.payload.category }<br>Created by: ${ item.payload.created_by }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-user"><div class="list user" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.authority">${ item.payload.authority }<br></span>Joined: ${ item.payload.joined }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-news"><div class="list news" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-featured"><div class="list featured" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-forum"><div class="list forum" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="extra-info">${ item.payload.date }<br><span>in ${ item.payload.category }</span></div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-separator"><div class="list separator"><div class="separator"><span v-show="item.name == 'anime'">Anime</span><span v-show="item.name == 'manga'">Manga</span><span v-show="item.name == 'character'">Characters</span><span v-show="item.name == 'person'">People</span></div></div></script><div id="top-search-bar"><form id="searchBar" method="get" class="searchBar" @submit.prevent="jump()"><div class="form-select-outer fl-l"><select name="type" id="topSearchValue" class="inputtext" v-model="type"><option value="all">All</option><option value="anime">Anime</option><option value="manga">Manga</option><option value="character">Characters</option><option value="person">People</option><option value="store">Manga Store</option><option value="news">News</option><option value="featured">Featured Articles</option><option value="forum">Forum</option><option value="club">Clubs</option><option value="user">Users</option></select></div><input v-model="keyword" id="topSearchText" type="text"
+            name="keyword" class="inputtext fl-l" placeholder="Search Anime, Manga, and more..."
+            size="30" autocomplete="off"
+            @keydown.up.prevent="moveSelection(-1)" @keydown.down.prevent="moveSelection(1)"
+            @focus="isFocused = true" @blur="isFocused = false"><input id="topSearchButon" class="fl-l" :class="{'notActive': (keyword.length < 3)}" type="submit" value="&#xf002"></form><div id="topSearchResultList" class="incrementalSearchResultList" :style="{display: (showResult ? 'block' : 'none')}" @mousedown.prevent=""><div v-for="(item, i) in items" @mouseover="selection=i"><component :is="resolveComponent(item)" :item="item" :focus="selection == i" :url="generateItemPageUrl(item)"></component></div><div class="list list-bottom" :class="{'focus': selection == -1}" @mouseover="selection = -1"
+               :style="{display: (showViewAllLink ? 'block' : 'none')}"><a :href="resultPageUrl">
+              View all results for <span class="fw-b">${ keyword }</span><i v-show="isRequesting" class="fa fa-spinner fa-spin ml4"></i></a></div></div></div></div><div id="menu_left">
+      <ul id="nav">
+        <li class="small"><a href="#" class="non-link">Anime</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/anime.php?_location=mal_h_m">Anime Search</a></li>
+            <li><a href="https://myanimelist.net/topanime.php?_location=mal_h_m">Top Anime</a></li>
+            <li><a href="https://myanimelist.net/anime/season?_location=mal_h_m">Seasonal Anime</a></li>
+                        <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m_a">Videos</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=anime&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=anime&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1885985&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Manga</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/manga.php?_location=mal_h_m">Manga Search</a></li>
+            <li><a href="https://myanimelist.net/topmanga.php?_location=mal_h_m">Top Manga</a></li>
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=manga&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=manga&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1886113&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li><a href="#" class="non-link">Community</a>
+          <ul>
+            <li><a href="https://myanimelist.net/forum/?_location=mal_h_m">Forums</a></li>
+            <li><a href="https://myanimelist.net/clubs.php?_location=mal_h_m">Clubs</a></li>
+            <li><a href="https://myanimelist.net/blog.php?_location=mal_h_m">Blogs</a></li>
+            <li><a href="https://myanimelist.net/users.php?_location=mal_h_m">Users</a></li>
+            <li><a href="https://discord.gg/E2xC8ZF">Discord Chat</a></li>
+          </ul>
+        </li>
+        <li class="small2"><a href="#" class="non-link">Industry</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/news?_location=mal_h_m">News</a></li>
+            <li><a href="https://myanimelist.net/featured?_location=mal_h_m">Featured Articles</a></li>
+            <li><a href="https://myanimelist.net/people.php?_location=mal_h_m">People</a></li>
+            <li><a href="https://myanimelist.net/character.php?_location=mal_h_m">Characters</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Watch</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m">Episode Videos</a></li>
+            <li><a href="https://myanimelist.net/watch/promotion?_location=mal_h_m">Promotional Videos</a></li></ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Read</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+          </ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Help</a>
+          <ul class="wide">
+            <li><a href="https://myanimelist.net/about.php?_location=mal_h_m">About</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=support&amp;_location=mal_h_m">Support</a></li>
+            <li><a href="https://myanimelist.net/advertising?_location=mal_h_m">Advertising</a></li>
+            <li><a href="https://myanimelist.net/forum/?topicid=515949&amp;_location=mal_h_m">FAQ</a></li>
+            <li><a href="https://myanimelist.net/modules.php?go=report&amp;_location=mal_h_m">Report</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=team&amp;_location=mal_h_m">Staff</a></li><li><a href="https://myanimelist.net/membership?_location=mal_h_m">MAL Supporter</a></li>
+          </ul>
+        </li>
+        
+            
+      </ul>
+    </div>  </div><div id="contentWrapper" itemscope itemtype="http://schema.org/TVSeries"><div><div class="h1 edit-info">
+      <div class="h1-title"><div itemprop="name"><h1 class="title-name h1_bold_none"><strong>Gugure! Kokkuri-san</strong></h1></div></div><div class="header-right">
+          <a href="https://myanimelist.net/login.php?from=%2Fanime%2F23251%2FGugure_Kokkuri-san&amp;error=login_required" class="js-anime-edit-info-button"><i class="fa fa-pencil mr4"></i>Edit</a>
+<div id="editdiv" class="fw-n fs11">
+  <form method="GET" action="https://myanimelist.net/dbchanges.php" class="di-i">
+    <input type="hidden" name="aid" value="23251">
+    <div class="pb8">What would you like to edit?</div>
+                      <select name="t" id="t" class="inputtext"><option value="synopsis">Synopsis</option><option value="background">Background</option><option value="alternative_titles">Alternative Titles</option><option value="pic">Picture</option><option value="airingdates">Airing Dates</option><option value="producers">Producers</option><option value="relations">Relations</option><option value="rating">Rating</option><option value="duration">Duration</option><option value="source">Source</option><option value="broadcast">Broadcast</option></select>
+     &nbsp;<input type="submit" value="Go" class="inputButton flat btn-middle">
+  </form>
+</div>
+</div></div></div><div id="content" >
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+	 <td class="borderClass" width="225" style="border-width: 0 1px 0 0;" valign="top"><div style="width: 225px">
+
+<div style="text-align: center;">
+          <a href="https://myanimelist.net/anime/23251/Gugure_Kokkuri-san/pics">
+      <img class="lazyload" data-src="https://cdn.myanimelist.net/images/anime/6/65665.jpg" alt="Gugure! Kokkuri-san" class="ac" itemprop="image">
+    </a>
+  </div>
+
+<!-- My List -->
+<div class="profileRows pb0">
+  <a href="https://myanimelist.net/login.php?from=%2Fanime%2F23251%2FGugure_Kokkuri-san&amp;error=login_required">Add to My List</a>
+</div>
+
+<div id="addtolist" class="addtolist-block js-anime-addtolist-block" style="display: none;">
+  <input type="hidden" id="myinfo_anime_id" value="23251">
+  <input type="hidden" id="myinfo_curstatus" value="">
+
+  <span class="notice_open_public pb4">* Your list is public by default.</span>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td class="spaceit">Status:</td>
+      <td class="spaceit">
+        <select name="myinfo_status" id="myinfo_status" class="inputtext js-anime-status-dropdown"><option value="1">Watching</option><option value="2">Completed</option><option value="3">On-Hold</option><option value="4">Dropped</option><option selected="selected" value="6">Plan to Watch</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td class="spaceit">Eps Seen:</td>
+      <td class="spaceit">
+        <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext" value="0"> / <span id="curEps">12</span></td>
+    </tr>
+    <tr>
+      <td class="spaceit">Your Score:</td>
+      <td class="spaceit">
+        <select name="myinfo_score" id="myinfo_score" class="inputtext"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>
+                <input type="button" name="myinfo_submit" value="Add" class="inputButton btn-middle flat js-anime-add-button">
+        <span id="addtolistresult"><a href="https://myanimelist.net/ownlist/anime/add?selected_series_id=23251">Add Detailed Info</a></span>
+              </td>
+    </tr>
+  </table>
+  <div id="myinfoDisplay" style="padding-left: 89px; margin-top: 3px;"></div>
+</div>
+<!-- end My List -->
+
+<div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F23251%2FGugure_Kokkuri-san&amp;error=login_required" style="font-weight:normal;">Add to Favorites</a></div>
+
+<div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F23251%2FGugure_Kokkuri-san"></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F23251%2FGugure_Kokkuri-san&amp;text=Gugure%21%20Kokkuri-san&amp;hashtags=anime"></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F23251%2FGugure_Kokkuri-san&amp;title=Gugure%21%20Kokkuri-san"></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F23251%2FGugure_Kokkuri-san&amp;name=Gugure%21%20Kokkuri-san"></a></div>  <br />
+
+  <h2>Alternative Titles</h2><div class="spaceit_pad">
+    <span class="dark_text">English:</span> GUGURE! KOKKURI-SAN
+  </div><div class="spaceit_pad">
+    <span class="dark_text">Synonyms:</span> GuguKoku
+  </div><div class="spaceit_pad">
+    <span class="dark_text">Japanese:</span> 繰繰れ！コックリさん
+  </div><br />
+
+<h2>Information</h2>
+
+<div>
+  <span class="dark_text">Type:</span>
+  <a href="https://myanimelist.net/topanime.php?type=tv">TV</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Episodes:</span>
+  12
+  </div>
+
+<div>
+  <span class="dark_text">Status:</span>
+  Finished Airing
+  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Aired:</span>
+  Oct 6, 2014 to Dec 22, 2014
+  </div>
+
+  <div>
+    <span class="dark_text">Premiered:</span>
+          <a href="https://myanimelist.net/anime/season/2014/fall">Fall 2014</a>
+          </div>
+
+  <div class="spaceit">
+    <span class="dark_text">Broadcast:</span>
+    Mondays at 01:05 (JST)
+      </div>
+
+  <div>
+    <span class="dark_text">Producers:</span>
+          <a href="/anime/producer/16/TV_Tokyo" title="TV Tokyo">TV Tokyo</a>,       <a href="/anime/producer/61/Frontier_Works" title="Frontier Works">Frontier Works</a>,       <a href="/anime/producer/108/Media_Factory" title="Media Factory">Media Factory</a>,       <a href="/anime/producer/139/Nihon_Ad_Systems" title="Nihon Ad Systems">Nihon Ad Systems</a>,       <a href="/anime/producer/737/Sony_Music_Communications" title="Sony Music Communications">Sony Music Communications</a>  </div>
+  <div class="spaceit">
+    <span class="dark_text">Licensors:</span>
+          <a href="/anime/producer/376/Sentai_Filmworks" title="Sentai Filmworks">Sentai Filmworks</a>  </div>
+  <div>
+    <span class="dark_text">Studios:</span>
+          <a href="/anime/producer/73/TMS_Entertainment" title="TMS Entertainment">TMS Entertainment</a>  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Source:</span>
+  4-koma manga
+  </div>
+
+<div>
+  <span class="dark_text">Genres:</span>
+      <span itemprop="genre" style="display: none">Comedy</span><a href="/anime/genre/4/Comedy" title="Comedy">Comedy</a>,     <span itemprop="genre" style="display: none">Supernatural</span><a href="/anime/genre/37/Supernatural" title="Supernatural">Supernatural</a>,     <span itemprop="genre" style="display: none">Shounen</span><a href="/anime/genre/27/Shounen" title="Shounen">Shounen</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Duration:</span>
+  24 min. per ep.
+  </div>
+
+<div>
+  <span class="dark_text">Rating:</span>
+  PG-13 - Teens 13 or older
+  </div>
+
+<br />
+
+<h2>Statistics</h2>
+<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" class="po-r js-statistics-info di-ib" data-id="info1">
+  <span class="dark_text">Score:</span>
+  <span itemprop="ratingValue" class="score-label score-7">7.58</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">64540</span>64,540 users)
+      <meta itemprop="bestRating" content="10">
+    <meta itemprop="worstRating" content="1">
+      <div class="statistics-info info1">
+    <small><sup>1</sup>
+          indicates a <a href="javascript:void(0);" onclick="window.open('/info.php?go=topanime','topanime','menubar=no,scrollbars=no,status=no,width=500,height=380');">weighted score</a>.
+    </small>
+  </div>
+</div>
+<div class="spaceit po-r js-statistics-info di-ib" data-id="info2">
+  <span class="dark_text">Ranked:</span>
+  #1354<sup>2</sup>
+    <div class="statistics-info info2">
+    <small><sup>2</sup>
+    based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
+    </small>
+  </div>
+</div>
+<div>
+  <span class="dark_text">Popularity:</span>
+  #955
+</div>
+<div class="spaceit">
+  <span class="dark_text">Members:</span>
+    150,067
+</div>
+<div>
+  <span class="dark_text">Favorites:</span>
+  952
+</div>
+
+  <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
+          </div>
+
+</div></td><td valign="top" style="padding-left: 5px;"><div class="js-scrollfix-bottom-rel"><div style="width:728px; margin:0 auto"></div><a name="lower"></a>
+<div id="horiznav_nav" style="margin: 5px 0 10px 0;">
+  <ul style="margin-right: 0; padding-right: 0;">
+        <li><a href="https://myanimelist.net/anime/23251/Gugure_Kokkuri-san" class="horiznav_active">Details</a>
+    </li>
+        <li><a href="/anime/23251/Gugure_Kokkuri-san/video">Videos</a>
+    </li>
+        <li>      <a href="https://myanimelist.net/anime/23251/Gugure_Kokkuri-san/episode">Episodes</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/23251/Gugure_Kokkuri-san/reviews">Reviews</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/23251/Gugure_Kokkuri-san/userrecs">Recommendations</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/23251/Gugure_Kokkuri-san/stats">Stats</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/23251/Gugure_Kokkuri-san/characters">Characters &amp; Staff</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/23251/Gugure_Kokkuri-san/news">News</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/23251/Gugure_Kokkuri-san/forum">Forum</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/23251/Gugure_Kokkuri-san/clubs">Clubs</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/23251/Gugure_Kokkuri-san/pics">Pictures</a>
+    </li>
+    </ul>
+</div>
+
+
+
+                    <div class="breadcrumb " itemscope itemtype="http://schema.org/BreadcrumbList"><div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/" itemprop="item"><span itemprop="name">
+              Top
+                          </span></a><meta itemprop="position" content="1"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime.php" itemprop="item"><span itemprop="name">
+              Anime
+                          </span></a><meta itemprop="position" content="2"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime/23251/Gugure_Kokkuri-san" itemprop="item"><span itemprop="name">
+              Gugure! Kokkuri-san
+                          </span></a><meta itemprop="position" content="3"></div></div>
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="64,540 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-7">7.58</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#1354</strong></span><span class="numbers popularity">Popularity <strong>#955</strong></span><span class="numbers members">Members <strong>150,067</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2014/fall">Fall 2014</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/73/TMS_Entertainment" title="TMS Entertainment">TMS Entertainment</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="23251"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F23251%2FGugure_Kokkuri-san&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+        Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="12">12</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=GUGURE%21%20KOKKURI-SAN&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime js-shop-selecter icon-shop-default" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:23251,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><div class="anime-detail-header-affiliate-dialog js-shop-selecter-dialog" style="display:none"><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=GUGURE%21%20KOKKURI-SAN&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:23251,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><a href="http://www.cdjapan.co.jp/aff/click.cgi/PytJTGW7Lok/6039/A764127/searches?q=Gugure%21+Kokkuri-san" class="btn-affiliate cdjapan js-shop-anime js-shop-cd-japan" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;cdjapan&quot;,&quot;id&quot;:23251,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/logo-cdjapan.png" width="118" height="25" alt="buy from CD Japan"></a><a href="http://www.shareasale.com/r.cfm?u=1384175&b=866986&m=65886&afftrack=&urllink=www.rightstufanime.com%2Fsearch%3Fkeywords%3DGUGURE%20KOKKURI-SAN" class="btn-affiliate right_stuf js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;right_stuf&quot;,&quot;id&quot;:23251,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_right_stuf.png" width="118" height="25" alt="buy from Rightstuf"></a></div></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/d1_QEl12Qc8?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/d1_QEl12Qc8/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">PV 2</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/23251/Gugure_Kokkuri-san/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
+</div><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=23251&t=synopsis" style="font-weight: normal;">Edit</a></div><h2>Synopsis</h2></div><p itemprop="description"><i>Gugure! Kokkuri-san</i> is an eccentric comedy centered around the self-proclaimed doll, Kohina Ichimatsu. Her uneventful life goes from plain to absurd when she summons a fox spirit by the name of Kokkuri-san. But contrary to popular belief, he is not the omniscient, answer-granting spirit from the legend anymore. The loss of believers in modern society has rendered him powerless.<br />
+<br />
+Upon meeting the bizarre girl who summoned him, Kokkuri-san is shocked to discover that Kohina not only lives alone, but survives on just cup ramen! Filled with concern for the young girl, he takes it upon himself to ensure that Kohina has proper meals and lives a decent life. Thus begin Kokkuri-san&#039;s less-than-hopeful endeavors and their peculiar life together.<br />
+<br />
+[Written by MAL Rewrite]</p><div style="margin-top: 15px;"><div class="floatRightHeader"><a href="/dbchanges.php?aid=23251&t=background" style="font-weight: normal;">Edit</a></div><h2>Background</h2></div>No background information has been added to this title. Help improve our database by adding background information <a href="/dbchanges.php?aid=23251&t=background">here</a>.<br><div class="border_top" style="padding:16px 0px 0px 0px;margin:14px 0px 0px 0px;"><div style="padding: 20px 0 20px 40px; float: left; position: relative; z-index: 1;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540582" data-ad-slot="criteo_slot_1540582" id="criteo_slot_1540582"></div>
+
+      </div>
+    </div><div style="padding: 20px 40px 20px 0; float: right; position: relative;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540583" data-ad-slot="criteo_slot_1540583" id="criteo_slot_1540583"></div>
+
+      </div>
+    </div></div></td></tr><tr><td class="pb24"><br><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=23251&t=relations" style="font-weight: normal;">Edit</a></div><h2>Related Anime</h2></div><table class="anime_detail_related_anime" style="border-spacing:0px;"><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Adaptation:</td><td width="100%" class="borderClass"><a href="/manga/28172/Gugure_Kokkuri-san">Gugure! Kokkuri-san</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Side story:</td><td width="100%" class="borderClass"><a href="/anime/27945/Gugure_Kokkuri-san_Specials">Gugure! Kokkuri-san Specials</a></td></table><br><div><div class="floatRightHeader"><a href="/anime/23251/Gugure_Kokkuri-san/characters" style="font-weight: normal;">More characters</a></div><h2>Characters & Voice Actors</h2></div><div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/103601/Kohina_Ichimatsu" class="fw-n">
+            <img alt="Ichimatsu, Kohina" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/11/240503.jpg?s=fdfae594bb24e16cbaae30c0916ea5bf" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/11/240503.jpg?s=fdfae594bb24e16cbaae30c0916ea5bf 1x, https://cdn.myanimelist.net/r/84x124/images/characters/11/240503.jpg?s=1a68a7ca8bb7a4c6fcc1e8499a28f726 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/103601/Kohina_Ichimatsu">Ichimatsu, Kohina</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/111/Ryou_Hirohashi">Hirohashi, Ryou</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/111/Ryou_Hirohashi">
+                      <img alt="Hirohashi, Ryou" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/43228.jpg?s=4941dd2e4900c4c04bc25f31866a0964" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/43228.jpg?s=4941dd2e4900c4c04bc25f31866a0964 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/43228.jpg?s=29bdf0242bfe103df19cb498f19c0e73 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/103599/Kokkuri-san" class="fw-n">
+            <img alt="Kokkuri-san" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/12/240509.jpg?s=b991ea758c094b12bd2ce7424aa4734b" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/12/240509.jpg?s=b991ea758c094b12bd2ce7424aa4734b 1x, https://cdn.myanimelist.net/r/84x124/images/characters/12/240509.jpg?s=ccd6c0720ed5532105d82a53faadb899 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/103599/Kokkuri-san">Kokkuri-san</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/212/Daisuke_Ono">Ono, Daisuke</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/212/Daisuke_Ono">
+                      <img alt="Ono, Daisuke" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/54593.jpg?s=2cd350a1a5beea92a102bb5309aabae5" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/54593.jpg?s=2cd350a1a5beea92a102bb5309aabae5 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/54593.jpg?s=8f9590317833b0869afab3c4eca898a0 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/103595/Inugami" class="fw-n">
+            <img alt="Inugami" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/10/240507.jpg?s=e125b08efe3b7db600d6cd2f9222d5ea" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/10/240507.jpg?s=e125b08efe3b7db600d6cd2f9222d5ea 1x, https://cdn.myanimelist.net/r/84x124/images/characters/10/240507.jpg?s=39492182e0f7c45ea763535ab3953538 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/103595/Inugami">Inugami</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/61/Chiwa_Saito">Saito, Chiwa</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/61/Chiwa_Saito">
+                      <img alt="Saito, Chiwa" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/44265.jpg?s=016d345e747a849f56987b33f8cdf259" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/44265.jpg?s=016d345e747a849f56987b33f8cdf259 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/44265.jpg?s=3ba3b91f9aca3c528ca9a606324aec58 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/103597/Shigaraki" class="fw-n">
+            <img alt="Shigaraki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/9/240505.jpg?s=f3b4e5820e4dea8a8af3486f4fa5fdd1" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/9/240505.jpg?s=f3b4e5820e4dea8a8af3486f4fa5fdd1 1x, https://cdn.myanimelist.net/r/84x124/images/characters/9/240505.jpg?s=5f5f06e544efa3cb9ff524a370ba5fa0 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/103597/Shigaraki">Shigaraki</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/91/Jouji_Nakata">Nakata, Jouji</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/91/Jouji_Nakata">
+                      <img alt="Nakata, Jouji" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/58788.jpg?s=07bb3fde6da1ed9c01bf6806906e741d" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/58788.jpg?s=07bb3fde6da1ed9c01bf6806906e741d 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/58788.jpg?s=6caeeda5dc605226692362dd27be4356 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/112713/Yamamoto-kun" class="fw-n">
+            <img alt="Yamamoto-kun" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/9/257879.jpg?s=d583fbb9e28e170815b3491e3f4e9ca7" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/9/257879.jpg?s=d583fbb9e28e170815b3491e3f4e9ca7 1x, https://cdn.myanimelist.net/r/84x124/images/characters/9/257879.jpg?s=658a39588886f26e8295a7fc148a8fe8 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/112713/Yamamoto-kun">Yamamoto-kun</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/9790/Kazutomi_Yamamoto">Yamamoto, Kazutomi</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/9790/Kazutomi_Yamamoto">
+                      <img alt="Yamamoto, Kazutomi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/42789.jpg?s=c717677d52a79793b526d32e909fb273" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/42789.jpg?s=c717677d52a79793b526d32e909fb273 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/42789.jpg?s=c511b35d829481b28941045fc7624d34 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/112709/Tama" class="fw-n">
+            <img alt="Tama" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/2/257875.jpg?s=1237ff7e946ab8850aaf9212628e541a" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/2/257875.jpg?s=1237ff7e946ab8850aaf9212628e541a 1x, https://cdn.myanimelist.net/r/84x124/images/characters/2/257875.jpg?s=e8f0911802045d4f76838cae663567b3 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/112709/Tama">Tama</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/140/Yukana">Yukana</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/140/Yukana">
+                      <img alt="Yukana" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/45746.jpg?s=b87f8af22a34d51c3de001546510953a" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/45746.jpg?s=b87f8af22a34d51c3de001546510953a 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/45746.jpg?s=7adcf547296852b4f95e4cd343ca315b 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/112711/Jimeko" class="fw-n">
+            <img alt="Jimeko" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/13/266005.jpg?s=23c962ca2717c913a53026eea9219e12" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/13/266005.jpg?s=23c962ca2717c913a53026eea9219e12 1x, https://cdn.myanimelist.net/r/84x124/images/characters/13/266005.jpg?s=7f52ee43be6a37b1d6fe6061152042c4 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/112711/Jimeko">Jimeko</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/8555/Hisako_Kanemoto">Kanemoto, Hisako</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/8555/Hisako_Kanemoto">
+                      <img alt="Kanemoto, Hisako" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/53110.jpg?s=eec77e045328947f4fe23698bc94463d" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/53110.jpg?s=eec77e045328947f4fe23698bc94463d 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/53110.jpg?s=39319afe74a8a2f6870d21272deb3848 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/119847/Kureha" class="fw-n">
+            <img alt="Kureha" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/13/270101.jpg?s=d854951c0a17138fe331022222426219" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/13/270101.jpg?s=d854951c0a17138fe331022222426219 1x, https://cdn.myanimelist.net/r/84x124/images/characters/13/270101.jpg?s=f4c6a7493750f64298ec54f24fa9fc7b 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/119847/Kureha">Kureha</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/241/Rina_Satou">Satou, Rina</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/241/Rina_Satou">
+                      <img alt="Satou, Rina" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54579.jpg?s=32dbaed6a156fee09f37e450c3a2a42a" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54579.jpg?s=32dbaed6a156fee09f37e450c3a2a42a 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/54579.jpg?s=88a5f27e9feef2a2ccc0d1036bc4e8ef 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/112715/Tengu" class="fw-n">
+            <img alt="Tengu" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/4/257881.jpg?s=cc10eb6c7605675e7cbce820527c55fa" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/4/257881.jpg?s=cc10eb6c7605675e7cbce820527c55fa 1x, https://cdn.myanimelist.net/r/84x124/images/characters/4/257881.jpg?s=8e7f2fc6e8a991b371e087e24b28e59d 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/112715/Tengu">Tengu</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/97/Kousuke_Toriumi">Toriumi, Kousuke</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/97/Kousuke_Toriumi">
+                      <img alt="Toriumi, Kousuke" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/56756.jpg?s=da69abd19900e74ae5817ffc973cb65a" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/56756.jpg?s=da69abd19900e74ae5817ffc973cb65a 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/56756.jpg?s=4285e8e69cf22b2bb1fd403af049eb49 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/120769/Noel" class="fw-n">
+            <img alt="Noel" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/4/271125.jpg?s=17f7e94110a722ed802b9c05113f9220" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/4/271125.jpg?s=17f7e94110a722ed802b9c05113f9220 1x, https://cdn.myanimelist.net/r/84x124/images/characters/4/271125.jpg?s=98213943700170a39f06e91e5b2a3bff 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/120769/Noel">Noel</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/32/Ai_Nonaka">Nonaka, Ai</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/32/Ai_Nonaka">
+                      <img alt="Nonaka, Ai" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/55312.jpg?s=19fc21b12e542fe49a28f9760be8c39b" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/55312.jpg?s=19fc21b12e542fe49a28f9760be8c39b 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/55312.jpg?s=27c53b1013a40eef2f9e3496077c0fa9 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div></div>
+<div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div><br>
+<a name="staff"></a>
+<div>
+  <div class="floatRightHeader"><a href="https://myanimelist.net/anime/23251/Gugure_Kokkuri-san/characters#staff">More staff</a></div>
+  <h2>Staff</h2>
+</div>
+
+<div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/8538/Yoshimasa_Hiraike" class="fw-n">
+            <img alt="Hiraike, Yoshimasa" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/39740.jpg?s=e4c84ac65d6890968328ec5573978cfe" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/39740.jpg?s=e4c84ac65d6890968328ec5573978cfe 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/39740.jpg?s=bc13e798b60a3c6b1c836c3b1c1973f5 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/8538/Yoshimasa_Hiraike">Hiraike, Yoshimasa</a>
+        <div class="spaceit_pad">
+          <small>Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/7194/Youta_Tsuruoka" class="fw-n">
+            <img alt="Tsuruoka, Youta" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54363.jpg?s=e9397021c644288d39561c1c734a0352" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54363.jpg?s=e9397021c644288d39561c1c734a0352 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/54363.jpg?s=b5bcd6c20a19dcb06185a26822446d8c 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/7194/Youta_Tsuruoka">Tsuruoka, Youta</a>
+        <div class="spaceit_pad">
+          <small>Sound Director</small>
+        </div>
+      </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/42034/Daisuke_Takashima" class="fw-n">
+            <img alt="Takashima, Daisuke" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/42034/Daisuke_Takashima">Takashima, Daisuke</a>
+        <div class="spaceit_pad">
+          <small>Episode Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/39175/Kazuomi_Koga" class="fw-n">
+            <img alt="Koga, Kazuomi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/39175/Kazuomi_Koga">Koga, Kazuomi</a>
+        <div class="spaceit_pad">
+          <small>Episode Director</small>
+        </div>
+      </td>
+    </tr>
+  </table></div></div>
+<br><br><div class="di-t">
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=23251&amp;t=theme" class="floatRightHeader">Edit</a>
+      <h2>Opening Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs opnening"><span class="theme-song">&quot;Welcome!! DISCO Kemo Kemo Ke (Welcome!!DISCOけもけもけ)&quot; by Kokkuri-san (CV: Daisuke Ono). Narration by Inugami (CV: Takahiro Sakurai), Shigaraki (CV: Jouji Nakata) (eps 2-11)</span><br></div>
+  </div>
+  <div class="di-tc va-t}" style="width:16px;"></div>
+
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=23251&amp;t=theme&amp;themetype=2" class="floatRightHeader">Edit</a>
+      <h2>Ending Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs ending"><span class="theme-song">#1: &quot;Welcome!! DISCO Kemo Kemo Ke (Welcome!!DISCOけもけもけ)&quot; by Kokkuri-san (CV: Daisuke Ono). Narration by Inugami (CV: Takahiro Sakurai), Shigaraki (CV: Jouji Nakata) (eps 1, 12)</span><br><span class="theme-song">#2: &quot;This Merry-Go-Round Song&quot; by Atsushi Suemitsu (eps 2-7, 9-11)</span><br><span class="theme-song">#3: &quot;This Merry-Go-Round Song (Piano Version)&quot; by Atsushi Suemitsu (ep 8)</span><br></div>
+  </div>
+</div>
+<br><br><br><div><span class="floatRightHeader"><a href="/anime/23251/Gugure_Kokkuri-san/reviews">More reviews</a></span><h2>Reviews</h2></div>
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="6:46 AM">Dec 21, 2014</div>
+      <div class="lightLink spaceit">
+                  12 of 12 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score173441').toggle()">Overall Rating</a>:
+        8
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/GoS1234">
+                  <img src="https://cdn.myanimelist.net/images/userimages/3194647.jpg?t=1526527200" data-src="https://cdn.myanimelist.net/images/userimages/3194647.jpg?t=1526527200" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/GoS1234">GoS1234</a>
+              <small>(<a href="/profile/GoS1234/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp173441">130</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score173441">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>8</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">6</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">5</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">9</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">8</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">8</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    After finishing &quot;Gugure! Kokkuri-san&quot; I had to think to myself: What makes an anime good?  Is it the person&#039;s expectations going in?  Because I came for the comedy and at no point throughout the entirety of the show was I ever disappointed.  In fact, comedy is the only thing that this show even makes an attempt at, and boy does it do it well (although there is a recurring message in the show if you can pick it out).  I&#039;ll try my best to tell you my thoughts on the show, and if you hate the very core of my being
+
+          <span style="display: none;" id="review173441">
+        after this review than I&#039;m sure we can talk it out like civilized people.<br />
+<br />
+Characters- The show has a diverse and hilarious cast to ensure that you will laughing at, at least 1 of the 5 gags/jokes this show throws at you per minute. 8/10<br />
+<br />
+I&#039;m starting with characters because to be honest... If you don&#039;t like the characters you will not enjoy the show.  Kokkuri himself is portrayed as an attractive spirit struggling with a mid-life crisis due to him fearing for his relevance in the the modern world.  Although he&#039;s a man he has many intricacies that one would normally associate with women.  This takes form (literally) later on in the show.  Now Kohina can be a really hit or miss character with some people.  Her design is extremely deformed in comparison to all of the other characters (which turns a lot of people off), but anyone who is familiar with &quot;Oyasumi Punpun&quot; should have at least some idea of whats really going on there.  She is the center of all insanity that happens in each episode.   Shigaraki was probably my favorite character although he started out as my least favorite.  Another spirit who often brings misfortune to others, but despite this he is a true romantic.  Inugami is yandere dog who died from neglect but was reincarnated into the world as a spirit.  He/she gender swaps often due forgetting his/her gender in the previous life.  Characters interactions were entertaining throughout.<br />
+<br />
+Sound/art- My roommate walked in on me dancing to the opening and said &quot;wtf are you doing bro.&quot; 10/10 <br />
+<br />
+The opening is cleverly done, full of personality, and of course catchy as hell.  The ending is good as well, and the shows OST is funny sounding... in the best way possible.  As for the art I&#039;d say its completely average.  I mean sure it has a certain style to it, but in comparison to many other shows released this year there really is nothing notable about it.<br />
+<br />
+Story- Its serves its purpose as being the catalyst for the numerous gags, jokes, and satirical content this show offers. 6/10<br />
+<br />
+From the first 2 episodes you will know whether this show is for you or not.  The series seems to enjoy taunting its viewers with scenarios that in many other shows would be clear indicators of: DRAMA INCOMING! only to slap you along with your expectations across the face.  This happens a lot.  But its FUNNY EVERY TIME.  Although I&#039;d be lying if I said I didn&#039;t want to see some drama play out.  Either way the synopsis pretty much says it all, and the way the story presents itself is favorable.<br />
+<br />
+Conclusion- If you want some laughs look no further! This is your show!  If you want anything else... Its a questionable endeavor.  I gave it a great 8 because not many shows can make me laugh as much as this one did.<br />
+<br />
+Should Watch:<br />
+-If Satire/parody is your thing, because this show has every western/Japanese pop culture gag you can think of.<br />
+-Had a rough day? Just sit back and laugh it off!<br />
+-Fun Characters that will grow on you.<br />
+<br />
+Should avoid:<br />
+-If you want some sort of meaningful romance/drama.<br />
+-Some gags get repetitive<br />
+<br />
+<br />
+ <br />
+<br />
+
+        
+<div id="revhelp_output_173441" class="mt8 js-review-btn-helpful js-review-helpful-173441">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F23251%2FGugure_Kokkuri-san" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle173441"
+         class="js-toggle-review-button" data-id="173441">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=173441" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=173441" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="10:57 AM">Dec 25, 2014</div>
+      <div class="lightLink spaceit">
+                  12 of 12 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score174255').toggle()">Overall Rating</a>:
+        9
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/malikkkk27_">
+                  <img src="https://cdn.myanimelist.net/images/userimages/4094591.jpg?t=1599823800" data-src="https://cdn.myanimelist.net/images/userimages/4094591.jpg?t=1599823800" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/malikkkk27_">malikkkk27_</a>
+              <small>(<a href="/profile/malikkkk27_/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp174255">48</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score174255">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>9</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">8</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">8</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">9</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">8</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">10</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Gugure Kokkuri-San has come to an end. Another ending which make me feel ugh, what to watch again. Honestly this is the funniest anime to watch in 2014. This reminds me of barakemon and Gekkan Shoujo Nozaki Kun, those two anime shows were really great. I really like the voice actors typically Daisuke Ono, who voice of course Kokkuri and Sensei from Barakemon.<br />
+<br />
+<br />
+So here are my results:<br />
+<br />
+Story: 8/10, I thought it might follow the plot story like Inugami running away from home and thought he will be search by the members on EP 10, but well he is completely ignored. Funny, it may contain mix
+
+          <span style="display: none;" id="review174255">
+        up plots since it&#039; published in Manga, so yeah.but still it&#039;s good to watch<br />
+<br />
+Art: 8/10, I have no comments on this, but good job on Kokkuri-San especially when she&#039;s a girl. <br />
+<br />
+Sound:9/10, The OP song was really catchy, I couldn&#039;t bear to skip it. The ED song to was really touching, that feel, you know.<br />
+<br />
+Character: 8/10, They are okay, I can say but what I wish is to see Kohina real emotions but nahh, she rather be a doll and eating cup noodles, I respect that, cause i eat cup noodles too<br />
+<br />
+Lastly enjoyment : 10/10, I say this is really a good anime to watch though it has mix plots and weird stuffs, but it&#039;s a good time to watch after doing some stressing works, yeah.<br />
+<br />
+Overall: 9/10<br />
+<br />
+<br />
+This was a good anime to watch and I rank 2nd after Amagi brilliant park for this. <br />
+I totally RECOMMEND all of you to watch this anime, not Amagi of course.<br />
+<br />
+<br />
+I hear there&#039;s a special 5mins episode for this, hope it will be funnier!<br />
+<br />
+And hopefully there will be 2nd season, IF.<br />
+<br />
+Thanks! Peace
+        
+<div id="revhelp_output_174255" class="mt8 js-review-btn-helpful js-review-helpful-174255">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F23251%2FGugure_Kokkuri-san" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle174255"
+         class="js-toggle-review-button" data-id="174255">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=174255" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=174255" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="5:17 PM">Feb 12, 2016</div>
+      <div class="lightLink spaceit">
+                  12 of 12 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score210762').toggle()">Overall Rating</a>:
+        8
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/LeaderTGW">
+                  <img src="https://cdn.myanimelist.net/images/userimages/2919861.jpg?t=1564232400" data-src="https://cdn.myanimelist.net/images/userimages/2919861.jpg?t=1564232400" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/LeaderTGW">LeaderTGW</a>
+              <small>(<a href="/profile/LeaderTGW/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp210762">41</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score210762">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>8</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">8</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">8</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">8</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">9</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">9</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Amusing, funny, and full of heartwarming moments, Gugure! Kokkuri-San managed to captivate me with it&#039;s unique charm and cast of characters.<br />
+<br />
+There were too many things I liked about this show so I&#039;ll try and keep it short and sweet, just like Kohina.<br />
+<br />
+Perhaps the best thing I loved most was the characters. Ordinarily, I like unique Anime shows, that offer a large to Medium variety of characters. However, Gugure! Kokkuri-San has such a small amount of characters and I just loved them. The characters of the show are obviously from Japanese mythology and games. These spirits that are supposed to be terrifying all have such the
+
+          <span style="display: none;" id="review210762">
+        personalities and characteristic traits given to them that were just so hilarious. Their jokes, slapstick, relationships (how they got along)  and gags were something that I really enjoyed seeing.<br />
+<br />
+The story is there, however it is more like you&#039;re just watching the daily lives of a little girl who thinks she&#039;s a doll interact and live with 3 spirits. One thing that bothered me just a little was that there was no real backstory. Kokkuri mentions a few times during the show about how he&#039;s been aware and has seen Kohina in the past before being summoned to her, however nothing else is explained. Which really makes me question what was the point of adding that into the show if there wasn&#039;t going to be any explanation.<br />
+<br />
+The artwork and character designs done for the show were varied in my opinion. Some were good some were bad, other moments I just didn&#039;t care too much. <br />
+<br />
+The soundtrack isn&#039;t that bad either, the opening song can be a bit of an ear-worm at times, and the ending song was pretty decent, I liked how the characters would change every few episodes.<br />
+<br />
+My final thoughts are that I would highly recommend this show to anyone, especially if you just want to laugh and be entertained without having to think too much.<br />
+<br />
+Overall rating is 8/10 for being a very good and refreshing comedy while representing the unique side of anime. Lastly, Gugure! Kokkuri-San did a pretty damn good job at adding a unique spin and take on Japanese Mythology.
+        
+<div id="revhelp_output_210762" class="mt8 js-review-btn-helpful js-review-helpful-210762">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F23251%2FGugure_Kokkuri-san" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle210762"
+         class="js-toggle-review-button" data-id="210762">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=210762" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=210762" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="8:16 AM">Mar 31, 2015</div>
+      <div class="lightLink spaceit">
+                  12 of 12 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score184238').toggle()">Overall Rating</a>:
+        7
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/NotenSMSK">
+                  <img src="https://cdn.myanimelist.net/images/userimages/3229339.jpg?t=1512712800" data-src="https://cdn.myanimelist.net/images/userimages/3229339.jpg?t=1512712800" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/NotenSMSK">NotenSMSK</a>
+              <small>(<a href="/profile/NotenSMSK/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp184238">41</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score184238">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>7</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">7</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">9</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">9</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">3</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">6</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Gugure! Kokkuri-san is a &#039;good&#039; anime where the term &#039;good&#039; surely requires a lot of explanation. For while I enjoyed it to some extent, I won&#039;t be extremely eager to recommend it to someone else. Let me explain. Unlike some animes that might not mess up in various ways but their positives are not so appealing either to get them a 9 or 10, Kokkuri san has both positives and negatives.<br />
+<br />
+Plot wise, there isn&#039;t much except the appearance of the different ghostly characters in the anime and how interact with Kohina - the protagonist of sorts around which the entire story revolves. Thus it is
+
+          <span style="display: none;" id="review184238">
+        an episodic anime, other than the characters popping at intervals, there is no bigger plot. And honestly the plot here doesn&#039;t matter as much as the characters and the entertainment they give. However there are certain themes tackled in separate episodes that are well developed and rather appealing to watch. They can be given credit.<br />
+<br />
+The art is good - the scenery&#039;s are nice, colorful, the anime gives off a happy vibe to it and most of the characters are also drawn well. And the music was good - it was complimenting, setting the mood and over all I was fond of it.<br />
+<br />
+The real critique starts here: As with episodic animes, the entire anime boils down to the enjoyment. Did you enjoy it? Did the previous episode make you want to watch the next? And the entertainment in such episodes depends greatly on the characters. How did THEY tackle the episode. It isn&#039;t a matter of plot - they could be going to a theme park or beach, or cleaning the house, but how they manage to execute it - and since this is a comedy anime, how many laughs did we get out of it.<br />
+<br />
+Keeping in mind those criteria, the two characters that are introduced since the start of the anime (and I consider those two as the &#039;main&#039; characters since one is Kohina - the girl around which the anime revolves and the other is the one after whom the anime is named), Kokkuri-san and Kohina are first to be discussed. And these two strike off very well together.<br />
+<br />
+Kohina - a girl self believing she is a doll who goes off with philosophical monologues that even depress the aged spirit and the aged spirit (that doesn&#039;t look aged) that despite craving to be feared finds the unstable state of Kohina too pitiful to leave her alone. She depresses him, he gets over it, she eats cup noodles, he disposes off them. She and he... they just develop a chemistry that compliment each other very well. Her retorts and his retorts work well with giving the viewer good, light, family comedy.<br />
+<br />
+However when the rest of the spirits start pouring in, the anime turned from very good to mediocre. The characters are also in one way or the other attached to Kohina (except Shigaraki who is just there for fun - but he too is perverted) but their attachment is forced. Now that in itself doesn&#039;t seem like a bad trait, the show is comedy, there is no reason to stick to extremely believable progression as long as we get comedy right? But that is where the show loses appeal. The punch lines/events associated with the other characters all seem forced in contract to Kokkuri-san and they just don&#039;t hit the nail. And you see them trying to be funny but they just can&#039;t get it right mot of the time. At times, yea - they manage to get a comical flurry - but rarely. Furthermore, they made the rest of the characters way too 1-Dimensional to like. Yes, Kokkuri-san is no Kurono from Gantz either - he isn&#039;t the best example of a 3-D char but his traits shown are not excessively questionable - or you don&#039;t find the reason to question them. For the rest of the characters, they just seemed like medicore fillers in a decent anime.<br />
+<br />
+And when the fillers are there for more than half of the anime - it gets boring. True, there are certain comical moments combining all the chars but the expectations given by the duo in the start did leave me a little disappointed till the end.<br />
+<br />
+So, if you are looking for a decent, light comedy anime that you can watch with someone who doesn&#039;t have a very specific taste, then it is a good choice. However, if you are looking for a really good attempt at comedy that definitely delivers epic fun, then sorry - it has its moments, but I won&#039;t recommend it to you on those basis. <br />
+<br />
+Thank you reading and whether you agree or not, I am glad to discuss so any constructive feedback or discussion is welcome!
+        
+<div id="revhelp_output_184238" class="mt8 js-review-btn-helpful js-review-helpful-184238">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F23251%2FGugure_Kokkuri-san" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle184238"
+         class="js-toggle-review-button" data-id="184238">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=184238" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=184238" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+<div class="mt4"></div><div class="amazon-ads anime-manga-detail bottom pt20 pb16">
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "animedetail-20";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Buy on Amazon.com ";
+amzn_assoc_default_search_phrase = "GUGURE! KOKKURI-SAN";
+amzn_assoc_default_category = "DVD";
+amzn_assoc_linkid = "d33d41183eb8aee6216ffe9ff44ca735";
+amzn_assoc_rows = "1";
+amzn_assoc_search_bar_position = "bottom";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+</div>            <div class="mal-ad-unit" data-ad-width="801" data-ad-height="633">
+        <div id="taboola-below-article-thumbnails-anime"></div> <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'alternating-thumbnails-a',
+    container: 'taboola-below-article-thumbnails-anime',
+    placement: 'Below Article Thumbnails Anime',
+    target_type: 'mix'
+  });
+</script>
+
+      </div>
+    <br><div><div class="floatRightHeader"><a href="/anime/23251/Gugure_Kokkuri-san/news">More news</a></div><h2>Recent News</h2></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/45467441" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1459798025-b6a89899ac90fe44477aa8f5ddc68e11.jpeg?s=03c0627a034b1e0e90c288c4dcb5d41e" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1459798025-b6a89899ac90fe44477aa8f5ddc68e11.jpeg?s=03c0627a034b1e0e90c288c4dcb5d41e 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1459798025-b6a89899ac90fe44477aa8f5ddc68e11.jpeg?s=db8a6f9b7dbe47f77ead95a58fcf54c4 2x" alt=" North American Anime &amp; Manga Releases for April" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/45467441"><strong> North American Anime &amp; Manga Releases for April</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p>Here are the North American anime &amp; manga releases for April. Week 1: April 5 - 11 Anime Releases Gakuen Alice Complete Collection Garakowa -Restore the World- B...<a href="/news/45467441">read more</a></p></div>
+		<p class="lightLink spaceit">Apr 4, 2016 12:43 PM by <a href="/profile/Sakana-san">Sakana-san</a> | <a href="/forum/?topicid=1498118">Discuss (7 comments)</a></p></div>
+		<div class="borderClass"></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/35142623" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1467994595-2a68da3900ce6be34148b6bc3f16f169.jpeg?s=4493f2772d06b6d5631178bf641e63f2" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1467994595-2a68da3900ce6be34148b6bc3f16f169.jpeg?s=4493f2772d06b6d5631178bf641e63f2 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1467994595-2a68da3900ce6be34148b6bc3f16f169.jpeg?s=8321de8f17ade87e817a15defe9c2857 2x" alt="&#039;Gugure! Kokkuri-san&#039; to Include Short OVAs" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/35142623"><strong>&#039;Gugure! Kokkuri-san&#039; to Include Short OVAs</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p>It was announced that each of the six BD/DVD volumes of the TV anime series Gugure! Kokkuri-san will include a five-minute OVA. Source: Official site News submitted ...<a href="/news/35142623">read more</a></p></div>
+		<p class="lightLink spaceit">Oct 13, 2014 10:09 PM by <a href="/profile/tsubasalover">tsubasalover</a> | <a href="/forum/?topicid=1288453">Discuss (9 comments)</a></p></div>
+		<div class="borderClass"></div><br><div><div class="floatRightHeader"><a href="/forum/?animeid=23251"><a href="/anime/23251/Gugure_Kokkuri-san/forum">More discussions</a></div><h2>Recent Forum Discussion</h2></div><div class="page-forum">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F23251%2FGugure_Kokkuri-san&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1328313">Gugure! Kokkuri-san Episode 12 Discussion</a> <small> ( <a href="/forum/?topicid=1328313&show=0">1</a> <a href="/forum/?topicid=1328313&show=50">2</a> <a href="/forum/?topicid=1328313&show=100">3</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Dec 21, 2014</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">128 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Apakabar">Apakabar</a> <a href="/forum/?topicid=1328313&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Dec 13, 2020 4:37 AM</td>
+            </tr>
+            <tr id="topicRow2">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F23251%2FGugure_Kokkuri-san&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1320583">Gugure! Kokkuri-san Episode 10 Discussion</a> <small> ( <a href="/forum/?topicid=1320583&show=0">1</a> <a href="/forum/?topicid=1320583&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Dec 7, 2014</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">80 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Apakabar">Apakabar</a> <a href="/forum/?topicid=1320583&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Dec 10, 2020 5:55 PM</td>
+            </tr>
+            </table></div><div style="padding:16px 0px 0px 0px;"><div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div></div><br><div>
+            <div class="floatRightHeader"><a href="/anime/23251/Gugure_Kokkuri-san/userrecs">More recommendations</a></div>
+            <h2>Recommendations
+            </h2></div>  <div class=""><a href="https://myanimelist.net/anime/23251/Gugure_Kokkuri-san/userrecs" class="btn-detail-recommendations-view-all fl-r">
+      <span class="text">View All</span>
+      <span class="icon-next"><i class="fa fa-chevron-right icon-chevron" aria-hidden="true"></i></span>
+    </a><div class="anime-slide-block" id="anime_recommendation" data-json='{"width":702,"btnWidth":40,"margin":8}'><div class="btn-anime-slide-side left"><span class="btn-inner"></span></div><div class="btn-anime-slide-side right"><span class="btn-inner"></span></div><div class="anime-slide-outer" style="height:140px;"><ul class="anime-slide js-anime-slide" data-slide="7"><li class="btn-anime" style="width:90px" title="Kamisama Hajimemashita"><a href="https://myanimelist.net/recommendations/anime/14713-23251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kamisama Hajimemashita</span><span class="users">5 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/3/85429.jpg?s=87dabdf5d1e26cea5e6afdc09ca89e96" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/3/85429.jpg?s=87dabdf5d1e26cea5e6afdc09ca89e96 1x,https://cdn.myanimelist.net/r/180x280/images/anime/3/85429.jpg?s=a1913e37b1b90f25b32c5891a08ce720 2x" width="90" height="140" class="image lazyload" alt="Kamisama Hajimemashita" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Barakamon"><a href="https://myanimelist.net/recommendations/anime/22789-23251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Barakamon</span><span class="users">4 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/65427.jpg?s=443c0aa8ef2d0315caec001ab4397f50" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/65427.jpg?s=443c0aa8ef2d0315caec001ab4397f50 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/65427.jpg?s=c8e9d9ce9edbf274c49545face6a5120 2x" width="90" height="140" class="image lazyload" alt="Barakamon" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Hoozuki no Reitetsu"><a href="https://myanimelist.net/recommendations/anime/20431-23251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Hoozuki no Reitetsu</span><span class="users">4 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/7/87177.jpg?s=e6ff2ef3cc2c826d15aea4a9e4af00f6" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/7/87177.jpg?s=e6ff2ef3cc2c826d15aea4a9e4af00f6 1x,https://cdn.myanimelist.net/r/180x280/images/anime/7/87177.jpg?s=33cf363ef9e584af91ca55c3ed3961bb 2x" width="90" height="140" class="image lazyload" alt="Hoozuki no Reitetsu" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Cuticle Tantei Inaba"><a href="https://myanimelist.net/recommendations/anime/15109-23251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Cuticle Tantei Inaba</span><span class="users">4 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/10/73934.jpg?s=7f3d28c760ae50332ab71b1bb1b756d8" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/10/73934.jpg?s=7f3d28c760ae50332ab71b1bb1b756d8 1x,https://cdn.myanimelist.net/r/180x280/images/anime/10/73934.jpg?s=1741b93b7209d5ea6bf38dc57d300107 2x" width="90" height="140" class="image lazyload" alt="Cuticle Tantei Inaba" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kobayashi-san Chi no Maid Dragon"><a href="https://myanimelist.net/recommendations/anime/23251-33206" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kobayashi-san Chi no Maid Dragon</span><span class="users">3 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/85434.jpg?s=dd4eed671cb628b097695ec6548984c9" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/85434.jpg?s=dd4eed671cb628b097695ec6548984c9 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/85434.jpg?s=08a07640373e4ccecccf25ad1c9cd773 2x" width="90" height="140" class="image lazyload" alt="Kobayashi-san Chi no Maid Dragon" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Danshi Koukousei no Nichijou"><a href="https://myanimelist.net/recommendations/anime/11843-23251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Danshi Koukousei no Nichijou</span><span class="users">3 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/3/33257.jpg?s=71e8c89ee5d410ce5d4cbbb48ac461b8" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/3/33257.jpg?s=71e8c89ee5d410ce5d4cbbb48ac461b8 1x,https://cdn.myanimelist.net/r/180x280/images/anime/3/33257.jpg?s=e44fb50b46c28b9a478dc9fe0ccd79a9 2x" width="90" height="140" class="image lazyload" alt="Danshi Koukousei no Nichijou" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Yamato Nadeshiko Shichihenge♥"><a href="https://myanimelist.net/recommendations/anime/1562-23251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Yamato Nadeshiko Shichihenge♥</span><span class="users">3 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/11/7701.jpg?s=51e0cf45a43658533e4f7278f6609f72" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/11/7701.jpg?s=51e0cf45a43658533e4f7278f6609f72 1x,https://cdn.myanimelist.net/r/180x280/images/anime/11/7701.jpg?s=f405e799c1bee1cac9a1b3e368ba18ab 2x" width="90" height="140" class="image lazyload" alt="Yamato Nadeshiko Shichihenge♥" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Inu x Boku SS"><a href="https://myanimelist.net/recommendations/anime/11013-23251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Inu x Boku SS</span><span class="users">3 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/35893.jpg?s=e9b84cd00c9205694d1a105ea8b78ac2" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/35893.jpg?s=e9b84cd00c9205694d1a105ea8b78ac2 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/35893.jpg?s=9ecf49b9344cfd27d66d6cf1e7b13fb1 2x" width="90" height="140" class="image lazyload" alt="Inu x Boku SS" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Himouto! Umaru-chan"><a href="https://myanimelist.net/recommendations/anime/23251-28825" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Himouto! Umaru-chan</span><span class="users">3 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/75086.jpg?s=ea1b4512f67ccde0df0976f597844d7a" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/75086.jpg?s=ea1b4512f67ccde0df0976f597844d7a 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/75086.jpg?s=1413f1fe173c199e0ad8a988f894aa13 2x" width="90" height="140" class="image lazyload" alt="Himouto! Umaru-chan" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kamisama Hajimemashita◎"><a href="https://myanimelist.net/recommendations/anime/23251-25681" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kamisama Hajimemashita◎</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/8/69187.jpg?s=5d8604e32c766e2652d5f8246a3cdf39" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/8/69187.jpg?s=5d8604e32c766e2652d5f8246a3cdf39 1x,https://cdn.myanimelist.net/r/180x280/images/anime/8/69187.jpg?s=b2ce9599c2c68f2b3936f50aa0c0a77d 2x" width="90" height="140" class="image lazyload" alt="Kamisama Hajimemashita◎" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kill Me Baby"><a href="https://myanimelist.net/recommendations/anime/11079-23251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kill Me Baby</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/9/87197.jpg?s=b5110336dc341096e8579aaaace2d25c" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/9/87197.jpg?s=b5110336dc341096e8579aaaace2d25c 1x,https://cdn.myanimelist.net/r/180x280/images/anime/9/87197.jpg?s=6012edcb13ea50f9d4a04c89180879ed 2x" width="90" height="140" class="image lazyload" alt="Kill Me Baby" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kuma Miko"><a href="https://myanimelist.net/recommendations/anime/23251-31804" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kuma Miko</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/8/78863.jpg?s=c919a2ab7916e60d7ed3cb843d76d2d2" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/8/78863.jpg?s=c919a2ab7916e60d7ed3cb843d76d2d2 1x,https://cdn.myanimelist.net/r/180x280/images/anime/8/78863.jpg?s=d36f8f3d901e7d0dca72e330711c1f44 2x" width="90" height="140" class="image lazyload" alt="Kuma Miko" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kakuriyo no Yadomeshi"><a href="https://myanimelist.net/recommendations/anime/23251-36754" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kakuriyo no Yadomeshi</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1035/95056.jpg?s=f7a395eea185407ce8156d1fc7d025c5" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1035/95056.jpg?s=f7a395eea185407ce8156d1fc7d025c5 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1035/95056.jpg?s=3c51b2b5322902ef180e0877f37f8b97 2x" width="90" height="140" class="image lazyload" alt="Kakuriyo no Yadomeshi" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Gintama"><a href="https://myanimelist.net/recommendations/anime/918-23251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Gintama</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/10/73274.jpg?s=6467584b43ddf7d22158e2cd44c978af" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/10/73274.jpg?s=6467584b43ddf7d22158e2cd44c978af 1x,https://cdn.myanimelist.net/r/180x280/images/anime/10/73274.jpg?s=d58d30bc3c7619d4d52b3110b628820a 2x" width="90" height="140" class="image lazyload" alt="Gintama" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Bakemonogatari"><a href="https://myanimelist.net/recommendations/anime/5081-23251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Bakemonogatari</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/11/75274.jpg?s=ff5f8916fb37cc40e018fce06507a91c" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/11/75274.jpg?s=ff5f8916fb37cc40e018fce06507a91c 1x,https://cdn.myanimelist.net/r/180x280/images/anime/11/75274.jpg?s=40b8c6a99880f56801acfeda78be72a4 2x" width="90" height="140" class="image lazyload" alt="Bakemonogatari" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Ookami-san to Shichinin no Nakama-tachi"><a href="https://myanimelist.net/recommendations/anime/7769-23251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Ookami-san to Shichinin no Nakama-tachi</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/9/75240.jpg?s=5342adedf9a83485f0d2eefd17c16a30" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/9/75240.jpg?s=5342adedf9a83485f0d2eefd17c16a30 1x,https://cdn.myanimelist.net/r/180x280/images/anime/9/75240.jpg?s=0343dde65814ce91f3c9998c6699d2d0 2x" width="90" height="140" class="image lazyload" alt="Ookami-san to Shichinin no Nakama-tachi" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kuroshitsuji II"><a href="https://myanimelist.net/recommendations/anime/6707-23251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kuroshitsuji II</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/50499.jpg?s=d58a61b74b973f64731df87ecfe13f8a" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/50499.jpg?s=d58a61b74b973f64731df87ecfe13f8a 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/50499.jpg?s=6dd6d9467fd05e9ffdbc4acdc8721dfe 2x" width="90" height="140" class="image lazyload" alt="Kuroshitsuji II" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Mahoutsukai no Yome"><a href="https://myanimelist.net/recommendations/anime/23251-35062" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Mahoutsukai no Yome</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/3/88476.jpg?s=11be18384e2951850ac3492a465adcd9" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/3/88476.jpg?s=11be18384e2951850ac3492a465adcd9 1x,https://cdn.myanimelist.net/r/180x280/images/anime/3/88476.jpg?s=346d8b0292ac1c1a9b9825dd5bd6f9b9 2x" width="90" height="140" class="image lazyload" alt="Mahoutsukai no Yome" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Wagaya no Oinari-sama."><a href="https://myanimelist.net/recommendations/anime/3322-23251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Wagaya no Oinari-sama.</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/10/21249.jpg?s=7769fcd1cd7bee95dc34c4f598a12c4c" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/10/21249.jpg?s=7769fcd1cd7bee95dc34c4f598a12c4c 1x,https://cdn.myanimelist.net/r/180x280/images/anime/10/21249.jpg?s=433d71db00acb68df6053c2bcd729a52 2x" width="90" height="140" class="image lazyload" alt="Wagaya no Oinari-sama." border="0" ></a></li><li class="btn-anime" style="width:90px" title="Hinamatsuri"><a href="https://myanimelist.net/recommendations/anime/23251-36296" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Hinamatsuri</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1580/93526.jpg?s=37f4414d443395e7d893ef3db17bf8c5" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1580/93526.jpg?s=37f4414d443395e7d893ef3db17bf8c5 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1580/93526.jpg?s=4fbc6e284330a40516d08aa641a34c4f 2x" width="90" height="140" class="image lazyload" alt="Hinamatsuri" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Natsume Yuujinchou"><a href="https://myanimelist.net/recommendations/anime/4081-23251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Natsume Yuujinchou</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1681/108439.jpg?s=8eff83069d0f3554e8086ce4f798b3f0" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1681/108439.jpg?s=8eff83069d0f3554e8086ce4f798b3f0 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1681/108439.jpg?s=4fe2c84df8d636be04846a56081a23bf 2x" width="90" height="140" class="image lazyload" alt="Natsume Yuujinchou" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Gekkan Shoujo Nozaki-kun"><a href="https://myanimelist.net/recommendations/anime/23251-23289" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Gekkan Shoujo Nozaki-kun</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/66083.jpg?s=bbb8c64fb2a01d6deb7fd4e8b015e7b0" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/66083.jpg?s=bbb8c64fb2a01d6deb7fd4e8b015e7b0 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/66083.jpg?s=bc8ebd95d171239262f99129a4f96090 2x" width="90" height="140" class="image lazyload" alt="Gekkan Shoujo Nozaki-kun" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Paniponi Dash!"><a href="https://myanimelist.net/recommendations/anime/490-23251" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Paniponi Dash!</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/2/68901.jpg?s=3bbaba5d149040feea8a10c56e375c49" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/2/68901.jpg?s=3bbaba5d149040feea8a10c56e375c49 1x,https://cdn.myanimelist.net/r/180x280/images/anime/2/68901.jpg?s=d13cd0bab78bddaaed6d03197c27888f 2x" width="90" height="140" class="image lazyload" alt="Paniponi Dash!" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Asobi Asobase"><a href="https://myanimelist.net/recommendations/anime/23251-37171" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Asobi Asobase</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1139/95077.jpg?s=57765b39e91ccc5af4e148c04de82e79" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1139/95077.jpg?s=57765b39e91ccc5af4e148c04de82e79 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1139/95077.jpg?s=db99cf425e0b61a42ee732eb81fe0e12 2x" width="90" height="140" class="image lazyload" alt="Asobi Asobase" border="0" ></a></li></ul></div></div></div>
+    </td>
+    </tr>
+    </table>
+    </div>  <div class="mauto clearfix pt24" style="width:760px;">
+    <div class="fl-l">
+      </div>
+      <div class="fl-r">
+      </div>
+    </div>
+
+</td>
+</tr>
+</table>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js" data-pin-hover="true"></script></div><!-- end of contentHome -->
+</div><!-- end of contentWrapper -->
+
+
+            
+  
+
+
+            
+  
+
+  <script>
+    $(document).ready(function() {
+      $(window).scroll(function() {
+        var cHeight = $("#myanimelist").height();
+        $("div[data-ad-sticky='manual']").each(function (i, o) {
+          var aHeight = $(o).height();
+          var aTop = $(o).parent().offset().top;
+          if (window.pageYOffset >= (cHeight - aHeight)) {
+            $(o).css("top", ((cHeight - aHeight) - window.pageYOffset) + "px");
+          } else if (window.pageYOffset >= aTop) {
+            $(o).addClass("sticky");
+            $(o).css("top", "");
+          } else {
+            $(o).removeClass("sticky");
+          }
+        });
+      });
+    });
+  </script>
+
+<!--  control container height -->
+<div style="clear:both;"></div>
+
+<!-- end rightbody -->
+
+</div><!-- wrapper -->
+
+
+    <div id="ad-skin-bg-right" class="ad-skin-side-outer ad-skin-side-bg bg-right">
+    <div id="ad-skin-right" class="ad-skin-side right" style="display: none;">
+      <div id="ad-skin-right-absolute-block">
+        <div id="ad-skin-right-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+</div><!-- #myanimelist -->
+
+
+<div class="footer-ranking">
+  <div class="ranking-container">
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php" class="view_more fl-r">More</a>Top Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Fullmetal Alchemist: Brotherhood</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011">Hunter x Hunter (2011)</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php?type=airing" class="view_more fl-r">More</a>Top Airing Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/42203/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season_Part_2">Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/42897/Horimiya">Horimiya</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/38474/Yuru_Camp△_Season_2">Yuru Camp△ Season 2</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/character.php" class="view_more fl-r">More</a>Most Popular Characters
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/character/417/Lelouch_Lamperouge">Lamperouge, Lelouch</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/character/45627/Levi">Levi</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/character/80/Light_Yagami">Yagami, Light</a>
+            </li>
+                  </ol>
+      </div>
+      </div>
+</div>
+<footer>
+  <div id="footer-block">
+    <div class="footer-link-block">
+      <p class="footer-link home di-ib">
+        <a href="https://myanimelist.net/">Home</a>
+      </p>
+      <p class="footer-link di-ib">
+        <a href="https://myanimelist.net/about.php">About</a>
+        <a href="https://myanimelist.net/pressroom">Press Room</a>
+        <a href="https://myanimelist.net/about.php?go=contact">Support</a>
+        <a href="https://myanimelist.net/advertising">Advertising</a>
+        <a href="https://myanimelist.net/forum/?topicid=515949">FAQ</a>
+        <a href="https://myanimelist.net/about/terms_of_use">Terms</a>
+        <a href="https://myanimelist.net/about/privacy_policy">Privacy</a>
+        <a href="#/" class="cmp-gdpr-only">Privacy Settings</a>
+        <a href="#/" class="cmp-ccpa-only">Do Not Sell My Personal Information</a>
+        <a href="https://myanimelist.net/about/cookie_policy">Cookie</a>
+        <a href="https://myanimelist.net/about/notice_at_collection">Notice at Collection</a>
+        <a href="https://myanimelist.net/about/sitemap">Sitemap</a>
+      </p>
+            <p class="footer-link login di-ib">
+        <a href="https://myanimelist.net/login.php?from=%2Fanime%2F23251%2FGugure_Kokkuri-san" id="malLogin" rel="nofollow">Login</a>
+        <a href="https://myanimelist.net/register.php?from=%2Fanime%2F23251%2FGugure_Kokkuri-san">Sign Up</a>
+      </p>
+          </div>
+
+    
+    <div class="banner-footer-anime-streaming">
+      <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+    </div>
+
+        <div class="footer-link-icon-block">
+            <div class="footer-social-media ac">
+        <a target="_blank" class="icon-sns icon-fb di-ib" href="https://www.facebook.com/OfficialMyAnimeList" rel="noreferrer"></a>
+        <a target="_blank" class="icon-sns icon-tw di-ib" title="Follow @myanimelist on Twitter" href="https://twitter.com/myanimelist" rel="noreferrer"></a></div>
+            <div class="footer-recommended ac">
+        <a target="_blank" class="icon-recommended icon-tokyo-otaku-mode" href="http://otakumode.com/fb/5aO" rel="noopener">Tokyo Otaku Mode</a>
+        <a target="_blank" class="icon-recommended icon-honeys-anime" href="https://honeysanime.com" rel="noopener">Honey's Anime</a>
+        <a target="_blank" class="icon-recommended icon-manga-store" href="https://myanimelist.net/store?_location=mal_f_m">Manga Store</a>
+      </div>
+    </div>
+
+    <div class="footer-fb">
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+      <div class="footer-fb-item">
+                <iframe class="fb-page" src="" width="450" height="154" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+      </div>
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+    </div>
+        
+    <div id="copyright">
+      MyAnimeList.net is a property of MyAnimeList Co.,Ltd. &copy;2021 All Rights Reserved.
+    </div>
+  </div>
+</footer>
+
+<script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+
+<script async>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga')
+
+  ga('create', 'UA-369102-1', 'auto')
+  ga('set', 'anonymizeIp', true)
+  ga('require', 'linkid') // Enhanced Link Attribution
+    ga('set', 'dimension1', 'guest')
+    ga('send', 'pageview')
+</script>   <script>
+window.onscroll = function(e){
+    const scrollThreshold = 50;
+    if (window.pageYOffset >= scrollThreshold) {
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            let t_height = ad.offsetHeight;
+            let offsetY = ad.getBoundingClientRect().top;
+            let screenHeight = window.outerHeight;
+            let t_position = offsetY - screenHeight;
+            if(-screenHeight<=(t_position　+　t_height) && t_position<0) {
+                ad.className = 'ad-tag';
+                (deployads = window.deployads || []).push({});
+            }
+        });
+    }
+}
+var timer = 0;
+window.onresize = function(e){
+    if (timer > 0) {
+        clearTimeout(timer);
+    }
+
+    timer = setTimeout(function () {
+        console.log('window resized');
+        [].forEach.call(document.querySelectorAll('.ad-tag'), function(ad) {
+            ad.className = 'no-ad';
+            (deployads = window.deployads || []).push({});
+        });
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            ad.className = 'ad-tag';
+            (deployads = window.deployads || []).push({});
+        });
+    }, 200);
+}
+</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WL4QW3G');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+var path = location.pathname;
+var param = location.search;
+
+dataLayer = dataLayer || [];
+
+// login.php
+
+function ga_notlogin(){
+  ga('send', 'event', 'not_login', '2.未ログインの場合', '/login.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=1');
+}
+
+function ga_sns(){
+  ga('send', 'event', 'sns_login', '2-1-1.ソーシャルログインの場合', '/login.php?login-mode=social&c-ms-mode=1');
+}
+
+function ga_login(){
+  ga('send', 'event', 'id_login', '2-1-2.IDログインの場合', '/login.php?login-mode=id&c-ms-mode=1');
+}
+
+// register.php
+
+function ga_registration(){
+  ga('send', 'event', 'registration', '2-2.会員登録ボタン', '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=2');
+}
+
+if ( path.match("register.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2F&c-ms-mode=2',
+        'member_title': '2-2-1.会員情報入力完了',
+        'event': 'loadready-register'
+    });
+}
+
+if ( path.match("login.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': path.concat(param, "&c-ms-mode=2"),
+        'member_title': '2-2-1.メールからの会員認証ページ',
+        'event': 'loadready-login'
+    });
+}
+
+// membership
+
+function ga_mal_banner(){
+  ga('send', 'event', 'support_mal', '2-3.MALバナー', '/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner&c-ms-mode=3');
+}
+
+if ( path.match("login.php") && param.match("from=%2F") ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=3',
+        'member_title': '2-2.会員登録ボタン',
+        'event': 'loadready-login'
+    });
+}
+
+function ga_credit(){
+  ga('send', 'event', 'support_mal', '3-1-1.クレカ登録', '/member-register?c-ms_payment=1&c-ms_mode=3');
+}
+
+function ga_paypal(){
+  ga('send', 'event', 'support_mal', '3-1-2.Paypal登録', '/member-register?c-ms_payment=2&c-ms_mode=3');
+}
+
+if ( path.match("account/membership/complete") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/member-register-complete?c-ms_payment=2&c-ms_mode=3',
+        'member_title': '3-1-2.MAL会員登録成功',
+        'event': 'loadready-member-register-complete'
+    });
+}
+
+</script>
+<script type="text/javascript">
+    window.MAL.magia = "06410c4e6b2518e9add8f6df0ccb2da2876bb8c980aacb43a8dcaa8153c0f92c";
+  window.MAL.madoka = "hZrDKm9k6FVRnqd3i%=K";
+
+  window.MAL.SLVK = "g4OvMLVOmEI3J8u7dt8f8+mAuualsqCo";
+  window.MAL.CDN_URL = "https://cdn.myanimelist.net";
+
+  window.MAL.CURRENT_TUTORIAL_STEP_ID = null;
+  window.MAL.USER_NAME = ""
+  window.MAL.FACEBOOK.APP_ID = "360769957454434"
+  window.MAL.FACEBOOK.API_VERSION = "v2.12"
+</script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+                    <script type="text/javascript">
+          window._taboola = window._taboola || [];
+          _taboola.push({flush: true});
+        </script>
+    </body>
+</html>

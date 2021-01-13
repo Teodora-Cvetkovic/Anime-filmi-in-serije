@@ -1,0 +1,1680 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    
+<link rel="preconnect" href="//fonts.gstatic.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//fonts.googleapis.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tags-cdn.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagservices.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagmanager.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//apis.google.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel-sync.sitescout.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel.tapad.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//c.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tpc.googlesyndication.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//googleads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="//securepubads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="https://cdn.myanimelist.net" crossorigin="anonymous" />
+
+
+<title>
+Darwin&#039;s Game - MyAnimeList.net
+</title>
+<meta name="description" content="Looking for information on the anime Darwin&#039;s Game? Find out more with MyAnimeList, the world&#039;s most active online anime and manga community and database. High school student Kaname Sudou receives an invitation from a classmate to play Darwin&#039;s Game, a mobile game he has never heard of. However, as soon as he opens the application, a green snake suddenly pops out from his phone screen and bites his neck, leaving him unconscious. Waking up in the infirmary without any signs of a snake bite, he is..." />
+
+  
+<meta name="keywords" content="anime, myanimelist, anime news, manga" />
+  
+
+
+    <meta property="og:locale" content="en_US"><meta property="fb:app_id" content="360769957454434"><meta property="og:site_name" content="MyAnimeList.net"><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@myanimelist"><meta property="og:title" content="Darwin&#039;s Game"><meta property="og:type" content="video.tv_show"><meta property="og:image" content="https://cdn.myanimelist.net/images/anime/1016/107222.jpg"><meta name="twitter:image:src" content="https://cdn.myanimelist.net/r/360x360/images/anime/1016/107222.jpg?s=08eaeb09aff5705895b0a86561e00648"><meta property="og:url" content="https://myanimelist.net/anime/38656/Darwins_Game"><meta property="og:description" content="High school student Kaname Sudou receives an invitation from a classmate to play Darwin&#039;s Game, a mobile game he has never heard of. However, as soon as he opens the application, a green snake suddenly pops out from his phone screen and bites his neck, leaving him unconscious. Waking up in the infirmary without any signs of a snake bite, he is told by the school to take the rest of the day off. Although he is puzzled by what has happened, he dismisses the surreal experience as a hallucination and boards the train home. Unfortunately, his curiosity gets the better of him and he uses the application once again. As the application appears to be just like any other battle game, Kaname breathes out a sigh of relief and decides to start his first match. However, the pleasant surprise is short-lived, as his in-game opponent unexpectedly appears right in front of him and attempts to hunt him down with a knife. As he desperately runs for his life, Kaname puts two and two together and realizes that Darwin&#039;s Game is not an ordinary game, but rather, it&#039;s a brutal fight for survival. [Written by MAL Rewrite]">
+
+
+<meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
+
+<meta name='csrf_token' content='bea13abc846f2d237f1a00fc430bef451b84c26d'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
+<meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" />
+
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" href="https://myanimelist.net/plugins/myanimelist.xml" title="MyAnimeList" />
+
+<link rel="shortcut icon" href="https://cdn.myanimelist.net/images/favicon.ico" />
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+      <script src="//tags-cdn.deployads.com/a/myanimelist.net.js" async="async"></script>
+            <script async="async" type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script>
+$(document).ready(function(){
+  window.Criteo = window.Criteo || {};
+  window.Criteo.events = window.Criteo.events || [];
+  $('.ad-criteo').each(function(){
+    var slotid = $(this).attr('data-ad-slot');
+    var zoneid = $(this).attr('data-ad-zone');
+    var CriteoAdUnits = {"placements":[{"slotid":slotid, "zoneid":zoneid}]};
+    var processCdbBid = function(){
+      var bids = Criteo.GetBidsForAdUnit(slotid);
+      if(bids.length > 0){
+        Criteo.RenderAd({bidId:bids[0].id, containerId:bids[0].impressionId});
+      }
+    };
+    Criteo.events.push(function(){Criteo.RequestBids(CriteoAdUnits, processCdbBid, 2000);});
+  });
+});
+</script>
+
+
+
+            <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/myanimelist/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>    
+</head>
+
+<body onload=" " class="page-common"data-ms="true" data-country-code="SI" >
+<div id="myanimelist">
+
+    
+  
+    <script type='text/javascript'>
+    window.MAL.SkinAd.prepareForSkin('');
+  </script>
+
+    <div id="ad-skin-bg-left" class="ad-skin-side-outer ad-skin-side-bg bg-left">
+    <div id="ad-skin-left" class="ad-skin-side left" style="display: none;">
+      <div id="ad-skin-left-absolute-block">
+        <div id="ad-skin-left-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
+    <script>(deployads = window.deployads || []).pageSegment = 'anime_title_38656';</script>
+
+
+<script>
+    var trackOutboundLink = function(url) {
+        ga('send', 'event', 'outbound', 'click', url, {
+            'transport': 'beacon',
+            'hitCallback': function(){return true;}
+        });
+    }
+</script><div class="banner-header-anime-straming" style="right:480px;">
+  <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+</div>
+
+
+<div id="header-menu" ><div class="header-menu-login"><a class="btn-mal-service"
+             href="https://myanimelist.net/membership?_location=mal_h_u" onClick="ga_mal_banner()">Hide Ads</a><a class="btn-login" href="https://myanimelist.net/login.php?from=%2Fanime%2F38656%2FDarwins_Game" id="malLogin" onClick="ga_notlogin()">Login</a><a class="btn-signup" href="https://myanimelist.net/register.php?from=%2Fanime%2F38656%2FDarwins_Game" onClick="ga_registration()">Sign Up</a></div></div></div>  <div id="menu" class="">
+    <div id="menu_right"><script type="text/x-template" id="incremental-result-item-anime"><div class="list anime" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info anime"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Aired: ${ item.payload.aired }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info anime"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-manga"><div class="list manga" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info manga"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Published: ${ item.payload.published }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info manga"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-character"><div class="list character" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div><div class="extra-info"><ul class="related-works"><li v-for="work in item.payload.related_works" class="fs-i">- ${ work }</li></ul>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-person"><div class="list person" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.alternative_name">${ item.payload.alternative_name }<br></span>Birthday: ${ item.payload.birthday }<br>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-store"><div class="list store" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info store"></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info store"></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-club"><div class="list club" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div><div class="extra-info">Members: ${ item.payload.members }<br>Category: ${ item.payload.category }<br>Created by: ${ item.payload.created_by }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-user"><div class="list user" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.authority">${ item.payload.authority }<br></span>Joined: ${ item.payload.joined }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-news"><div class="list news" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-featured"><div class="list featured" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-forum"><div class="list forum" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="extra-info">${ item.payload.date }<br><span>in ${ item.payload.category }</span></div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-separator"><div class="list separator"><div class="separator"><span v-show="item.name == 'anime'">Anime</span><span v-show="item.name == 'manga'">Manga</span><span v-show="item.name == 'character'">Characters</span><span v-show="item.name == 'person'">People</span></div></div></script><div id="top-search-bar"><form id="searchBar" method="get" class="searchBar" @submit.prevent="jump()"><div class="form-select-outer fl-l"><select name="type" id="topSearchValue" class="inputtext" v-model="type"><option value="all">All</option><option value="anime">Anime</option><option value="manga">Manga</option><option value="character">Characters</option><option value="person">People</option><option value="store">Manga Store</option><option value="news">News</option><option value="featured">Featured Articles</option><option value="forum">Forum</option><option value="club">Clubs</option><option value="user">Users</option></select></div><input v-model="keyword" id="topSearchText" type="text"
+            name="keyword" class="inputtext fl-l" placeholder="Search Anime, Manga, and more..."
+            size="30" autocomplete="off"
+            @keydown.up.prevent="moveSelection(-1)" @keydown.down.prevent="moveSelection(1)"
+            @focus="isFocused = true" @blur="isFocused = false"><input id="topSearchButon" class="fl-l" :class="{'notActive': (keyword.length < 3)}" type="submit" value="&#xf002"></form><div id="topSearchResultList" class="incrementalSearchResultList" :style="{display: (showResult ? 'block' : 'none')}" @mousedown.prevent=""><div v-for="(item, i) in items" @mouseover="selection=i"><component :is="resolveComponent(item)" :item="item" :focus="selection == i" :url="generateItemPageUrl(item)"></component></div><div class="list list-bottom" :class="{'focus': selection == -1}" @mouseover="selection = -1"
+               :style="{display: (showViewAllLink ? 'block' : 'none')}"><a :href="resultPageUrl">
+              View all results for <span class="fw-b">${ keyword }</span><i v-show="isRequesting" class="fa fa-spinner fa-spin ml4"></i></a></div></div></div></div><div id="menu_left">
+      <ul id="nav">
+        <li class="small"><a href="#" class="non-link">Anime</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/anime.php?_location=mal_h_m">Anime Search</a></li>
+            <li><a href="https://myanimelist.net/topanime.php?_location=mal_h_m">Top Anime</a></li>
+            <li><a href="https://myanimelist.net/anime/season?_location=mal_h_m">Seasonal Anime</a></li>
+                        <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m_a">Videos</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=anime&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=anime&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1885985&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Manga</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/manga.php?_location=mal_h_m">Manga Search</a></li>
+            <li><a href="https://myanimelist.net/topmanga.php?_location=mal_h_m">Top Manga</a></li>
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=manga&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=manga&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1886113&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li><a href="#" class="non-link">Community</a>
+          <ul>
+            <li><a href="https://myanimelist.net/forum/?_location=mal_h_m">Forums</a></li>
+            <li><a href="https://myanimelist.net/clubs.php?_location=mal_h_m">Clubs</a></li>
+            <li><a href="https://myanimelist.net/blog.php?_location=mal_h_m">Blogs</a></li>
+            <li><a href="https://myanimelist.net/users.php?_location=mal_h_m">Users</a></li>
+            <li><a href="https://discord.gg/E2xC8ZF">Discord Chat</a></li>
+          </ul>
+        </li>
+        <li class="small2"><a href="#" class="non-link">Industry</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/news?_location=mal_h_m">News</a></li>
+            <li><a href="https://myanimelist.net/featured?_location=mal_h_m">Featured Articles</a></li>
+            <li><a href="https://myanimelist.net/people.php?_location=mal_h_m">People</a></li>
+            <li><a href="https://myanimelist.net/character.php?_location=mal_h_m">Characters</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Watch</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m">Episode Videos</a></li>
+            <li><a href="https://myanimelist.net/watch/promotion?_location=mal_h_m">Promotional Videos</a></li></ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Read</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+          </ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Help</a>
+          <ul class="wide">
+            <li><a href="https://myanimelist.net/about.php?_location=mal_h_m">About</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=support&amp;_location=mal_h_m">Support</a></li>
+            <li><a href="https://myanimelist.net/advertising?_location=mal_h_m">Advertising</a></li>
+            <li><a href="https://myanimelist.net/forum/?topicid=515949&amp;_location=mal_h_m">FAQ</a></li>
+            <li><a href="https://myanimelist.net/modules.php?go=report&amp;_location=mal_h_m">Report</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=team&amp;_location=mal_h_m">Staff</a></li><li><a href="https://myanimelist.net/membership?_location=mal_h_m">MAL Supporter</a></li>
+          </ul>
+        </li>
+        
+            
+      </ul>
+    </div>  </div><div id="contentWrapper" itemscope itemtype="http://schema.org/TVSeries"><div><div class="h1 edit-info">
+      <div class="h1-title"><div itemprop="name"><h1 class="title-name h1_bold_none"><strong>Darwin&#039;s Game</strong></h1></div></div><div class="header-right">
+          <a href="https://myanimelist.net/login.php?from=%2Fanime%2F38656%2FDarwins_Game&amp;error=login_required" class="js-anime-edit-info-button"><i class="fa fa-pencil mr4"></i>Edit</a>
+<div id="editdiv" class="fw-n fs11">
+  <form method="GET" action="https://myanimelist.net/dbchanges.php" class="di-i">
+    <input type="hidden" name="aid" value="38656">
+    <div class="pb8">What would you like to edit?</div>
+                      <select name="t" id="t" class="inputtext"><option value="synopsis">Synopsis</option><option value="background">Background</option><option value="alternative_titles">Alternative Titles</option><option value="pic">Picture</option><option value="airingdates">Airing Dates</option><option value="producers">Producers</option><option value="relations">Relations</option><option value="rating">Rating</option><option value="duration">Duration</option><option value="source">Source</option><option value="broadcast">Broadcast</option></select>
+     &nbsp;<input type="submit" value="Go" class="inputButton flat btn-middle">
+  </form>
+</div>
+</div></div></div><div id="content" >
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+	 <td class="borderClass" width="225" style="border-width: 0 1px 0 0;" valign="top"><div style="width: 225px">
+
+<div style="text-align: center;">
+          <a href="https://myanimelist.net/anime/38656/Darwins_Game/pics">
+      <img class="lazyload" data-src="https://cdn.myanimelist.net/images/anime/1016/107222.jpg" alt="Darwin&#039;s Game" class="ac" itemprop="image">
+    </a>
+  </div>
+
+<!-- My List -->
+<div class="profileRows pb0">
+  <a href="https://myanimelist.net/login.php?from=%2Fanime%2F38656%2FDarwins_Game&amp;error=login_required">Add to My List</a>
+</div>
+
+<div id="addtolist" class="addtolist-block js-anime-addtolist-block" style="display: none;">
+  <input type="hidden" id="myinfo_anime_id" value="38656">
+  <input type="hidden" id="myinfo_curstatus" value="">
+
+  <span class="notice_open_public pb4">* Your list is public by default.</span>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td class="spaceit">Status:</td>
+      <td class="spaceit">
+        <select name="myinfo_status" id="myinfo_status" class="inputtext js-anime-status-dropdown"><option value="1">Watching</option><option value="2">Completed</option><option value="3">On-Hold</option><option value="4">Dropped</option><option value="6">Plan to Watch</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td class="spaceit">Eps Seen:</td>
+      <td class="spaceit">
+        <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext" value=""> / <span id="curEps">11</span></td>
+    </tr>
+    <tr>
+      <td class="spaceit">Your Score:</td>
+      <td class="spaceit">
+        <select name="myinfo_score" id="myinfo_score" class="inputtext"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>
+                <input type="button" name="myinfo_submit" value="Add" class="inputButton btn-middle flat js-anime-add-button">
+        <span id="addtolistresult"><a href="https://myanimelist.net/ownlist/anime/add?selected_series_id=38656">Add Detailed Info</a></span>
+              </td>
+    </tr>
+  </table>
+  <div id="myinfoDisplay" style="padding-left: 89px; margin-top: 3px;"></div>
+</div>
+<!-- end My List -->
+
+<div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F38656%2FDarwins_Game&amp;error=login_required" style="font-weight:normal;">Add to Favorites</a></div>
+
+<div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F38656%2FDarwins_Game"></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F38656%2FDarwins_Game&amp;text=Darwin%27s%20Game&amp;hashtags=anime"></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F38656%2FDarwins_Game&amp;title=Darwin%27s%20Game"></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F38656%2FDarwins_Game&amp;name=Darwin%27s%20Game"></a></div>  <br />
+
+  <h2>Alternative Titles</h2><div class="spaceit_pad">
+    <span class="dark_text">English:</span> Darwin&#039;s Game
+  </div><div class="spaceit_pad">
+    <span class="dark_text">Japanese:</span> ダーウィンズゲーム
+  </div><br />
+
+<h2>Information</h2>
+
+<div>
+  <span class="dark_text">Type:</span>
+  <a href="https://myanimelist.net/topanime.php?type=tv">TV</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Episodes:</span>
+  11
+  </div>
+
+<div>
+  <span class="dark_text">Status:</span>
+  Finished Airing
+  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Aired:</span>
+  Jan 4, 2020 to Mar 21, 2020
+  </div>
+
+  <div>
+    <span class="dark_text">Premiered:</span>
+          <a href="https://myanimelist.net/anime/season/2020/winter">Winter 2020</a>
+          </div>
+
+  <div class="spaceit">
+    <span class="dark_text">Broadcast:</span>
+    Saturdays at 00:00 (JST)
+      </div>
+
+  <div>
+    <span class="dark_text">Producers:</span>
+          <a href="/anime/producer/17/Aniplex" title="Aniplex">Aniplex</a>,       <a href="/anime/producer/238/AT-X" title="AT-X">AT-X</a>,       <a href="/anime/producer/1211/Tokyo_MX" title="Tokyo MX">Tokyo MX</a>,       <a href="/anime/producer/1373/Akita_Shoten" title="Akita Shoten">Akita Shoten</a>,       <a href="/anime/producer/1416/BS11" title="BS11">BS11</a>,       <a href="/anime/producer/1677/Kanetsu_Investment" title="Kanetsu Investment">Kanetsu Investment</a>,       <a href="/anime/producer/1901/CA-Cygames_Anime_Fund" title="CA-Cygames Anime Fund">CA-Cygames Anime Fund</a>,       <a href="/anime/producer/2100/Hochi_Shimbun" title="Hochi Shimbun">Hochi Shimbun</a>,       <a href="/anime/producer/2101/ADK" title="ADK">ADK</a>  </div>
+  <div class="spaceit">
+    <span class="dark_text">Licensors:</span>
+          <a href="/anime/producer/493/Aniplex_of_America" title="Aniplex of America">Aniplex of America</a>  </div>
+  <div>
+    <span class="dark_text">Studios:</span>
+          <a href="/anime/producer/852/Nexus" title="Nexus">Nexus</a>  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Source:</span>
+  Manga
+  </div>
+
+<div>
+  <span class="dark_text">Genres:</span>
+      <span itemprop="genre" style="display: none">Action</span><a href="/anime/genre/1/Action" title="Action">Action</a>,     <span itemprop="genre" style="display: none">Sci-Fi</span><a href="/anime/genre/24/Sci-Fi" title="Sci-Fi">Sci-Fi</a>,     <span itemprop="genre" style="display: none">Mystery</span><a href="/anime/genre/7/Mystery" title="Mystery">Mystery</a>,     <span itemprop="genre" style="display: none">Super Power</span><a href="/anime/genre/31/Super_Power" title="Super Power">Super Power</a>,     <span itemprop="genre" style="display: none">Shounen</span><a href="/anime/genre/27/Shounen" title="Shounen">Shounen</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Duration:</span>
+  26 min. per ep.
+  </div>
+
+<div>
+  <span class="dark_text">Rating:</span>
+  R - 17+ (violence &amp; profanity)
+  </div>
+
+<br />
+
+<h2>Statistics</h2>
+<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" class="po-r js-statistics-info di-ib" data-id="info1">
+  <span class="dark_text">Score:</span>
+  <span itemprop="ratingValue" class="score-label score-7">7.33</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">137155</span>137,155 users)
+      <meta itemprop="bestRating" content="10">
+    <meta itemprop="worstRating" content="1">
+      <div class="statistics-info info1">
+    <small><sup>1</sup>
+          indicates a <a href="javascript:void(0);" onclick="window.open('/info.php?go=topanime','topanime','menubar=no,scrollbars=no,status=no,width=500,height=380');">weighted score</a>.
+    </small>
+  </div>
+</div>
+<div class="spaceit po-r js-statistics-info di-ib" data-id="info2">
+  <span class="dark_text">Ranked:</span>
+  #2201<sup>2</sup>
+    <div class="statistics-info info2">
+    <small><sup>2</sup>
+    based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
+    </small>
+  </div>
+</div>
+<div>
+  <span class="dark_text">Popularity:</span>
+  #469
+</div>
+<div class="spaceit">
+  <span class="dark_text">Members:</span>
+    285,427
+</div>
+<div>
+  <span class="dark_text">Favorites:</span>
+  1,549
+</div>
+
+  <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
+          </div>
+
+</div></td><td valign="top" style="padding-left: 5px;"><div class="js-scrollfix-bottom-rel"><div style="width:728px; margin:0 auto"></div><a name="lower"></a>
+<div id="horiznav_nav" style="margin: 5px 0 10px 0;">
+  <ul style="margin-right: 0; padding-right: 0;">
+        <li><a href="https://myanimelist.net/anime/38656/Darwins_Game" class="horiznav_active">Details</a>
+    </li>
+        <li><a href="/anime/38656/Darwins_Game/video">Videos</a>
+    </li>
+        <li>      <a href="https://myanimelist.net/anime/38656/Darwins_Game/episode">Episodes</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/38656/Darwins_Game/reviews">Reviews</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/38656/Darwins_Game/userrecs">Recommendations</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/38656/Darwins_Game/stats">Stats</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/38656/Darwins_Game/characters">Characters &amp; Staff</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/38656/Darwins_Game/news">News</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/38656/Darwins_Game/forum">Forum</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/38656/Darwins_Game/featured">Featured</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/38656/Darwins_Game/clubs">Clubs</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/38656/Darwins_Game/pics">Pictures</a>
+    </li>
+    </ul>
+</div>
+
+
+
+                    <div class="breadcrumb " itemscope itemtype="http://schema.org/BreadcrumbList"><div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/" itemprop="item"><span itemprop="name">
+              Top
+                          </span></a><meta itemprop="position" content="1"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime.php" itemprop="item"><span itemprop="name">
+              Anime
+                          </span></a><meta itemprop="position" content="2"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime/38656/Darwins_Game" itemprop="item"><span itemprop="name">
+              Darwin&#039;s Game
+                          </span></a><meta itemprop="position" content="3"></div></div>
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="137,155 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-7">7.33</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#2201</strong></span><span class="numbers popularity">Popularity <strong>#469</strong></span><span class="numbers members">Members <strong>285,427</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2020/winter">Winter 2020</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/852/Nexus" title="Nexus">Nexus</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="38656"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F38656%2FDarwins_Game&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+        Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="11">11</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Darwin%27s%20Game&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime js-shop-selecter icon-shop-default" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:38656,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><div class="anime-detail-header-affiliate-dialog js-shop-selecter-dialog" style="display:none"><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Darwin%27s%20Game&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:38656,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><a href="http://www.cdjapan.co.jp/aff/click.cgi/PytJTGW7Lok/6039/A764127/searches?q=Darwin%27s+Game" class="btn-affiliate cdjapan js-shop-anime js-shop-cd-japan" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;cdjapan&quot;,&quot;id&quot;:38656,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/logo-cdjapan.png" width="118" height="25" alt="buy from CD Japan"></a><a href="http://www.shareasale.com/r.cfm?u=1384175&b=866986&m=65886&afftrack=&urllink=www.rightstufanime.com%2Fsearch%3Fkeywords%3DDarwin%27s%20Game" class="btn-affiliate right_stuf js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;right_stuf&quot;,&quot;id&quot;:38656,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_right_stuf.png" width="118" height="25" alt="buy from Rightstuf"></a></div></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/mS0aIJ5Yq1g?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/mS0aIJ5Yq1g/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">Announcement</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/38656/Darwins_Game/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
+</div><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=38656&t=synopsis" style="font-weight: normal;">Edit</a></div><h2>Synopsis</h2></div><p itemprop="description">High school student Kaname Sudou receives an invitation from a classmate to play Darwin&#039;s Game, a mobile game he has never heard of. However, as soon as he opens the application, a green snake suddenly pops out from his phone screen and bites his neck, leaving him unconscious. Waking up in the infirmary without any signs of a snake bite, he is told by the school to take the rest of the day off. Although he is puzzled by what has happened, he dismisses the surreal experience as a hallucination and boards the train home.<br />
+<br />
+Unfortunately, his curiosity gets the better of him and he uses the application once again. As the application appears to be just like any other battle game, Kaname breathes out a sigh of relief and decides to start his first match. However, the pleasant surprise is short-lived, as his in-game opponent unexpectedly appears right in front of him and attempts to hunt him down with a knife.<br />
+<br />
+As he desperately runs for his life, Kaname puts two and two together and realizes that Darwin&#039;s Game is not an ordinary game, but rather, it&#039;s a brutal fight for survival.<br />
+<br />
+[Written by MAL Rewrite]</p><div style="margin-top: 15px;"><div class="floatRightHeader"><a href="/dbchanges.php?aid=38656&t=background" style="font-weight: normal;">Edit</a></div><h2>Background</h2></div>No background information has been added to this title. Help improve our database by adding background information <a href="/dbchanges.php?aid=38656&t=background">here</a>.<br><div class="border_top" style="padding:16px 0px 0px 0px;margin:14px 0px 0px 0px;"><div style="padding: 20px 0 20px 40px; float: left; position: relative; z-index: 1;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540582" data-ad-slot="criteo_slot_1540582" id="criteo_slot_1540582"></div>
+
+      </div>
+    </div><div style="padding: 20px 40px 20px 0; float: right; position: relative;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540583" data-ad-slot="criteo_slot_1540583" id="criteo_slot_1540583"></div>
+
+      </div>
+    </div></div></td></tr><tr><td class="pb24"><br><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=38656&t=relations" style="font-weight: normal;">Edit</a></div><h2>Related Anime</h2></div><table class="anime_detail_related_anime" style="border-spacing:0px;"><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Adaptation:</td><td width="100%" class="borderClass"><a href="/manga/48881/Darwins_Game">Darwin&#039;s Game</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Summary:</td><td width="100%" class="borderClass"><a href="/anime/41194/Darwins_Game__Log_Line">Darwin&#039;s Game: Log Line</a></td></table><br><div><div class="floatRightHeader"><a href="/anime/38656/Darwins_Game/characters" style="font-weight: normal;">More characters</a></div><h2>Characters & Voice Actors</h2></div><div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/87877/Shuka_Karino" class="fw-n">
+            <img alt="Karino, Shuka" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/3/328164.jpg?s=6d366a17eb7794226e3cb6e3498ae9d1" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/3/328164.jpg?s=6d366a17eb7794226e3cb6e3498ae9d1 1x, https://cdn.myanimelist.net/r/84x124/images/characters/3/328164.jpg?s=f601596f4f0e382c96b9e17c2f24b450 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/87877/Shuka_Karino">Karino, Shuka</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/26063/Reina_Ueda">Ueda, Reina</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/26063/Reina_Ueda">
+                      <img alt="Ueda, Reina" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/56327.jpg?s=7c418da509345f77af4fed19257cc850" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/56327.jpg?s=7c418da509345f77af4fed19257cc850 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/56327.jpg?s=58086ab20491f14464501abd7ae22cda 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/124358/Rein_Kashiwagi" class="fw-n">
+            <img alt="Kashiwagi, Rein" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/8/327550.jpg?s=08d97a52f5a3eff9ec8bb8d22d6be54b" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/8/327550.jpg?s=08d97a52f5a3eff9ec8bb8d22d6be54b 1x, https://cdn.myanimelist.net/r/84x124/images/characters/8/327550.jpg?s=e97090cd5c53207e4ff31a1598c8a1e3 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/124358/Rein_Kashiwagi">Kashiwagi, Rein</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/31509/Nichika_Oomori">Oomori, Nichika</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/31509/Nichika_Oomori">
+                      <img alt="Oomori, Nichika" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54424.jpg?s=9ed16ce033c8c2bbaccfa5531f366866" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54424.jpg?s=9ed16ce033c8c2bbaccfa5531f366866 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/54424.jpg?s=ade3cadc0f5b634d11cb3b56d829e774 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/87219/Kaname_Sudou" class="fw-n">
+            <img alt="Sudou, Kaname" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/5/328149.jpg?s=726baeb02e59362a86f06c9cb8234a64" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/5/328149.jpg?s=726baeb02e59362a86f06c9cb8234a64 1x, https://cdn.myanimelist.net/r/84x124/images/characters/5/328149.jpg?s=b15cba84eb9347c04c8d082d8ac86d9c 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/87219/Kaname_Sudou">Sudou, Kaname</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/26705/Yuusuke_Kobayashi">Kobayashi, Yuusuke</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/26705/Yuusuke_Kobayashi">
+                      <img alt="Kobayashi, Yuusuke" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/53729.jpg?s=3594f7198c4e68af86120e18ab6b6a87" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/53729.jpg?s=3594f7198c4e68af86120e18ab6b6a87 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/53729.jpg?s=2984b3219a27f0744b93611741d49ee6 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/150236/Sui" class="fw-n">
+            <img alt="Sui" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/4/351971.jpg?s=ef2828e40eeada7294058c7594a60d22" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/4/351971.jpg?s=ef2828e40eeada7294058c7594a60d22 1x, https://cdn.myanimelist.net/r/84x124/images/characters/4/351971.jpg?s=c2ae7704ec09092b94c99d161271914d 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/150236/Sui">Sui</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/21543/Yumiri_Hanamori">Hanamori, Yumiri</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/21543/Yumiri_Hanamori">
+                      <img alt="Hanamori, Yumiri" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/55530.jpg?s=288cbd235a917ec330dcda33f8a96140" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/55530.jpg?s=288cbd235a917ec330dcda33f8a96140 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/55530.jpg?s=5e28cd800b2f4a453c129bb0306bb5bd 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/126001/Souta" class="fw-n">
+            <img alt="Souta" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/2/278185.jpg?s=84e16d11f51032bd32f6260656b93c52" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/2/278185.jpg?s=84e16d11f51032bd32f6260656b93c52 1x, https://cdn.myanimelist.net/r/84x124/images/characters/2/278185.jpg?s=3c5a45d970f8467534b5bff8e7a591d9 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/126001/Souta">Souta</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/21543/Yumiri_Hanamori">Hanamori, Yumiri</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/21543/Yumiri_Hanamori">
+                      <img alt="Hanamori, Yumiri" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/55530.jpg?s=288cbd235a917ec330dcda33f8a96140" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/55530.jpg?s=288cbd235a917ec330dcda33f8a96140 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/55530.jpg?s=5e28cd800b2f4a453c129bb0306bb5bd 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/125968/Ryuuji_Maesaka" class="fw-n">
+            <img alt="Maesaka, Ryuuji" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/3/397820.jpg?s=2203e402640246864ada29916224e701" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/3/397820.jpg?s=2203e402640246864ada29916224e701 1x, https://cdn.myanimelist.net/r/84x124/images/characters/3/397820.jpg?s=84cd021d0b406e2de118b5814f228089 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/125968/Ryuuji_Maesaka">Maesaka, Ryuuji</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/38359/Taku_Yashiro">Yashiro, Taku</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/38359/Taku_Yashiro">
+                      <img alt="Yashiro, Taku" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/61056.jpg?s=d4c64df0a1686bf6be7b3c09f14e8782" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/61056.jpg?s=d4c64df0a1686bf6be7b3c09f14e8782 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/61056.jpg?s=47d705c01b30da492743a805f8ea8488 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/87227/Banda-kun" class="fw-n">
+            <img alt="Banda-kun" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/16/329500.jpg?s=fe758d58af1475ed7a650d2f87d5ea6e" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/16/329500.jpg?s=fe758d58af1475ed7a650d2f87d5ea6e 1x, https://cdn.myanimelist.net/r/84x124/images/characters/16/329500.jpg?s=d5d6881dee1c7c9f6da98ad2108e06fc 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/87227/Banda-kun">Banda-kun</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/576/Eiji_Takemoto">Takemoto, Eiji</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/576/Eiji_Takemoto">
+                      <img alt="Takemoto, Eiji" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/17723.jpg?s=a2c4e6d0ecd3e6bc09da2ec29eff64c9" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/17723.jpg?s=a2c4e6d0ecd3e6bc09da2ec29eff64c9 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/17723.jpg?s=238db83f8be7bc774bb08a62a87431d1 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/150303/Xue_Lan_Liu" class="fw-n">
+            <img alt="Liu, Xue Lan" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/13/335584.jpg?s=ac763485d4ddb2568c0e9603dfe1346b" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/13/335584.jpg?s=ac763485d4ddb2568c0e9603dfe1346b 1x, https://cdn.myanimelist.net/r/84x124/images/characters/13/335584.jpg?s=d68a77de325fa1274ca322a5e363851b 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/150303/Xue_Lan_Liu">Liu, Xue Lan</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/87221/Hiroyuki_Kyouda" class="fw-n">
+            <img alt="Kyouda, Hiroyuki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/2/329759.jpg?s=bc206efec6b0d2f68cfde2f8d2c2eda2" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/2/329759.jpg?s=bc206efec6b0d2f68cfde2f8d2c2eda2 1x, https://cdn.myanimelist.net/r/84x124/images/characters/2/329759.jpg?s=a1bb81c4a5b5c6652ea36259ca2b3445 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/87221/Hiroyuki_Kyouda">Kyouda, Hiroyuki</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/47439/Chiaki_Kobayashi">Kobayashi, Chiaki</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/47439/Chiaki_Kobayashi">
+                      <img alt="Kobayashi, Chiaki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/58409.jpg?s=70588e88cdb7bc3faa75bea37b8cb51a" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/58409.jpg?s=70588e88cdb7bc3faa75bea37b8cb51a 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/58409.jpg?s=4e84051dd9d3c9cb71da1666b9c95794 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/124351/Ichirou_Hiiragi" class="fw-n">
+            <img alt="Hiiragi, Ichirou" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/14/329501.jpg?s=72eee2ab24ea93ac092e72e32163008f" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/14/329501.jpg?s=72eee2ab24ea93ac092e72e32163008f 1x, https://cdn.myanimelist.net/r/84x124/images/characters/14/329501.jpg?s=8e7bbf50470e4114566fa8bd02ec6d5d 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/124351/Ichirou_Hiiragi">Hiiragi, Ichirou</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"></table>
+              </td>
+    </tr>
+  </table></div></div>
+<div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div><br>
+<a name="staff"></a>
+<div>
+  <div class="floatRightHeader"><a href="https://myanimelist.net/anime/38656/Darwins_Game/characters#staff">More staff</a></div>
+  <h2>Staff</h2>
+</div>
+
+<div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/42077/Yoshinobu_Tokumoto" class="fw-n">
+            <img alt="Tokumoto, Yoshinobu" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/42077/Yoshinobu_Tokumoto">Tokumoto, Yoshinobu</a>
+        <div class="spaceit_pad">
+          <small>Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/20216/ASCA" class="fw-n">
+            <img alt="ASCA" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/55044.jpg?s=cc847a66ce07f680ed9404b503f81cf3" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/55044.jpg?s=cc847a66ce07f680ed9404b503f81cf3 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/55044.jpg?s=4481bb254078bea8770d68d4d62f6b13 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/20216/ASCA">ASCA</a>
+        <div class="spaceit_pad">
+          <small>Theme Song Performance, Theme Song Lyrics</small>
+        </div>
+      </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/34399/Mashiro_Ayano" class="fw-n">
+            <img alt="Ayano, Mashiro" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/44282.jpg?s=f2fd977b9255006c68bc644ae8ec8a51" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/44282.jpg?s=f2fd977b9255006c68bc644ae8ec8a51 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/44282.jpg?s=30a524c72827a89d5cb6996ffb2076fe 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/34399/Mashiro_Ayano">Ayano, Mashiro</a>
+        <div class="spaceit_pad">
+          <small>Theme Song Performance</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/39642/Kenichiro_Suehiro" class="fw-n">
+            <img alt="Suehiro, Kenichiro" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/44780.jpg?s=613a0343e1d323d800e47df458675119" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/44780.jpg?s=613a0343e1d323d800e47df458675119 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/44780.jpg?s=da041cbe41b8dfe726d94128b587e81e 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/39642/Kenichiro_Suehiro">Suehiro, Kenichiro</a>
+        <div class="spaceit_pad">
+          <small>Music</small>
+        </div>
+      </td>
+    </tr>
+  </table></div></div>
+<br><br><div class="di-t">
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=38656&amp;t=theme" class="floatRightHeader">Edit</a>
+      <h2>Opening Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs opnening"><span class="theme-song">&quot;CHAIN&quot; by ASCA</span><br></div>
+  </div>
+  <div class="di-tc va-t}" style="width:16px;"></div>
+
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=38656&amp;t=theme&amp;themetype=2" class="floatRightHeader">Edit</a>
+      <h2>Ending Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs ending"><span class="theme-song">&quot;Alive&quot; by Mashiro Ayano</span><br></div>
+  </div>
+</div>
+<br><br><br><div><span class="floatRightHeader"><a href="/anime/38656/Darwins_Game/reviews">More reviews</a></span><h2>Reviews</h2></div>
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="12:17 PM">Mar 20, 2020</div>
+      <div class="lightLink spaceit">
+                  11 of 11 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score332155').toggle()">Overall Rating</a>:
+        3
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/RebelPanda">
+                  <img src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610523600" data-src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610523600" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/RebelPanda">RebelPanda</a>
+              <small>(<a href="/profile/RebelPanda/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp332155">256</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score332155">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>3</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">3</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">3</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">4</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">1</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">6</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    *This review contains minor spoilers*<br />
+<br />
+Logic, reason, reality… these are things I simply do not care about. But because of an anime called Darwin’s Game, we need to talk about them. And by we, I do mean me, so take a seat and let me tell you why this anime is crap. <br />
+<br />
+Darwin’s Game tries to pass itself off as a battle royale, one of my favorite sub-genres, but it really isn’t. I expected it to be dumb, shlocky, and nonsensical, which has never stopped me from enjoying an anime before. So I prepared to suspend my disbelief, but nothing could prepare me for what I
+
+          <span style="display: none;" id="review332155">
+        have witnessed.<br />
+<br />
+The titular death game everyone plays, shortened to D-Game, is a fight to the death downloadable right on your phone. Players enlist to earn cash money and to get away with murder. It’s also a dueling arena, a power struggle between clans, a citywide scavenger hunt, and it grants every player a random superpower known as a Sigil. There’s a lot going on in this show, it’s chaotic, which is good because chaos is my middle name. The problem is, they never stop adding new concepts, even until the final episode. There’s no shortage of lore and mystery to untangle here, but it’s so confusing and underwritten that I don’t think even the writer understands it all. <br />
+<br />
+No one knows how an entire city is emptied for the game. No one knows how the game works. There here are new rules constantly being added. Skyscrapers are destroyed, people are slaughtered in the streets, entire city blocks are reduced to rubble. And all of society was taking a nap. Every now and then, the entire population wakes up and realizes all this shit happened, and they say “Hey guys what happened to our city? How did everyone sleep through it?” That’s a question that the author doesn’t seem to have a grasp on. Apparently, the game blocks your phone signal, but it still takes place in the real world. In the first episode, someone tries shooting the protagonist multiple times and no one calls the cops. Later on, civilians run over a player, an invisible man, dent their bumper, then drive off without a care in the world. They look around and see the terrified protagonist, but they don’t ask him if he’s ok or if he knows what they hit. They just leave. This is so detached from reality. Although the guy who was trying to kill him was a Panda, so I do like that. <br />
+<br />
+I can’t stress this enough, but I do not care about what is logically possible in reality. Make it stupid, make it ridiculous. I will enjoy it. Punch a guy’s head off, topple a building, make a crazy yandere fall in love with the bland protagonist. Where I draw the line between dumb fun and inane writing is internal logic, which Darwin’s Game has none. For starters, the superpowers are not consistent at all. The main protagonist, Kaname, has the ability to create anything he can think of, any weapon imaginable. It’s awesome. Contrast this with a dude who can detect when people are lying. Not awesome. These powers are incomparable. Another main character is essentially a super-computer who can freeze time, she’s absurdly overpowered. <br />
+<br />
+The logic is skewed to give the main characters as much power as possible, which is admittedly sometimes really fun to watch play out. I loved seeing Kaname pull a machine gun out of his ass to scare bad guys; Or a thirteen-year-old professional sniper evade a dozen burly bad guys and dodge a moving train within seconds. It’s kind of amazing how dumb this show is. But from the start, it’s clear who is expendable and who will never die. Their abilities make them practically invincible unless the author contrives some way for them to get hurt. Keep in mind, there are dozens of random fighters in either clan who have different abilities. There’s no telling how powerful they are or what their power even is. This means anyone can gain a new ability at any time. Unpredictability can be exciting, but it’s hard to enjoy a clusterfuck when you have no idea what’s happening.<br />
+<br />
+Add this to the ugly animation and generic background music, and you’ve got a recipe for boredom. The action is supposed to be the appeal of the show, the rest of it is just the characters trying to figure out how the hell game functions. To this day, no one knows! Even after watching the whole show, I have no idea what Kaname was supposed to look like. His face changes every other shot like he’s made of melting clay. The artists prioritized animation over consistent character designs, probably because the story wouldn’t work without action. Other than a few special occasions, the animation looks pretty awful too. If you pause at any point while people are moving, you’ll notice the perspective is off, limbs look too big or too small. <br />
+<br />
+Kaname, aside from being the personification of mashed potatoes, isn’t that bad of a character. Yeah, he’s an edgelord, but who isn’t these days? My problem with him is that he gained his overpowered sigil out of pure coincidence, and it allows him to succeed in the game. He does not develop until late in the series. Lucky circumstances cause him to succeed, dumb decisions cause him to temporarily fail. He meets powerful and agreeable players, who he dick whips ruthlessly until they join him. Ladies throw themselves at him, worshiping his sigil, to the point of insanity. Dear God, impregnate me Kaname-sama! There were one or two scenes when he was relatable, but that was all.<br />
+<br />
+As for the other characters, we have Yuno Gasai with twin tails, a crazy child who is convinced she has the ghost of her twin in her body. She just whines for most of the show and does nothing. Might as well show her half-naked for the plot! The 13-year-old supercomputer sniper girl, she’s pretty cool. The human lie detector, this game is balanced. The Florist, a man trying to earn money to save his daughter, valid reason. Then he develops a hero complex for reasons. He has a heartfelt dialogue with the sniper girl, but afterward, he regurgitates his same pointless desire to live and die a hero undigested. HE learns nothing from one of the best scenes in the show. The main villain, big Wang himself, is another psychopathic edgelord who fits his role as the leader of the Bad Clan. There’s nothing to him, still, I have to give props to his voice actor for his great performance.<br />
+<br />
+Ever since watching the classic Japanese film Battle Royale (that the Hunger Games shamelessly copied), I’ve loved death games. I think I have made a good argument for why Darwin’s Game is a very shitty anime, and I could end the review here. But I need to make it clear why this is also a shitty death game anime as well. I’ve enjoyed bad death game anime in the past, I love the catastrophe that is Mirai Nikki. I expected Darwin’s Game to be a fix for my shlocky battle royale addiction, but I was baited. Kaname basically uses his power and *sexy* personality to sway his enemies he encounters into joining his team. This is where Darwin’s Game ceases being a battle royale and becomes a battle between clans. I didn’t sign up for this! Worst of all, a lot of the violence is censored. There was a badass scene when a dude punches off a guy’s head. Well, it would have been badass if they hadn’t censored the shit out of it! Fuck censorship! Some guy’s arm got chopped off and it’s shown as a silhouette because they didn&#039;t want to offend the children. Kill your shitty child for all I care! I want to see blood, guts, filth! <br />
+<br />
+I feel like I’m committing some kind of crime by reviewing this garbage. It’s not worth the effort I put into writing this review. It shouldn’t be as popular as it is; People are going to see this and think this is what anime is like. They’re going to think we’re all babbling angsty babies who believe this trash is high art. It’s obscene that I feel the need to announce I know this anime is bad when it’s clear from just the first few minutes how shitty it is. I’m tapping out here, I’ve lost enough brain cells trying to unironically dissect this fecesfest. For those who want to hurt more, no shade if you’re into that sort of thing, this anime doesn’t have an ending so expect another season. If you like shlock in the same vein as Btoom!, Mirai Nikki, and Ousama’s Game, this might be worth a shot. 
+        
+<div id="revhelp_output_332155" class="mt8 js-review-btn-helpful js-review-helpful-332155">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F38656%2FDarwins_Game" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle332155"
+         class="js-toggle-review-button" data-id="332155">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=332155" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=332155" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="8:45 AM">Mar 20, 2020</div>
+      <div class="lightLink spaceit">
+                  11 of 11 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score332134').toggle()">Overall Rating</a>:
+        7
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/HellLyter">
+                  <img src="https://cdn.myanimelist.net/images/userimages/3813391.jpg?t=1610502000" data-src="https://cdn.myanimelist.net/images/userimages/3813391.jpg?t=1610502000" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/HellLyter">HellLyter</a>
+              <small>(<a href="/profile/HellLyter/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp332134">138</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score332134">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>7</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">6</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">5</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">7</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">6</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">9</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Darwin’s game is the most recent addition to the survival game genre, and it follows the standard death game blueprint to a tee. The majority of this anime can basically be summed up as generic strong valued anime dude is given Emiya Shirou’s “TRACE ON!” ability from Fate Stay Night and is thrown into a Fortnite styled battle royale that basically uses Future Diary’s phone mechanic. Oh, and he gets all the hot anime waifus who immediately want to bear his children roughly 5 minutes after meeting him. <br />
+<br />
+Yeah, it sounds a little ridiculous (and borderline plagiarized in some aspects), but you know what? I
+
+          <span style="display: none;" id="review332134">
+        actually ended up really liking it. And that’s not because it has a thought provoking narrative or satisfying character development or anything like that, because the show honestly doesn’t. It does however provide ample entertainment in the form of quirky characters duking it out in a fun battle royale environment. That’s exactly what I expected to get out of this anime and it’s what Darwin’s Game delivered, so it’s a success in my eyes. <br />
+<br />
+One thing that Darwin’s Game does that many others in the genre do as well is to make the setting of the story take place in a realistic world modeling our own. This however raises questions once the survival game starts, such as how the heck can such a game of such a momentous scale be orchestrated and executed in this society, how on earth are people able to receive magical abilities just by opening an app, and why does the game even exist in the first place? Maybe Darwin’s Game’s longer source material explores these questions more, but this anime adaptation certainly doesn’t, which I’ve noticed has caused some people to view it in a negative light. All I have to say is why does it matter? Yes, an explanation of things is always important and necessary, but this anime is only the beginning stage of Darwin’s Game. It’s not meant to provide all the answers, just explore interesting scenarios and establish preliminary character relationships. This isn’t a thought provoking anime by any means, and I just wanted to say that this show is meant to be watched for some good natured fun, and if you’re looking for something deeper, I can almost guarantee that you’ll be met with disappointment. <br />
+<br />
+The plot itself is pretty simplistic, but effective. It follows protagonist Kaname, a normal high school student, who gets abruptly thrown into a death game after opening the titular phone app Darwin’s Game. It’s easy to predict that he makes allies throughout his journey and slowly progresses in power, but it’s the way that these points are portrayed that makes them effective. Every single one of Kaname’s teammates that he makes by the end of the anime besides the analytical loli Rein he ends up fighting before becoming friends. Now while this does seem basic, I actually really like this approach. Most other survival games may have the protagonist make one or two allies with initial enemies, but they just usually up and murder everyone else. Kaname is different in that he tries to befriend all his enemies, and it never once felt forced because there was always a reasonable explanation for why these people who had just been trying to literally kill each other earlier would team up. <br />
+<br />
+And despite it’s short run time, I actually ended up liking the bonds between the members of Kaname’s clan Sunset Ravens. By all means I shouldn’t, because there’s been hardly any time for their relationships to develop and they don’t have great chemistry yet or anything, but there’s something about this group that I just like. Their banter during the car chase episode near the end got me to smile, and I just have a feeling that if there’s ever a sequel, I’ll start to like them even more. <br />
+<br />
+What ended up surprising me most about this anime was just how normal the characters have ended up being thus far. I’ve watched enough survival games, both good and bad, to naturally come to expect the majority of the characters to have absolutely insane character traits. But in Darwin’s Game, they’re surprisingly mellow by comparison. I didn’t even hear a single maniacal laugh given by the main girl Shuka, who I had assumed would be a Yuno Gasai knockoff. Now don’t get me wrong, she’s possessive of Kaname and kills people, but it is a death game after all, and she’s given an understandable, albeit simplistic, reason for participating. The “craziest” she gets is getting jealous over Kaname talking with other woman, which is pretty standard in anime (and probably real life too, but I wouldn’t know…) In the end, Shuka ends up being just a regular badass anime babe with some cute mannerisms and outfits, which I’m perfectly fine with.<br />
+<br />
+So I’m basically saying if you’re here because you want to watch a possessive yandere murder everyone for the sake of the one she loves while laughing hysterically, you’re probably in the wrong place. Sorry!<br />
+<br />
+Speaking of laughing, the voice that stood out to me the most was actually Wang’s, the main antagonist of this arc. While none of the girls were crazy psychos, this guy certainly was, and if you couldn’t tell by his appearance or actions, it was definitely evident in his voice and crazy laughs. Wang isn’t listed under the characters section here on MAL at the time of writing this so I don’t know who is credited with voicing him, but to me he definitely sounds like Yoshitsugu Matsuoka just having fun in an antagonistic role, and he just sounds great! Besides Wang’s voice, the rest of the anime’s technical aspects were generally lacking. The other voices were fine and I did like Rein’s soft-spoken loli voice. The theme songs were catchy and I got pumped up whenever that death metal sounding insert track would play during certain fights. However, it’s the battles themselves and the visuals in general that were a letdown. The art itself is pretty standard, but for some reason I was put off by the anatomy of some of the characters’ faces, primarily Kaname. During many fights, the anime does something that I totally dislike, which is the implementation of many, and I really mean many, still shots. Having unmoving panels with characters talking and sound effects playing over them when a battle is supposed to be going on is just the epitome of laziness in animation in my eyes, especially when the images aren’t even drawn particularly good or anything.The visuals redeem themselves a little with the car chase scene, which I thought implemented a combination of hand drawn and cgi visuals quite nicely. But overall, the animation definitely could have been more polished and aesthetically pleasing. <br />
+<br />
+Overall, Darwin’s Game didn’t bring anything new to the table, that much I’ll concede. The story up to this point has been pretty standard and the characters are as well. But you know what? I still like it. It’s an entertaining anime, in fact one of the most enjoyable to watch that I’ve seen in awhile. I binged watched every episode bar the last in a single sitting, and I had fun the whole way through. And in my mind, being able to captivate and entertain an audience, no matter what the means, is the most important aspect of any show. And for me, Darwin’s Game succeeded in this, so it gets a pass in my book.  <br />
+
+        
+<div id="revhelp_output_332134" class="mt8 js-review-btn-helpful js-review-helpful-332134">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F38656%2FDarwins_Game" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle332134"
+         class="js-toggle-review-button" data-id="332134">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=332134" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=332134" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="8:23 AM">Mar 20, 2020</div>
+      <div class="lightLink spaceit">
+                  11 of 11 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score332126').toggle()">Overall Rating</a>:
+        2
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/shiranaitori">
+                  <img src="https://cdn.myanimelist.net/images/userimages/4792879.jpg?t=1609421400" data-src="https://cdn.myanimelist.net/images/userimages/4792879.jpg?t=1609421400" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/shiranaitori">shiranaitori</a>
+              <small>(<a href="/profile/shiranaitori/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp332126">112</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score332126">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>2</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">1</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">3</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">3</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">1</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">1</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    ~STORY~<br />
+Darwin&#039;s Game has a basic start for a &quot;death game&quot; themed anime. A normal school student suddenly finds himself in the midst of deadly events and starts to beat everyone with his somehow strategic intelligence. However, the pacing of subsequent events is very slow. We have a scavenger hunt event in the midst of the show and that event lasts for six episodes. The scavenger hunt event could easily be handled in just three or four episodes but Darwin&#039;s Game has so many unnecessary dialogues and because of that half of the season wasted on that event.<br />
+Dialogues are often used in Darwin&#039;s Game to describe
+
+          <span style="display: none;" id="review332126">
+        simple things in long sentences and this makes what is described more complicated than it is. Also, we have some unnecessary dialogues between enemies, just like in every bad shounen anime...<br />
+<br />
+Unnecessary dialogues are easily one of the worst and annoying things about this show.<br />
+<br />
+~CHARACTERS~<br />
+The character cast is another problem with Darwin&#039;s Game. The protagonist of the show, Sudou Kaname, is your typical edgy anime protagonist which will be liked only by fifteen years old edgy boys. And his slut, Karino Shuka, is a deadly but obedient anime waifu which has nothing to do except being a tool for our protagonist. We have more characters in the main cast but we can really care about only two of them and the story of one of them is wasted and thrown into the trash within ten minutes.<br />
+Leaving aside the main cast, we have one of the worst anime villains ever: Wang. He is a very cringy character with everything from his design to his actions. He lives just for murder and money. Anime tries to make him look scary but the only emotion we feel as a result of his movements is embarrassment.<br />
+<br />
+~ART~<br />
+Darwin&#039;s Game has a very ugly art style. Almost every character&#039;s face feels wrong. They have very long noses and strange skull structures. Also, their faces shine like they had oil on them. Background drawings are detailed but animations are not that good. I was expecting better animations from a one-cour action anime, it was very frustrating.<br />
+<br />
+~SOUND~<br />
+All the soundtracks of Darwin&#039;s Game were forgettable. I watched this show for almost 3 straight months and I don&#039;t remember any soundtrack from it. Voice actings are not bad but not good either. Only Shuka has some good voice acting moments but that&#039;s all. At least the opening and ending were kinda good.<br />
+<br />
+~ENJOYMENT~<br />
+Darwin&#039;s Game was one of the most boring anime I&#039;ve seen recently. The only part of this show that I had fun with was the car chase scene. If you don&#039;t like edgy things, there&#039;s no reason to watch Darwin&#039;s Game.<br />
+<br />
+<br />
+Take care and stay healthy!<br />
+
+        
+<div id="revhelp_output_332126" class="mt8 js-review-btn-helpful js-review-helpful-332126">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F38656%2FDarwins_Game" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle332126"
+         class="js-toggle-review-button" data-id="332126">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=332126" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=332126" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="8:28 AM">Mar 20, 2020</div>
+      <div class="lightLink spaceit">
+                  11 of 11 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score332129').toggle()">Overall Rating</a>:
+        3
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Stark700">
+                  <img src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" data-src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Stark700">Stark700</a>
+              <small>(<a href="/profile/Stark700/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp332129">101</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score332129">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>3</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">3</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">3</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">3</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">4</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">3</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    We’re only 3 months into the new decade and already, there’s an anime about survival games. For context, Darwin’s Game is a shounen manga adaptation directed by Yoshinobu Tokumoto. I remember reading about this manga some years ago and tried to be less critical about it. But years later, I find myself looking back at the series and knowing that it has no redeemable traits. Of course, that’s the manga I’m talking about. The anime isn’t any miles better either.<br />
+<br />
+First, let’s get the obvious out of the way. Looking at the episode count, you’re probably asking yourself how on Earth this show could cover the
+
+          <span style="display: none;" id="review332129">
+        manga in just 11 episodes? The simple answer is impossible because the manga contains well over ongoing 80+ chapters. Even with an hour special, Darwin’s Game falters on its strange pacing. We’ll get to that later but for storytelling purposes, Darwin’s Game does try to connect itself with the genres it has to work with. Specially, the first hour special throws main protagonist Kaname Sudo into a survival game from his phone. In the digital age today, everyone has a phone so the author wanted the audience to be familiarized with the elements. That’s fine and dandy until you realize how that phone throws Kaname into a labyrinth of his worst nightmares. Now as a contestant of a dangerous survival game, Kaname must not only battle but survive with each episode raising its stakes. For its very purpose, Darwin’s Game takes on the survival game genre perhaps influenced by similar franchise such as Battle Royale or Mirai Nikki. I don’t blame the author for having upcoming with such an unoriginal idea but for good sakes, this type of recycled plot is anything but unique.<br />
+<br />
+However, I may have misspoke on the actual reason why this show is called “Darwin’s Game”. Based on the Darwin’s Theory of Evolution, it would seem the author has decided to apply some of the same principles into the storytelling and characters. For that reason, this anime is more about surviving than discovering the truth of the Darwin’s Game. Getting back into the main story, Kaname is initially clueless about his position until he realizes that lives are at stake including his own. The first episode bounds him into a chaotic fight that puts him into near death positions. If that wasn’t enough, he also learns that in order to survive, he must rely on special abilities while competing against others. The objective of the game is to kill others to collect their points and in return, they can cash into those points for money. In the beginning, Kaname’s lack of allies puts him into a compromising position as he is alone with no one to trust. It isn’t until he defeats other competitors and begins to build his own clan of allies. Among the first of these allies is a girl named Shuka Karino. Coming from a rich family and dressed in a lavish way, Shuka becomes his most trusted friend and perhaps a romantic interest. Their relationship is built on reliance at first but later flourishes into trust. The anime doesn’t explore much of their romantic side, however. If you’re looking for that, don’t bother because Darwin’s Game at its core is about survival. The Darwin’s Theory of Evolution deems those who are worthy to be competitors in this game and Shuka is one of them. <br />
+<br />
+And as the story progresses, we are introduced to other formidable players such as the 13 year old prodigy Rein Kashiwagi, Ruji Masesaka, and even Sui, a character with a dual personality. These characters all possesses special abilities in the form of “Sigils”. In fact, Sigils play an imperative role in the overall Darwin’s Game world for each one has a different ability. For instance, Kaname’s Sigil allows him to recreate items and use them in battle. Shuka has the ability to use wires as weapons and thanks to her agility, she can utilize these wires as a killing tool. Rein’s “Laplace” sigil allows her to analyze vectors and use that information to her advantage. The idea the creators wanted to enforce into these character abilities is that each of them has potential to change the outcome of the game. But the bottom line is that despite having all these creative ideas, the main characters suffers from general characterization. It’s very difficult to get invested into any one of them besides Kaname. The show pushes him as the main guy who is protected by plot armor and his allies. Kaname himself is designed as a generic teenager that you can find in just about any similar gimmicky shows. His relationship with the main cast is untimely written and lacks commitment. I can honestly say that there’s no character pair in this show that has emotional appeal. It’s also hard to root for anyone in this show because by the end of the day, we all know who’s going to be alive.<br />
+<br />
+Despite not facing production issues, Darwin’s Game animation quality lacks any distinctive qualities and relies far too much into its action elements. Character designs looks uninspiring with almost every character having the same face. Main protagonist Kaname adapts a high school student look that can easily turn heads away. On the other hand, I do applaud the character designs for the female cast such as Shuka. That dark scarlet dress she has on is something most viewers will have a hard time taking eyes off of. And if you’re looking for some fan service, you’ll be pleased to know that the anime loves to occasionally have the characters ends up in erotic-like positions or camera angles. Beyond that, Darwin’s Game visual appeal is mediocre at best and insufferable at worst.<br />
+<br />
+Honestly, I think I’ve given up on the whole idea about survival games being translated into anime form. Too many times, this type of show aims at a niche audience and reuses the same ideas over and over. Plus, it seems this adaptation’s goal was to advertise the manga because there’s much more content out there in storytelling. However, take my advice and don’t throw your money at this franchise. It’s not worth it and this decade is just getting started.
+        
+<div id="revhelp_output_332129" class="mt8 js-review-btn-helpful js-review-helpful-332129">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F38656%2FDarwins_Game" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle332129"
+         class="js-toggle-review-button" data-id="332129">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=332129" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=332129" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+<div class="mt4"></div><div class="amazon-ads anime-manga-detail bottom pt20 pb16">
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "animedetail-20";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Buy on Amazon.com ";
+amzn_assoc_default_search_phrase = "Darwin&#039;s Game";
+amzn_assoc_default_category = "DVD";
+amzn_assoc_linkid = "d33d41183eb8aee6216ffe9ff44ca735";
+amzn_assoc_rows = "1";
+amzn_assoc_search_bar_position = "bottom";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+</div>            <div class="mal-ad-unit" data-ad-width="801" data-ad-height="633">
+        <div id="taboola-below-article-thumbnails-anime"></div> <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'alternating-thumbnails-a',
+    container: 'taboola-below-article-thumbnails-anime',
+    placement: 'Below Article Thumbnails Anime',
+    target_type: 'mix'
+  });
+</script>
+
+      </div>
+    <br><div><div class="floatRightHeader"><a href="/anime/38656/Darwins_Game/news">More news</a></div><h2>Recent News</h2></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/58867624" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1577399362-31ff16df8ee1370cb40600454ea47a3d.jpeg?s=88baf829c319a6eccd4f499ec72c14f3" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1577399362-31ff16df8ee1370cb40600454ea47a3d.jpeg?s=88baf829c319a6eccd4f499ec72c14f3 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1577399362-31ff16df8ee1370cb40600454ea47a3d.jpeg?s=9fcc23b130f879f6a0f28cab644064cf 2x" alt="Winter 2020 Simulcast List [Update 2/1]" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/58867624"><strong>Winter 2020 Simulcast List [Update 2/1]</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p>In this thread, you&#039;ll find a comprehensive list of anime acquired for simulcast release during the Winter 2020 season. Anime series licensed for home video rel...<a href="/news/58867624">read more</a></p></div>
+		<p class="lightLink spaceit">Dec 26, 2019 2:30 PM by <a href="/profile/Snow">Snow</a> | <a href="/forum/?topicid=1817542">Discuss (45 comments)</a></p></div>
+		<div class="borderClass"></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/58851979" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1577138598-000a0b2dc975f83675c822527a50f28c.jpeg?s=3169fa0c78eb1642cc2bba6926a71ec3" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1577138598-000a0b2dc975f83675c822527a50f28c.jpeg?s=3169fa0c78eb1642cc2bba6926a71ec3 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1577138598-000a0b2dc975f83675c822527a50f28c.jpeg?s=2af13b926b3e29af0fa3168d95caea6d 2x" alt="Additional Cast and Staff Revealed for &#039;Darwin&#039;s Game&#039;" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/58851979"><strong>Additional Cast and Staff Revealed for &#039;Darwin&#039;s Game&#039;</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p>Additional cast and staff members for studio Nexus&#039; TV anime adaptation of Darwin&#039;s Game were announced through its official website on Monday. The series&...<a href="/news/58851979">read more</a></p></div>
+		<p class="lightLink spaceit">Dec 23, 2019 2:03 PM by <a href="/profile/Sakana-san">Sakana-san</a> | <a href="/forum/?topicid=1817027">Discuss (1 comment)</a></p></div>
+		<div class="borderClass"></div><br><div><div class="floatRightHeader"><a href="/forum/?animeid=38656"><a href="/anime/38656/Darwins_Game/forum">More discussions</a></div><h2>Recent Forum Discussion</h2></div><div class="page-forum">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F38656%2FDarwins_Game&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=1867233">Would you watch a 2nd season?</a> <small></small><br><span class="forum_postusername"><a href="/profile/MrShoujo">MrShoujo</a></span> - <span class="lightLink">Sep 29, 2020</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">9 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/AstaLoliDragneel">AstaLoliDragneel</a> <a href="/forum/?topicid=1867233&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Jan 4, 3:10 AM</td>
+            </tr>
+            <tr id="topicRow2">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F38656%2FDarwins_Game&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1830056">Darwin&#039;s Game Episode 11 Discussion</a> <small> ( <a href="/forum/?topicid=1830056&show=0">1</a> <a href="/forum/?topicid=1830056&show=50">2</a> <a href="/forum/?topicid=1830056&show=100">3</a> <a href="/forum/?topicid=1830056&show=150">4</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Mar 20, 2020</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">178 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/xeonite">xeonite</a> <a href="/forum/?topicid=1830056&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Dec 2, 2020 5:42 AM</td>
+            </tr>
+            </table></div><br><div><div class="floatRightHeader"><a href="/anime/38656/Darwins_Game/featured">More featured articles</a></div><h2>Recent Featured Articles</h2></div><div class="detail-page-featured-article"><div class="news-list">
+      
+    <div class="news-unit clearfix"><div class="picSurround fl-l mr8 ml3">
+          <a href="https://myanimelist.net/featured/2328/In_Numbers__The_Best_and_Worst_Anime_of_Winter_2020"><img src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1590596375-389ff0dd100d8c2501e6413b16878deb.png?s=666dedf3d4b0e670141fd105b0399e8f" alt="In Numbers: The Best and Worst Anime of Winter 2020" class="image lazyload" width="50" height="78" srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1590596375-389ff0dd100d8c2501e6413b16878deb.png?s=666dedf3d4b0e670141fd105b0399e8f 1x, https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1590596375-389ff0dd100d8c2501e6413b16878deb.png?s=766238841893acbdc9bf702695631438 2x" /></a>
+        </div><div class="news-unit-right rect">
+        <p class="title">
+          <a href="https://myanimelist.net/featured/2328/In_Numbers__The_Best_and_Worst_Anime_of_Winter_2020" title="In Numbers: The Best and Worst Anime of Winter 2020">In Numbers: The Best and Worst Anime of Winter 2020</a>
+        </p>
+        <div class="text">
+          Scores, members, favorites — everything you need to know about who won and lost Winter 2020.
+        </div>
+        <div class="information">
+          <p class="info pr8">
+            by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
+          </p><p class="di-tc pv pr8">
+              <b>32,689</b> views
+            </p></div>
+      </div>
+    </div>
+        </div>
+</div><div style="padding:16px 0px 0px 0px;"><div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div></div><br><div>
+            <div class="floatRightHeader"><a href="/anime/38656/Darwins_Game/userrecs">More recommendations</a></div>
+            <h2>Recommendations
+            </h2></div>  <div class=""><a href="https://myanimelist.net/anime/38656/Darwins_Game/userrecs" class="btn-detail-recommendations-view-all fl-r">
+      <span class="text">View All</span>
+      <span class="icon-next"><i class="fa fa-chevron-right icon-chevron" aria-hidden="true"></i></span>
+    </a><div class="anime-slide-block" id="anime_recommendation" data-json='{"width":702,"btnWidth":40,"margin":8}'><div class="btn-anime-slide-side left"><span class="btn-inner"></span></div><div class="btn-anime-slide-side right"><span class="btn-inner"></span></div><div class="anime-slide-outer" style="height:140px;"><ul class="anime-slide js-anime-slide" data-slide="7"><li class="btn-anime" style="width:90px" title="Mirai Nikki"><a href="https://myanimelist.net/recommendations/anime/10620-38656" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Mirai Nikki</span><span class="users">27 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/13/33465.jpg?s=3e33e9b1a37b8a08735105ab42104b9d" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/13/33465.jpg?s=3e33e9b1a37b8a08735105ab42104b9d 1x,https://cdn.myanimelist.net/r/180x280/images/anime/13/33465.jpg?s=0803767006a1dedae192a3cc8672381e 2x" width="90" height="140" class="image lazyload" alt="Mirai Nikki" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Gleipnir"><a href="https://myanimelist.net/recommendations/anime/38656-39463" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Gleipnir</span><span class="users">6 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1380/106565.jpg?s=1179f7428f8fc405cadffc38c23ce32a" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1380/106565.jpg?s=1179f7428f8fc405cadffc38c23ce32a 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1380/106565.jpg?s=afc68a0e7552170b7f51244c8993ae3c 2x" width="90" height="140" class="image lazyload" alt="Gleipnir" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Btooom!"><a href="https://myanimelist.net/recommendations/anime/14345-38656" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Btooom!</span><span class="users">5 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/40977.jpg?s=2ca696dae8bc8d481a286497a0040ee5" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/40977.jpg?s=2ca696dae8bc8d481a286497a0040ee5 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/40977.jpg?s=9d4720f89ffbfe01592d63c42acaf180 2x" width="90" height="140" class="image lazyload" alt="Btooom!" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Ousama Game The Animation"><a href="https://myanimelist.net/recommendations/anime/36027-38656" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Ousama Game The Animation</span><span class="users">4 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/3/88190.jpg?s=9877032a05275d993efe4b1e5fb083dd" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/3/88190.jpg?s=9877032a05275d993efe4b1e5fb083dd 1x,https://cdn.myanimelist.net/r/180x280/images/anime/3/88190.jpg?s=bdf7da1eb2a19ae5357d8d13e7518114 2x" width="90" height="140" class="image lazyload" alt="Ousama Game The Animation" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Accel World"><a href="https://myanimelist.net/recommendations/anime/11759-38656" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Accel World</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/8/38155.jpg?s=3dd0c1da4e013e72832364bc25b96679" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/8/38155.jpg?s=3dd0c1da4e013e72832364bc25b96679 1x,https://cdn.myanimelist.net/r/180x280/images/anime/8/38155.jpg?s=17c0ff7f4b47058ee23a514b01688e4a 2x" width="90" height="140" class="image lazyload" alt="Accel World" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Caligula (TV)"><a href="https://myanimelist.net/recommendations/anime/36828-38656" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Caligula (TV)</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1910/93404.jpg?s=7b9202eeda376985b9e540347d0cc8ce" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1910/93404.jpg?s=7b9202eeda376985b9e540347d0cc8ce 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1910/93404.jpg?s=1ce6de74c4c083472c7d0bbe32c6dc11 2x" width="90" height="140" class="image lazyload" alt="Caligula (TV)" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Imawa no Kuni no Alice (OVA)"><a href="https://myanimelist.net/recommendations/anime/24781-38656" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Imawa no Kuni no Alice (OVA)</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1004/96669.jpg?s=1d876c2cfa03999da33a9926123a4008" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1004/96669.jpg?s=1d876c2cfa03999da33a9926123a4008 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1004/96669.jpg?s=c71dc2c25d2fd679abdd2c371a6253d6 2x" width="90" height="140" class="image lazyload" alt="Imawa no Kuni no Alice (OVA)" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Sword Art Online"><a href="https://myanimelist.net/recommendations/anime/11757-38656" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Sword Art Online</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/11/39717.jpg?s=f7cf2e5766cdfbed24a635284c409585" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/11/39717.jpg?s=f7cf2e5766cdfbed24a635284c409585 1x,https://cdn.myanimelist.net/r/180x280/images/anime/11/39717.jpg?s=49cfc33030dd61fa251a1f279dc6f931 2x" width="90" height="140" class="image lazyload" alt="Sword Art Online" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Fate/stay night"><a href="https://myanimelist.net/recommendations/anime/356-38656" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Fate/stay night</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/30327.jpg?s=43760f7d9b04da5dd5e2e76c0a47df69" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/30327.jpg?s=43760f7d9b04da5dd5e2e76c0a47df69 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/30327.jpg?s=8a2af1d8a45dba8f0966400c9133e23c 2x" width="90" height="140" class="image lazyload" alt="Fate/stay night" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Juuni Taisen"><a href="https://myanimelist.net/recommendations/anime/35076-38656" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Juuni Taisen</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/87684.jpg?s=df12b2a61b5aec4d2a095c92db27412f" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/87684.jpg?s=df12b2a61b5aec4d2a095c92db27412f 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/87684.jpg?s=795b8a996d354009b557a144fce3d0b8 2x" width="90" height="140" class="image lazyload" alt="Juuni Taisen" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Mahou Shoujo Ikusei Keikaku"><a href="https://myanimelist.net/recommendations/anime/33003-38656" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Mahou Shoujo Ikusei Keikaku</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/2/81087.jpg?s=f915d07bc87c120d803b32b81bef4b2c" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/2/81087.jpg?s=f915d07bc87c120d803b32b81bef4b2c 1x,https://cdn.myanimelist.net/r/180x280/images/anime/2/81087.jpg?s=66e317ed67a7201b768d179fbb91ffd9 2x" width="90" height="140" class="image lazyload" alt="Mahou Shoujo Ikusei Keikaku" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Higashi no Eden"><a href="https://myanimelist.net/recommendations/anime/5630-38656" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Higashi no Eden</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/9/15033.jpg?s=f8bb1eb297ba91a5c3f6c12da39d11c2" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/9/15033.jpg?s=f8bb1eb297ba91a5c3f6c12da39d11c2 1x,https://cdn.myanimelist.net/r/180x280/images/anime/9/15033.jpg?s=93871883a0cd95aa19efb9ac4206e3ce 2x" width="90" height="140" class="image lazyload" alt="Higashi no Eden" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Tokyo Ghoul"><a href="https://myanimelist.net/recommendations/anime/22319-38656" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Tokyo Ghoul</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/64449.jpg?s=acf9635aceb622d791403fafb7e2927e" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/64449.jpg?s=acf9635aceb622d791403fafb7e2927e 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/64449.jpg?s=efdef1fc6a606887ae4ca13b25d8590d 2x" width="90" height="140" class="image lazyload" alt="Tokyo Ghoul" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kiznaiver"><a href="https://myanimelist.net/recommendations/anime/31798-38656" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kiznaiver</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/6/78466.jpg?s=1a81b4441478f0a024540d7e0911751f" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/6/78466.jpg?s=1a81b4441478f0a024540d7e0911751f 1x,https://cdn.myanimelist.net/r/180x280/images/anime/6/78466.jpg?s=cef3e58da67ebd746cf3ef00a271c022 2x" width="90" height="140" class="image lazyload" alt="Kiznaiver" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Nakanohito Genome [Jikkyouchuu]"><a href="https://myanimelist.net/recommendations/anime/37926-38656" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Nakanohito Genome [Jikkyouchuu]</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1725/102251.jpg?s=7ebeacb0bae67ac850ac45f3a9367221" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1725/102251.jpg?s=7ebeacb0bae67ac850ac45f3a9367221 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1725/102251.jpg?s=93aa7d9b0a7c55a7bc58554f0e52a711 2x" width="90" height="140" class="image lazyload" alt="Nakanohito Genome [Jikkyouchuu]" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Dr. Stone"><a href="https://myanimelist.net/recommendations/anime/38656-38691" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Dr. Stone</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1613/102576.jpg?s=981a0c7ddcc43a22d7811d66726ccf04" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1613/102576.jpg?s=981a0c7ddcc43a22d7811d66726ccf04 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1613/102576.jpg?s=7213964e50755e97315ee594f1e3cee6 2x" width="90" height="140" class="image lazyload" alt="Dr. Stone" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Bungou Stray Dogs"><a href="https://myanimelist.net/recommendations/anime/31478-38656" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Bungou Stray Dogs</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/3/79409.jpg?s=62447a5256c38ed762db5b49caf2be65" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/3/79409.jpg?s=62447a5256c38ed762db5b49caf2be65 1x,https://cdn.myanimelist.net/r/180x280/images/anime/3/79409.jpg?s=e3c28b8412f2d8fabe75d9ba4913bfb0 2x" width="90" height="140" class="image lazyload" alt="Bungou Stray Dogs" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Selector Infected WIXOSS"><a href="https://myanimelist.net/recommendations/anime/22273-38656" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Selector Infected WIXOSS</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/13/70147.jpg?s=1f3435ed3c426300c3cf931441007ba4" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/13/70147.jpg?s=1f3435ed3c426300c3cf931441007ba4 1x,https://cdn.myanimelist.net/r/180x280/images/anime/13/70147.jpg?s=25bde3537d59aa7e98e63754a17d7e47 2x" width="90" height="140" class="image lazyload" alt="Selector Infected WIXOSS" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Overlord"><a href="https://myanimelist.net/recommendations/anime/29803-38656" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Overlord</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/7/88019.jpg?s=6d24f0447f13a2ac58bf6ceb227db17e" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/7/88019.jpg?s=6d24f0447f13a2ac58bf6ceb227db17e 1x,https://cdn.myanimelist.net/r/180x280/images/anime/7/88019.jpg?s=1c58d7616725afcc37434ab7b6d6fc3d 2x" width="90" height="140" class="image lazyload" alt="Overlord" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Akame ga Kill!"><a href="https://myanimelist.net/recommendations/anime/22199-38656" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Akame ga Kill!</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1429/95946.jpg?s=adb4bcab3ac606dcb25d08d817451f1c" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1429/95946.jpg?s=adb4bcab3ac606dcb25d08d817451f1c 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1429/95946.jpg?s=f58a59ea176e4e3e3c82397934bbbf0e 2x" width="90" height="140" class="image lazyload" alt="Akame ga Kill!" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Devil Survivor 2 The Animation"><a href="https://myanimelist.net/recommendations/anime/16512-38656" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Devil Survivor 2 The Animation</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/11/47191.jpg?s=e8566058e649159cec2a0b41692e5161" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/11/47191.jpg?s=e8566058e649159cec2a0b41692e5161 1x,https://cdn.myanimelist.net/r/180x280/images/anime/11/47191.jpg?s=85532de42727eec126909c64586e52a4 2x" width="90" height="140" class="image lazyload" alt="Devil Survivor 2 The Animation" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Darker than Black: Kuro no Keiyakusha"><a href="https://myanimelist.net/recommendations/anime/2025-38656" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Darker than Black: Kuro no Keiyakusha</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/19570.jpg?s=09fba33d877e3d62182d591d45c49a58" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/19570.jpg?s=09fba33d877e3d62182d591d45c49a58 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/19570.jpg?s=40c4bd7caa9f491c17fa39d64a764a6f 2x" width="90" height="140" class="image lazyload" alt="Darker than Black: Kuro no Keiyakusha" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Deadman Wonderland"><a href="https://myanimelist.net/recommendations/anime/6880-38656" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Deadman Wonderland</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/9/75299.jpg?s=7861561b922a6172b86f5554801f9f6e" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/9/75299.jpg?s=7861561b922a6172b86f5554801f9f6e 1x,https://cdn.myanimelist.net/r/180x280/images/anime/9/75299.jpg?s=fc1ddfe782bfe00d93445ccd24fd17e3 2x" width="90" height="140" class="image lazyload" alt="Deadman Wonderland" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Code Geass: Hangyaku no Lelouch"><a href="https://myanimelist.net/recommendations/anime/1575-38656" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Code Geass: Hangyaku no Lelouch</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/50331.jpg?s=ed0d2b743dfac79f78ffc1c8e5aa4edf" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/50331.jpg?s=ed0d2b743dfac79f78ffc1c8e5aa4edf 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/50331.jpg?s=db2f93ae6264fc886d5e525e02c78a30 2x" width="90" height="140" class="image lazyload" alt="Code Geass: Hangyaku no Lelouch" border="0" ></a></li></ul></div></div></div>
+    </td>
+    </tr>
+    </table>
+    </div>  <div class="mauto clearfix pt24" style="width:760px;">
+    <div class="fl-l">
+      </div>
+      <div class="fl-r">
+      </div>
+    </div>
+
+</td>
+</tr>
+</table>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js" data-pin-hover="true"></script></div><!-- end of contentHome -->
+</div><!-- end of contentWrapper -->
+
+
+            
+  
+
+
+            
+  
+
+  <script>
+    $(document).ready(function() {
+      $(window).scroll(function() {
+        var cHeight = $("#myanimelist").height();
+        $("div[data-ad-sticky='manual']").each(function (i, o) {
+          var aHeight = $(o).height();
+          var aTop = $(o).parent().offset().top;
+          if (window.pageYOffset >= (cHeight - aHeight)) {
+            $(o).css("top", ((cHeight - aHeight) - window.pageYOffset) + "px");
+          } else if (window.pageYOffset >= aTop) {
+            $(o).addClass("sticky");
+            $(o).css("top", "");
+          } else {
+            $(o).removeClass("sticky");
+          }
+        });
+      });
+    });
+  </script>
+
+<!--  control container height -->
+<div style="clear:both;"></div>
+
+<!-- end rightbody -->
+
+</div><!-- wrapper -->
+
+
+    <div id="ad-skin-bg-right" class="ad-skin-side-outer ad-skin-side-bg bg-right">
+    <div id="ad-skin-right" class="ad-skin-side right" style="display: none;">
+      <div id="ad-skin-right-absolute-block">
+        <div id="ad-skin-right-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+</div><!-- #myanimelist -->
+
+
+<div class="footer-ranking">
+  <div class="ranking-container">
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php" class="view_more fl-r">More</a>Top Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Fullmetal Alchemist: Brotherhood</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011">Hunter x Hunter (2011)</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php?type=airing" class="view_more fl-r">More</a>Top Airing Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/42203/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season_Part_2">Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/42897/Horimiya">Horimiya</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/38474/Yuru_Camp△_Season_2">Yuru Camp△ Season 2</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/character.php" class="view_more fl-r">More</a>Most Popular Characters
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/character/417/Lelouch_Lamperouge">Lamperouge, Lelouch</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/character/45627/Levi">Levi</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/character/80/Light_Yagami">Yagami, Light</a>
+            </li>
+                  </ol>
+      </div>
+      </div>
+</div>
+<footer>
+  <div id="footer-block">
+    <div class="footer-link-block">
+      <p class="footer-link home di-ib">
+        <a href="https://myanimelist.net/">Home</a>
+      </p>
+      <p class="footer-link di-ib">
+        <a href="https://myanimelist.net/about.php">About</a>
+        <a href="https://myanimelist.net/pressroom">Press Room</a>
+        <a href="https://myanimelist.net/about.php?go=contact">Support</a>
+        <a href="https://myanimelist.net/advertising">Advertising</a>
+        <a href="https://myanimelist.net/forum/?topicid=515949">FAQ</a>
+        <a href="https://myanimelist.net/about/terms_of_use">Terms</a>
+        <a href="https://myanimelist.net/about/privacy_policy">Privacy</a>
+        <a href="#/" class="cmp-gdpr-only">Privacy Settings</a>
+        <a href="#/" class="cmp-ccpa-only">Do Not Sell My Personal Information</a>
+        <a href="https://myanimelist.net/about/cookie_policy">Cookie</a>
+        <a href="https://myanimelist.net/about/notice_at_collection">Notice at Collection</a>
+        <a href="https://myanimelist.net/about/sitemap">Sitemap</a>
+      </p>
+            <p class="footer-link login di-ib">
+        <a href="https://myanimelist.net/login.php?from=%2Fanime%2F38656%2FDarwins_Game" id="malLogin" rel="nofollow">Login</a>
+        <a href="https://myanimelist.net/register.php?from=%2Fanime%2F38656%2FDarwins_Game">Sign Up</a>
+      </p>
+          </div>
+
+    
+    <div class="banner-footer-anime-streaming">
+      <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+    </div>
+
+        <div class="footer-link-icon-block">
+            <div class="footer-social-media ac">
+        <a target="_blank" class="icon-sns icon-fb di-ib" href="https://www.facebook.com/OfficialMyAnimeList" rel="noreferrer"></a>
+        <a target="_blank" class="icon-sns icon-tw di-ib" title="Follow @myanimelist on Twitter" href="https://twitter.com/myanimelist" rel="noreferrer"></a></div>
+            <div class="footer-recommended ac">
+        <a target="_blank" class="icon-recommended icon-tokyo-otaku-mode" href="http://otakumode.com/fb/5aO" rel="noopener">Tokyo Otaku Mode</a>
+        <a target="_blank" class="icon-recommended icon-honeys-anime" href="https://honeysanime.com" rel="noopener">Honey's Anime</a>
+        <a target="_blank" class="icon-recommended icon-manga-store" href="https://myanimelist.net/store?_location=mal_f_m">Manga Store</a>
+      </div>
+    </div>
+
+    <div class="footer-fb">
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+      <div class="footer-fb-item">
+                <iframe class="fb-page" src="" width="450" height="154" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+      </div>
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+    </div>
+        
+    <div id="copyright">
+      MyAnimeList.net is a property of MyAnimeList Co.,Ltd. &copy;2021 All Rights Reserved.
+    </div>
+  </div>
+</footer>
+
+<script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+
+<script async>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga')
+
+  ga('create', 'UA-369102-1', 'auto')
+  ga('set', 'anonymizeIp', true)
+  ga('require', 'linkid') // Enhanced Link Attribution
+    ga('set', 'dimension1', 'guest')
+    ga('send', 'pageview')
+</script>   <script>
+window.onscroll = function(e){
+    const scrollThreshold = 50;
+    if (window.pageYOffset >= scrollThreshold) {
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            let t_height = ad.offsetHeight;
+            let offsetY = ad.getBoundingClientRect().top;
+            let screenHeight = window.outerHeight;
+            let t_position = offsetY - screenHeight;
+            if(-screenHeight<=(t_position　+　t_height) && t_position<0) {
+                ad.className = 'ad-tag';
+                (deployads = window.deployads || []).push({});
+            }
+        });
+    }
+}
+var timer = 0;
+window.onresize = function(e){
+    if (timer > 0) {
+        clearTimeout(timer);
+    }
+
+    timer = setTimeout(function () {
+        console.log('window resized');
+        [].forEach.call(document.querySelectorAll('.ad-tag'), function(ad) {
+            ad.className = 'no-ad';
+            (deployads = window.deployads || []).push({});
+        });
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            ad.className = 'ad-tag';
+            (deployads = window.deployads || []).push({});
+        });
+    }, 200);
+}
+</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WL4QW3G');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+var path = location.pathname;
+var param = location.search;
+
+dataLayer = dataLayer || [];
+
+// login.php
+
+function ga_notlogin(){
+  ga('send', 'event', 'not_login', '2.未ログインの場合', '/login.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=1');
+}
+
+function ga_sns(){
+  ga('send', 'event', 'sns_login', '2-1-1.ソーシャルログインの場合', '/login.php?login-mode=social&c-ms-mode=1');
+}
+
+function ga_login(){
+  ga('send', 'event', 'id_login', '2-1-2.IDログインの場合', '/login.php?login-mode=id&c-ms-mode=1');
+}
+
+// register.php
+
+function ga_registration(){
+  ga('send', 'event', 'registration', '2-2.会員登録ボタン', '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=2');
+}
+
+if ( path.match("register.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2F&c-ms-mode=2',
+        'member_title': '2-2-1.会員情報入力完了',
+        'event': 'loadready-register'
+    });
+}
+
+if ( path.match("login.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': path.concat(param, "&c-ms-mode=2"),
+        'member_title': '2-2-1.メールからの会員認証ページ',
+        'event': 'loadready-login'
+    });
+}
+
+// membership
+
+function ga_mal_banner(){
+  ga('send', 'event', 'support_mal', '2-3.MALバナー', '/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner&c-ms-mode=3');
+}
+
+if ( path.match("login.php") && param.match("from=%2F") ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=3',
+        'member_title': '2-2.会員登録ボタン',
+        'event': 'loadready-login'
+    });
+}
+
+function ga_credit(){
+  ga('send', 'event', 'support_mal', '3-1-1.クレカ登録', '/member-register?c-ms_payment=1&c-ms_mode=3');
+}
+
+function ga_paypal(){
+  ga('send', 'event', 'support_mal', '3-1-2.Paypal登録', '/member-register?c-ms_payment=2&c-ms_mode=3');
+}
+
+if ( path.match("account/membership/complete") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/member-register-complete?c-ms_payment=2&c-ms_mode=3',
+        'member_title': '3-1-2.MAL会員登録成功',
+        'event': 'loadready-member-register-complete'
+    });
+}
+
+</script>
+<script type="text/javascript">
+    window.MAL.magia = "06410c4e6b2518e9add8f6df0ccb2da2876bb8c980aacb43a8dcaa8153c0f92c";
+  window.MAL.madoka = "hZrDKm9k6FVRnqd3i%=K";
+
+  window.MAL.SLVK = "g4OvMLVOmEI3J8u7dt8f8+mAuualsqCo";
+  window.MAL.CDN_URL = "https://cdn.myanimelist.net";
+
+  window.MAL.CURRENT_TUTORIAL_STEP_ID = null;
+  window.MAL.USER_NAME = ""
+  window.MAL.FACEBOOK.APP_ID = "360769957454434"
+  window.MAL.FACEBOOK.API_VERSION = "v2.12"
+</script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+                    <script type="text/javascript">
+          window._taboola = window._taboola || [];
+          _taboola.push({flush: true});
+        </script>
+    </body>
+</html>

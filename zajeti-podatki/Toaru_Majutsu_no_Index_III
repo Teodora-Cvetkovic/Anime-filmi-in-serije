@@ -1,0 +1,1868 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    
+<link rel="preconnect" href="//fonts.gstatic.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//fonts.googleapis.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tags-cdn.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagservices.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagmanager.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//apis.google.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel-sync.sitescout.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel.tapad.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//c.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tpc.googlesyndication.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//googleads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="//securepubads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="https://cdn.myanimelist.net" crossorigin="anonymous" />
+
+
+<title>
+Toaru Majutsu no Index III (A Certain Magical Index III) - MyAnimeList.net
+</title>
+<meta name="description" content="Looking for information on the anime Toaru Majutsu no Index III (A Certain Magical Index III)? Find out more with MyAnimeList, the world&#039;s most active online anime and manga community and database. Touma Kamijou can&#039;t catch a break. After the invasion of Academy City, political tensions continue to rise as both the science and magic factions collide head on. It appears that Academy City intends to declare war against the Roman Catholic Church, consequently plunging the whole world into global wa..." />
+
+  
+<meta name="keywords" content="anime, myanimelist, anime news, manga" />
+  
+
+
+    <meta property="og:locale" content="en_US"><meta property="fb:app_id" content="360769957454434"><meta property="og:site_name" content="MyAnimeList.net"><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@myanimelist"><meta property="og:title" content="Toaru Majutsu no Index III"><meta property="og:type" content="video.tv_show"><meta property="og:image" content="https://cdn.myanimelist.net/images/anime/1583/93857.jpg"><meta name="twitter:image:src" content="https://cdn.myanimelist.net/r/360x360/images/anime/1583/93857.jpg?s=f25385f0f10049ad326d30388c9bf833"><meta property="og:url" content="https://myanimelist.net/anime/36432/Toaru_Majutsu_no_Index_III"><meta property="og:description" content="Touma Kamijou can&#039;t catch a break. After the invasion of Academy City, political tensions continue to rise as both the science and magic factions collide head on. It appears that Academy City intends to declare war against the Roman Catholic Church, consequently plunging the whole world into global warfare. Touma soon finds himself on the front lines once again, striving to protect his friends and allies. Toaru Majutsu no Index III serves as the last installment of the original franchise as Touma, Accelerator, and the true Level 0 Shiage Hamazura continue their separate journeys, leading up to the final act of the original light novel series. [Written by MAL Rewrite]">
+
+
+<meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
+
+<meta name='csrf_token' content='f509e2fd39789d38ea5b245dd7c1f78a7d7f3d7c'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
+<meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" />
+
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" href="https://myanimelist.net/plugins/myanimelist.xml" title="MyAnimeList" />
+
+<link rel="shortcut icon" href="https://cdn.myanimelist.net/images/favicon.ico" />
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+      <script src="//tags-cdn.deployads.com/a/myanimelist.net.js" async="async"></script>
+            <script async="async" type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script>
+$(document).ready(function(){
+  window.Criteo = window.Criteo || {};
+  window.Criteo.events = window.Criteo.events || [];
+  $('.ad-criteo').each(function(){
+    var slotid = $(this).attr('data-ad-slot');
+    var zoneid = $(this).attr('data-ad-zone');
+    var CriteoAdUnits = {"placements":[{"slotid":slotid, "zoneid":zoneid}]};
+    var processCdbBid = function(){
+      var bids = Criteo.GetBidsForAdUnit(slotid);
+      if(bids.length > 0){
+        Criteo.RenderAd({bidId:bids[0].id, containerId:bids[0].impressionId});
+      }
+    };
+    Criteo.events.push(function(){Criteo.RequestBids(CriteoAdUnits, processCdbBid, 2000);});
+  });
+});
+</script>
+
+
+
+            <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/myanimelist/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>    
+</head>
+
+<body onload=" " class="page-common"data-ms="true" data-country-code="SI" >
+<div id="myanimelist">
+
+    
+  
+    <script type='text/javascript'>
+    window.MAL.SkinAd.prepareForSkin('');
+  </script>
+
+    <div id="ad-skin-bg-left" class="ad-skin-side-outer ad-skin-side-bg bg-left">
+    <div id="ad-skin-left" class="ad-skin-side left" style="display: none;">
+      <div id="ad-skin-left-absolute-block">
+        <div id="ad-skin-left-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
+    <script>(deployads = window.deployads || []).pageSegment = 'anime_title_36432';</script>
+
+
+<script>
+    var trackOutboundLink = function(url) {
+        ga('send', 'event', 'outbound', 'click', url, {
+            'transport': 'beacon',
+            'hitCallback': function(){return true;}
+        });
+    }
+</script><div class="banner-header-anime-straming" style="right:480px;">
+  <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+</div>
+
+
+<div id="header-menu" ><div class="header-menu-login"><a class="btn-mal-service"
+             href="https://myanimelist.net/membership?_location=mal_h_u" onClick="ga_mal_banner()">Hide Ads</a><a class="btn-login" href="https://myanimelist.net/login.php?from=%2Fanime%2F36432%2FToaru_Majutsu_no_Index_III" id="malLogin" onClick="ga_notlogin()">Login</a><a class="btn-signup" href="https://myanimelist.net/register.php?from=%2Fanime%2F36432%2FToaru_Majutsu_no_Index_III" onClick="ga_registration()">Sign Up</a></div></div></div>  <div id="menu" class="">
+    <div id="menu_right"><script type="text/x-template" id="incremental-result-item-anime"><div class="list anime" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info anime"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Aired: ${ item.payload.aired }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info anime"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-manga"><div class="list manga" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info manga"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Published: ${ item.payload.published }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info manga"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-character"><div class="list character" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div><div class="extra-info"><ul class="related-works"><li v-for="work in item.payload.related_works" class="fs-i">- ${ work }</li></ul>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-person"><div class="list person" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.alternative_name">${ item.payload.alternative_name }<br></span>Birthday: ${ item.payload.birthday }<br>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-store"><div class="list store" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info store"></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info store"></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-club"><div class="list club" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div><div class="extra-info">Members: ${ item.payload.members }<br>Category: ${ item.payload.category }<br>Created by: ${ item.payload.created_by }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-user"><div class="list user" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.authority">${ item.payload.authority }<br></span>Joined: ${ item.payload.joined }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-news"><div class="list news" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-featured"><div class="list featured" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-forum"><div class="list forum" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="extra-info">${ item.payload.date }<br><span>in ${ item.payload.category }</span></div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-separator"><div class="list separator"><div class="separator"><span v-show="item.name == 'anime'">Anime</span><span v-show="item.name == 'manga'">Manga</span><span v-show="item.name == 'character'">Characters</span><span v-show="item.name == 'person'">People</span></div></div></script><div id="top-search-bar"><form id="searchBar" method="get" class="searchBar" @submit.prevent="jump()"><div class="form-select-outer fl-l"><select name="type" id="topSearchValue" class="inputtext" v-model="type"><option value="all">All</option><option value="anime">Anime</option><option value="manga">Manga</option><option value="character">Characters</option><option value="person">People</option><option value="store">Manga Store</option><option value="news">News</option><option value="featured">Featured Articles</option><option value="forum">Forum</option><option value="club">Clubs</option><option value="user">Users</option></select></div><input v-model="keyword" id="topSearchText" type="text"
+            name="keyword" class="inputtext fl-l" placeholder="Search Anime, Manga, and more..."
+            size="30" autocomplete="off"
+            @keydown.up.prevent="moveSelection(-1)" @keydown.down.prevent="moveSelection(1)"
+            @focus="isFocused = true" @blur="isFocused = false"><input id="topSearchButon" class="fl-l" :class="{'notActive': (keyword.length < 3)}" type="submit" value="&#xf002"></form><div id="topSearchResultList" class="incrementalSearchResultList" :style="{display: (showResult ? 'block' : 'none')}" @mousedown.prevent=""><div v-for="(item, i) in items" @mouseover="selection=i"><component :is="resolveComponent(item)" :item="item" :focus="selection == i" :url="generateItemPageUrl(item)"></component></div><div class="list list-bottom" :class="{'focus': selection == -1}" @mouseover="selection = -1"
+               :style="{display: (showViewAllLink ? 'block' : 'none')}"><a :href="resultPageUrl">
+              View all results for <span class="fw-b">${ keyword }</span><i v-show="isRequesting" class="fa fa-spinner fa-spin ml4"></i></a></div></div></div></div><div id="menu_left">
+      <ul id="nav">
+        <li class="small"><a href="#" class="non-link">Anime</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/anime.php?_location=mal_h_m">Anime Search</a></li>
+            <li><a href="https://myanimelist.net/topanime.php?_location=mal_h_m">Top Anime</a></li>
+            <li><a href="https://myanimelist.net/anime/season?_location=mal_h_m">Seasonal Anime</a></li>
+                        <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m_a">Videos</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=anime&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=anime&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1885985&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Manga</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/manga.php?_location=mal_h_m">Manga Search</a></li>
+            <li><a href="https://myanimelist.net/topmanga.php?_location=mal_h_m">Top Manga</a></li>
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=manga&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=manga&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1886113&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li><a href="#" class="non-link">Community</a>
+          <ul>
+            <li><a href="https://myanimelist.net/forum/?_location=mal_h_m">Forums</a></li>
+            <li><a href="https://myanimelist.net/clubs.php?_location=mal_h_m">Clubs</a></li>
+            <li><a href="https://myanimelist.net/blog.php?_location=mal_h_m">Blogs</a></li>
+            <li><a href="https://myanimelist.net/users.php?_location=mal_h_m">Users</a></li>
+            <li><a href="https://discord.gg/E2xC8ZF">Discord Chat</a></li>
+          </ul>
+        </li>
+        <li class="small2"><a href="#" class="non-link">Industry</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/news?_location=mal_h_m">News</a></li>
+            <li><a href="https://myanimelist.net/featured?_location=mal_h_m">Featured Articles</a></li>
+            <li><a href="https://myanimelist.net/people.php?_location=mal_h_m">People</a></li>
+            <li><a href="https://myanimelist.net/character.php?_location=mal_h_m">Characters</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Watch</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m">Episode Videos</a></li>
+            <li><a href="https://myanimelist.net/watch/promotion?_location=mal_h_m">Promotional Videos</a></li></ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Read</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+          </ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Help</a>
+          <ul class="wide">
+            <li><a href="https://myanimelist.net/about.php?_location=mal_h_m">About</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=support&amp;_location=mal_h_m">Support</a></li>
+            <li><a href="https://myanimelist.net/advertising?_location=mal_h_m">Advertising</a></li>
+            <li><a href="https://myanimelist.net/forum/?topicid=515949&amp;_location=mal_h_m">FAQ</a></li>
+            <li><a href="https://myanimelist.net/modules.php?go=report&amp;_location=mal_h_m">Report</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=team&amp;_location=mal_h_m">Staff</a></li><li><a href="https://myanimelist.net/membership?_location=mal_h_m">MAL Supporter</a></li>
+          </ul>
+        </li>
+        
+            
+      </ul>
+    </div>  </div><div id="contentWrapper" itemscope itemtype="http://schema.org/TVSeries"><div><div class="h1 edit-info">
+      <div class="h1-title"><div itemprop="name"><h1 class="title-name h1_bold_none"><strong>Toaru Majutsu no Index III</strong></h1><br><p class="title-english title-inherit">A Certain Magical Index III</p></div></div><div class="header-right">
+          <a href="https://myanimelist.net/login.php?from=%2Fanime%2F36432%2FToaru_Majutsu_no_Index_III&amp;error=login_required" class="js-anime-edit-info-button"><i class="fa fa-pencil mr4"></i>Edit</a>
+<div id="editdiv" class="fw-n fs11">
+  <form method="GET" action="https://myanimelist.net/dbchanges.php" class="di-i">
+    <input type="hidden" name="aid" value="36432">
+    <div class="pb8">What would you like to edit?</div>
+                      <select name="t" id="t" class="inputtext"><option value="synopsis">Synopsis</option><option value="background">Background</option><option value="alternative_titles">Alternative Titles</option><option value="pic">Picture</option><option value="airingdates">Airing Dates</option><option value="producers">Producers</option><option value="relations">Relations</option><option value="rating">Rating</option><option value="duration">Duration</option><option value="source">Source</option><option value="broadcast">Broadcast</option></select>
+     &nbsp;<input type="submit" value="Go" class="inputButton flat btn-middle">
+  </form>
+</div>
+</div></div></div><div id="content" >
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+	 <td class="borderClass" width="225" style="border-width: 0 1px 0 0;" valign="top"><div style="width: 225px">
+
+<div style="text-align: center;">
+          <a href="https://myanimelist.net/anime/36432/Toaru_Majutsu_no_Index_III/pics">
+      <img class="lazyload" data-src="https://cdn.myanimelist.net/images/anime/1583/93857.jpg" alt="Toaru Majutsu no Index III" class="ac" itemprop="image">
+    </a>
+  </div>
+
+<!-- My List -->
+<div class="profileRows pb0">
+  <a href="https://myanimelist.net/login.php?from=%2Fanime%2F36432%2FToaru_Majutsu_no_Index_III&amp;error=login_required">Add to My List</a>
+</div>
+
+<div id="addtolist" class="addtolist-block js-anime-addtolist-block" style="display: none;">
+  <input type="hidden" id="myinfo_anime_id" value="36432">
+  <input type="hidden" id="myinfo_curstatus" value="">
+
+  <span class="notice_open_public pb4">* Your list is public by default.</span>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td class="spaceit">Status:</td>
+      <td class="spaceit">
+        <select name="myinfo_status" id="myinfo_status" class="inputtext js-anime-status-dropdown"><option value="1">Watching</option><option value="2">Completed</option><option value="3">On-Hold</option><option value="4">Dropped</option><option value="6">Plan to Watch</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td class="spaceit">Eps Seen:</td>
+      <td class="spaceit">
+        <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext" value=""> / <span id="curEps">26</span></td>
+    </tr>
+    <tr>
+      <td class="spaceit">Your Score:</td>
+      <td class="spaceit">
+        <select name="myinfo_score" id="myinfo_score" class="inputtext"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>
+                <input type="button" name="myinfo_submit" value="Add" class="inputButton btn-middle flat js-anime-add-button">
+        <span id="addtolistresult"><a href="https://myanimelist.net/ownlist/anime/add?selected_series_id=36432">Add Detailed Info</a></span>
+              </td>
+    </tr>
+  </table>
+  <div id="myinfoDisplay" style="padding-left: 89px; margin-top: 3px;"></div>
+</div>
+<!-- end My List -->
+
+<div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F36432%2FToaru_Majutsu_no_Index_III&amp;error=login_required" style="font-weight:normal;">Add to Favorites</a></div>
+
+<div class="di-b mt4 mb16 ac">
+    
+<a href="https://myanimelist.net/store/manga/853/A_Certain_Magical_Index_light_novel?_location=mal_atf_button" class="left-info-block-manga-store-button">
+  <i class="fa fa-shopping-cart" aria-hidden="true"></i> Buy on Manga Store
+</a>
+  </div><div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F36432%2FToaru_Majutsu_no_Index_III"></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F36432%2FToaru_Majutsu_no_Index_III&amp;text=Toaru%20Majutsu%20no%20Index%20III&amp;hashtags=anime"></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F36432%2FToaru_Majutsu_no_Index_III&amp;title=Toaru%20Majutsu%20no%20Index%20III"></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F36432%2FToaru_Majutsu_no_Index_III&amp;name=Toaru%20Majutsu%20no%20Index%20III"></a></div>  <br />
+
+  <h2>Alternative Titles</h2><div class="spaceit_pad">
+    <span class="dark_text">English:</span> A Certain Magical Index III
+  </div><div class="spaceit_pad">
+    <span class="dark_text">Synonyms:</span> Toaru Majutsu no Index 3, Toaru Majutsu no Kinsho Mokuroku 3
+  </div><div class="spaceit_pad">
+    <span class="dark_text">Japanese:</span> とある魔術の禁書目録Ⅲ
+  </div><br />
+
+<h2>Information</h2>
+
+<div>
+  <span class="dark_text">Type:</span>
+  <a href="https://myanimelist.net/topanime.php?type=tv">TV</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Episodes:</span>
+  26
+  </div>
+
+<div>
+  <span class="dark_text">Status:</span>
+  Finished Airing
+  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Aired:</span>
+  Oct 5, 2018 to Apr 5, 2019
+  </div>
+
+  <div>
+    <span class="dark_text">Premiered:</span>
+          <a href="https://myanimelist.net/anime/season/2018/fall">Fall 2018</a>
+          </div>
+
+  <div class="spaceit">
+    <span class="dark_text">Broadcast:</span>
+    Fridays at 22:00 (JST)
+      </div>
+
+  <div>
+    <span class="dark_text">Producers:</span>
+          <a href="/anime/producer/58/Square_Enix" title="Square Enix">Square Enix</a>,       <a href="/anime/producer/166/Movic" title="Movic">Movic</a>,       <a href="/anime/producer/238/AT-X" title="AT-X">AT-X</a>,       <a href="/anime/producer/415/Warner_Bros_Japan" title="Warner Bros. Japan">Warner Bros. Japan</a>,       <a href="/anime/producer/1113/NBCUniversal_Entertainment_Japan" title="NBCUniversal Entertainment Japan">NBCUniversal Entertainment Japan</a>,       <a href="/anime/producer/1696/Kadokawa" title="Kadokawa">Kadokawa</a>  </div>
+  <div class="spaceit">
+    <span class="dark_text">Licensors:</span>
+          <a href="/anime/producer/102/Funimation" title="Funimation">Funimation</a>  </div>
+  <div>
+    <span class="dark_text">Studios:</span>
+          <a href="/anime/producer/7/JCStaff" title="J.C.Staff">J.C.Staff</a>  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Source:</span>
+  Light novel
+  </div>
+
+<div>
+  <span class="dark_text">Genres:</span>
+      <span itemprop="genre" style="display: none">Action</span><a href="/anime/genre/1/Action" title="Action">Action</a>,     <span itemprop="genre" style="display: none">Sci-Fi</span><a href="/anime/genre/24/Sci-Fi" title="Sci-Fi">Sci-Fi</a>,     <span itemprop="genre" style="display: none">Super Power</span><a href="/anime/genre/31/Super_Power" title="Super Power">Super Power</a>,     <span itemprop="genre" style="display: none">Magic</span><a href="/anime/genre/16/Magic" title="Magic">Magic</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Duration:</span>
+  23 min. per ep.
+  </div>
+
+<div>
+  <span class="dark_text">Rating:</span>
+  PG-13 - Teens 13 or older
+  </div>
+
+<br />
+
+<h2>Statistics</h2>
+<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" class="po-r js-statistics-info di-ib" data-id="info1">
+  <span class="dark_text">Score:</span>
+  <span itemprop="ratingValue" class="score-label score-6">6.76</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">56180</span>56,180 users)
+      <meta itemprop="bestRating" content="10">
+    <meta itemprop="worstRating" content="1">
+      <div class="statistics-info info1">
+    <small><sup>1</sup>
+          indicates a <a href="javascript:void(0);" onclick="window.open('/info.php?go=topanime','topanime','menubar=no,scrollbars=no,status=no,width=500,height=380');">weighted score</a>.
+    </small>
+  </div>
+</div>
+<div class="spaceit po-r js-statistics-info di-ib" data-id="info2">
+  <span class="dark_text">Ranked:</span>
+  #4615<sup>2</sup>
+    <div class="statistics-info info2">
+    <small><sup>2</sup>
+    based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
+    </small>
+  </div>
+</div>
+<div>
+  <span class="dark_text">Popularity:</span>
+  #858
+</div>
+<div class="spaceit">
+  <span class="dark_text">Members:</span>
+    167,219
+</div>
+<div>
+  <span class="dark_text">Favorites:</span>
+  1,152
+</div>
+
+  <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
+          </div>
+
+</div></td><td valign="top" style="padding-left: 5px;"><div class="js-scrollfix-bottom-rel"><div style="width:728px; margin:0 auto"></div><a name="lower"></a>
+<div id="horiznav_nav" style="margin: 5px 0 10px 0;">
+  <ul style="margin-right: 0; padding-right: 0;">
+        <li><a href="https://myanimelist.net/anime/36432/Toaru_Majutsu_no_Index_III" class="horiznav_active">Details</a>
+    </li>
+        <li><a href="/anime/36432/Toaru_Majutsu_no_Index_III/video">Videos</a>
+    </li>
+        <li>      <a href="https://myanimelist.net/anime/36432/Toaru_Majutsu_no_Index_III/episode">Episodes</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36432/Toaru_Majutsu_no_Index_III/reviews">Reviews</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36432/Toaru_Majutsu_no_Index_III/userrecs">Recommendations</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36432/Toaru_Majutsu_no_Index_III/stats">Stats</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36432/Toaru_Majutsu_no_Index_III/characters">Characters &amp; Staff</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36432/Toaru_Majutsu_no_Index_III/news">News</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36432/Toaru_Majutsu_no_Index_III/forum">Forum</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36432/Toaru_Majutsu_no_Index_III/featured">Featured</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36432/Toaru_Majutsu_no_Index_III/clubs">Clubs</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36432/Toaru_Majutsu_no_Index_III/pics">Pictures</a>
+    </li>
+    </ul>
+</div>
+
+
+
+                    <div class="breadcrumb " itemscope itemtype="http://schema.org/BreadcrumbList"><div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/" itemprop="item"><span itemprop="name">
+              Top
+                          </span></a><meta itemprop="position" content="1"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime.php" itemprop="item"><span itemprop="name">
+              Anime
+                          </span></a><meta itemprop="position" content="2"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime/36432/Toaru_Majutsu_no_Index_III" itemprop="item"><span itemprop="name">
+              Toaru Majutsu no Index III
+                          </span></a><meta itemprop="position" content="3"></div></div>
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="56,180 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-6">6.76</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#4615</strong></span><span class="numbers popularity">Popularity <strong>#858</strong></span><span class="numbers members">Members <strong>167,219</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2018/fall">Fall 2018</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/7/JCStaff" title="J.C.Staff">J.C.Staff</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="36432"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F36432%2FToaru_Majutsu_no_Index_III&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+        Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="26">26</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://myanimelist.net/store/manga/853/A_Certain_Magical_Index_light_novel?_location=mal_atf_affiliate"
+           class="btn-affiliate manga-store js-shop-anime icon-shop-default"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Buy on Manga Store
+        </a></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/cigp3w-ZVKU?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/cigp3w-ZVKU/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">Teaser</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/36432/Toaru_Majutsu_no_Index_III/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
+</div><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=36432&t=synopsis" style="font-weight: normal;">Edit</a></div><h2>Synopsis</h2></div><p itemprop="description">Touma Kamijou can&#039;t catch a break. After the invasion of Academy City, political tensions continue to rise as both the science and magic factions collide head on. It appears that Academy City intends to declare war against the Roman Catholic Church, consequently plunging the whole world into global warfare. Touma soon finds himself on the front lines once again, striving to protect his friends and allies.<br />
+<br />
+<i>Toaru Majutsu no Index III</i> serves as the last installment of the original franchise as Touma, Accelerator, and the true Level 0 Shiage Hamazura continue their separate journeys, leading up to the final act of the original light novel series.<br />
+<br />
+[Written by MAL Rewrite]</p><div style="margin-top: 15px;"><div class="floatRightHeader"><a href="/dbchanges.php?aid=36432&t=background" style="font-weight: normal;">Edit</a></div><h2>Background</h2></div><i>Toaru Majutsu no Index III</i> adapts the remaining novels (14 to 22) of Kazuma Kamachi&#039;s light novel series of the same title.<div style="margin-top: 15px;"><div class="floatRightHeader"><a href="/anime/36432/Toaru_Majutsu_no_Index_III/video">More Videos</a></div><h2>Episode Videos</h2></div><div class="anime-slide-block" id="episode_video" data-json='{"width":800,"btnWidth":40,"margin":8}' style="height:129px;"><div class="btn-anime-slide-side left"><span class="btn-inner"></span></div><div class="btn-anime-slide-side right"><span class="btn-inner"></span></div><div class="anime-slide-outer"><ul class="anime-slide js-anime-slide" data-slide="4"><li class="btn-anime" style="width:194px;"><a href="https://myanimelist.net/anime/36432/Toaru_Majutsu_no_Index_III/episode/26" class="link" style="background-image:url('https://img1.ak.crunchyroll.com/i/spire1-tmb/b5c7708711fc1f55be22e0a38fd9758c1554461626_large.jpg');width:194px;height:129px;"><span class="title pb8" style="width:184px;">
+            Episode 26<span class=" ml4"></span></span></a></li><li class="btn-anime" style="width:194px;"><a href="https://myanimelist.net/anime/36432/Toaru_Majutsu_no_Index_III/episode/25" class="link" style="background-image:url('https://img1.ak.crunchyroll.com/i/spire4-tmb/1c2c5b34e9172363fc2085e8caacd01d1553841660_large.jpg');width:194px;height:129px;"><span class="title pb8" style="width:184px;">
+            Episode 25<span class=" ml4"></span></span></a></li><li class="btn-anime" style="width:194px;"><a href="https://myanimelist.net/anime/36432/Toaru_Majutsu_no_Index_III/episode/24" class="link" style="background-image:url('https://img1.ak.crunchyroll.com/i/spire4-tmb/90e2ee5ce131781ee482c53f580fd7051553248117_large.jpg');width:194px;height:129px;"><span class="title pb8" style="width:184px;">
+            Episode 24<span class=" ml4"></span></span></a></li><li class="btn-anime" style="width:194px;"><a href="https://myanimelist.net/anime/36432/Toaru_Majutsu_no_Index_III/episode/23" class="link" style="background-image:url('https://img1.ak.crunchyroll.com/i/spire1-tmb/58b1f22ebe55da9334e3e4a7a530c5cd1552626301_large.jpg');width:194px;height:129px;"><span class="title pb8" style="width:184px;">
+            Episode 23<span class=" ml4"></span></span></a></li></ul></div></div><div class="border_top" style="padding:16px 0px 0px 0px;margin:14px 0px 0px 0px;"><div style="padding: 20px 0 20px 40px; float: left; position: relative; z-index: 1;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540582" data-ad-slot="criteo_slot_1540582" id="criteo_slot_1540582"></div>
+
+      </div>
+    </div><div style="padding: 20px 40px 20px 0; float: right; position: relative;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540583" data-ad-slot="criteo_slot_1540583" id="criteo_slot_1540583"></div>
+
+      </div>
+    </div></div></td></tr><tr><td class="pb24"><br><div><div class="floatRightHeader"><a href="https://myanimelist.net/store/manga/853/A_Certain_Magical_Index_light_novel?_location=mal_mid_slider" style="font-weight: normal;">Preview Manga</a></div><h2>Manga Store</h2></div><div class="di-b clearfix">
+  <div class="v-manga-store-book-slider"
+       data-items="[{&quot;id&quot;:6060,&quot;item_type&quot;:1,&quot;title&quot;:&quot;A Certain Magical Index (light novel)&quot;,&quot;numbering_text&quot;:&quot;Volume 1&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/6060\/A_Certain_Magical_Index_light_novel_Volume_1&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6060&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=0&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6060&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=1&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/7729\/3834dca345cba76835d8312ae93d1546d3574f21b12be5a2b6a4ef91cb7461cc&quot;,&quot;on_preorder_at&quot;:1591228800,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1591228800,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:1,&quot;price&quot;:499,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:6124,&quot;item_type&quot;:1,&quot;title&quot;:&quot;A Certain Magical Index (light novel)&quot;,&quot;numbering_text&quot;:&quot;Volume 22&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/6124\/A_Certain_Magical_Index_light_novel_Volume_22&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6124&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=0&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6124&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=1&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/7823\/f605df3447cc0544ef95794231e54c1e631e93587778720fe84d453dd77ca4ad&quot;,&quot;on_preorder_at&quot;:1591228800,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1591228800,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:1,&quot;price&quot;:499,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:6123,&quot;item_type&quot;:1,&quot;title&quot;:&quot;A Certain Magical Index (light novel)&quot;,&quot;numbering_text&quot;:&quot;Volume 21&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/6123\/A_Certain_Magical_Index_light_novel_Volume_21&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6123&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=0&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6123&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=1&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/7821\/c3c777740e7d1ae8ce8ccd2235904baee6ab5e65347609de5e9b57c24a944373&quot;,&quot;on_preorder_at&quot;:1591228800,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1591228800,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:1,&quot;price&quot;:499,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:6122,&quot;item_type&quot;:1,&quot;title&quot;:&quot;A Certain Magical Index (light novel)&quot;,&quot;numbering_text&quot;:&quot;Volume 20&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/6122\/A_Certain_Magical_Index_light_novel_Volume_20&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6122&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=0&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6122&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=1&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/7822\/c4500eda20a7bae6835c28abad825272e672d228204c4b890739d28a58619b30&quot;,&quot;on_preorder_at&quot;:1591228800,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1591228800,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:1,&quot;price&quot;:499,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:6121,&quot;item_type&quot;:1,&quot;title&quot;:&quot;A Certain Magical Index (light novel)&quot;,&quot;numbering_text&quot;:&quot;Volume 19&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/6121\/A_Certain_Magical_Index_light_novel_Volume_19&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6121&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=0&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6121&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=1&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/7820\/7aa8aa7b383ba8c6637fe50ec3e31b009b3723b72cbb8d44ef463c41f2283172&quot;,&quot;on_preorder_at&quot;:1591228800,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1591228800,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:1,&quot;price&quot;:499,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:6120,&quot;item_type&quot;:1,&quot;title&quot;:&quot;A Certain Magical Index (light novel)&quot;,&quot;numbering_text&quot;:&quot;Volume 18&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/6120\/A_Certain_Magical_Index_light_novel_Volume_18&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6120&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=0&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6120&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=1&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/7819\/b144646cd8cd62a958872301626c87b6a335b56b349579f1c76918f48a59c8ae&quot;,&quot;on_preorder_at&quot;:1591228800,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1591228800,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:1,&quot;price&quot;:499,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:6119,&quot;item_type&quot;:1,&quot;title&quot;:&quot;A Certain Magical Index (light novel)&quot;,&quot;numbering_text&quot;:&quot;Volume 17&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/6119\/A_Certain_Magical_Index_light_novel_Volume_17&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6119&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=0&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6119&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=1&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/7818\/b49e5cd91f36385ff0ccfd5a5fc76e118ab45c7aeb3737fc5bdb999b52c6a79e&quot;,&quot;on_preorder_at&quot;:1591228800,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1591228800,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:1,&quot;price&quot;:499,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:6118,&quot;item_type&quot;:1,&quot;title&quot;:&quot;A Certain Magical Index (light novel)&quot;,&quot;numbering_text&quot;:&quot;Volume 16&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/6118\/A_Certain_Magical_Index_light_novel_Volume_16&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6118&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=0&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6118&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=1&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/7817\/388054577b848d9e30f772580ad0fe4bbca89d72f62101ac590d6371e03fd195&quot;,&quot;on_preorder_at&quot;:1591228800,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1591228800,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:1,&quot;price&quot;:499,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:6117,&quot;item_type&quot;:1,&quot;title&quot;:&quot;A Certain Magical Index (light novel)&quot;,&quot;numbering_text&quot;:&quot;Volume 15&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/6117\/A_Certain_Magical_Index_light_novel_Volume_15&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6117&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=0&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6117&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=1&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/7816\/e4a37fe2d998bafa54ca073d82c0b168c6f4a2abc4a156f4461f31ff609a6a34&quot;,&quot;on_preorder_at&quot;:1591228800,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1591228800,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:1,&quot;price&quot;:499,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:6116,&quot;item_type&quot;:1,&quot;title&quot;:&quot;A Certain Magical Index (light novel)&quot;,&quot;numbering_text&quot;:&quot;Volume 14&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/6116\/A_Certain_Magical_Index_light_novel_Volume_14&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6116&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=0&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6116&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=1&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/7815\/ead9ef58381be1169dd4a6bdf91769f4b8765614cf381c6bbf4307fdb1194ee1&quot;,&quot;on_preorder_at&quot;:1591228800,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1591228800,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:1,&quot;price&quot;:499,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:6115,&quot;item_type&quot;:1,&quot;title&quot;:&quot;A Certain Magical Index (light novel)&quot;,&quot;numbering_text&quot;:&quot;Volume 13&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/6115\/A_Certain_Magical_Index_light_novel_Volume_13&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6115&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=0&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6115&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=1&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/7814\/b8f340328fa97307c6e9961413f1a3facd79a1b1181d869a06a88142d838248e&quot;,&quot;on_preorder_at&quot;:1591228800,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1591228800,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:1,&quot;price&quot;:499,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:6114,&quot;item_type&quot;:1,&quot;title&quot;:&quot;A Certain Magical Index (light novel)&quot;,&quot;numbering_text&quot;:&quot;Volume 12&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/6114\/A_Certain_Magical_Index_light_novel_Volume_12&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6114&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=0&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6114&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=1&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/7813\/282d86d4dcee17b66a74a839d371e8addcf938ada892cb902229ab39742a6943&quot;,&quot;on_preorder_at&quot;:1591228800,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1591228800,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:1,&quot;price&quot;:499,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:6113,&quot;item_type&quot;:1,&quot;title&quot;:&quot;A Certain Magical Index (light novel)&quot;,&quot;numbering_text&quot;:&quot;Volume 11&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/6113\/A_Certain_Magical_Index_light_novel_Volume_11&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6113&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=0&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6113&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=1&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/7812\/983f85881cd6df0d0590793bf292014db5a0f12fc17692e55d1bf8943fda8954&quot;,&quot;on_preorder_at&quot;:1591228800,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1591228800,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:1,&quot;price&quot;:499,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:6112,&quot;item_type&quot;:1,&quot;title&quot;:&quot;A Certain Magical Index (light novel)&quot;,&quot;numbering_text&quot;:&quot;Volume 10&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/6112\/A_Certain_Magical_Index_light_novel_Volume_10&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6112&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=0&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6112&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=1&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/7811\/d35cd302034ad70247a16f021fd10a02d400b79ad38ca03b598b73e1aaf2d637&quot;,&quot;on_preorder_at&quot;:1591228800,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1591228800,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:1,&quot;price&quot;:499,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false},{&quot;id&quot;:6111,&quot;item_type&quot;:1,&quot;title&quot;:&quot;A Certain Magical Index (light novel)&quot;,&quot;numbering_text&quot;:&quot;Volume 9&quot;,&quot;url&quot;:&quot;https:\/\/myanimelist.net\/store\/manga_volume\/6111\/A_Certain_Magical_Index_light_novel_Volume_9&quot;,&quot;viewer_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6111&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=0&quot;,&quot;preview_url&quot;:&quot;https:\/\/myanimelist.net\/store\/novel_viewer?cid=6111&amp;cty=0&amp;cti=A Certain Magical Index (light novel)&amp;lin=1&quot;,&quot;is_possessed&quot;:null,&quot;is_previewable&quot;:true,&quot;cover_image_base_url&quot;:&quot;https:\/\/cdn.myanimelist.net\/s\/common\/store\/cover\/7810\/ce06d5a9d708b0783f1a30b604f816037e9329d1c4d1ed58052ce3c8f1ea0d03&quot;,&quot;on_preorder_at&quot;:1591228800,&quot;tax&quot;:0,&quot;is_free&quot;:false,&quot;on_sale_at&quot;:1591228800,&quot;close_sale_at&quot;:0,&quot;reflowable&quot;:1,&quot;price&quot;:499,&quot;currency&quot;:{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100},&quot;is_new&quot;:false}]"
+       data-currency="{&quot;country_code&quot;:&quot;SI&quot;,&quot;name&quot;:&quot;EUR&quot;,&quot;symbol&quot;:&quot;\u20ac&quot;,&quot;smallest_unit_ratio&quot;:100}"
+       data-options="{&quot;num_items_per_page&quot;:6,&quot;location&quot;:&quot;mal_mid_slider&quot;}"
+    >
+    <div class="ac pt16"><i class="fa fa-spinner fa-2x fa-spin"></i></div>
+  </div>
+</div>
+</td></tr><tr><td class="pb24"><br><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=36432&t=relations" style="font-weight: normal;">Edit</a></div><h2>Related Anime</h2></div><table class="anime_detail_related_anime" style="border-spacing:0px;"><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Adaptation:</td><td width="100%" class="borderClass"><a href="/manga/12854/Toaru_Majutsu_no_Index">Toaru Majutsu no Index</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Prequel:</td><td width="100%" class="borderClass"><a href="/anime/8937/Toaru_Majutsu_no_Index_II">Toaru Majutsu no Index II</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Spin-off:</td><td width="100%" class="borderClass"><a href="/anime/39094/Toaru_Majutsu_no_Index-tan_III">Toaru Majutsu no Index-tan III</a></td></table><br><div><div class="floatRightHeader"><a href="/anime/36432/Toaru_Majutsu_no_Index_III/characters" style="font-weight: normal;">More characters</a></div><h2>Characters & Voice Actors</h2></div><div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/13917/Accelerator" class="fw-n">
+            <img alt="Accelerator" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/8/207883.jpg?s=e98732dae0085477162090af1759931d" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/8/207883.jpg?s=e98732dae0085477162090af1759931d 1x, https://cdn.myanimelist.net/r/84x124/images/characters/8/207883.jpg?s=27426fa556076a4c006ee2f2071183eb 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/13917/Accelerator">Accelerator</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/270/Nobuhiko_Okamoto">Okamoto, Nobuhiko</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/270/Nobuhiko_Okamoto">
+                      <img alt="Okamoto, Nobuhiko" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/48785.jpg?s=22fe4347c06c07461a12c6bae5687bfb" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/48785.jpg?s=22fe4347c06c07461a12c6bae5687bfb 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/48785.jpg?s=542a20ff39d49889e3d010de7b1bdc8a 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/13700/Touma_Kamijou" class="fw-n">
+            <img alt="Kamijou, Touma" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/10/302965.jpg?s=21ca917f3ceb17203c358685f5cb56df" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/10/302965.jpg?s=21ca917f3ceb17203c358685f5cb56df 1x, https://cdn.myanimelist.net/r/84x124/images/characters/10/302965.jpg?s=4eadcee59403a66f6c44257958dda54e 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/13700/Touma_Kamijou">Kamijou, Touma</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/991/Atsushi_Abe">Abe, Atsushi</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/991/Atsushi_Abe">
+                      <img alt="Abe, Atsushi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54612.jpg?s=442e7bb695aff8059fd1adaa0f81b994" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54612.jpg?s=442e7bb695aff8059fd1adaa0f81b994 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/54612.jpg?s=2cfb2b5e42215938aac4f051c91c612e 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/39705/Shiage_Hamazura" class="fw-n">
+            <img alt="Hamazura, Shiage" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/14/118668.jpg?s=2c3d107780e33be2850fff723fb5c2fc" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/14/118668.jpg?s=2c3d107780e33be2850fff723fb5c2fc 1x, https://cdn.myanimelist.net/r/84x124/images/characters/14/118668.jpg?s=6b184af2402d16e594f72bb41d305a5a 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/39705/Shiage_Hamazura">Hamazura, Shiage</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/245/Satoshi_Hino">Hino, Satoshi</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/245/Satoshi_Hino">
+                      <img alt="Hino, Satoshi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/55555.jpg?s=fe6227b5a1dd652405733dd564f71de4" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/55555.jpg?s=fe6227b5a1dd652405733dd564f71de4 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/55555.jpg?s=b5f45ed2a78e49402454a7d8a410da58 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/13701/Mikoto_Misaka" class="fw-n">
+            <img alt="Misaka, Mikoto" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/5/378966.jpg?s=76c64e09edb05c27aff2c0ad36d12ffb" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/5/378966.jpg?s=76c64e09edb05c27aff2c0ad36d12ffb 1x, https://cdn.myanimelist.net/r/84x124/images/characters/5/378966.jpg?s=19f4fd8d23257b78be320209bfad6ae9 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/13701/Mikoto_Misaka">Misaka, Mikoto</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/241/Rina_Satou">Satou, Rina</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/241/Rina_Satou">
+                      <img alt="Satou, Rina" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54579.jpg?s=32dbaed6a156fee09f37e450c3a2a42a" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54579.jpg?s=32dbaed6a156fee09f37e450c3a2a42a 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/54579.jpg?s=88a5f27e9feef2a2ccc0d1036bc4e8ef 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/17017/Kuroko_Shirai" class="fw-n">
+            <img alt="Shirai, Kuroko" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/12/101104.jpg?s=e2b485241ac60db53df8b229382de9b9" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/12/101104.jpg?s=e2b485241ac60db53df8b229382de9b9 1x, https://cdn.myanimelist.net/r/84x124/images/characters/12/101104.jpg?s=2d8970f327f06e1af31d7aabdc3a9280 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/17017/Kuroko_Shirai">Shirai, Kuroko</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/124/Satomi_Arai">Arai, Satomi</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/124/Satomi_Arai">
+                      <img alt="Arai, Satomi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/16207.jpg?s=9ef7edac2e3187514f5e80ede4692232" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/16207.jpg?s=9ef7edac2e3187514f5e80ede4692232 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/16207.jpg?s=53b4000dba1c1e43e957a6a5d7105b33 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/19737/Last_Order" class="fw-n">
+            <img alt="Last Order" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/3/388608.jpg?s=d6633cfc3f9c95b44d5fe83a3ca13239" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/3/388608.jpg?s=d6633cfc3f9c95b44d5fe83a3ca13239 1x, https://cdn.myanimelist.net/r/84x124/images/characters/3/388608.jpg?s=e115c64478f20f58432416412e08aadb 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/19737/Last_Order">Last Order</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/5250/Rina_Hidaka">Hidaka, Rina</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/5250/Rina_Hidaka">
+                      <img alt="Hidaka, Rina" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/41540.jpg?s=70920dea0e15a55f8abe60f130c1acf4" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/41540.jpg?s=70920dea0e15a55f8abe60f130c1acf4 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/41540.jpg?s=45b169375301b5d7168202e03835ac70 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/17729/MISAKA_10032" class="fw-n">
+            <img alt="MISAKA 10032" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/2/73911.jpg?s=a933d2626ef770110afe8e05a1114df8" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/2/73911.jpg?s=a933d2626ef770110afe8e05a1114df8 1x, https://cdn.myanimelist.net/r/84x124/images/characters/2/73911.jpg?s=29460ff98f5f1794f44b13e0be4ef7c9 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/17729/MISAKA_10032">MISAKA 10032</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/580/Nozomi_Sasaki">Sasaki, Nozomi</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/580/Nozomi_Sasaki">
+                      <img alt="Sasaki, Nozomi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/31551.jpg?s=1073715583587586d711b7a05fd038dc" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/31551.jpg?s=1073715583587586d711b7a05fd038dc 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/31551.jpg?s=2293910d10c764e836adb676bb93f21b 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/13699/Librorum_Prohibitorum_Index" class="fw-n">
+            <img alt="Librorum Prohibitorum Index" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/8/304142.jpg?s=ccff77656c6d2a60fd43e52252953a62" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/8/304142.jpg?s=ccff77656c6d2a60fd43e52252953a62 1x, https://cdn.myanimelist.net/r/84x124/images/characters/8/304142.jpg?s=547f3097f38d5c4029857d4e0c30a819 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/13699/Librorum_Prohibitorum_Index">Librorum Prohibitorum Index</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/885/Yuka_Iguchi">Iguchi, Yuka</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/885/Yuka_Iguchi">
+                      <img alt="Iguchi, Yuka" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54657.jpg?s=aaf909dbd5ec07f59495042a6b5cc00b" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54657.jpg?s=aaf909dbd5ec07f59495042a6b5cc00b 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/54657.jpg?s=d7e75418792735138468b7fdf2edccbf 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/13916/Kaori_Kanzaki" class="fw-n">
+            <img alt="Kanzaki, Kaori" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/16/37716.jpg?s=7e01dd06ff055d9865380cd21f02a7b4" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/16/37716.jpg?s=7e01dd06ff055d9865380cd21f02a7b4 1x, https://cdn.myanimelist.net/r/84x124/images/characters/16/37716.jpg?s=4be3cd15b7f95ff987bcfc3ce54c87e1 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/13916/Kaori_Kanzaki">Kanzaki, Kaori</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/93/Shizuka_Itou">Itou, Shizuka</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/93/Shizuka_Itou">
+                      <img alt="Itou, Shizuka" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/54675.jpg?s=61c1981a572e02a64e2a313b7ef4aec0" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/54675.jpg?s=61c1981a572e02a64e2a313b7ef4aec0 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/54675.jpg?s=1901e9b51eb2edcdf80fedb03c27e249 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/20622/Kazari_Uiharu" class="fw-n">
+            <img alt="Uiharu, Kazari" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/10/396279.jpg?s=70baf9668f6c87be92f55bfff68f6599" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/10/396279.jpg?s=70baf9668f6c87be92f55bfff68f6599 1x, https://cdn.myanimelist.net/r/84x124/images/characters/10/396279.jpg?s=03e67a5b5358500915f0d7160d439e94 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/20622/Kazari_Uiharu">Uiharu, Kazari</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/599/Aki_Toyosaki">Toyosaki, Aki</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/599/Aki_Toyosaki">
+                      <img alt="Toyosaki, Aki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/34667.jpg?s=35d9db86dc6de13dc4a4a26bec06d856" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/34667.jpg?s=35d9db86dc6de13dc4a4a26bec06d856 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/34667.jpg?s=8c12c28799cf1e03379df3006adb0df0 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div></div>
+<div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div><br>
+<a name="staff"></a>
+<div>
+  <div class="floatRightHeader"><a href="https://myanimelist.net/anime/36432/Toaru_Majutsu_no_Index_III/characters#staff">More staff</a></div>
+  <h2>Staff</h2>
+</div>
+
+<div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/10384/Hiroshi_Nishikiori" class="fw-n">
+            <img alt="Nishikiori, Hiroshi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/53826.jpg?s=e0771f3d8883b65309da1ff47cb93af9" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/53826.jpg?s=e0771f3d8883b65309da1ff47cb93af9 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/53826.jpg?s=0af33923b1ef8a01780a395dff3d7fe4 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/10384/Hiroshi_Nishikiori">Nishikiori, Hiroshi</a>
+        <div class="spaceit_pad">
+          <small>Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/40087/Takayuki_Yamaguchi" class="fw-n">
+            <img alt="Yamaguchi, Takayuki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/53606.jpg?s=3ca1a21dbea6348cea6aec1b4a73ba11" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/53606.jpg?s=3ca1a21dbea6348cea6aec1b4a73ba11 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/53606.jpg?s=94a4d2b16706b47ea3de8d55f86d691b 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/40087/Takayuki_Yamaguchi">Yamaguchi, Takayuki</a>
+        <div class="spaceit_pad">
+          <small>Sound Director</small>
+        </div>
+      </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/885/Yuka_Iguchi" class="fw-n">
+            <img alt="Iguchi, Yuka" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54657.jpg?s=aaf909dbd5ec07f59495042a6b5cc00b" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54657.jpg?s=aaf909dbd5ec07f59495042a6b5cc00b 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/54657.jpg?s=d7e75418792735138468b7fdf2edccbf 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/885/Yuka_Iguchi">Iguchi, Yuka</a>
+        <div class="spaceit_pad">
+          <small>Theme Song Performance</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/5087/Mami_Kawada" class="fw-n">
+            <img alt="Kawada, Mami" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54238.jpg?s=ee183fe4247c6d671cc653a135ea3678" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54238.jpg?s=ee183fe4247c6d671cc653a135ea3678 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/54238.jpg?s=ce642ead83e9285d783022e5828699ad 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/5087/Mami_Kawada">Kawada, Mami</a>
+        <div class="spaceit_pad">
+          <small>Theme Song Lyrics</small>
+        </div>
+      </td>
+    </tr>
+  </table></div></div>
+<br><br><div class="di-t">
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=36432&amp;t=theme" class="floatRightHeader">Edit</a>
+      <h2>Opening Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs opnening"><span class="theme-song">#1: &quot;Gravitation&quot; by Maon Kurosaki (eps 1-5, 7-8, 10-13, 15)</span><br><span class="theme-song">#2: &quot;ROAR&quot; by Maon Kurosaki (eps 18-20, 22-23, 25)</span><br></div>
+  </div>
+  <div class="di-tc va-t}" style="width:16px;"></div>
+
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=36432&amp;t=theme&amp;themetype=2" class="floatRightHeader">Edit</a>
+      <h2>Ending Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs ending"><span class="theme-song">#1: &quot;Kakumei Zenya (革命前夜)&quot; by Yuka Iguchi (eps 1-8, 10-12, 14-15)</span><br><span class="theme-song">#2: &quot;Owaranai Uta (終わらない歌)&quot; by Yuka Iguchi (eps 16, 18-20, 23)</span><br></div>
+  </div>
+</div>
+<br><br><br><div><span class="floatRightHeader"><a href="/anime/36432/Toaru_Majutsu_no_Index_III/reviews">More reviews</a></span><h2>Reviews</h2></div>
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="6:29 AM">Apr 5, 2019</div>
+      <div class="lightLink spaceit">
+                  26 of 26 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score305514').toggle()">Overall Rating</a>:
+        3
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Stark700">
+                  <img src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" data-src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Stark700">Stark700</a>
+              <small>(<a href="/profile/Stark700/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp305514">214</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score305514">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>3</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">3</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">4</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">4</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">3</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">3</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    “Disappointment is a sort of bankruptcy – the bankruptcy of a soul that expends too much in hope and expectation”. – Eric Hoffer<br />
+<br />
+Watching Index Season III is like procrastinating a school project where hope seems lost with you clinging onto a tiny bit of hope that somehow, someway, everything may be ok. I began watching Index since 2011 and got into the light novels around 2014. While the first two seasons certainly had its share of flaws, both series managed to capture a good deal of concepts that I applauded for. It’s not easy to craft a story with so many characters, conflicts, and intersecting
+
+          <span style="display: none;" id="review305514">
+        storylines altogether in a complex system of magic and science. Here we are in 2018-2019, and we are gifted for the long anticipated third season. And with my sincere and deepest regret, I proclaim Index III as a disgraceful abomination.<br />
+<br />
+I remember watching some of the Dengeki Festival events in the past few years. Every time, it seems we are so close to the Index Season 3 announcement, it ends up with a tease of “please, just wait a little bit longer!” The long wait ended on September 30, 2017. I jumped in joy realizing that the dream came true and we are finally getting a continuation. It didn’t take long for the show to announce its airing date either just a few months later. Flash forward to Fall 2018 and here we are, the first episode of Index III. What aired on TV seemed like a miracle at the time with many familiar gimmicks. We are reintroduced to level 0 Esper, Touma where he is still unlucky as ever. After getting bitten by Index and running into a slew of misadventures with other characters, it seems the show had a flow going. It also didn’t take long for an ominous feeling to settle in with the realization that the God’s Right Seat are on the move. In fact, the first few episodes covers Touma clashing against God’s Right Seat member Terra of the Left with some unlikely allies. (such as the towel girl Itsuwa) More importantly, we also learn that Touma is suffering from a case of amnesia. As a recurring trend, girls like Itsuwa gets their fair share of screen time when it comes fan service. Indeed, these are just a few elements you’ll get have to get used to throughout the third season. But unfortunately, Index III quickly began to wore itself out.<br />
+<br />
+If you recall from the previous season, Academy City is well known for its darker storytelling when it involves espers and its underworld activities. The first season and even its spinoff Railgun had level 5 esper Accelerator undergo an experiment project known as  the Level 6 Shift Project where he would have to kill 20,000 Misaka Mikoto clones to become level 6. Of course, that project never reached completion thanks to the intervention of Touma. My point for bringing this up is because in this season, we are introduced to new forms of esper conflicts. As a show with an expansive cast of characters, the third season decided to set 5 different factions in a plot known as the “Battle Royale Arc”. This was actually one of my favorite arcs in the light novels but the anime adaptation made my stomach sink upon seeing how they treated this. Make no mistake, if you are an anime only viewer, confusion will be a common thought. Once again, Accelerator becomes a prominent character in this arc due to his status as the strongest level 5 Esper. Hamazura Shiage is upgraded as a protagonist while we are also shown with other familiar characters such as ITEM (if you’ve seen Railgun Season 2). The newer characters introduced includes Level 5 esper Kakine Teitoku, Teshio Megumim, and the Professor. The big problem? All of these characters are little more like actors in a poorly constructed script. For whatever reason, the directors thought it would be a good idea to cram such an important arc into a mere set of just 4 episodes. Once I realized this, it became immediately obvious that the producers had little intention to make an impact of its story or characters. Because let’s face it, there’s far too many characters to get invested into in the Battle Royal arc. There’s also too much going on that puts you into a state of confusion. At the apex of this arc, we have two of the strongest espers clashing against each other but the outcome lacked depth and instead replaced with endless screaming of pure absurdity. It felt like these entire few episodes limited what potential it could have been. Even with certain deaths of several characters, I felt nothing for them. In essence, what could have been one of the most memorable plot in the franchise turned into a depressing fallout of rushed execution and poor story craftsmanship. <br />
+<br />
+Unfortunately, it doesn’t stop there.<br />
+<br />
+At this point, we’re around a third of the show and I had to put down my thoughts and wonder how long this would last. Indeed, the next arc had me worried although to my delight, Acqua of the Back had probably the most consistent arc in this season. Perhaps this is because the anime only had one volume to work (Volume 16) so locking the arc to three episodes is actually consistent. Nonetheless, we are shown more conflict against the God’s Right Seat. Kaori Kanazaki also makes a big return from the previous seasons although she’s given more of a role as a combatant. The purpose of this arc wasn’t made entirely clear although it suggests that Touma would have some significant role in the upcoming struggle with the God’s Right Seat. Nonetheless, we can’t forget that Touma is a prominent character regardless how you feel about him. Ironically, titular Index remains mostly in the background despite having a significant role in the previous seasons. Here, she lost a lot of relevance and is even absent for quite a bit during the first half of the show. <br />
+<br />
+With the British Royal Family arc that followed, the anime again suffers problems with pacing and many characters stuffed together in one place. Featuring new characters such as the United Kingdom Princess Carissa, it will really make us wonder how Touma fits in all of this. The British Royal arc basically drops him into the magic side of the story without emphasizing its main purpose. Meanwhile, the plot twists didn’t feel meanginful even with some of the characters face-heel turns. Index actually becomes somewhat more relevant although I didn’t feel her role as nearly as memorable as the first two seasons. So in essence, the anime could have done more to capitalize itself by explaining more as everything is too frantic to absorb. <br />
+<br />
+Honestly, if you made it this far into the third season, I have to applaud you. It takes commitment after seeing how much Index III has degenerated. The final story arc of this season covers the World War III saga covering from episodes 18-26. It also covers the final light novels of the Index series (before New Testament) Meanwhile, I’m sitting wondering how the hell we can this can be accomplished through just 8 episodes. The World War III arc involves God’s Right Seat leader Fiamma of the Right pushing his goals for domination. Three different protagonists are actually featured in this final arc although all with different purposes. I’m not going to spoil it but the season makes it clear that all of them are important in some way or another. Again, Index III continues to suffer the problem of confusing storytelling. It doesn’t get viewers invested into what it’s telling us. Instead, what it does is trying to mix too much content at once. It’s like putting all the fruits into one basket and the customer isn’t sure what to pick in the end. Here, Index III chronicles the storytelling of three different protagonists without really getting us to fully invest into any of them. It’s very messy and we are pretty much left to figure out their motives and purpose. Most of these characters suffer development too as the show devotes much of its time on the plot. Oh dear God, how many times do we have to see Accelerator suffer more?<br />
+<br />
+In perhaps the worst kept secret of the franchise, studio J.C. Staff once again decided to tackle this show with its production staff and talent. Honestly, it’s not too bad if you go with the flow for its action elements. If there’s anything actually worthy about Index III, it would be the technical quality. Sure, it’s not a masterpiece polished art piece but is able to sell an acceptable degree of animation. Character designs are carried over from the previous seasons with little change in style. There are some scenes that makes the action more overdramatic than it should be though. (such as Accelerator vs Kakine) This also extends to the emotive performances of certain characters such as Accelerator and Hamazura. And as previous Index shows, fan service returns with girls such as Misaka, Ituswa, and even Kaori to an extent. We just can’t have a full season of Index without bath scenes, right Mr Director Nishikiori? <br />
+<br />
+After waiting for years, Toaru Majutsu no Index III turned out to be nothing more than a big fest of mushy questionable content. In fact, you could probably learn from reading Wikipedia than watching the show. It’s crystal clear that we needed more than 26 episodes but instead, this came out like a procrastinated school project. Sometimes, I wish certain franchises aren’t revived so it can&#039;t be killed anymore. Index III became another example of tragic adaptation with what’s shown us. As someone who has read the light novels, I recommend reading through volumes 14-22 to get a much better understanding of this series. But it’s too bad really. What could have been a big hit of the year instead showed us how some big franchises can’t live up to its reputation. I just hope Accelerator spinoff or Railgun Season 3 doesn’t become another victim. 
+        
+<div id="revhelp_output_305514" class="mt8 js-review-btn-helpful js-review-helpful-305514">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F36432%2FToaru_Majutsu_no_Index_III" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle305514"
+         class="js-toggle-review-button" data-id="305514">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=305514" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=305514" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="9:06 AM">Apr 5, 2019</div>
+      <div class="lightLink spaceit">
+                  26 of 26 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score305528').toggle()">Overall Rating</a>:
+        5
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/ACasualViewer">
+                  <img src="https://cdn.myanimelist.net/images/userimages/7060988.jpg?t=1610496000" data-src="https://cdn.myanimelist.net/images/userimages/7060988.jpg?t=1610496000" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/ACasualViewer">ACasualViewer</a>
+              <small>(<a href="/profile/ACasualViewer/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp305528">96</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score305528">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>5</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">4</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">3</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">8</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">2</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">5</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    I love the Toaru series, I really do, I have seen all the spin offs, read the novels, read the manga, will watch the third season of railgun and will watch the Accelerator spin off. Despite this I will be giving this particular adaptation of the show a low review, not because the source material is bad, but because its just a terrible adaption. If you want to actually enjoy this series, please just read the damn novels. This adaptation was basically JC Staff butchering the plot, stitching it back together incorrectly, throwing out important parts because hey we need to save budget for Misaka’s
+
+          <span style="display: none;" id="review305528">
+        ass shots, and then setting it on fire. Anyway, now that I cleared that up we can get onto the actual review.<br />
+<br />
+THIS REVIEW CONTAINS SPOILERS<br />
+<br />
+Story: 4<br />
+<br />
+I have never seen such a poorly executed story in anime before, and I have seen that one isekai anime involving a Kirito clone and a smart phone. Nothing in the story actually makes sense, and this is from a novel reader who knows exactly what is supposed to be going on. The anime was already very fast paced in season 1 and 2 and those 2 seasons adapted 12 novels combined, while this season tried to adapt 10 at once, this lead to a great portion of the plot being cut out.<br />
+<br />
+The battle Royale Arc, one of the best arcs in the novel, with mind games, extremely well written fights, great conflicting motivations, was turned into an endless blood bath. What happened was a bunch of characters you don’t care about got killed, some soldiers got shot up, and all for a bunch of reasons that they don’t expand beyond a single line here and there. <br />
+<br />
+The British Halloween arc? One of the best political stories I seen in an LN, one that successfully predicted Britain in real life leaving the EU before it actually happened, was turned into a half ass coup by some bratty girl who was really tsundere about Great Britain. <br />
+<br />
+Don’t even get me started on the acqua of the back, arc with more focus on Misaka’s ass than the motivations on WHY acqua was in the city, how he got there, when in the timeline he got there, and why Academy City dint put him down as fast as possible. <br />
+<br />
+Also the exposition in this season was some of the worst, it was already bad in previous seasons, when they start explaining character abilities, half of it sounds like chuuni nonsense someone on drugs came up with, the other half shouldn’t even be included since it wastes a good portion of the episode with someone just talking. Would it be so hard to just simply explain their abilities, since clearly going into the origins of the abilities in depth won’t work in an ANIME, it works well in novel because they can dedicate 3 pages to something like that. They also don’t do this once, they do it like 30 times, every time some new character shows up. <br />
+<br />
+Art: 3<br />
+<br />
+The animation is honestly disgusting, and I have seen shows released in 1998 that are much better looking, I am serious, we have scenes that look worse and more broken than that bad berserk adaption a few years back. The fights which in the novel were described as shattering mountains, tearing space, explosions in every colors as reality was distorted, had no weight to them at all. Most of the fights were just the characters talking, them using their abilities 2 or 3 times and then eventually one of them backed down or got knocked out. <br />
+<br />
+The effects for the abilities looked terrible, curtana was supposed to cut through space, what were those stupid cubes of jello???? Or how Accelerator’s black wings were not consistent between this season and last season, heck it wasn’t even consistent in the 2 fights this season alone. Also, what the heck were the gods right seat abilities, seat of the left had some weird look blade that moved slowly through the air, acqua’s speed was downplayed the entire time, fiammas holy right looked so ugly and did not do any of the cool sounding stuff it was supposed to, like teleport to the target and knock them out without force, oh by the way his sword was supposed to be 40KM long and on FIRE.<br />
+<br />
+This being said, the only reason the art gets a 3 instead of a 1 was because of the second opening, after seeing it though it made me even more angry, how can they make an opening so great visually, and then make a show that looks so awful after. The opening visuals were possibly top 10 out of 100s of series I seen, if JC staff is capable of that, then it’s clear it was not even a lack of talent but just laziness on why the show looked this garbage.<br />
+<br />
+The sound: 8<br />
+<br />
+The openings were absolutely amazing I will admit that, and the soundtrack is as good as ever, I guess they managed to get one thing right. I have nothing bad to say here, the sound effects used were interesting even if it was not consistent with the previous season, and I really enjoyed the soundtrack that played during major fights. <br />
+<br />
+Characters: 2<br />
+<br />
+Accelerator became the epitome of edge and stupid justifications instead of a well written anti hero, the MC became an endless platitude generator who quotes basic lines about justice and punches out his enemies without understanding their view point, and hamazura apparently survives every situation by luck. This is essentially how the anime adaption portrayed them, one dimensional cardboard characters with no nuance, who can’t think beyond the most obvious solutions to their issues, and who win by luck or plot armor. I will tell you that the novel does not do this and the characters are much more likable but I think I already said this enough, the character writing and development in the series is just awful.<br />
+<br />
+Another issue in the series is that they add like 100 new characters without developing any of them, some of them genuinely have great character designs, interesting abilities, and look really cute or cool. However, we will never get to know them because they either die, or are forgotten about in the next arc, and you don’t care much about them because the show skipped any significant development or backstories for the characters. <br />
+<br />
+Also outside of fan service some of the most popular characters got no screen time, we dint even get to see Misaka do anything substantial or have any of the Academy city students show up outside of 3 minutes of screen time.<br />
+<br />
+Enjoyment: 5<br />
+<br />
+I really wanted to enjoy this series, since the source material is something I love, and I was looking forward to seeing this anime. However I just could not get myself to like it for the most part, I know the story from the novel and could barely follow it, I feel sorry for anime only viewers who likely understood nothing through the entire show. Now I wouldn’t say I hated all of it, but a majority of it except some highlight scenes were pretty bad. I used to like JC staff as a studio, however after this adaptation, and whatever they are doing with Date a Live 3, they are garbage to me. All I can hope for is that the railgun season 3 director manages to put on a good show despite the studio, like he did last time with railgun s.<br />
+<br />
+Overall: 5<br />
+<br />
+I give this show an 5, it was really hard deciding whether or not to give this show a lower score since it was very bad and disappointing, however I will give it a 5 just because I love the source series, and because I rarely ever give a show under a 7, if its under a 7 on my list it means the show it hot garbage and I would never recommend it.
+        
+<div id="revhelp_output_305528" class="mt8 js-review-btn-helpful js-review-helpful-305528">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F36432%2FToaru_Majutsu_no_Index_III" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle305528"
+         class="js-toggle-review-button" data-id="305528">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=305528" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=305528" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="7:19 AM">Apr 5, 2019</div>
+      <div class="lightLink spaceit">
+                  26 of 26 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score305517').toggle()">Overall Rating</a>:
+        3
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/RiverRode">
+                  <img src="https://cdn.myanimelist.net/images/userimages/2578639.jpg?t=1601260200" data-src="https://cdn.myanimelist.net/images/userimages/2578639.jpg?t=1601260200" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/RiverRode">RiverRode</a>
+              <small>(<a href="/profile/RiverRode/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp305517">46</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score305517">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>3</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">3</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">3</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">3</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">3</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">3</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    It’s been eight years since the previous season of Index, and six years since I started watching anime. Index was one of the earlier series that I saw, and at the time I really enjoyed it. However, a lot has changed in my life since then, and I’m not the same person I was back in 2013. I’ve been looking at this third season as an opportunity to reevaluate the series, and unfortunately, it doesn’t hold up under scrutiny. Many of the preliminary reviews suggest that this dissatisfaction is purely with the quality of this particular adaptation, but I feel the source material isn’t blameless
+
+          <span style="display: none;" id="review305517">
+        in this matter.<br />
+<br />
+First off, I’m going to talk about the author of the series, Kamachi Kazuma, who is best known for the absurd rate at which he puts out light novels. A while back, there was a period of over two years in which he managed to release a volume every single month, and though he has slowed since then, his publishing speed is still well above just about anyone else in the industry. This rapid release schedule is a powerful tool for increasing audience engagement, since there will almost always be a new release to keep him fresh in mind, and it also generates pressure for readers to stay up to date or risk falling behind.<br />
+<br />
+However, while this model was no doubt successful in getting his work acknowledged, it is also to the detriment of its quality. For some arcs, it feels as if Kamachi was only putting something out for the sake of it, and not because it contributed to the overall narrative. Some of the middle arcs in this season drop a lot of information on the viewers to keep track of, but end up hardly mattering to the main plot. There’s so much going on, and a lot of it doesn’t amount to anything.<br />
+<br />
+Another product of this release schedule is how the powers have been simplified over the course of the series. I still think that Academy City is one of the coolest settings in any anime that I’ve seen, but only because of how unique and thought-out all the different powers that occupied it felt initially. But as the rate of releases accelerated, this deliberateness was lost. Gradually, the new abilities introduced have become less interesting, and even the application of existing abilities has become less creative. This is best illustrated through Vector Change, a power which is limited only by the imagination of the user. Accelerator’s greatest strength over the first two seasons was the flexibility of this ability, but now he primarily uses it as a force field and those dumb tornado wings.<br />
+<br />
+But yes, I’m not going to disagree that this adaptation is rough. This season covers the last nine volumes of the original light novel, which is a lot of material to cover (for reference, the first and second seasons covered six and seven volumes, respectively). A lot had to be cut to fit everything into 26 episodes, and the gaps are apparent. The biggest casualty of this is the characterization. It’s a frequent occurrence that the villains from previous arcs return as allies in new arcs, though the process by which their allegiances shift is often unaddressed. This material ties in with the series’ main theme of great strength coming from the unification of different perspectives, but it doesn’t get the attention it deserves. The show ends up having an impressive ensemble cast, but with all the material that has been removed, any episode that tries to follow too many of them comes across as completely incoherent.<br />
+<br />
+It’s always interesting to revisit media you’ve consumed in the past, and see how your opinion has shifted on it over time. Unfortunately, Index doesn’t hold the same appeal that it used to, but I’m still going to try to end this review on an optimistic sentiment. We’ll also be getting a third season of Railgun this year, which has always been my preferred side of the franchise. I plan to cover it as well, and I choose to believe that it won&#039;t let me down in the same way.
+        
+<div id="revhelp_output_305517" class="mt8 js-review-btn-helpful js-review-helpful-305517">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F36432%2FToaru_Majutsu_no_Index_III" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle305517"
+         class="js-toggle-review-button" data-id="305517">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=305517" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=305517" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="8:30 AM">Apr 5, 2019</div>
+      <div class="lightLink spaceit">
+                  26 of 26 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score305525').toggle()">Overall Rating</a>:
+        3
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Ryuseishun">
+                  <img src="https://cdn.myanimelist.net/images/userimages/5242474.jpg?t=1610547600" data-src="https://cdn.myanimelist.net/images/userimages/5242474.jpg?t=1610547600" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Ryuseishun">Ryuseishun</a>
+              <small>(<a href="/profile/Ryuseishun/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp305525">44</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score305525">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>3</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">2</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">3</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">3</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">4</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">3</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    As the curtain closed on the season of Winter 2019, the epidemic known as JC Staph Infection had claimed yet another victim from the masses of announced sequels to previously aired shows. This time, it’s the adaptation of a popular Dengeki Bunko light novel series known as A Certain Magical Index (which is alternatively called Toaru Majutsu No Index). It is practically inexcusable to have people wait out just over seven years for another season, and then come out with such a disappointing product. Having watched and enjoyed the previous two seasons, I was really looking forward to an announcement for a third one. So
+
+          <span style="display: none;" id="review305525">
+        when it finally came, I was really looking forward to how they’ll handle the rest of the story, so I didn’t think too much about the possibility JC Staff mishandling everything. Instead, what was supposed to bring an epic finalization to the main story was just one hell of a tumbling mess.<br />
+<br />
+STORY:<br />
+To Aru Majutsu No Index III’s premises are practically the same as the two previous seasons, so regardless of whether or not you’ve read the LN source, this installment is only for those who’ve watched the two preceding installments and are curious to see how the continuation turned out. Watching the Railgun series is also a helpful option to familiarize yourselves with the majority of the characters.<br />
+<br />
+It was after the first three episodes that the lack of craftsmanship became very obvious to me, despite me not wanting to initially admit it at the time. One of the biggest issues in the show, while common with most LN adaptations, grew prominent as one watches….PACING. Even though I don’t read light novel or manga sources myself, it was made clear very early on than the show’s content has been condensed and trimmed to accommodate for the listed twenty-six episodes. From what I was told, the season was trying to shove nine volumes worth of content, which contrasts the shared thirteen volumes by the previous two seasons.<br />
+<br />
+Because of the forced condensation of the story, the six individual arcs within the plot, excluding the final climactic WWIII arc don’t last much more than three episodes. This consequently results in the sudden introduction or reintroduction of characters, and we are expected to care about them without enough, if any, background context to them. The lack of proper introduction of the cast members can leaves viewers quite lost and confused, as they try to figure out the characters’ individual motives within the story. Even worse…it can actually be hard to remember the names of the newcomers who are somehow supposed to be important to a particular arc. Because of the significant lack of character background, it’s also hard to feel for them when some of them die in action.<br />
+<br />
+Let’s use a somewhat brief example with the Battle Royale Arc. Being the only arc to actually not feature the main protagonist Kamijou Touma, it was supposed to focus on Accelerator and reintroduce Hamazura Shiage in a major protagonist role, as well as reintroduce the group ITEM, whom we may know previously from watching the Railgun series. This was the most problematic arc for me, personally; for a segment that only lasted three episodes, it was clear that the studio probably wanted to have it over and done with quickly to set up room for the finale. Throughout the adapting of the Battle Royale, new characters and groups are just introduced from left to right without any sort of explanation of what they’re here for and why, making their actions feel so forced and idiotic. Many of the fights that take place during this arc and future ones often conclude off-screen for no apparent reason. <br />
+<br />
+Not to mention, there’s FAR too much pointless standing around and talking during those bouts; it’s as if they’re not actually taking stuff in earnest or sincerity with their actions at all, considering how vaguely their intentions are portrayed. As if that’s not enough, a good number of these introduced or reintroduced characters are seemingly killed off suddenly without anything building up for them, sometimes biting the dust off-screen; in fact, some of them are simply introduced and then killed within the same damn episode; as a result, we feel absolutely nothing for them. I don’t see how it’s any possible as a viewer get emotional over such poorly introduced cast members.<br />
+<br />
+Additionally, the plot omits helpful exposition or even inner dialogue that would explain what certain characters were thinking or how some were able to perform something particularly hard to explain. All we end up getting are mostly just poorly conducted fights and pointless, bland dialogue from the characters. <br />
+<br />
+The show also fails to show any of the characters’ inner thoughts, which would’ve proven helpful in terms of giving more sense and logic to their actions. Whatever exposition that DOES come out, or what’s supposed to be exposition, quite often feel like very half-hearted attempts to sound witty due to the unfortunate lack of prior context. Lastly, the constant, nauseous shifting between POVs, without the proper siegeways or breaks, just makes it even harder to follow and keep track of what’s going on, especially with the kind of pacing this show has resorted to.<br />
+<br />
+The only particular arc that I considered okay was the Acqua of the Back Arc. For this particular segment, despite being just three episodes as well, the story didn’t really seem to omit as much important events and details as the others. Kanazaki, one of my more favorite support characters of the show, returns to take a more upfront role as a combat participant against the likes of Acqua, who himself was a particular character of interest. Nonetheless, this arc felt rather pointless for the story, or at very least, not made clear.<br />
+<br />
+ART/SOUND:<br />
+The quality of the animation is notably downgraded from the previous seasons. The 2D animation and designs from this season, while not exactly awful, per say, have considerably more inconsistencies compared to the second season and the Railgun series. The movements don’t feel as fluid or liberated, the characters can occasionally look “off” in terms of facial expressions and body gestures, the emotional acts feel far more overdramatic than emotionally powerful, and the special effects are just horrific. The CGI was not exactly very pleasing; while it was not anywhere near “Hand Shakers level” of awfulness, the notably increased usage of it resulted in poorly choreography of the 1-on-1 fights and the military conflict.<br />
+<br />
+The soundtracks are actually very nice and at least try to fit with the tense or lighthearted mood, depending on the current point of the story. Maon Kurosaki, whom also did the two ending themes for the second season previously, sings the two opening themes for this one. Both songs are j-pop rock soundtracks, with “Gravitation” setting a moderate tempo to fit the inner urban activity and stuff going on behind the scenes, while “Roar” is more complementary to represent the frantic tension of international war and all-out conflict. The sound effects this season just don’t have the same kind of natural feel; for example, while I understand changing the noise of Touma’s Imagine Breaker was to make it sound more ominous and mysterious, due to the ambiguous and undisclosed nature of his power, it can feel quite out of place amidst the heavy conflict of him fighting it out with his adversaries. The previous sound, felt more fitting as it gives the clear indication of something being cancelled out and/or broken through, which is exactly the effect of Touma’s power. The voice acting was fine, in all honesty, but the vagueness of the story and plot can have you wondering why, for example, two high-leveled espers in Accelerator and Kakine are just excessively screaming for no particularly good reason or explanation; as a result, it just feels like overcooked displays of emotion. At least the show sort of lets us know when to cover our poor eardrums when a characters wails with absurdity.<br />
+<br />
+CHARACTERS:<br />
+There’s not much else I can really say about the new supporting characters, as I’ve mentioned the major issue with them in the previous section of this review. The more prominent recognizable main and support cast from the previous seasons are, in all honesty, unchanged for the most part.<br />
+ <br />
+Touma is still the usual “act first, talk later” selfless character we should all remember, regardless of whether we hate him or not. With the exception of the Battle Royale Arc, Touma has always taken at least a major role in all the arcs he’s involved in, especially the final arc, the WWIII Arc, where he fought the superiority complex jackass known as Fiamma, who was trying to accomplish the typical, regurgitated objective of world domination.<br />
+<br />
+Index, as always, with the exception of the final arc, always took to the benches on the sideline and doesn’t really have a very major role. While I can understand her origins and her case of amnesia, I’ve never really liked Index as a character due to her rather annoying personality. Despite her high intelligence, she is overly naïve and easily irritated, which often leads to the gag where she bites poor Touma on the head, often for no good justifications. She does have a good side to her, though, as she is shown to kind, nice, and polite with other people. Despite the bright side of her, her role as the primary heroine just never felt right, as she barely get involved personally barring when she’s taken hostage. In the final arc of this season, she is only relevant as a puppet of destruction until she was eventually freed. Her mostly backseat role, despite being the main heroine, felt like a hindrance as she almost always ends up in the damsel-in-distress situation when she does get involved, and Touma is usually the one that has always had to be her savior.<br />
+<br />
+Misaka Mikoto, another favorite character of mine and one that I personally felt that should’ve taken both roles as main heroine in both Index and Railgun (but is unfortunately a support cast member in the former), doesn’t show up as much as she used to in the previous seasons, though she does appear as a minor participant in the WWIII Arc to try to help her love interest in Touma. Her character from the previous installments is mostly unchanged for the most part. The majority of times Misaka is seen is almost always involving Touma, whether it’s the usual lighthearted gag of her getting flustered and/or angry due to her feelings for him, or it’s on a serious note where Misaka is trying to tell Touma to not push himself, with the latter saying otherwise. In the end, Touma and Misaka’s relationship stayed pretty much the same, so Misaka’s overall relevance to the season was not exactly as full-fledged as it could’ve been.<br />
+<br />
+A particular support character I do want to focus on is Hamazura Shiage. Previously an antagonist in the Skill-Out Arc in the previous season, he is involved as one of the “good guys”, especially during the dreadfully adapted Battle Royale Arc. Because of the shift to him playing as a protagonist, character development for Shiage was absolutely necessary to give more meaning to his actions. However, to the aforementioned issues with the said arc, Shiage’s imagery in the adaptation seemed more like an idiot shifting between wishy-washiness and recklessness. He is neither as idealistic and compassionate as Touma, nor as bloodlusted and insane as Accelerator; in this way, he can be considered as a medium between the two. He has an obvious inferiority complex due to being branded as a powerless individual and not having esper skills himself, hence his previous involvement in the Skill-Out Arc. While he does get notable character development within this part of the series, it just seems so rushed and without enough context behind it to be considered properly managed. The show basically displayed his change as if it was propelled solely via the virtue of his growing feelings with a barely memorable support character (at least in the Index story), Takitsubo Rikou….and I’m not sure if that’s how a well-written character is supposed to experience progression.<br />
+<br />
+All the other returning support cast members barely get much highlights unless they’re heavily involved within a particular arc. While the previous seasons, due to their better sense of pacing, gave them more reason to pay attention to and be attached to them, this sequel didn’t really do them much justice. They’re just there cause the story sorta “obligated” them to be present. Itsuwa, one of those particular support characters, started out her reintroduction with developing her feelings for Touma, and while she’s considerably much nicer to the latter and arguably a better female partner for him, she never truly got much shine outside the Constantine and Acqua Arcs. <br />
+<br />
+On one &quot;dual-colored&quot; note, while Accelerator himself was a rather enjoyable character due to his nature and did get a significantly more prominent spotlight and better characterization during this season, his role is still mostly overshadowed by the chaos of the events going on around him. <br />
+<br />
+In short, overall, a bunch of wasted products in the character department.<br />
+<br />
+ENJOYMENT:<br />
+I’ll be quick to the point. I started out really enjoying it for the first few episodes. The first episode really had me optimistic, especially with one of my favorite gags where Misaka gets upset at Touma, fires her electrical powers, and Touma blocks it with his Imagine Breaker. It was always SO nice to see the two’s interactions and dynamics, as they were more common and meaningful in the previous seasons. Unfortunately, we don’t get much of that all with the third season. Sure, Itsuwa played as a nice substitute, and the return Kanazaki’s tsundere behavior due to her OWN feelings for Touma (from way back in season 1) was something to give credit to in terms of enjoyment value, especially for me, personally…but in the end, those were still simply flauntings of rather unnecessary fanservice made just for the fanboys.<br />
+<br />
+As for the serious parts of the story itself, it was an absolute pain to watch. I’ve mentioned those issues already; rushed events, poorly animated fights, jarring CGI, characters being introduced left to right that it’s hard to catch up to or consider them as something important. It’s a mess that I tried my best to stick with and be optimistic about. However, with the handling of the British Royal Family Arc, where the main purpose of the segment and Touma’s intended involvement was severely downplayed, it became so clear that the show is literally going nowhere in the right direction. It was literally like watching your birthday or homecoming party getting crashed by a bunch of drunk idiots. Considering that J.C. Staff was also handling the third season of Date A Live at the time, and how horribly it turned out, it became all the more obvious that, regardless of what financial reasons or justifications, the studio just tainted its own brand by not being able to hire a proper team of staff members during the production of this show. I’m honestly disheartened because in the past, J.C. Staff produced plenty of other good shows in addition to the previous two seasons of Index as well as the two Railgun seasons. While I can’t say it was like a hated chore, it still felt laborious to watch.<br />
+<br />
+OVERALL:<br />
+Considering how we waited for years for the third season, and to receive a spoiled meal like this, Toaru Majutsu no Index III is the one of the more disappointing sequels in the recent years of anime. This season clearly needed more than just 26 episodes, and in the end, it was simply a rushed school project like Date A Live III and both TG:Re seasons were. To be honest, I wished this season was given more time to work with so that events, characters, and themes are played out and executed a lot more properly than what was showcased here. At this point, I’m highly considered to hit the light novel books for the first time and start from the very beginning, provided I find time for that. <br />
+<br />
+Unfortunately, for this season, it was simply something unable to follow up on the series’ previous accomplishments. I now pray to God, Christ, Arceus, whomever is up there….that the new Accelerator anime and s3 of Railgun don’t fall victim to the dreaded plague of JC Staph Infection as well.<br />
+
+        
+<div id="revhelp_output_305525" class="mt8 js-review-btn-helpful js-review-helpful-305525">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F36432%2FToaru_Majutsu_no_Index_III" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle305525"
+         class="js-toggle-review-button" data-id="305525">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=305525" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=305525" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+<div class="mt4"></div><div class="amazon-ads anime-manga-detail bottom pt20 pb16">
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "animedetail-20";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Buy on Amazon.com ";
+amzn_assoc_default_search_phrase = "A Certain Magical Index III";
+amzn_assoc_default_category = "DVD";
+amzn_assoc_linkid = "d33d41183eb8aee6216ffe9ff44ca735";
+amzn_assoc_rows = "1";
+amzn_assoc_search_bar_position = "bottom";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+</div>            <div class="mal-ad-unit" data-ad-width="801" data-ad-height="633">
+        <div id="taboola-below-article-thumbnails-anime"></div> <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'alternating-thumbnails-a',
+    container: 'taboola-below-article-thumbnails-anime',
+    placement: 'Below Article Thumbnails Anime',
+    target_type: 'mix'
+  });
+</script>
+
+      </div>
+    <br><div><div class="floatRightHeader"><a href="/anime/36432/Toaru_Majutsu_no_Index_III/news">More news</a></div><h2>Recent News</h2></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/58922647" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1578359251-59ffc3377db4f930280e80bd71f60ac9.jpeg?s=d5ed52b4812b42b1a15bea48e9d092c1" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1578359251-59ffc3377db4f930280e80bd71f60ac9.jpeg?s=d5ed52b4812b42b1a15bea48e9d092c1 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1578359251-59ffc3377db4f930280e80bd71f60ac9.jpeg?s=8660d5525328c021e0c6a895eab3d93f 2x" alt="North American Anime &amp; Manga Releases for January" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/58922647"><strong>North American Anime &amp; Manga Releases for January</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p>Here are the North American anime &amp; manga releases for January Week 1: January 7 - 13 Anime Releases Akanesasu Shoujo Complete Collection Blu-ray Berserk (incl. ...<a href="/news/58922647">read more</a></p></div>
+		<p class="lightLink spaceit">Jan 6, 2020 5:08 PM by <a href="/profile/Sakana-san">Sakana-san</a> | <a href="/forum/?topicid=1819167">Discuss (1 comment)</a></p></div>
+		<div class="borderClass"></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/58578377" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1572207159-940cef5aa9f56286b19acb029e7f9d2c.jpeg?s=00221a8ab9fc7c44c09c10c87a885b37" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1572207159-940cef5aa9f56286b19acb029e7f9d2c.jpeg?s=00221a8ab9fc7c44c09c10c87a885b37 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1572207159-940cef5aa9f56286b19acb029e7f9d2c.jpeg?s=c9dd3762bbcd959f7789b63a0c6ddfc1 2x" alt="Winners of the Newtype Anime Awards 2019" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/58578377"><strong>Winners of the Newtype Anime Awards 2019</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p>Winners of the 2019 Newtype Anime Awards were announced at the Machi★Asobi event. The winners were selected by fans in magazine and online polls. The participants we...<a href="/news/58578377">read more</a></p></div>
+		<p class="lightLink spaceit">Oct 27, 2019 1:17 PM by <a href="/profile/Sakana-san">Sakana-san</a> | <a href="/forum/?topicid=1808391">Discuss (71 comments)</a></p></div>
+		<div class="borderClass"></div><br><div><div class="floatRightHeader"><a href="/forum/?animeid=36432"><a href="/anime/36432/Toaru_Majutsu_no_Index_III/forum">More discussions</a></div><h2>Recent Forum Discussion</h2></div><div class="page-forum">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F36432%2FToaru_Majutsu_no_Index_III&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1750534">Toaru Majutsu no Index III Episode 6 Discussion</a> <small> ( <a href="/forum/?topicid=1750534&show=0">1</a> <a href="/forum/?topicid=1750534&show=50">2</a> <a href="/forum/?topicid=1750534&show=100">3</a> <a href="/forum/?topicid=1750534&show=150">4</a> <a href="/forum/?topicid=1750534&show=200">5</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Nov 9, 2018</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">231 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/FragmantLemon">FragmantLemon</a> <a href="/forum/?topicid=1750534&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Dec 25, 2020 7:03 AM</td>
+            </tr>
+            <tr id="topicRow2">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F36432%2FToaru_Majutsu_no_Index_III&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1749255">Toaru Majutsu no Index III Episode 5 Discussion</a> <small> ( <a href="/forum/?topicid=1749255&show=0">1</a> <a href="/forum/?topicid=1749255&show=50">2</a> <a href="/forum/?topicid=1749255&show=100">3</a> <a href="/forum/?topicid=1749255&show=150">4</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Nov 2, 2018</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">190 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/FragmantLemon">FragmantLemon</a> <a href="/forum/?topicid=1749255&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Dec 25, 2020 6:17 AM</td>
+            </tr>
+            </table></div><br><div><div class="floatRightHeader"><a href="/anime/36432/Toaru_Majutsu_no_Index_III/featured">More featured articles</a></div><h2>Recent Featured Articles</h2></div><div class="detail-page-featured-article"><div class="news-list">
+      
+    <div class="news-unit clearfix"><div class="picSurround fl-l mr8 ml3">
+          <a href="https://myanimelist.net/featured/2293/Prominent_Singers_and_Voice_Actors_Gather_at_Animelo_Summer_Live_2019"><img src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1569913018-201b1b4569164475e98ca1f663b45901.jpeg?s=0a575483ccff7a80f9427faf064fef70" alt="Prominent Singers and Voice Actors Gather at Animelo Summer Live 2019" class="image lazyload" width="50" height="78" srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1569913018-201b1b4569164475e98ca1f663b45901.jpeg?s=0a575483ccff7a80f9427faf064fef70 1x, https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1569913018-201b1b4569164475e98ca1f663b45901.jpeg?s=31b4fc4d51be19c003ec4595f1337ec6 2x" /></a>
+        </div><div class="news-unit-right rect">
+        <p class="title">
+          <a href="https://myanimelist.net/featured/2293/Prominent_Singers_and_Voice_Actors_Gather_at_Animelo_Summer_Live_2019" title="Prominent Singers and Voice Actors Gather at Animelo Summer Live 2019">Prominent Singers and Voice Actors Gather at Animelo Summer Live 2019</a>
+        </p>
+        <div class="text">
+          We&#039;ve got all the details and lots of photos to share from the world&#039;s largest anisong event!
+        </div>
+        <div class="information">
+          <p class="info pr8">
+            by <a href="https://myanimelist.net/profile/MAL_editing_team">MAL_editing_team</a>
+          </p><p class="di-tc pv pr8">
+              <b>14,890</b> views
+            </p></div>
+      </div>
+    </div>
+        </div>
+</div><div style="padding:16px 0px 0px 0px;"><div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div></div><br><div>
+            <div class="floatRightHeader"><a href="/anime/36432/Toaru_Majutsu_no_Index_III/userrecs">More recommendations</a></div>
+            <h2>Recommendations
+            </h2></div>  <div class=""><div class="anime-slide-block" id="anime_recommendation" data-json='{"width":800,"btnWidth":40,"margin":8}'><div class="btn-anime-slide-side left"><span class="btn-inner"></span></div><div class="btn-anime-slide-side right"><span class="btn-inner"></span></div><div class="anime-slide-outer" style="height:140px;"><ul class="anime-slide js-anime-slide" data-slide="8"><li class="btn-anime" style="width:90px" title="Date A Live III"><a href="https://myanimelist.net/recommendations/anime/36432-36633" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Date A Live III</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1055/100468.jpg?s=7074fc0fe72f00a0facd6120e7a06058" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1055/100468.jpg?s=7074fc0fe72f00a0facd6120e7a06058 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1055/100468.jpg?s=16e7cdb1ed639611350a2d4c2b63a56b 2x" width="90" height="140" class="image lazyload" alt="Date A Live III" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Black Clover"><a href="https://myanimelist.net/recommendations/anime/34572-36432" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Black Clover</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/2/88336.jpg?s=f52c4d67853982c19bea585826bd17b1" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/2/88336.jpg?s=f52c4d67853982c19bea585826bd17b1 1x,https://cdn.myanimelist.net/r/180x280/images/anime/2/88336.jpg?s=3ee1437a484dd34f52f34a84eac9a10f 2x" width="90" height="140" class="image lazyload" alt="Black Clover" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Natsume Yuujinchou Go"><a href="https://myanimelist.net/anime/32983/Natsume_Yuujinchou_Go?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Natsume Yuujinchou Go</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/11/81755.jpg?s=01ce064dc49ca021dbf19b653d204c22" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/11/81755.jpg?s=01ce064dc49ca021dbf19b653d204c22 1x,https://cdn.myanimelist.net/r/180x280/images/anime/11/81755.jpg?s=f48b2c4a3621632c03cdde0623072081 2x" width="90" height="140" class="image lazyload" alt="Natsume Yuujinchou Go" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Natsume Yuujinchou San"><a href="https://myanimelist.net/anime/10379/Natsume_Yuujinchou_San?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Natsume Yuujinchou San</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/8/82394.jpg?s=63b5bd799811986cded10b918d68b775" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/8/82394.jpg?s=63b5bd799811986cded10b918d68b775 1x,https://cdn.myanimelist.net/r/180x280/images/anime/8/82394.jpg?s=aafa18397122d86aa5299515a9fafe12 2x" width="90" height="140" class="image lazyload" alt="Natsume Yuujinchou San" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Haikyuu!!: To the Top 2nd Season"><a href="https://myanimelist.net/anime/40776/Haikyuu__To_the_Top_2nd_Season?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Haikyuu!!: To the Top 2nd Season</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1453/106768.jpg?s=8564e403d6506ba4fc636080be9bbd35" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1453/106768.jpg?s=8564e403d6506ba4fc636080be9bbd35 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1453/106768.jpg?s=cd768ade2803dbe7e99b2c6d6be34238 2x" width="90" height="140" class="image lazyload" alt="Haikyuu!!: To the Top 2nd Season" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Fate/stay night Movie: Heaven&#039;s Feel - II. Lost Butterfly"><a href="https://myanimelist.net/anime/33049/Fate_stay_night_Movie__Heavens_Feel_-_II_Lost_Butterfly?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Fate/stay night Movie: Heaven&#039;s Feel - II. Lost Butterfly</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1974/98158.jpg?s=92b5bf4625a4f74ce8efa001aedaf92d" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1974/98158.jpg?s=92b5bf4625a4f74ce8efa001aedaf92d 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1974/98158.jpg?s=f7bb50179d27f9e060f0b1d51dc3c0fa 2x" width="90" height="140" class="image lazyload" alt="Fate/stay night Movie: Heaven&#039;s Feel - II. Lost Butterfly" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Fruits Basket 2nd Season"><a href="https://myanimelist.net/anime/40417/Fruits_Basket_2nd_Season?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Fruits Basket 2nd Season</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1486/106692.jpg?s=46784625c0b1b94a5860aae496d952d2" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1486/106692.jpg?s=46784625c0b1b94a5860aae496d952d2 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1486/106692.jpg?s=d5329348312609254191dccbc38bac1c 2x" width="90" height="140" class="image lazyload" alt="Fruits Basket 2nd Season" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Kizumonogatari II: Nekketsu-hen"><a href="https://myanimelist.net/anime/31757/Kizumonogatari_II__Nekketsu-hen?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kizumonogatari II: Nekketsu-hen</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/8/80930.jpg?s=a398d7adbbba007948d8edd0a1c72ac2" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/8/80930.jpg?s=a398d7adbbba007948d8edd0a1c72ac2 1x,https://cdn.myanimelist.net/r/180x280/images/anime/8/80930.jpg?s=5cba838c5c956f2a6f7f8523e3ecaa49 2x" width="90" height="140" class="image lazyload" alt="Kizumonogatari II: Nekketsu-hen" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="One Punch Man"><a href="https://myanimelist.net/anime/30276/One_Punch_Man?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">One Punch Man</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/76049.jpg?s=7996680313e9884e2ecdd1bf6c042e78" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/76049.jpg?s=7996680313e9884e2ecdd1bf6c042e78 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/76049.jpg?s=d560865fb58c77de3c8d490b300f6680 2x" width="90" height="140" class="image lazyload" alt="One Punch Man" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Kimetsu no Yaiba"><a href="https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kimetsu no Yaiba</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1286/99889.jpg?s=b866831b109fac7cf6d971d49c2b6198" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1286/99889.jpg?s=b866831b109fac7cf6d971d49c2b6198 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1286/99889.jpg?s=3aeb6b6fc9db88b07d62eb304f43036c 2x" width="90" height="140" class="image lazyload" alt="Kimetsu no Yaiba" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Bakuman. 3rd Season"><a href="https://myanimelist.net/anime/12365/Bakuman_3rd_Season?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Bakuman. 3rd Season</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/6/41845.jpg?s=341e03b338f0c29ebaad1f7106e2160f" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/6/41845.jpg?s=341e03b338f0c29ebaad1f7106e2160f 1x,https://cdn.myanimelist.net/r/180x280/images/anime/6/41845.jpg?s=c6a8259ac503a87429206818166c12d1 2x" width="90" height="140" class="image lazyload" alt="Bakuman. 3rd Season" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Yuru Camp△ Season 2"><a href="https://myanimelist.net/anime/38474/Yuru_Camp△_Season_2?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Yuru Camp△ Season 2</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1255/110636.jpg?s=eeb5c29b4222fcd01eb8b4e45ca757f8" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1255/110636.jpg?s=eeb5c29b4222fcd01eb8b4e45ca757f8 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1255/110636.jpg?s=de77f23ad35ee497b76f6435ed43ba8e 2x" width="90" height="140" class="image lazyload" alt="Yuru Camp△ Season 2" border="0" ></a></li></ul></div></div></div>
+    </td>
+    </tr>
+    </table>
+    </div>  <div class="mauto clearfix pt24" style="width:760px;">
+    <div class="fl-l">
+      </div>
+      <div class="fl-r">
+      </div>
+    </div>
+
+</td>
+</tr>
+</table>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js" data-pin-hover="true"></script></div><!-- end of contentHome -->
+</div><!-- end of contentWrapper -->
+
+
+            
+  
+
+
+            
+  
+
+  <script>
+    $(document).ready(function() {
+      $(window).scroll(function() {
+        var cHeight = $("#myanimelist").height();
+        $("div[data-ad-sticky='manual']").each(function (i, o) {
+          var aHeight = $(o).height();
+          var aTop = $(o).parent().offset().top;
+          if (window.pageYOffset >= (cHeight - aHeight)) {
+            $(o).css("top", ((cHeight - aHeight) - window.pageYOffset) + "px");
+          } else if (window.pageYOffset >= aTop) {
+            $(o).addClass("sticky");
+            $(o).css("top", "");
+          } else {
+            $(o).removeClass("sticky");
+          }
+        });
+      });
+    });
+  </script>
+
+<!--  control container height -->
+<div style="clear:both;"></div>
+
+<!-- end rightbody -->
+
+</div><!-- wrapper -->
+
+
+    <div id="ad-skin-bg-right" class="ad-skin-side-outer ad-skin-side-bg bg-right">
+    <div id="ad-skin-right" class="ad-skin-side right" style="display: none;">
+      <div id="ad-skin-right-absolute-block">
+        <div id="ad-skin-right-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+</div><!-- #myanimelist -->
+
+
+<div class="footer-ranking">
+  <div class="ranking-container">
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php" class="view_more fl-r">More</a>Top Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Fullmetal Alchemist: Brotherhood</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011">Hunter x Hunter (2011)</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php?type=airing" class="view_more fl-r">More</a>Top Airing Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/42203/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season_Part_2">Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/42897/Horimiya">Horimiya</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/38474/Yuru_Camp△_Season_2">Yuru Camp△ Season 2</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/character.php" class="view_more fl-r">More</a>Most Popular Characters
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/character/417/Lelouch_Lamperouge">Lamperouge, Lelouch</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/character/45627/Levi">Levi</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/character/80/Light_Yagami">Yagami, Light</a>
+            </li>
+                  </ol>
+      </div>
+      </div>
+</div>
+<footer>
+  <div id="footer-block">
+    <div class="footer-link-block">
+      <p class="footer-link home di-ib">
+        <a href="https://myanimelist.net/">Home</a>
+      </p>
+      <p class="footer-link di-ib">
+        <a href="https://myanimelist.net/about.php">About</a>
+        <a href="https://myanimelist.net/pressroom">Press Room</a>
+        <a href="https://myanimelist.net/about.php?go=contact">Support</a>
+        <a href="https://myanimelist.net/advertising">Advertising</a>
+        <a href="https://myanimelist.net/forum/?topicid=515949">FAQ</a>
+        <a href="https://myanimelist.net/about/terms_of_use">Terms</a>
+        <a href="https://myanimelist.net/about/privacy_policy">Privacy</a>
+        <a href="#/" class="cmp-gdpr-only">Privacy Settings</a>
+        <a href="#/" class="cmp-ccpa-only">Do Not Sell My Personal Information</a>
+        <a href="https://myanimelist.net/about/cookie_policy">Cookie</a>
+        <a href="https://myanimelist.net/about/notice_at_collection">Notice at Collection</a>
+        <a href="https://myanimelist.net/about/sitemap">Sitemap</a>
+      </p>
+            <p class="footer-link login di-ib">
+        <a href="https://myanimelist.net/login.php?from=%2Fanime%2F36432%2FToaru_Majutsu_no_Index_III" id="malLogin" rel="nofollow">Login</a>
+        <a href="https://myanimelist.net/register.php?from=%2Fanime%2F36432%2FToaru_Majutsu_no_Index_III">Sign Up</a>
+      </p>
+          </div>
+
+    
+    <div class="banner-footer-anime-streaming">
+      <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+    </div>
+
+        <div class="footer-link-icon-block">
+            <div class="footer-social-media ac">
+        <a target="_blank" class="icon-sns icon-fb di-ib" href="https://www.facebook.com/OfficialMyAnimeList" rel="noreferrer"></a>
+        <a target="_blank" class="icon-sns icon-tw di-ib" title="Follow @myanimelist on Twitter" href="https://twitter.com/myanimelist" rel="noreferrer"></a></div>
+            <div class="footer-recommended ac">
+        <a target="_blank" class="icon-recommended icon-tokyo-otaku-mode" href="http://otakumode.com/fb/5aO" rel="noopener">Tokyo Otaku Mode</a>
+        <a target="_blank" class="icon-recommended icon-honeys-anime" href="https://honeysanime.com" rel="noopener">Honey's Anime</a>
+        <a target="_blank" class="icon-recommended icon-manga-store" href="https://myanimelist.net/store?_location=mal_f_m">Manga Store</a>
+      </div>
+    </div>
+
+    <div class="footer-fb">
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+      <div class="footer-fb-item">
+                <iframe class="fb-page" src="" width="450" height="154" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+      </div>
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+    </div>
+        
+    <div id="copyright">
+      MyAnimeList.net is a property of MyAnimeList Co.,Ltd. &copy;2021 All Rights Reserved.
+    </div>
+  </div>
+</footer>
+<div class="welcome-back popup-background">
+  <div class="popup">
+    <img class="logo" src="/img/pc/ownlist/logo_mal.png" alt="MyAnimeList">
+    <h3 class="popup-title">Welcome!</h3>
+    <p class="description">Join MyAnimeList to catalog your anime and manga, compare with your friends, create your own profile, and plenty more. It's free and easy to join.</p>
+    <div class="anime-slide1">
+      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/9/9453.jpg');"></div>
+      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/10/47347.jpg');"></div>
+      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/11/39717.jpg');"></div>
+      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
+
+      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/9/9453.jpg');"></div>
+      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/10/47347.jpg');"></div>
+      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/11/39717.jpg');"></div>
+      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
+    </div>
+    <div class="anime-slide2">
+      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/12/76049.jpg');"></div>
+      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/5/64449.jpg');"></div>
+      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/5/73199.jpg');"></div>
+      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/5/65187.jpg');"></div>
+
+      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/12/76049.jpg');"></div>
+      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/5/64449.jpg');"></div>
+      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/5/73199.jpg');"></div>
+      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/5/65187.jpg');"></div>
+    </div>
+    <h3 class="sign-up-with">Free Sign Up with</h3>
+    <div class="sns-sign-up">
+      <a class="sns-button google" href="/sns/login/google?from=%2Fanime%2F36432%2FToaru_Majutsu_no_Index_III&utm_medium=ldialog_google" onclick="ga('send', 'event', 'ldialog', 'click', 'google');">Google</a>
+      <a class="sns-button facebook" href="/sns/login/facebook?from=%2Fanime%2F36432%2FToaru_Majutsu_no_Index_III&utm_medium=ldialog_facebook" onclick="ga('send', 'event', 'ldialog', 'click', 'facebook');">Facebook</a>
+      <a class="sns-button twitter" href="/sns/login/twitter?from=%2Fanime%2F36432%2FToaru_Majutsu_no_Index_III&utm_medium=ldialog_twitter" onclick="ga('send', 'event', 'ldialog', 'click', 'twitter');">Twitter</a>
+    </div>
+    <div class="sign-up">
+      <a class="account register" href="/register.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'mail');">Create an account</a>
+      <br>      <a class="account" href="/login.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'login');">Already have an account?</a>
+    </div>
+    <div class="close-button" onclick="ga('send', 'event', 'ldialog', 'click', 'close');"></div>
+  </div>
+  <script>
+    $(function () {
+      ga('send', 'event', 'popup_login_form', 'show', location.href, {nonInteraction: true});
+      var onresize = function () {
+        var $welcome_back = $('.welcome-back');
+        var $popup = $('.welcome-back .popup');
+        var top = ($welcome_back.outerHeight() - $popup.outerHeight()) / 2;
+        $popup.css('top', top < 0 ? 0 : top);
+      };
+      var onclose = function () {
+        $('.welcome-back').addClass('fade-out')
+          .one('animationend', function () { $(this).remove(); });
+        $(window).off('resize', onresize);
+      };
+
+      var timer_id = null;
+      var show = function () {
+        timer_id = null;
+        // 優先順位の高いポップアップが出ていたら表示しない
+        if (($('.app_gdpr--2k2uB').length > 0 && $('.banner_hidden--MXmJ_').length === 0) || $('._cm-os-slider').length > 0 || $('#tbl-next-up').length > 0 || $('#gdpr-modal-bottom').length > 0) {
+          return
+        }
+        $('.welcome-back').addClass('fade-in');
+        onresize();
+        var timer = setTimeout(onclose,30000);
+        $('.popup').on('mousemove',function(){
+            clearTimeout(timer);
+            timer=setTimeout(onclose, 30000);
+        });
+      };
+
+      $(window)
+        .one('load', function () {
+          onresize();
+          timer_id = setTimeout(show,3000);
+          $('body').on('keydown mousedown mousemove',function(){
+            if(timer_id) {
+              clearTimeout(timer_id);
+              timer_id = setTimeout(show, 3000);
+            }
+          });
+          $(window).scroll(function(){
+            if(timer_id) {
+              clearTimeout(timer_id);
+              timer_id = setTimeout(show, 3000);
+            }
+          });
+        })
+        .on('resize', onresize);
+      $(document).one('click', '.close-button', function () {
+        onclose();
+      });
+      $('.register').click(function () {
+        ga('send', 'event', 'popup_login_form', 'click', location.href, {nonInteraction: true});
+      });
+    });
+  </script>
+</div>
+
+<script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+
+<script async>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga')
+
+  ga('create', 'UA-369102-1', 'auto')
+  ga('set', 'anonymizeIp', true)
+  ga('require', 'linkid') // Enhanced Link Attribution
+    ga('set', 'dimension1', 'guest')
+    ga('send', 'pageview')
+</script>   <script>
+window.onscroll = function(e){
+    const scrollThreshold = 50;
+    if (window.pageYOffset >= scrollThreshold) {
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            let t_height = ad.offsetHeight;
+            let offsetY = ad.getBoundingClientRect().top;
+            let screenHeight = window.outerHeight;
+            let t_position = offsetY - screenHeight;
+            if(-screenHeight<=(t_position　+　t_height) && t_position<0) {
+                ad.className = 'ad-tag';
+                (deployads = window.deployads || []).push({});
+            }
+        });
+    }
+}
+var timer = 0;
+window.onresize = function(e){
+    if (timer > 0) {
+        clearTimeout(timer);
+    }
+
+    timer = setTimeout(function () {
+        console.log('window resized');
+        [].forEach.call(document.querySelectorAll('.ad-tag'), function(ad) {
+            ad.className = 'no-ad';
+            (deployads = window.deployads || []).push({});
+        });
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            ad.className = 'ad-tag';
+            (deployads = window.deployads || []).push({});
+        });
+    }, 200);
+}
+</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WL4QW3G');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+var path = location.pathname;
+var param = location.search;
+
+dataLayer = dataLayer || [];
+
+// login.php
+
+function ga_notlogin(){
+  ga('send', 'event', 'not_login', '2.未ログインの場合', '/login.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=1');
+}
+
+function ga_sns(){
+  ga('send', 'event', 'sns_login', '2-1-1.ソーシャルログインの場合', '/login.php?login-mode=social&c-ms-mode=1');
+}
+
+function ga_login(){
+  ga('send', 'event', 'id_login', '2-1-2.IDログインの場合', '/login.php?login-mode=id&c-ms-mode=1');
+}
+
+// register.php
+
+function ga_registration(){
+  ga('send', 'event', 'registration', '2-2.会員登録ボタン', '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=2');
+}
+
+if ( path.match("register.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2F&c-ms-mode=2',
+        'member_title': '2-2-1.会員情報入力完了',
+        'event': 'loadready-register'
+    });
+}
+
+if ( path.match("login.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': path.concat(param, "&c-ms-mode=2"),
+        'member_title': '2-2-1.メールからの会員認証ページ',
+        'event': 'loadready-login'
+    });
+}
+
+// membership
+
+function ga_mal_banner(){
+  ga('send', 'event', 'support_mal', '2-3.MALバナー', '/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner&c-ms-mode=3');
+}
+
+if ( path.match("login.php") && param.match("from=%2F") ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=3',
+        'member_title': '2-2.会員登録ボタン',
+        'event': 'loadready-login'
+    });
+}
+
+function ga_credit(){
+  ga('send', 'event', 'support_mal', '3-1-1.クレカ登録', '/member-register?c-ms_payment=1&c-ms_mode=3');
+}
+
+function ga_paypal(){
+  ga('send', 'event', 'support_mal', '3-1-2.Paypal登録', '/member-register?c-ms_payment=2&c-ms_mode=3');
+}
+
+if ( path.match("account/membership/complete") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/member-register-complete?c-ms_payment=2&c-ms_mode=3',
+        'member_title': '3-1-2.MAL会員登録成功',
+        'event': 'loadready-member-register-complete'
+    });
+}
+
+</script>
+<script type="text/javascript">
+    window.MAL.magia = "06410c4e6b2518e9add8f6df0ccb2da2876bb8c980aacb43a8dcaa8153c0f92c";
+  window.MAL.madoka = "hZrDKm9k6FVRnqd3i%=K";
+
+  window.MAL.SLVK = "g4OvMLVOmEI3J8u7dt8f8+mAuualsqCo";
+  window.MAL.CDN_URL = "https://cdn.myanimelist.net";
+
+  window.MAL.CURRENT_TUTORIAL_STEP_ID = null;
+  window.MAL.USER_NAME = ""
+  window.MAL.FACEBOOK.APP_ID = "360769957454434"
+  window.MAL.FACEBOOK.API_VERSION = "v2.12"
+</script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+                    <script type="text/javascript">
+          window._taboola = window._taboola || [];
+          _taboola.push({flush: true});
+        </script>
+    </body>
+</html>

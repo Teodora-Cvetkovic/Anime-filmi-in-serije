@@ -1,0 +1,1860 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    
+<link rel="preconnect" href="//fonts.gstatic.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//fonts.googleapis.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tags-cdn.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagservices.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagmanager.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//apis.google.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel-sync.sitescout.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel.tapad.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//c.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tpc.googlesyndication.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//googleads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="//securepubads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="https://cdn.myanimelist.net" crossorigin="anonymous" />
+
+
+<title>
+Arifureta Shokugyou de Sekai Saikyou - MyAnimeList.net
+</title>
+<meta name="description" content="Looking for information on the anime Arifureta Shokugyou de Sekai Saikyou (Arifureta: From Commonplace to World&#039;s Strongest)? Find out more with MyAnimeList, the world&#039;s most active online anime and manga community and database. The ordinary life of 17-year-old otaku Hajime Nagumo is disrupted when he and his classmates are summoned to a fantasy world and tasked with saving mankind. While his classmates are gifted with impressive abilities useful in combat, Hajime is belittled for only gaining a..." />
+
+  
+<meta name="keywords" content="anime, myanimelist, anime news, manga" />
+  
+
+
+    <meta property="og:locale" content="en_US"><meta property="fb:app_id" content="360769957454434"><meta property="og:site_name" content="MyAnimeList.net"><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@myanimelist"><meta property="og:title" content="Arifureta Shokugyou de Sekai Saikyou"><meta property="og:type" content="video.tv_show"><meta property="og:image" content="https://cdn.myanimelist.net/images/anime/1799/101266.jpg"><meta name="twitter:image:src" content="https://cdn.myanimelist.net/r/360x360/images/anime/1799/101266.jpg?s=7a1eeea18846c22d7d45b96570f58af5"><meta property="og:url" content="https://myanimelist.net/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou"><meta property="og:description" content="The ordinary life of 17-year-old otaku Hajime Nagumo is disrupted when he and his classmates are summoned to a fantasy world and tasked with saving mankind. While his classmates are gifted with impressive abilities useful in combat, Hajime is belittled for only gaining an inferior transmutation skill that lacks any real offensive power. During an expedition in the Great Orcus Labyrinth, Hajime is betrayed by one of his classmates, plummeting him to the bottom of an abyss. Though he survives the fall, Hajime is faced with menacing monsters and misfortunes that send him spiraling into a grim nightmare. Desperate to live and return home one day, he resolves to fight for his survival—only to meet an imprisoned vampire he names Yue, who is also seeking to escape the labyrinth. Taking an interest in him, Yue and a few others along the way accompany Hajime on his journey to find a way back home, while steadily transforming from commonplace to the world&#039;s strongest. [Written by MAL Rewrite]">
+
+
+<meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
+
+<meta name='csrf_token' content='644d9a674f4d90e80b2523cd3a37aa8bbb52f2c4'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
+<meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" />
+
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" href="https://myanimelist.net/plugins/myanimelist.xml" title="MyAnimeList" />
+
+<link rel="shortcut icon" href="https://cdn.myanimelist.net/images/favicon.ico" />
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+      <script src="//tags-cdn.deployads.com/a/myanimelist.net.js" async="async"></script>
+            <script async="async" type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script>
+$(document).ready(function(){
+  window.Criteo = window.Criteo || {};
+  window.Criteo.events = window.Criteo.events || [];
+  $('.ad-criteo').each(function(){
+    var slotid = $(this).attr('data-ad-slot');
+    var zoneid = $(this).attr('data-ad-zone');
+    var CriteoAdUnits = {"placements":[{"slotid":slotid, "zoneid":zoneid}]};
+    var processCdbBid = function(){
+      var bids = Criteo.GetBidsForAdUnit(slotid);
+      if(bids.length > 0){
+        Criteo.RenderAd({bidId:bids[0].id, containerId:bids[0].impressionId});
+      }
+    };
+    Criteo.events.push(function(){Criteo.RequestBids(CriteoAdUnits, processCdbBid, 2000);});
+  });
+});
+</script>
+
+
+
+            <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/myanimelist/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>    
+</head>
+
+<body onload=" " class="page-common"data-ms="true" data-country-code="SI" >
+<div id="myanimelist">
+
+    
+  
+    <script type='text/javascript'>
+    window.MAL.SkinAd.prepareForSkin('');
+  </script>
+
+    <div id="ad-skin-bg-left" class="ad-skin-side-outer ad-skin-side-bg bg-left">
+    <div id="ad-skin-left" class="ad-skin-side left" style="display: none;">
+      <div id="ad-skin-left-absolute-block">
+        <div id="ad-skin-left-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
+    <script>(deployads = window.deployads || []).pageSegment = 'anime_title_36882';</script>
+
+
+<script>
+    var trackOutboundLink = function(url) {
+        ga('send', 'event', 'outbound', 'click', url, {
+            'transport': 'beacon',
+            'hitCallback': function(){return true;}
+        });
+    }
+</script><div class="banner-header-anime-straming" style="right:480px;">
+  <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+</div>
+
+
+<div id="header-menu" ><div class="header-menu-login"><a class="btn-mal-service"
+             href="https://myanimelist.net/membership?_location=mal_h_u" onClick="ga_mal_banner()">Hide Ads</a><a class="btn-login" href="https://myanimelist.net/login.php?from=%2Fanime%2F36882%2FArifureta_Shokugyou_de_Sekai_Saikyou" id="malLogin" onClick="ga_notlogin()">Login</a><a class="btn-signup" href="https://myanimelist.net/register.php?from=%2Fanime%2F36882%2FArifureta_Shokugyou_de_Sekai_Saikyou" onClick="ga_registration()">Sign Up</a></div></div></div>  <div id="menu" class="">
+    <div id="menu_right"><script type="text/x-template" id="incremental-result-item-anime"><div class="list anime" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info anime"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Aired: ${ item.payload.aired }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info anime"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-manga"><div class="list manga" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info manga"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Published: ${ item.payload.published }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info manga"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-character"><div class="list character" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div><div class="extra-info"><ul class="related-works"><li v-for="work in item.payload.related_works" class="fs-i">- ${ work }</li></ul>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-person"><div class="list person" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.alternative_name">${ item.payload.alternative_name }<br></span>Birthday: ${ item.payload.birthday }<br>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-store"><div class="list store" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info store"></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info store"></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-club"><div class="list club" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div><div class="extra-info">Members: ${ item.payload.members }<br>Category: ${ item.payload.category }<br>Created by: ${ item.payload.created_by }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-user"><div class="list user" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.authority">${ item.payload.authority }<br></span>Joined: ${ item.payload.joined }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-news"><div class="list news" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-featured"><div class="list featured" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-forum"><div class="list forum" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="extra-info">${ item.payload.date }<br><span>in ${ item.payload.category }</span></div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-separator"><div class="list separator"><div class="separator"><span v-show="item.name == 'anime'">Anime</span><span v-show="item.name == 'manga'">Manga</span><span v-show="item.name == 'character'">Characters</span><span v-show="item.name == 'person'">People</span></div></div></script><div id="top-search-bar"><form id="searchBar" method="get" class="searchBar" @submit.prevent="jump()"><div class="form-select-outer fl-l"><select name="type" id="topSearchValue" class="inputtext" v-model="type"><option value="all">All</option><option value="anime">Anime</option><option value="manga">Manga</option><option value="character">Characters</option><option value="person">People</option><option value="store">Manga Store</option><option value="news">News</option><option value="featured">Featured Articles</option><option value="forum">Forum</option><option value="club">Clubs</option><option value="user">Users</option></select></div><input v-model="keyword" id="topSearchText" type="text"
+            name="keyword" class="inputtext fl-l" placeholder="Search Anime, Manga, and more..."
+            size="30" autocomplete="off"
+            @keydown.up.prevent="moveSelection(-1)" @keydown.down.prevent="moveSelection(1)"
+            @focus="isFocused = true" @blur="isFocused = false"><input id="topSearchButon" class="fl-l" :class="{'notActive': (keyword.length < 3)}" type="submit" value="&#xf002"></form><div id="topSearchResultList" class="incrementalSearchResultList" :style="{display: (showResult ? 'block' : 'none')}" @mousedown.prevent=""><div v-for="(item, i) in items" @mouseover="selection=i"><component :is="resolveComponent(item)" :item="item" :focus="selection == i" :url="generateItemPageUrl(item)"></component></div><div class="list list-bottom" :class="{'focus': selection == -1}" @mouseover="selection = -1"
+               :style="{display: (showViewAllLink ? 'block' : 'none')}"><a :href="resultPageUrl">
+              View all results for <span class="fw-b">${ keyword }</span><i v-show="isRequesting" class="fa fa-spinner fa-spin ml4"></i></a></div></div></div></div><div id="menu_left">
+      <ul id="nav">
+        <li class="small"><a href="#" class="non-link">Anime</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/anime.php?_location=mal_h_m">Anime Search</a></li>
+            <li><a href="https://myanimelist.net/topanime.php?_location=mal_h_m">Top Anime</a></li>
+            <li><a href="https://myanimelist.net/anime/season?_location=mal_h_m">Seasonal Anime</a></li>
+                        <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m_a">Videos</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=anime&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=anime&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1885985&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Manga</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/manga.php?_location=mal_h_m">Manga Search</a></li>
+            <li><a href="https://myanimelist.net/topmanga.php?_location=mal_h_m">Top Manga</a></li>
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=manga&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=manga&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1886113&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li><a href="#" class="non-link">Community</a>
+          <ul>
+            <li><a href="https://myanimelist.net/forum/?_location=mal_h_m">Forums</a></li>
+            <li><a href="https://myanimelist.net/clubs.php?_location=mal_h_m">Clubs</a></li>
+            <li><a href="https://myanimelist.net/blog.php?_location=mal_h_m">Blogs</a></li>
+            <li><a href="https://myanimelist.net/users.php?_location=mal_h_m">Users</a></li>
+            <li><a href="https://discord.gg/E2xC8ZF">Discord Chat</a></li>
+          </ul>
+        </li>
+        <li class="small2"><a href="#" class="non-link">Industry</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/news?_location=mal_h_m">News</a></li>
+            <li><a href="https://myanimelist.net/featured?_location=mal_h_m">Featured Articles</a></li>
+            <li><a href="https://myanimelist.net/people.php?_location=mal_h_m">People</a></li>
+            <li><a href="https://myanimelist.net/character.php?_location=mal_h_m">Characters</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Watch</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m">Episode Videos</a></li>
+            <li><a href="https://myanimelist.net/watch/promotion?_location=mal_h_m">Promotional Videos</a></li></ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Read</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+          </ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Help</a>
+          <ul class="wide">
+            <li><a href="https://myanimelist.net/about.php?_location=mal_h_m">About</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=support&amp;_location=mal_h_m">Support</a></li>
+            <li><a href="https://myanimelist.net/advertising?_location=mal_h_m">Advertising</a></li>
+            <li><a href="https://myanimelist.net/forum/?topicid=515949&amp;_location=mal_h_m">FAQ</a></li>
+            <li><a href="https://myanimelist.net/modules.php?go=report&amp;_location=mal_h_m">Report</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=team&amp;_location=mal_h_m">Staff</a></li><li><a href="https://myanimelist.net/membership?_location=mal_h_m">MAL Supporter</a></li>
+          </ul>
+        </li>
+        
+            
+      </ul>
+    </div>  </div><div id="contentWrapper" itemscope itemtype="http://schema.org/TVSeries"><div><div class="h1 edit-info">
+      <div class="h1-title"><div itemprop="name"><h1 class="title-name h1_bold_none"><strong>Arifureta Shokugyou de Sekai Saikyou</strong></h1><br><p class="title-english title-inherit">Arifureta: From Commonplace to World&#039;s Strongest</p></div></div><div class="header-right">
+          <a href="https://myanimelist.net/login.php?from=%2Fanime%2F36882%2FArifureta_Shokugyou_de_Sekai_Saikyou&amp;error=login_required" class="js-anime-edit-info-button"><i class="fa fa-pencil mr4"></i>Edit</a>
+<div id="editdiv" class="fw-n fs11">
+  <form method="GET" action="https://myanimelist.net/dbchanges.php" class="di-i">
+    <input type="hidden" name="aid" value="36882">
+    <div class="pb8">What would you like to edit?</div>
+                      <select name="t" id="t" class="inputtext"><option value="synopsis">Synopsis</option><option value="background">Background</option><option value="alternative_titles">Alternative Titles</option><option value="pic">Picture</option><option value="airingdates">Airing Dates</option><option value="producers">Producers</option><option value="relations">Relations</option><option value="rating">Rating</option><option value="duration">Duration</option><option value="source">Source</option><option value="broadcast">Broadcast</option></select>
+     &nbsp;<input type="submit" value="Go" class="inputButton flat btn-middle">
+  </form>
+</div>
+</div></div></div><div id="content" >
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+	 <td class="borderClass" width="225" style="border-width: 0 1px 0 0;" valign="top"><div style="width: 225px">
+
+<div style="text-align: center;">
+          <a href="https://myanimelist.net/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou/pics">
+      <img class="lazyload" data-src="https://cdn.myanimelist.net/images/anime/1799/101266.jpg" alt="Arifureta Shokugyou de Sekai Saikyou" class="ac" itemprop="image">
+    </a>
+  </div>
+
+<!-- My List -->
+<div class="profileRows pb0">
+  <a href="https://myanimelist.net/login.php?from=%2Fanime%2F36882%2FArifureta_Shokugyou_de_Sekai_Saikyou&amp;error=login_required">Add to My List</a>
+</div>
+
+<div id="addtolist" class="addtolist-block js-anime-addtolist-block" style="display: none;">
+  <input type="hidden" id="myinfo_anime_id" value="36882">
+  <input type="hidden" id="myinfo_curstatus" value="">
+
+  <span class="notice_open_public pb4">* Your list is public by default.</span>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td class="spaceit">Status:</td>
+      <td class="spaceit">
+        <select name="myinfo_status" id="myinfo_status" class="inputtext js-anime-status-dropdown"><option value="1">Watching</option><option value="2">Completed</option><option value="3">On-Hold</option><option value="4">Dropped</option><option value="6">Plan to Watch</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td class="spaceit">Eps Seen:</td>
+      <td class="spaceit">
+        <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext" value=""> / <span id="curEps">13</span></td>
+    </tr>
+    <tr>
+      <td class="spaceit">Your Score:</td>
+      <td class="spaceit">
+        <select name="myinfo_score" id="myinfo_score" class="inputtext"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>
+                <input type="button" name="myinfo_submit" value="Add" class="inputButton btn-middle flat js-anime-add-button">
+        <span id="addtolistresult"><a href="https://myanimelist.net/ownlist/anime/add?selected_series_id=36882">Add Detailed Info</a></span>
+              </td>
+    </tr>
+  </table>
+  <div id="myinfoDisplay" style="padding-left: 89px; margin-top: 3px;"></div>
+</div>
+<!-- end My List -->
+
+<div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F36882%2FArifureta_Shokugyou_de_Sekai_Saikyou&amp;error=login_required" style="font-weight:normal;">Add to Favorites</a></div>
+
+<div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F36882%2FArifureta_Shokugyou_de_Sekai_Saikyou"></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F36882%2FArifureta_Shokugyou_de_Sekai_Saikyou&amp;text=Arifureta%20Shokugyou%20de%20Sekai%20Saikyou&amp;hashtags=anime"></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F36882%2FArifureta_Shokugyou_de_Sekai_Saikyou&amp;title=Arifureta%20Shokugyou%20de%20Sekai%20Saikyou"></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F36882%2FArifureta_Shokugyou_de_Sekai_Saikyou&amp;name=Arifureta%20Shokugyou%20de%20Sekai%20Saikyou"></a></div>  <br />
+
+  <h2>Alternative Titles</h2><div class="spaceit_pad">
+    <span class="dark_text">English:</span> Arifureta: From Commonplace to World&#039;s Strongest
+  </div><div class="spaceit_pad">
+    <span class="dark_text">Synonyms:</span> From Common Job Class to the Strongest in the World
+  </div><div class="spaceit_pad">
+    <span class="dark_text">Japanese:</span> ありふれた職業で世界最強
+  </div><br />
+
+<h2>Information</h2>
+
+<div>
+  <span class="dark_text">Type:</span>
+  <a href="https://myanimelist.net/topanime.php?type=tv">TV</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Episodes:</span>
+  13
+  </div>
+
+<div>
+  <span class="dark_text">Status:</span>
+  Finished Airing
+  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Aired:</span>
+  Jul 8, 2019 to Oct 7, 2019
+  </div>
+
+  <div>
+    <span class="dark_text">Premiered:</span>
+          <a href="https://myanimelist.net/anime/season/2019/summer">Summer 2019</a>
+          </div>
+
+  <div class="spaceit">
+    <span class="dark_text">Broadcast:</span>
+    Mondays at 23:30 (JST)
+      </div>
+
+  <div>
+    <span class="dark_text">Producers:</span>
+          <a href="/anime/producer/238/AT-X" title="AT-X">AT-X</a>,       <a href="/anime/producer/737/Sony_Music_Communications" title="Sony Music Communications">Sony Music Communications</a>,       <a href="/anime/producer/775/Bushiroad" title="Bushiroad">Bushiroad</a>,       <a href="/anime/producer/882/Toranoana" title="Toranoana">Toranoana</a>,       <a href="/anime/producer/1333/Hakuhodo_DY_Music___Pictures" title="Hakuhodo DY Music &amp; Pictures">Hakuhodo DY Music &amp; Pictures</a>,       <a href="/anime/producer/1443/Overlap" title="Overlap">Overlap</a>,       <a href="/anime/producer/1590/FuRyu" title="FuRyu">FuRyu</a>,       <a href="/anime/producer/1840/Bandai_Namco_Arts" title="Bandai Namco Arts">Bandai Namco Arts</a>  </div>
+  <div class="spaceit">
+    <span class="dark_text">Licensors:</span>
+          <a href="/anime/producer/102/Funimation" title="Funimation">Funimation</a>  </div>
+  <div>
+    <span class="dark_text">Studios:</span>
+          <a href="/anime/producer/163/Asread" title="Asread">Asread</a>,       <a href="/anime/producer/314/White_Fox" title="White Fox">White Fox</a>  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Source:</span>
+  Light novel
+  </div>
+
+<div>
+  <span class="dark_text">Genres:</span>
+      <span itemprop="genre" style="display: none">Action</span><a href="/anime/genre/1/Action" title="Action">Action</a>,     <span itemprop="genre" style="display: none">Adventure</span><a href="/anime/genre/2/Adventure" title="Adventure">Adventure</a>,     <span itemprop="genre" style="display: none">Fantasy</span><a href="/anime/genre/10/Fantasy" title="Fantasy">Fantasy</a>,     <span itemprop="genre" style="display: none">Harem</span><a href="/anime/genre/35/Harem" title="Harem">Harem</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Duration:</span>
+  23 min. per ep.
+  </div>
+
+<div>
+  <span class="dark_text">Rating:</span>
+  PG-13 - Teens 13 or older
+  </div>
+
+<br />
+
+<h2>Statistics</h2>
+<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" class="po-r js-statistics-info di-ib" data-id="info1">
+  <span class="dark_text">Score:</span>
+  <span itemprop="ratingValue" class="score-label score-6">6.52</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">166213</span>166,213 users)
+      <meta itemprop="bestRating" content="10">
+    <meta itemprop="worstRating" content="1">
+      <div class="statistics-info info1">
+    <small><sup>1</sup>
+          indicates a <a href="javascript:void(0);" onclick="window.open('/info.php?go=topanime','topanime','menubar=no,scrollbars=no,status=no,width=500,height=380');">weighted score</a>.
+    </small>
+  </div>
+</div>
+<div class="spaceit po-r js-statistics-info di-ib" data-id="info2">
+  <span class="dark_text">Ranked:</span>
+  #5785<sup>2</sup>
+    <div class="statistics-info info2">
+    <small><sup>2</sup>
+    based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
+    </small>
+  </div>
+</div>
+<div>
+  <span class="dark_text">Popularity:</span>
+  #389
+</div>
+<div class="spaceit">
+  <span class="dark_text">Members:</span>
+    329,730
+</div>
+<div>
+  <span class="dark_text">Favorites:</span>
+  3,455
+</div>
+
+  <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
+          </div>
+
+</div></td><td valign="top" style="padding-left: 5px;"><div class="js-scrollfix-bottom-rel"><div style="width:728px; margin:0 auto"></div><a name="lower"></a>
+<div id="horiznav_nav" style="margin: 5px 0 10px 0;">
+  <ul style="margin-right: 0; padding-right: 0;">
+        <li><a href="https://myanimelist.net/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou" class="horiznav_active">Details</a>
+    </li>
+        <li><a href="/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou/video">Videos</a>
+    </li>
+        <li>      <a href="https://myanimelist.net/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou/episode">Episodes</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou/reviews">Reviews</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou/userrecs">Recommendations</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou/stats">Stats</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou/characters">Characters &amp; Staff</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou/news">News</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou/forum">Forum</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou/featured">Featured</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou/clubs">Clubs</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou/pics">Pictures</a>
+    </li>
+    </ul>
+</div>
+
+
+
+                    <div class="breadcrumb " itemscope itemtype="http://schema.org/BreadcrumbList"><div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/" itemprop="item"><span itemprop="name">
+              Top
+                          </span></a><meta itemprop="position" content="1"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime.php" itemprop="item"><span itemprop="name">
+              Anime
+                          </span></a><meta itemprop="position" content="2"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou" itemprop="item"><span itemprop="name">
+              Arifureta Shokugyou de Sekai S...
+                          </span></a><meta itemprop="position" content="3"></div></div>
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="166,213 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-6">6.52</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#5785</strong></span><span class="numbers popularity">Popularity <strong>#389</strong></span><span class="numbers members">Members <strong>329,730</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2019/summer">Summer 2019</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/163/Asread" title="Asread">Asread</a>,             <a href="/anime/producer/314/White_Fox" title="White Fox">White Fox</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="36882"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F36882%2FArifureta_Shokugyou_de_Sekai_Saikyou&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+        Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="13">13</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Arifureta%3A%20From%20Commonplace%20to%20World%27s%20Strongest&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime js-shop-selecter icon-shop-default" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:36882,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><div class="anime-detail-header-affiliate-dialog js-shop-selecter-dialog" style="display:none"><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Arifureta%3A%20From%20Commonplace%20to%20World%27s%20Strongest&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:36882,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><a href="http://www.cdjapan.co.jp/aff/click.cgi/PytJTGW7Lok/6039/A764127/searches?q=Arifureta+Shokugyou+de+Sekai+Saikyou" class="btn-affiliate cdjapan js-shop-anime js-shop-cd-japan" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;cdjapan&quot;,&quot;id&quot;:36882,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/logo-cdjapan.png" width="118" height="25" alt="buy from CD Japan"></a><a href="http://www.shareasale.com/r.cfm?u=1384175&b=866986&m=65886&afftrack=&urllink=www.rightstufanime.com%2Fsearch%3Fkeywords%3DArifureta%20From%20Commonplace%20to%20World%27s%20Strongest" class="btn-affiliate right_stuf js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;right_stuf&quot;,&quot;id&quot;:36882,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_right_stuf.png" width="118" height="25" alt="buy from Rightstuf"></a></div></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/xoIaPNWLxy0?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/xoIaPNWLxy0/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">PV 3</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
+</div><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=36882&t=synopsis" style="font-weight: normal;">Edit</a></div><h2>Synopsis</h2></div><p itemprop="description">The ordinary life of 17-year-old otaku Hajime Nagumo is disrupted when he and his classmates are summoned to a fantasy world and tasked with saving mankind. While his classmates are gifted with impressive abilities useful in combat, Hajime is belittled for only gaining an inferior transmutation skill that lacks any real offensive power. <br />
+<br />
+During an expedition in the Great Orcus Labyrinth, Hajime is betrayed by one of his classmates, plummeting him to the bottom of an abyss. Though he survives the fall, Hajime is faced with menacing monsters and misfortunes that send him spiraling into a grim nightmare. Desperate to live and return home one day, he resolves to fight for his survival&mdash;only to meet an imprisoned vampire he names Yue, who is also seeking to escape the labyrinth. Taking an interest in him, Yue and a few others along the way accompany Hajime on his journey to find a way back home, while steadily transforming from commonplace to the world&#039;s strongest. <br />
+<br />
+[Written by MAL Rewrite]</p><div style="margin-top: 15px;"><div class="floatRightHeader"><a href="/dbchanges.php?aid=36882&t=background" style="font-weight: normal;">Edit</a></div><h2>Background</h2></div>Based on the light novel series written by Ryo Shirakome and illustrated by Takayaki. The series is published by Shousetsuka ni Narou in June 2015 and has been translated to English by J-Novel Club and Seven Seas Entertainment.<div class="border_top" style="padding:16px 0px 0px 0px;margin:14px 0px 0px 0px;"><div style="padding: 20px 0 20px 40px; float: left; position: relative; z-index: 1;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540582" data-ad-slot="criteo_slot_1540582" id="criteo_slot_1540582"></div>
+
+      </div>
+    </div><div style="padding: 20px 40px 20px 0; float: right; position: relative;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540583" data-ad-slot="criteo_slot_1540583" id="criteo_slot_1540583"></div>
+
+      </div>
+    </div></div></td></tr><tr><td class="pb24"><br><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=36882&t=relations" style="font-weight: normal;">Edit</a></div><h2>Related Anime</h2></div><table class="anime_detail_related_anime" style="border-spacing:0px;"><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Adaptation:</td><td width="100%" class="borderClass"><a href="/manga/88923/Arifureta_Shokugyou_de_Sekai_Saikyou">Arifureta Shokugyou de Sekai Saikyou</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Other:</td><td width="100%" class="borderClass"><a href="/anime/40083/Arifureta_Shokugyou_de_Sekai_Saikyou_Specials">Arifureta Shokugyou de Sekai Saikyou Specials</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Summary:</td><td width="100%" class="borderClass"><a href="/anime/40239/Arifureta_Shokugyou_de_Sekai_Saikyou_Recap">Arifureta Shokugyou de Sekai Saikyou Recap</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Sequel:</td><td width="100%" class="borderClass"><a href="/anime/40507/Arifureta_Shokugyou_de_Sekai_Saikyou_2nd_Season">Arifureta Shokugyou de Sekai Saikyou 2nd Season</a></td></table><br><div><div class="floatRightHeader"><a href="/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou/characters" style="font-weight: normal;">More characters</a></div><h2>Characters & Voice Actors</h2></div><div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/128137/Hajime_Nagumo" class="fw-n">
+            <img alt="Nagumo, Hajime" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/16/299736.jpg?s=237253508bb06c5485d4ac5b5993fa45" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/16/299736.jpg?s=237253508bb06c5485d4ac5b5993fa45 1x, https://cdn.myanimelist.net/r/84x124/images/characters/16/299736.jpg?s=c4dda391e443902595b61d4eb473f076 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/128137/Hajime_Nagumo">Nagumo, Hajime</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/41739/Toshinari_Fukamachi">Fukamachi, Toshinari</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/41739/Toshinari_Fukamachi">
+                      <img alt="Fukamachi, Toshinari" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54046.jpg?s=a90d0801a6e203a6c61f1758ff63b94e" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54046.jpg?s=a90d0801a6e203a6c61f1758ff63b94e 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/54046.jpg?s=b4b93cf1bbf6cf3ca83c582322b5fbda 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/129883/Kaori_Shirasaki" class="fw-n">
+            <img alt="Shirasaki, Kaori" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/8/299734.jpg?s=3f8d636ddac90e694ab927c98351a613" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/8/299734.jpg?s=3f8d636ddac90e694ab927c98351a613 1x, https://cdn.myanimelist.net/r/84x124/images/characters/8/299734.jpg?s=691b8ef259704d6698956dc438d1dc67 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/129883/Kaori_Shirasaki">Shirasaki, Kaori</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/19884/Saori_Oonishi">Oonishi, Saori</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/19884/Saori_Oonishi">
+                      <img alt="Oonishi, Saori" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/42429.jpg?s=e96927dc63e148b862e58f65287abae3" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/42429.jpg?s=e96927dc63e148b862e58f65287abae3 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/42429.jpg?s=f491d70b7f08b8e472dfb5281bedf7cb 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/129062/Yue" class="fw-n">
+            <img alt="Yue" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/3/283004.jpg?s=68820ad57767e06041d67f08575fca76" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/3/283004.jpg?s=68820ad57767e06041d67f08575fca76 1x, https://cdn.myanimelist.net/r/84x124/images/characters/3/283004.jpg?s=3b708383b4e862e9f39a7dad7fd226d5 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/129062/Yue">Yue</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/25991/Yuuki_Kuwahara">Kuwahara, Yuuki</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/25991/Yuuki_Kuwahara">
+                      <img alt="Kuwahara, Yuuki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/61300.jpg?s=90cd28ecb90dee10a04f298c54b5cb53" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/61300.jpg?s=90cd28ecb90dee10a04f298c54b5cb53 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/61300.jpg?s=1d03a4362b8d000b39f26704e3561663 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/128164/Shia_Haulia" class="fw-n">
+            <img alt="Haulia, Shia" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/9/295359.jpg?s=b444a097df022c7130ea5eaccdbed9d2" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/9/295359.jpg?s=b444a097df022c7130ea5eaccdbed9d2 1x, https://cdn.myanimelist.net/r/84x124/images/characters/9/295359.jpg?s=345c73eed249f5ef24518135a3afecc2 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/128164/Shia_Haulia">Haulia, Shia</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/22003/Minami_Takahashi">Takahashi, Minami</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/22003/Minami_Takahashi">
+                      <img alt="Takahashi, Minami" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/37815.jpg?s=e8501a68cfc5d7255795ad443b72ceef" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/37815.jpg?s=e8501a68cfc5d7255795ad443b72ceef 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/37815.jpg?s=6d7a64a47b8e87cd75987cbd5fb91bbd 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/128166/Tio_Clarence" class="fw-n">
+            <img alt="Clarence, Tio" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/13/299733.jpg?s=63b4c00dfaea22e6f3b59c9c269db0fb" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/13/299733.jpg?s=63b4c00dfaea22e6f3b59c9c269db0fb 1x, https://cdn.myanimelist.net/r/84x124/images/characters/13/299733.jpg?s=2ffac80cf637ac140439eb2de5a12192 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/128166/Tio_Clarence">Clarence, Tio</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/7263/Yoko_Hikasa">Hikasa, Yoko</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/7263/Yoko_Hikasa">
+                      <img alt="Hikasa, Yoko" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/44597.jpg?s=322ecae926fad2611160fa7b5c251e3c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/44597.jpg?s=322ecae926fad2611160fa7b5c251e3c 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/44597.jpg?s=7c9114ba4b05d55546bc9db06edf7b8e 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/143094/Myuu" class="fw-n">
+            <img alt="Myuu" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/3/310186.jpg?s=aacbe6d6df81cc9d981a8054286be7f0" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/3/310186.jpg?s=aacbe6d6df81cc9d981a8054286be7f0 1x, https://cdn.myanimelist.net/r/84x124/images/characters/3/310186.jpg?s=6428c5238c78186702a0c5edccaf39c4 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/143094/Myuu">Myuu</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/10981/Yui_Ogura">Ogura, Yui</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/10981/Yui_Ogura">
+                      <img alt="Ogura, Yui" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/60634.jpg?s=9befd37b12f1aae52cd48e37048ed7b5" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/60634.jpg?s=9befd37b12f1aae52cd48e37048ed7b5 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/60634.jpg?s=00fc40fab36f2f161d694c9593a0a76a 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/141219/Shizuku_Yaegashi" class="fw-n">
+            <img alt="Yaegashi, Shizuku" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/16/402101.jpg?s=ec38c6258f273fa42b468ba4f3d92772" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/16/402101.jpg?s=ec38c6258f273fa42b468ba4f3d92772 1x, https://cdn.myanimelist.net/r/84x124/images/characters/16/402101.jpg?s=62d1d900ea8f62097345ccb86fed34a8 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/141219/Shizuku_Yaegashi">Yaegashi, Shizuku</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/21543/Yumiri_Hanamori">Hanamori, Yumiri</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/21543/Yumiri_Hanamori">
+                      <img alt="Hanamori, Yumiri" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/55530.jpg?s=288cbd235a917ec330dcda33f8a96140" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/55530.jpg?s=288cbd235a917ec330dcda33f8a96140 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/55530.jpg?s=5e28cd800b2f4a453c129bb0306bb5bd 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/172749/Riiman" class="fw-n">
+            <img alt="Riiman" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/11/386865.jpg?s=e7ffce3643036d963da5c1a9ab6e49d3" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/11/386865.jpg?s=e7ffce3643036d963da5c1a9ab6e49d3 1x, https://cdn.myanimelist.net/r/84x124/images/characters/11/386865.jpg?s=1c92da290544585c4116bab20216e8b3 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/172749/Riiman">Riiman</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/371/Kenji_Hamada">Hamada, Kenji</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/371/Kenji_Hamada">
+                      <img alt="Hamada, Kenji" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/56373.jpg?s=8c4cb0bd9837e563655f0ecee68edd04" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/56373.jpg?s=8c4cb0bd9837e563655f0ecee68edd04 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/56373.jpg?s=211dbcbaaa80246c59853409b764dacd 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/143093/Kousuke_Endou" class="fw-n">
+            <img alt="Endou, Kousuke" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/6/391983.jpg?s=372168599a506c2502b366c9c2bd73f2" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/6/391983.jpg?s=372168599a506c2502b366c9c2bd73f2 1x, https://cdn.myanimelist.net/r/84x124/images/characters/6/391983.jpg?s=153b89eff271b37c7c142c8de56e3cbb 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/143093/Kousuke_Endou">Endou, Kousuke</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/30853/Junya_Enoki">Enoki, Junya</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/30853/Junya_Enoki">
+                      <img alt="Enoki, Junya" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/42672.jpg?s=24cc90edcf4b98acea49c51134d505b5" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/42672.jpg?s=24cc90edcf4b98acea49c51134d505b5 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/42672.jpg?s=8d4f613ef3bdb77d3f464bb4dad14d81 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/141221/Aiko_Hatayama" class="fw-n">
+            <img alt="Hatayama, Aiko" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/8/387820.jpg?s=08620e11dc1e7830db5ad8d3f55f2caf" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/8/387820.jpg?s=08620e11dc1e7830db5ad8d3f55f2caf 1x, https://cdn.myanimelist.net/r/84x124/images/characters/8/387820.jpg?s=9bae5b941f526f4f664e3f4a9eea36f4 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/141221/Aiko_Hatayama">Hatayama, Aiko</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/18511/Ai_Kakuma">Kakuma, Ai</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/18511/Ai_Kakuma">
+                      <img alt="Kakuma, Ai" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/55663.jpg?s=1debbc9077a2392ac09fed1c3a402db5" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/55663.jpg?s=1debbc9077a2392ac09fed1c3a402db5 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/55663.jpg?s=f1c454036d2a12893005aad7b7cfcafb 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div></div>
+<div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div><br>
+<a name="staff"></a>
+<div>
+  <div class="floatRightHeader"></div>
+  <h2>Staff</h2>
+</div>
+
+<div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/2067/Kinji_Yoshimoto" class="fw-n">
+            <img alt="Yoshimoto, Kinji" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/2067/Kinji_Yoshimoto">Yoshimoto, Kinji</a>
+        <div class="spaceit_pad">
+          <small>Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/10907/TakayaKi" class="fw-n">
+            <img alt="TakayaKi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/10907/TakayaKi">TakayaKi</a>
+        <div class="spaceit_pad">
+          <small>Original Character Design</small>
+        </div>
+      </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/37840/Ryou_Shirakome" class="fw-n">
+            <img alt="Shirakome, Ryou" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/37840/Ryou_Shirakome">Shirakome, Ryou</a>
+        <div class="spaceit_pad">
+          <small>Original Creator</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/39390/Chika_Kojima" class="fw-n">
+            <img alt="Kojima, Chika" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/39390/Chika_Kojima">Kojima, Chika</a>
+        <div class="spaceit_pad">
+          <small>Character Design</small>
+        </div>
+      </td>
+    </tr>
+  </table></div></div>
+<br><br><div class="di-t">
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=36882&amp;t=theme" class="floatRightHeader">Edit</a>
+      <h2>Opening Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs opnening"><span class="theme-song">&quot;FLARE&quot; by Void_Chords feat.LIO</span><br></div>
+  </div>
+  <div class="di-tc va-t}" style="width:16px;"></div>
+
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=36882&amp;t=theme&amp;themetype=2" class="floatRightHeader">Edit</a>
+      <h2>Ending Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs ending"><span class="theme-song">&quot;Hajime no Uta (ハジメノウタ)&quot; by DracoVirgo</span><br></div>
+  </div>
+</div>
+<br><br><br><div><span class="floatRightHeader"><a href="/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou/reviews">More reviews</a></span><h2>Reviews</h2></div>
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="5:22 AM">Oct 7, 2019</div>
+      <div class="lightLink spaceit">
+                  13 of 13 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score319290').toggle()">Overall Rating</a>:
+        1
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/CodeBlazeFate">
+                  <img src="https://cdn.myanimelist.net/images/userimages/5322238.jpg?t=1610538000" data-src="https://cdn.myanimelist.net/images/userimages/5322238.jpg?t=1610538000" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/CodeBlazeFate">CodeBlazeFate</a>
+              <small>(<a href="/profile/CodeBlazeFate/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp319290">311</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score319290">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>1</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">1</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">1</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">4</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">1</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">1</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Have you ever been excited to watch a dumpster fire? You know, that special kind of train wreck that reaches so bad it’s good territory, or the legendary &quot;schlock&quot; status”? It’s rare to find such titles in the current anime market, as Big Order and Inuyashiki are some of the last ones out there at the time of writing. Most bad anime are just frustrating or boring, especially when it comes to the prevalence of bad isekai anime. With episode 1 at least, Arifureta seemed to have done the impossible. It had become something so legendarily awful that it would be remembered as the best
+
+          <span style="display: none;" id="review319290">
+        so bad it’s good anime of the year. Imagine my shock, my awe when we were told that isekai finally had a Big Order to call its own. <br />
+<br />
+Imagine my grief when Arifureta quickly went from the most gloriously awful anime of the year to the worst I’ve seen all year. Barring a few tolerable moments, the more the show went on, the more dreadful the experience became. Even when I thought I grew numb to whatever the show threw at me, it would always find a new way to make the viewing experience worse. I felt betrayed, as did fans when the premiere dropped. Now that this anime has ended, it’s time I get a little payback.<br />
+<br />
+Let’s start with the least awful aspect of the anime, that being the music. The background OST, whenever it&#039;s actually present, is either fairly decent or downright awful. A lot of these tracks (inserts included, of which there are four and only one of them works) don’t even fit the scenes they’re put in half the time. Let that put into perspective how low a bar I’ve set for this anime. As for the OP, it’s trash with an obnoxious saxophone and weird autotune, as well as an awful trap beats section right before the chorus. The worst part is that the moody piano and violin combo at the beginning makes the track inviting, like a siren or a succubus luring you into your untimely demise. Barring an admittedly decent insert song in episode 5, my only other compliment to the music is that the ED, “Hajime no Uta” by DracoVirgo is actually pretty good. One could call it a generic sort of soothing ending theme meant to give the viewers a breather after whatever whirlwind any given episode puts them through. On the other hand, with vocals and instrumentals this inviting, I don’t care. It invokes something sweet, almost nostalgic at points. That said, one can only be so positive here given that we are talking about one of the worst anime anyone cares about this year. <br />
+<br />
+Speaking of worst things I’ve seen all year, the visuals in this anime are some of the worst to come out of 2019. The character designs (the better ones, at least) are inoffensive enough but that should not be my highest genuine compliment beyond some of the girls being attractive. Even then, the MC’s design is so ridiculous that it’s almost endearing. Sadly, the insanely bold and bright colors damage even that, especially when you consider that the show has to swap from these characters being barely visible in a cave so dark you can barely see a thing, to bright daylight. The contrast with all this in mind is downright eye-searing, so much so that I often needed to squint to the point of closing my eyes in order for my eyes to stop hurting. When you couple this with how poorly drawn, borderline melted their faces are at times, and how comically the show likes to distort the main character’s face, it all just becomes an aesthetic nightmare. It takes 5 episodes for us to reach a setting where the color palette works to the point where the characters aren’t too dark or bright to look at. Even then it sometimes crosses over into squint territory whenever the lighting remotely increases, and the colors are so much brighter in the side characters that they almost feel too bright in the dark labyrinth. To finally get away from the color and brightness complaints, we have the monster designs. They’re ugly as sin both in 2D and 3D. The 2D animation itself is...there. Don’t expect to see it too much and even then, it feels stilted whenever it is there a lot of the time. There are moments where it’s unbelievable like when Hajime unveils his giant rifle in episode 4 and you can see the wrappings linger and only move once every half second. I am not exaggerating. There are two factors that influence the awkward feel of the 2D animation, and they’re the three most noticeably awful aspects of the production: editing, direction, and CGI.<br />
+<br />
+The CGI is child’s play for any anime fan to pick at. The models and are so bad and jarring that any scene with them automatically looks like shit. Their movements are practically nonexistent as well, just being thrown and dragged around wherever the anime pleases. The worst part is that this Berserk 2016 and Overlord-tier CGI is almost as abundant as the 2D visuals of the show, and if both are done terribly, imagine how horribly they blend together. Actually, by the time we get to the hydra in episode 4, it’s safe to say the CG in this anime is Skelter Heaven tier. The abysmal directing exacerbates the problem, as entire shots and camera movements make absolutely no sense, especially in the OP, which is such a monumental train wreck of horrendous visuals and transitions it’s impossible for me to do it justice. Whenever the show isn’t forcing head-scratchingly bizarre shots, everything is just lifeless. The action has no choreography whatsoever and for some reason, the shots have absolutely no flow to them, especially in the first episode. This is where the editing comes in. Characters are constantly teleporting for no reason and while yes, the MC learns a quick step teleportation power, that’s entirely different from the characters randomly and abruptly being in a completely different location or part of a scene for no particular reason. Characters look one way and other characters, monsters, or objects are moving from somewhere other than where the characters are looking at, causing whiplash as we scramble to piece together what’s going on. Entire scene transitions amount to nothing but a fake-out before the same scene abruptly cuts to flashback or to present day. I don’t even wanna tell you how the show fucks up visual gags with shitty zooms and cheap “animation”. These problems are a constant with the show, and while they do enough damage to the visuals as is, they’re also inherently an issue with presentation. Bad presentation can really damage one’s narrative, as this show proudly demonstrates.<br />
+<br />
+The writing in this so bad on so many levels that we have to tackle it in three different ways. First is how the presentation turns the first episode into an incomprehensible shitshow. Then we have how the presentation turns the entire narrative into a jumbled mess. Lastly, there’s how the writing is generic at best and frankly pathetic at worst. I won’t even come close to hitting everything but there’s more than enough for you to get the gist of these issues several times over. I hope you enjoy my extensive coverage and journey of this hellspawn. <br />
+<br />
+For starters, the main character just assumes someone sabotaged him because one of the magic laser blasts in a volley of magic collided and ended up hitting him cuz it was misfired, and because we (barely) see a guy smirking for a brief second. First off, how in God’s name did the MC even see the guy while being assaulted by bright lights, one of which basically hit him? He couldn’t. On top of that, since he could have only seen the volleys of light, and the visuals communicate that one of them just ran into another and hit him due to that collision making it go off course, how did he not see it as anything other than an accident? Sure, he was on death’s door before becoming the white-haired, gunslinging edgelord we know now so of course he feels resent for his situation and would like to blame someone, but the anime presents it as if he knows exactly what happened. WE barely know what’s going on, which is a problem in and of itself! This is a common problem throughout the show, even when it temporarily stops being borderline impossible to follow...at least until the penultimate episode tries its valiant hand at in medias res storytelling one last time and making time and events impossible to follow. There’s almost no context or connective tissue between scenes in this first arc, and entire episodes throughout.<br />
+<br />
+My condolences to anyone who thought they could get into the franchise with this anime because context is not a concept this show understands. Sure, it presents a ton of flashbacks that technically explain on some level how the MC got to where he is, but we have no context for why he and those who teleported with him are doing what they’re doing, or how many of them got there. We barely even know jack or shit about the most basic aspects of the world or character relationships because the anime doesn’t bother explaining any of that and we’re just hit with contextless, incohesive montages, and sequences of characters fighting in dungeons. The sheer lack of personality beyond the most basic of caricature characterization only worsens the issue. Even worse is the fact that the flashbacks are erratically placed, sometimes appearing after a scene that necessitated the flashback beforehand makes a transition, sometimes without any transitions to speak of and without the scene prior even requiring the flashback in any capacity. Vital pieces of information are either relegated to throwaway lines or downright nonexistent, so it’s not like rewatching a second time or thinking about it more will suddenly illuminate everything for you. Doing so somehow leads to more questions. That, in turn, forces you to assume things and go out of your way to try to figure out where anything is in relation to its environment, which kills any semblance of joy you could have just laughing at how jumbled everything is. This is the premiere of your anime for God’s sake! If you want to start in medias res, you have to do it in a way where things make enough sense by the end of it that it isn’t a disorienting, incoherent mess. Otherwise, you end up with this glorious train wreck, one I wish lasted longer than a single episode.<br />
+<br />
+Immediately after episode 1, the show just becomes this obnoxious, tiresome mess as it swaps between perspectives no one gives a shit about, not even going far to make the action sequences with our now mental protagonist exciting in the least. Hell, he loses all of the hilariously crazy edge he had to him, just becoming a no-nonsense tsundere character who points out predictable tropes in this cliche fantasy land while purposely going in the opposite direction of where he needs to in order to even begin getting home. He fell to the 65th floor and instead of going back up he goes down 50 floors in a 100-floor labyrinth. Soon after you start to question that, he reaches what seems like the 100th floor in order to fight a boss and free a vampire loli caricature before they head down even more floors to the actual 100th floor. If that doesn’t make any sense, don’t worry, none of this does! Hell, even when they answer why he’s going down with him wanting to get stronger, we have to ask...why is he even bothering when all he has/wants to do is leave and have nothing to do with anything? There are other easy contradictions and logic problems to pick at within this whole excursion, but you get the point. Also, the way they cut between this and the scenes of the other characters coming back is dreadful as there’s no cohesion, and again, they barely expand on the important context we need to understand what is going on and why, just dumping more and more lore on us and presenting more abilities that are sometimes inconsistent cuz we need the MC to do something cool, or otherwise seemingly irrelevant to what he should be learning. <br />
+<br />
+Speaking of inconsistent, it takes until episode 3 before the show settles on establishing a concrete personality for our MC-kun, or Hajime, if you will. It didn’t even set one up to be broken in the first place because that would require competent writing. We’ll touch back on that real soon. Episode 4 has an insufferable number of death fake-outs which include a contrived scenario where the main character gets blasted nearly to death and only after the monster trying to kill them fires again several seconds later does his partner put up a force field. Said force field is also inconsistent about attacks getting through it and then the rest of the fight sequence is told out of order for no reason. The pair also arbitrarily kiss multiple times because we need nonsensical faux emotional beats, as if there aren’t enough in this episode. I could go on about the asspulls, inconsistencies, and forced drama for the sake of emotional manipulation, but you get the point. <br />
+<br />
+Pacing is another gigantic issue with this anime. Apart from how badly episode 1 utilizes flashbacks, the show has a dismal time deciding what to show and when. It often skips or montages relevant progression, like Hajime’s journey towards being an “edgelord badass”, or the offscreen training his classmates did after their collective failure in the first episode. We don’t even see how or when Hajime gets everything he needs to complete his character design, as we’re instead forced to assume what happened. The two month time skip in episode 5, the fight the classmates have with the enemies they had trouble with in episode 1, and the aforementioned incoherent ordering of events in the second half of episode 4’s big emotional action sequence serve as further examples of how bad the pacing and storytelling is past the first episode. Nothing feels earned from any emotional standpoint due to both these storytelling reasons and the general lack of decent writing, whether that be the classmates in episode 5 overcoming the CGI monsters that gave everyone hell in episode 1, or any of the big moments in episode 4.<br />
+<br />
+All of this sounds bad enough, but it gets even worse when you understand what this anime is trying to be. It’s a light novel adaptation with intents on providing wish-fulfillment via presenting a dark, brooding, angsty yet (selectively) compassionate main character for angsty teenagers to relate to, all while surrounding him with character archetypes, including tons of waifus. They somehow managed to fuck this up so spectacularly that it actually fails at being just generic and trite and becomes an absolute disaster. I’ve complained about shows that fail to even be generic like The Asterisk War, but that was solely on the writing being so broken that it manages to fuck up the easiest of things and make no-effort plots feel convoluted and nonsensical. Arifureta is so horrendously constructed and presented that it’s actually incomprehensible at times. At best, I can say that this show technically did succeed at creating a bunch of archetypes like the classmates and harem girls our main character, Hajime has to deal with. They still didn’t even succeed at properly establishing, breaking, then revamping our main character. Also, no one is even remotely likable, and their interactions are obnoxious, which seems like a given. The only interesting thing about Hajime and the first girl he gets with is that both of them suffer some kind of abandonment and betrayal issues, but again, both characters are hollow, and nothing is told well so it’s difficult to care. Their lack of chemistry makes the emotional character and relationship moments of episode 4 particularly jarring and laughable. By the time we get the gag of Hajime accidentally clenching Yue&#039;s butt in bed, I knew that if they told this story properly, it would still be a disaster. It wouldn’t be as corrosive as it is now, but it would still be a tiresome, badly produced, practically broken mess of a show I’d want nothing to do with. If they stuck to making a hilariously jumbled mess that goes all-in on that “edge factor”, then it would be at least amusing. No one wins when the show fails at going both ways, as if the second arc didn’t make it clear that no one involved is coming out of this ok. <br />
+<br />
+Once the first arc concludes after 5 episodes, the series doesn&#039;t exactly get better. While the remainder of the show isn’t as broken as the first half (including this sixth episode), it basically stops trying to set itself apart in any way, shape, or form from its contemporaries minus the one small plot thread that lingers throughout, that thread being Hajime’s bitterness towards those who betrayed him. From here on out, the main duo shuffles between absolute pieces of shit and begrudgingly compliant assholes that do things because they’re strung along by the slowly emerging pieces of Hajime’s harem. Obviously, asshole characters forced to lay off the edge and do something worthwhile don’t have to be intolerable but given how annoying the rest of the harem is and given how broken the existing caricatures are, the experience becomes significantly more corrosive than ever before. The conflict the second harem member introduces at the start of episode 6 gets resolved, and the rest of the episode is just montages and dicking around before the main characters have to leave. Said second member, Shea, is her own level of destructive at first. She’s not only annoying on her own, but she brings out a new level of dickishness within the main duo that makes their early interactions some of the worst I’ve seen in any harem or anime period. The interactions do get better rather quickly given that the very next episode gives Shea a time to shine, so at least that’s one bit of positivity in the midst of this sea of bile. To quickly leave that reprieve, I’ll mention that backstory is also pointlessly shoehorned in as it has no connection to anything. It might be one of the most insufferable backstories I’ve seen since it only exists to hamfistedly reinforce the idea of “the outcasts coming together and not being so alone in this world” and tell us Shea’s goddamn name. It’s almost as soul-crushing as the episode itself whose only purpose is to introduce a new, big-tittied waifu, and to set up a point which our main characters will have to return to before completing four more labyrinths which the previous episode established. This is our end goal for the show, and where even many fans of the source material feel the show has gone to shit. Need I say more?<br />
+<br />
+Actually, I do, so I’ll just go through the second half of the show in a more rapid-fire fashion. This review is overly long as it is, and that’s without devolving into a ton of nitpicks like how Shea arbitrarily has a change of clothes somehow between two scenes early in episode 7. Said episode is probably the best episode, as we actually get to see Shea beating people six ways to Sunday and prove her worth to the team after all the shit everyone and their mother gives her. It actually reminds me that sometimes these characters have the potential to be compelling, even if the blatant fanservice gags feel shoehorned in at times even considering her appearance and purpose. On top of that, the way they get jettisoned out of the second labyrinth (yes they got there already because pacing is not something this anime cares about) is actually pretty amusing. From then onwards, it’s back to getting the Steph treatment for her, as if using the absolute worst character dynamic from No Game No Life but with a character who is actually obnoxious this time makes it better than when the aforementioned 2014 anime did it. Episode 8 is a tedious reunion episode with some of Hajime&#039;s peers, albeit not the ones he has any beef with. Outside of the arbitrary bit of moment a tertiary character has with Shea, the only bit of note is Hajime&#039;s equally arbitrary lore dump he gives as a reason to why he won&#039;t come back with everyone. He doesn&#039;t even care about this, stating to the person offering him a guaranteed way home that he just wants to find some maverick keys so he can leave. It would have been more interesting and in character for him to just say that he wants nothing to do with some of his classmates.<br />
+<br />
+Episode 9 has a moment meant to make Hajime give an angry pep talk to someone about life, which is meant to be an emotionally resonant and inspiring moment, except dismal pacing, a lack of time, and a lack of exploration of this side of Hajime renders this scene moot. Tio Klarus (ok, why do the subs not match the MAL or AL names again?) makes her appearance this episode to round out the “I love Mr. Edgelord Man” party. She’s the masochist of the group, which we learn firsthand in the most embarrassing sequence I have dealt with all year. Apart from all the masochism nonsense, her nice design, and the fact that the anime can’t keep her nail size consistent within the first scene she’s in her human form, she’s boring and obnoxious. I’m done with the episodic play by play. You get the point and I refuse to cover any more of this now that we have all of the relevant characters out now, 2/3 into the anime’s runtime. You can already deduce that there’s nothing left to talk about and that it’s yet more obnoxious LN cliche gauntlets and insufferable character interactions from the diet version of the Konosuba cast and friends. There’s a bad guy and then another evil lord to be stopped, and we’re gonna meet Kaori and her female swordsman friend from early in the series again because they love Hajime as well and we need to fully assemble the harem by the end of the series all while getting sidetracked with more side quests and lolis! This review is long enough as it is, and I’ve wasted enough of both your time and mine! Fuck everything and everyone! Time for final thoughts!<br />
+<br />
+The saddest part isn’t even that this is one of the biggest anime of its season. It’s that this show was delayed by a whopping 15 months. Imagine how much worse it could have been if we got to see it in its original state! The fact that the original author stated &quot;Every time I was sent scripts and storyboards for the anime over these past few months, I writhed in pain in my room” back in January of 2018 makes that bizarre, alternate reality all the more tantalizing. Perhaps it could have been less incompetent given how there was a different director and team before the shift. Perhaps it could have been even worse given how bland the art style of the original plans looked. Still, it’s hard not to feel bad for everyone involved, fans included. At the same time, it’s hard not to point and laugh at what a dumpster fire this show is before later hating what it became. What it became is a bland, fugly, shitty isekai with nothing to offer but shock value from seeing blood and gore and a crazy turned boring tsun jerkass with a heart of gold. I’d actually recommend watching Re:Zero at that point, disregarding my disdain towards that show. You might even have a better time with Shield Hero, I dunno. Just don’t watch this, not even for the occasional bright spot it may have. Obviously, the manga and LN readers aren’t happy, and people like me who wanted that ironic entertainment are left just as disappointed. Barring those with Digibro’s specific tastes, it pleases no one but the most accepting of anime fans who just wanna see a gunslinging underdog get a harem. The only remaining exceptions are those who are willing to trudge through anything that has the theme of defying a world that hates them, and those who adore the art of baffling, broken direction. If that doesn’t meet the criteria for “so bad it’s horrible”, I don’t know what will. <br />
+<br />
+I wish this was just a single episode OVA instead so we could have ourselves a modern-day Mars of Destruction. It would probably have even worse reception, but it wouldn’t be this pathetic or worthless, and I wouldn’t feel like a donkey after watching it. Now I’m left angrier at myself for being duped than I am at this piece of shit for promising ironic entertainment in a fantasy subgenre devoid of any kind of entertainment value, and then spitting in my face. I’m angrier about that than I am about the show frequently throwing away or otherwise undercutting the potential it constantly brings up for itself, as unbelievable as the phrase “this show has potential” might seem to many here. The review you’re reading right now is the only reason I finished this humiliating train wreck which has been mildly amusing (dare I say endearing) at best and unbearable at worst. Perhaps this show wanted to make it clear that I’m not allowed to have fun with these types of shows anymore, and that any bright spots like the occasionally decent character moment, are just flukes.<br />
+<br />
+Eh, what can you do? Even Big Order stopped being funny bad at some point.<br />
+<br />
+Written and Edited by: CodeBlazeFate<br />
+Proofread by: Peregrine
+        
+<div id="revhelp_output_319290" class="mt8 js-review-btn-helpful js-review-helpful-319290">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F36882%2FArifureta_Shokugyou_de_Sekai_Saikyou" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle319290"
+         class="js-toggle-review-button" data-id="319290">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=319290" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=319290" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="4:40 AM">Oct 7, 2019</div>
+      <div class="lightLink spaceit">
+                  13 of 13 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score319286').toggle()">Overall Rating</a>:
+        1
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Inferno792">
+                  <img src="https://cdn.myanimelist.net/images/userimages/4435439.jpg?t=1610532000" data-src="https://cdn.myanimelist.net/images/userimages/4435439.jpg?t=1610532000" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Inferno792">Inferno792</a>
+              <small>(<a href="/profile/Inferno792/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp319286">231</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score319286">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>1</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">2</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">1</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">3</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">1</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">3</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    The disappointment of the season. Worst anime of the year. An anime that should never have existed. No matter how many insults I throw at Arifureta, I&#039;m afraid it will never be enough to convey just how loathsome I consider this atrocity. <br />
+<br />
+There are several levels of bad isekai anime. You&#039;ve got the disappointing kind like How Not to Summon a Demon Lord. Then comes the horrible kind like Kenja no Mago and Isekai Cheat Magician. And then you have Arifureta in a league of its own with not a single competitor in sight. It&#039;s so bad that I watched it every week just to
+
+          <span style="display: none;" id="review319286">
+        make myself feel better. I assured myself by saying that anime watching can&#039;t get worse so the only way is up. And yet, every week, Arifureta hit new lows that I didn&#039;t imagine were possible. <br />
+<br />
+Arifureta literally means &quot;common&quot; or &quot;mundane&quot;. But in the anime community, this word is now going to be referred to something which is terrible beyond measure. I think I&#039;ve watched a decent amount of anime, and in all of those, only a couple of shows even come close to Arifureta in terms of the dreadful watching experience I&#039;ve had. Arifureta has set the standard as high as possible for a show to be absolutely and unreservedly appalling. This is the kind of show that the rating of 1 on MyAnimeList exists for. An anime series that has no saving grace; something that might make you question why you watch anime at all. <br />
+<br />
+Even after having suffered through 13 episodes of this tragically forsaken show, I can&#039;t quite point out what it was or what it wanted to be. I doubt the creators or the studio had any idea either. It&#039;s an isekai but what did the author really want this to be? A harem? Yeah, because all the new girls want to fuck Kazuma as soon as they meet him. <br />
+<br />
+The premise of the show has Hajime and his class transported into a fantasy world in order to save it from some sort of disaster that&#039;s about to occur. In one of their expeditions, he&#039;s betrayed by one of his friends, falls into the abyss of the dungeon and that&#039;s where his changes start. He&#039;s a weak little boy before falling and then by eating monster&#039;s shit and meat, he obtains their powers. <br />
+<br />
+When I was watching the first episode and all of this happened, I honestly thought that the second guy that I was watching wasn&#039;t even Hajime. By just eating and drinking some crap, his entire body changed shape, his hair color changed and even his voice wasn&#039;t recognizable. Damn, what a transformation. He goes from a weak little guy, who wants to look after his friends, to a strong, monster eating maniac who only thinks about getting stronger. His transformation also boosted the shitty level of his character. He was a normal shit guy before he changed and became a stupidly powerful but even shittier guy afterward. <br />
+<br />
+Suddenly, we&#039;ve got this overpowered, invincible &quot;protagonist&quot; (if you can even call Hajime that) who&#039;s going around the abyss, killing monsters with his guns and snipers, eating them and stealing their abilities for himself. You&#039;ve gotta be kidding me! How did he even learn to create guns?! He was nothing but a support-type before, and now he&#039;s suddenly this all-knowing, omnipotent genius. Terrible, absolutely terrible and irredeemable writing.<br />
+<br />
+So, what was the author thinking when he wrote Hajime? That&#039;s a question I&#039;d like answered. His personality changed more times than there are episodes in the season. It&#039;s not unpredictable in a good way, no. It&#039;s embarrassingly predictable, but it just fluctuates between a guy who wants to save his friends, to one who cares about no one but himself, to caring about a vampire girl he&#039;d just met, to having a dream of going home while caring about no one, to not caring about his former teacher, to caring about his former teacher, to not caring about the friends before his &quot;transformation&quot;, to caring about them. It&#039;s kind of a cycle that repeats itself in every arc. His attitude towards the people who help him (except towards vampire loli of course) is stupidly obnoxious, and this doesn&#039;t change. <br />
+<br />
+Since the second episode of this abomination, the characters that are introduced are nothing but objects to praise and aid our amazingly charismatic Hajime. Let&#039;s begin by talking about the naked girl tied to, and hanging from the chains in the opening: Yue. After being saved by Hajime (how surprising), the only reason for her existence is to suck up to him. She doesn&#039;t have a single personality trait worth mentioning. She really doesn&#039;t. All she&#039;s done is help Hajime defeat monsters and get jealous when other girls get close to him. I honestly don&#039;t have a clue what else I could write about her. <br />
+<br />
+Moving on to the other characters in Hajime&#039;s &quot;party&quot;; first, we&#039;ve got Shea, a bunny girl whose sole goal in life is to fuck Hajime. Yeah, not much else to her character either. Then, we&#039;ve got a masochistic dragon girl who&#039;d like to fuck Hajime. Great. And did I mention that Yue wants to fuck him too?<br />
+<br />
+The only character who was even barely relatable, or bearable for that matter, was Kaori Shirasaki, one of Hajime&#039;s classmates who&#039;d been transported into another world. She&#039;s the character whom Hajime tried to save when he fell and for that, she&#039;s shown to bear great responsibility. The emotions she goes through are interesting to watch as she goes from blaming herself to firming her resolve in finding Hajime. Alas, she didn&#039;t get too much screentime after those initial few episodes. And even if she did, I doubt it would&#039;ve made much difference to the overall experience of watching Arifureta.<br />
+<br />
+The full name of this piece of shit show is &quot;Arifureta: from commonplace to the world&#039;s strongest&quot;. What it fails to mention is that this change happens in the span of one episode. Since episode 2, no enemy&#039;s even posed a challenge to Hajime. He and his party members are the only characters on the good side who&#039;re not totally useless. Everyone else who&#039;s not introduced as the enemy is shown to be weak; pathetically weak. Then, Hajime will appear, act as if helping them isn&#039;t his problem and eventually be convinced by one of the girls to help them. And then, we&#039;ll see our great hero pull out his guns and shoot down the bad guys with little to no effort. All while the animation hurts your eyes and makes you wonder if you&#039;re really in 2019 and not in 1969. <br />
+<br />
+The other characters are so pitifully useless that it made me wonder how the world wasn&#039;t overtaken by demons and monsters before Hajime had his little demonshit-eating transformation. I know I&#039;ve made this point a few times already but I just can&#039;t stress enough how stupid and weak anyone else that&#039;s not in Hajime&#039;s party is.<br />
+<br />
+If there was one anime where the studios deserved shit for their terrible, lazy and disgraceful commitment, this would be it. I don&#039;t like to shit on writers or production studios, but for once, I can&#039;t say that the deplorable plot or storytelling is the only major reason for an anime to be the crappiest of crap. White Fox and Asread are both massive production studios, especially White Fox. Believe it or not, this is the studio that has produced shows of the ilk of Steins;Gate, Katanagari, Akame ga Kill, Hatarakou Maou-sama and Re;Zero. I&#039;m not a fan of Re;Zero. In fact, I hated it. But that wasn&#039;t due to the fault of the studio. The production was top-notch in each of the anime series I&#039;ve mentioned above. However, for Arifureta, both of these studios share the blame. Big time. I&#039;m not kidding when I say that even Maou-sama Retry! which was produced by a no-name studio had better animation than Arifureta at times. And there&#039;s no excuse for this. Absolutely none. The opening was decent as far as the sound goes, however, nothing is noteworthy in the audio aspect either.<br />
+<br />
+If you don&#039;t already know, Arifureta was scheduled to air in Spring 2018. Apparently, the production was already underway but because the author of the light novels didn&#039;t like what he saw, everything was scrapped and the anime postponed till Summer 2019. The utter lack of responsibility by the producers is mindboggling. They scrapped a series because they didn&#039;t like what they saw and the final product of what they &quot;liked&quot; is this abomination. I don&#039;t even want to imagine what the thing they scrapped must have been. <br />
+<br />
+Some of the action scenes were so pitifully animated that it hurt my head just watching it. Imagine playing an action game at 10 FPS. That&#039;s how awful these action sequences were. This was a result of terrible visuals and sound combined with horrendous direction and a lack of planning. The worst part of the animation is the CGI of monsters, dragons, skeletons, etc. Basically, any enemy that wasn&#039;t human had CGI which would make the games from the 90s and early 2000s look great in comparison. Everything from their movements to their appearance was a pain to watch. <br />
+<br />
+Do you want to see a female dragon having a massive rod inserted into her ass? Do you want to see a bunny girl kissing the main character fervently when he was trying to give the girl a mouth-to-mouth CPR? Or CGI so bad that it looks worse than a 1990s game (Heck, even those games had better CGI than the monster battles in Arifureta)? Do you want something to vent your frustration on? Do you want to see what your beloved medium of entertainment looks like at its worst? <br />
+<br />
+Even if the answer to all of the above questions is yes, I&#039;d still not recommend this. It&#039;s easily the worst isekai I&#039;ve watched overall. I may have watched some with just as bad story-telling and characters as Arifureta, but they at least had okay animation. Arifureta doesn&#039;t tick the box for being decent in any department, be it characters, story, or animation. <br />
+<br />
+
+        
+<div id="revhelp_output_319286" class="mt8 js-review-btn-helpful js-review-helpful-319286">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F36882%2FArifureta_Shokugyou_de_Sekai_Saikyou" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle319286"
+         class="js-toggle-review-button" data-id="319286">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=319286" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=319286" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="4:26 AM">Oct 7, 2019</div>
+      <div class="lightLink spaceit">
+                  13 of 13 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score319281').toggle()">Overall Rating</a>:
+        1
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/TenshiTobacco">
+                  <img src="https://cdn.myanimelist.net/images/userimages/6956951.jpg?t=1610546400" data-src="https://cdn.myanimelist.net/images/userimages/6956951.jpg?t=1610546400" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/TenshiTobacco">TenshiTobacco</a>
+              <small>(<a href="/profile/TenshiTobacco/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp319281">110</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score319281">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>1</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">0</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">0</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">0</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">0</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">0</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Kaneki Ken, Shinobu Oshino, Aqua, and Darkness destroy CGI monsters with Hammer, sniper rifle, and grenade launcher. If you think that it will be extremely enjoyable and fun to watch, think again.<br />
+<br />
+Summer 2019. Fairy Gone is finally ended, so I needed to watch another guilty pleasure show. I skipped Shield Hero hype train, Slime hype train, and some other isekai hype trains before, but new another world one looks fine to join and discuss. No deep expectations: cool and “kinda weak in first episodes, super op after them” protagonist, cute fanservice girls, nice graphics and 8.xx MAL rating — what else do I need from
+
+          <span style="display: none;" id="review319281">
+        anime nowadays?  I opened episode 1 with those thoughts... and laughed. This episode was the funniest “so bad, that it&#039;s good” thing I&#039;ve seen since Mars of Destruction, Berserk 2016 gifs, and spider truck from Fairy Gone, and I can&#039;t stop laughing while watching that ugly textures, huge CGI monsters, random exposition (they even skipped the isekai part and showed it only in OP and flashbacks), and retelling of Tokyo Ghoul S1 in 4 minutes. I opened the director&#039;s page on MAL — and other viewers were in shock too: “stop directing”, “kill yourself”, “you ruined arifureta” and other friendly messages from friendly isekai fans. However, who we are to blame him? With a budget of 5 yen and a cup of ramen, even Watanabe, Yuasa and Miyazaki combined wouldn&#039;t be able to make this adaptation something good. At least Yoshimoto Kinji tried to do something, so let&#039;s continue watching, and we&#039;ll see why it&#039;s not enough.<br />
+<br />
+A N I M A T I O N. Yeah, graphics in this show is fucking horrible and looks like it was made by two students with Paint and pirated 3Ds Max. Watching something like this at the same time when Kimetsu no Yaiba exists is like go to the most elite restaurant in your town, realize that you are retarded and spend all your salary in one day, and for the other 29 days eat overdue products from the supermarket. Laughable CGI monsters, dirty, bland and cheap cell animation and horrible action scenes — you need to expect it by yourself because there are no words to describe what studio Asread made with the original light novel.<br />
+<br />
+Can the story improve shitty animation? Of course not, because it&#039;s just another isekai revenge story, and as I said before, there is nothing to expect here. Isekai — &quot;weak&quot; MC who has the super op skill — kills monsters in dungeons — take cute girls in the harem. More dead monsters — more cute waifus, Japanese Dream in a nutshell. I waited for something like this, but with typical isekai problems (hero is overpowered and there are two or more girls with him) we get a new one: awful pacing. The story progresses rapidly and without any understanding of how it works. Hajime is crying and wants to die in ep 1 — and become an edgy retarded “I WANT TO KILL EVERYBODY” boy after few seconds. Bunny family becomes super cool and badass in 2 minutes of something, and a weak bunny girl who can&#039;t fight at all suddenly is a skilled fighter with a hammer now. Hajime, the guy who survived in a hardcore dungeon with Yui, who fight together with her for a long time, was close to death and changed his life views, take a walking piece of fanservice with him and forgot about relationships with Yui because of some reasons. First dungeon in 5 eps — second in 1/2 ep and of course — no ending, “this is only a light novel advertising, read it and shut up”. I hadn&#039;t read the original novel and of course, wouldn&#039;t read it after “advertising” like this, but even I see that lot of events from it were skipped, cut and became ugly flashbacks, who are only confusing the viewer. Some interesting details (like Hajime&#039;s nihilism, racism and slavery between humans and other humanoid races) switches to scenes with bunny girl&#039;s panties, dragon girl&#039;s ass and other fanservice scenes with characters who are so bland and generic that I even don&#039;t want to tell about them more than a few words.<br />
+<br />
+Hajime — hybrid of Kaneki and Naofumi, your typical isekai pussy boy.<br />
+<br />
+Harem girls from zoo 1-4 — have different designs, but the same personality — “I want to fuck with Hajime, so I&#039;ll go with him no matter what”. Yeah, even the little fish girl just wants to be with our cool protagonist. I&#039;m not a hater of the harem genre, but for me, girls in good harem show must be individuals with colorful, different personalities and, of course, different behavior. Take Monogatari or Tenchi Muyou series, for example.<br />
+<br />
+Other characters (classmates, bosses, other girls) — they exist. That&#039;s all.<br />
+<br />
+This show is so fucking bad that it even doesn&#039;t work like a parody and “so bad, that it&#039;s good” anime. I am a huge fan of the comedies like Mayoiga, Skelter Heaven and Hametsu no Mars, trash flows in my veins and guilty pleasure is my second name, but there are not so many hilarious scenes in this show. Ep 1 was comedy gold, but after that, I got a boring MMO grind. CGI Hammer&#039;s attack and bunny girl with a grenade launcher are good, but after that show tries to become a serious drama about death. Stupid scenes replace other stupid scenes, fanservice becomes a shitty drama, and I couldn&#039;t fully enjoy this anime because of it.<br />
+<br />
+“However, if you hate this show and everything is bad, why you watched all 13 eps? Every normal people dropped this shit on ep 1&quot;<br />
+<br />
+I try to explain this. Let&#039;s begin from afar.<br />
+<br />
+Honestly, I don&#039;t care so much what everyone in the MAL is watching, because every person watches what he wants and likes what he wants. People who start watching anime enjoy Death Note and Attack on Titan, elitists are watching their “smart” shows such as Darling of the Galactic Franxx, Keijolyze!!!!!!!! and Sword Art Onlain, and ongoing lovers watch 30 new anime simultaneously and want more. This is fine, everyone has their tastes and opinions, but I never understand one thing — who watch that ton of bad isekai and write reviews of them? No, I&#039;m not even talking about SAO, NGNL, Shield Hero, Overlord and Konosuba now — I&#039;m about Death March, Smartphone, Kenja no Majo, Milfsekai, Cheat Magician and other 12-eps light novel advertisements. People who review them often said that they are unwatchable and a perfect example of “how not to make an anime” — no, they are not. You know why? They are bland. Every typical isekai trope, mediocre graphics, no originality at all, harem, 12 eps, and no ending — every component of this shows is so bland, so sterile, so unfunny that even trailers of all that shows are painful to watch. Watching them is like drinking a distilled water — just NOTHING, there is no interest to criticize it, to find mistakes, to talk about plot and characters — because there is nothing to say about.<br />
+<br />
+A real example of “how not to make an anime” is Arifureta. You know why? Because with all that shitty CGI and animation, edgy characters, harem tropes, hammers with sniper rifles and other shit Arifureta tries to be an anime of the season, an important event and the isekai of the top such as SAO, Shield Hero and NGNL — and fails in every aspect. This makes it enjoyable even with all those disadvantages. Where is the end? Can the animation become even worse? How many CGI objects I&#039;ll see in the next episode? Watching Arifureta is like watching fails video on youtube or watching for people who do something for the first time: funny for the wrong reasons, and this makes Arifureta the new Fairy Gone for me. Of course, it&#039;s still 1/10 (0.5 for funny moments and 0.5 for opening), but at least I enjoyed some moments of it. Ohaiyo, Oyasumi!
+        
+<div id="revhelp_output_319281" class="mt8 js-review-btn-helpful js-review-helpful-319281">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F36882%2FArifureta_Shokugyou_de_Sekai_Saikyou" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle319281"
+         class="js-toggle-review-button" data-id="319281">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=319281" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=319281" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="4:28 AM">Oct 7, 2019</div>
+      <div class="lightLink spaceit">
+                  13 of 13 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score319282').toggle()">Overall Rating</a>:
+        2
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Stark700">
+                  <img src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" data-src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Stark700">Stark700</a>
+              <small>(<a href="/profile/Stark700/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp319282">107</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score319282">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>2</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">2</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">2</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">2</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">1</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">2</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    How should I say this…my first impression of this abomination is: Did studio Asread go creatively bankrupt of anime projects? Is that why they keep producing garbage after garbage all these years? Watching Arifureta Shokugyou de Sekai Saikyou feels like injecting yourself with a lethal dose of poison but you won’t die. Instead, you’re lying there in a pain of agony trying to move on to the next life.<br />
+<br />
+To be honest, I had low expectations before the anime began airing. Red flags were already raised when they made an announcement that the show would be delayed to this year. Normally, people would assume that it’s
+
+          <span style="display: none;" id="review319282">
+        due to production issues and management. However, I don’t buy it. It sounded more like the show didn’t have a well-planned roadmap to begin with and serves more as a mission for cash grab. <br />
+<br />
+Onto the show itself, it follows a similar trend with most isekai in recent years. You know, the protagonist gets transported to another world, taking on the role of a hero, and is given the task of saving the world. The seventeen year old Hajime Nagumo is a type of protagonist you can literally find in just about any isekai anime these days. The plot involves him getting weak stats in a world of danger. To make matters worse, he almost dies after falling into an abyss. After meeting a vampire girl named Yue, he begins to take on this world with her in this dark fantasy adventure. Does this sound exciting? Absolutely not and there’s plenty of reasons why.<br />
+<br />
+First and foremost, there’s absolutely no way we can ignore the atrocious CGI quality of battle scenes and monster designs. There’s some anime that managed to make it work but this show is a fallout of the most hideous models I’ve ever seen in recent years. Every fiber of my being dislikes how the battles look and feel. It’s like one of those early access games you find on Steam where the developers completely abandoned their project after being bombarded with negative reviews. Arifureta Shokugyou de Sekai Saikyou shapes up to be some of the worst looking character designs this season. The fourth episode is a clear example of this. It reminds me of watching one of those Sharktopus trailers on Youtube where everything becomes a meme. Even the author of the series expressed his dislike about the show. To quote what he said, “I writhed in pain every time I was sent scripts/storyboards”. When you have the author disliking their own adapted work, then we have a problem. <br />
+<br />
+Yet, the problem doesn’t stop there.<br />
+<br />
+The scripts and storyboard itself doesn’t make a great impression either. It’s quite the opposite. Hajime’s transformation from a weakling to an anti-hero serves almost no purpose except to make him more badass. His character development is so fast that there’s pretty much no room to improve his character. It’s easy to assume he changes after meeting certain girls in his life but the writing there is meek at best. There’s forced romance between him and Yue that shows the two trying to survive in this apocalyptic world. Not to mention, Yue herself has almost no personality and goes through a similar quick change after meeting Hajime. There’s even one episode where she literally jumps into Hajime to show her affection. What happens after that? You can let your imaginations decide. The storytelling itself also has a lack of direction as I never felt it served much purpose. <br />
+<br />
+The character cast itself is just a cluster of poorly made adventurers. Besides our main leads, we have Shea Haulia, the girl who dresses like a slut with rabbit ears and a bubbly personality. No one can take her seriously especially when she acts like a 4 year old crybaby. The anime doesn’t focus on her development but instead inserts her character as a harem groupie. On the other hand, Kaori Shirasaki is introduced early in the show as somewhat of a normal character. Unfortunately, she has perhaps the dullest personality in the series. Again, the show doesn’t commit on developing her character and by the end of the show, I almost forgot she even existed. Later in the series, we also meet Tio who apparently gets turned on like a masochist. When you have such a poorly written main cast roster, you can forget about the supporting cast such as their annoying teacher Hatayama Aiko. What a disaster. To top it off, this is a 13-episode series based on a novel that ran for hundreds of chapters. Anyone with a functional brain would instantly tell you that there’s no way we can get an acceptable adaptation. Even the episode themselves suffers from pacing issues and there’s no emotional attachment you can feel about the characters, story, art style, or anything. <br />
+<br />
+Arifureta Shokugyou de Sekai Saikyou is an amalgamation of every trashy idea wrapped up into one little package. To recap a few, there’s the atrocious animation quality, faulty character development, the ineffective storytelling, and overall lackluster writing. Character relationship seems like a wish filling fantasy rather than anything realistic or tolerable. People tends to call this type of show generic or cliché but this anime is worse than that. It’s the fact that you feel absolutely nothing once you’re finished with the show besides hoping to get your time back. Sadly, you won’t. 
+        
+<div id="revhelp_output_319282" class="mt8 js-review-btn-helpful js-review-helpful-319282">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F36882%2FArifureta_Shokugyou_de_Sekai_Saikyou" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle319282"
+         class="js-toggle-review-button" data-id="319282">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=319282" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=319282" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+<div class="mt4"></div><div class="amazon-ads anime-manga-detail bottom pt20 pb16">
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "animedetail-20";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Buy on Amazon.com ";
+amzn_assoc_default_search_phrase = "Arifureta: From Commonplace to World&#039;s Strongest";
+amzn_assoc_default_category = "DVD";
+amzn_assoc_linkid = "d33d41183eb8aee6216ffe9ff44ca735";
+amzn_assoc_rows = "1";
+amzn_assoc_search_bar_position = "bottom";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+</div>            <div class="mal-ad-unit" data-ad-width="801" data-ad-height="633">
+        <div id="taboola-below-article-thumbnails-anime"></div> <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'alternating-thumbnails-a',
+    container: 'taboola-below-article-thumbnails-anime',
+    placement: 'Below Article Thumbnails Anime',
+    target_type: 'mix'
+  });
+</script>
+
+      </div>
+    <br><div><div class="floatRightHeader"><a href="/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou/news">More news</a></div><h2>Recent News</h2></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/60609964" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1598909553-a6f9acc1b6c36cd7b792e5bd67321c13.png?s=3b52b4fe7a2670d33b32d8397d2776bb" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1598909553-a6f9acc1b6c36cd7b792e5bd67321c13.png?s=3b52b4fe7a2670d33b32d8397d2776bb 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1598909553-a6f9acc1b6c36cd7b792e5bd67321c13.png?s=6a46119403afbcafe841b24944233dfa 2x" alt="North American Anime &amp; Manga Releases for September" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/60609964"><strong>North American Anime &amp; Manga Releases for September</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p>Here are the North American anime &amp; manga releases for September Week 1: September 1 - 7 Anime Releases Africa no Salaryman (TV) (Africa Salaryman) Complete Coll...<a href="/news/60609964">read more</a></p></div>
+		<p class="lightLink spaceit">Aug 31, 2020 2:34 PM by <a href="/profile/ImperfectBlue">ImperfectBlue</a> | <a href="/forum/?topicid=1862079">Discuss (0 comments)</a></p></div>
+		<div class="borderClass"></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/58480520" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1570466106-1695ab88d7d412fe8f9860bf99582068.jpeg?s=7f3f5bc60f97c8927dd67cb1b83d9227" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1570466106-1695ab88d7d412fe8f9860bf99582068.jpeg?s=7f3f5bc60f97c8927dd67cb1b83d9227 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1570466106-1695ab88d7d412fe8f9860bf99582068.jpeg?s=69ba5b7e5efdf917bb7fa13026add6b6 2x" alt="Second Season of &#039;Arifureta Shokugyou de Sekai Saikyou&#039; Announced" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/58480520"><strong>Second Season of &#039;Arifureta Shokugyou de Sekai Saikyou&#039; Announced</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p> The 13th and final episode of Arifureta Shokugyou de Sekai Saikyou (Arifureta: From Commonplace to World&#039;s Strongest) ended with an announced on Monday that a ...<a href="/news/58480520">read more</a></p></div>
+		<p class="lightLink spaceit">Oct 7, 2019 9:35 AM by <a href="/profile/Vindstot">Vindstot</a> | <a href="/forum/?topicid=1805255">Discuss (81 comments)</a></p></div>
+		<div class="borderClass"></div><br><div><div class="floatRightHeader"><a href="/forum/?animeid=36882"><a href="/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou/forum">More discussions</a></div><h2>Recent Forum Discussion</h2></div><div class="page-forum">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F36882%2FArifureta_Shokugyou_de_Sekai_Saikyou&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1805213">Arifureta Shokugyou de Sekai Saikyou Episode 13 Discussion</a> <small> ( <a href="/forum/?topicid=1805213&show=0">1</a> <a href="/forum/?topicid=1805213&show=50">2</a> <a href="/forum/?topicid=1805213&show=100">3</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Oct 7, 2019</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">136 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/NewGenWeeblet">NewGenWeeblet</a> <a href="/forum/?topicid=1805213&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Nov 30, 2020 6:20 AM</td>
+            </tr>
+            <tr id="topicRow2">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F36882%2FArifureta_Shokugyou_de_Sekai_Saikyou&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=1803299">why do people hate this so much?</a> <small> ( <a href="/forum/?topicid=1803299&show=0">1</a> <a href="/forum/?topicid=1803299&show=50">2</a> <a href="/forum/?topicid=1803299&show=100">3</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Jack931">Jack931</a></span> - <span class="lightLink">Sep 25, 2019</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">107 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/MrFlyingbison">MrFlyingbison</a> <a href="/forum/?topicid=1803299&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Nov 8, 2020 7:21 AM</td>
+            </tr>
+            </table></div><br><div><div class="floatRightHeader"><a href="/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou/featured">More featured articles</a></div><h2>Recent Featured Articles</h2></div><div class="detail-page-featured-article"><div class="news-list">
+      
+    <div class="news-unit clearfix"><div class="picSurround fl-l mr8 ml3">
+          <a href="https://myanimelist.net/featured/2309/In_Numbers__The_Best_Anime_of_the_Decade"><img src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1577540570-6cd00ecbf3483b617d40670f43868d2c.jpeg?s=9b135c843346a9061dede8eb1733608a" alt="In Numbers: The Best Anime of the Decade" class="image lazyload" width="50" height="78" srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1577540570-6cd00ecbf3483b617d40670f43868d2c.jpeg?s=9b135c843346a9061dede8eb1733608a 1x, https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1577540570-6cd00ecbf3483b617d40670f43868d2c.jpeg?s=e68e4dccba068951010dabd27951a025 2x" /></a>
+        </div><div class="news-unit-right rect">
+        <p class="title">
+          <a href="https://myanimelist.net/featured/2309/In_Numbers__The_Best_Anime_of_the_Decade" title="In Numbers: The Best Anime of the Decade">In Numbers: The Best Anime of the Decade</a>
+        </p>
+        <div class="text">
+          What&#039;s the #1 anime of the 2010s? Which year was the best? What studio had the most hits? We have the answers to all these questions and more!
+        </div>
+        <div class="information">
+          <p class="info pr8">
+            by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
+          </p><p class="di-tc pv pr8">
+              <b>319,610</b> views
+            </p></div>
+      </div>
+    </div>
+            
+    <div class="news-unit clearfix"><div class="picSurround fl-l mr8 ml3">
+          <a href="https://myanimelist.net/featured/2303/In_Numbers__The_Best_and_Worst_Anime_of_Summer_2019"><img src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1572578320-3674d82bf57f4303ce07979f94c2a6e2.jpeg?s=4f8bb455bb10569398ec7a726a56ea3f" alt="In Numbers: The Best and Worst Anime of Summer 2019" class="image lazyload" width="50" height="78" srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1572578320-3674d82bf57f4303ce07979f94c2a6e2.jpeg?s=4f8bb455bb10569398ec7a726a56ea3f 1x, https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1572578320-3674d82bf57f4303ce07979f94c2a6e2.jpeg?s=5ce136001911530b558a2ca98806eed5 2x" /></a>
+        </div><div class="news-unit-right rect">
+        <p class="title">
+          <a href="https://myanimelist.net/featured/2303/In_Numbers__The_Best_and_Worst_Anime_of_Summer_2019" title="In Numbers: The Best and Worst Anime of Summer 2019">In Numbers: The Best and Worst Anime of Summer 2019</a>
+        </p>
+        <div class="text">
+          Scores, members, favorites — everything you need to know about who won and lost Summer 2019.
+        </div>
+        <div class="information">
+          <p class="info pr8">
+            by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
+          </p><p class="di-tc pv pr8">
+              <b>86,027</b> views
+            </p><div class="tags">
+              <div class="tags-inner"><span class="tag tag-color-feature-spoiler">Spoiler</span></div>
+            </div></div>
+      </div>
+    </div>
+        </div>
+</div><div style="padding:16px 0px 0px 0px;"><div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div></div><br><div>
+            <div class="floatRightHeader"><a href="/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou/userrecs">More recommendations</a></div>
+            <h2>Recommendations
+            </h2></div>  <div class=""><a href="https://myanimelist.net/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou/userrecs" class="btn-detail-recommendations-view-all fl-r">
+      <span class="text">View All</span>
+      <span class="icon-next"><i class="fa fa-chevron-right icon-chevron" aria-hidden="true"></i></span>
+    </a><div class="anime-slide-block" id="anime_recommendation" data-json='{"width":702,"btnWidth":40,"margin":8}'><div class="btn-anime-slide-side left"><span class="btn-inner"></span></div><div class="btn-anime-slide-side right"><span class="btn-inner"></span></div><div class="anime-slide-outer" style="height:140px;"><ul class="anime-slide js-anime-slide" data-slide="7"><li class="btn-anime" style="width:90px" title="Tate no Yuusha no Nariagari"><a href="https://myanimelist.net/recommendations/anime/35790-36882" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Tate no Yuusha no Nariagari</span><span class="users">23 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1490/101365.jpg?s=8f59fc0e0d661e04a1431b9608067a8c" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1490/101365.jpg?s=8f59fc0e0d661e04a1431b9608067a8c 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1490/101365.jpg?s=c9a02e3b60e8ef26c6784b4d4e49083b 2x" width="90" height="140" class="image lazyload" alt="Tate no Yuusha no Nariagari" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Tensei shitara Slime Datta Ken"><a href="https://myanimelist.net/recommendations/anime/36882-37430" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Tensei shitara Slime Datta Ken</span><span class="users">5 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1694/93337.jpg?s=b484ba223eb6f2be3ae96bf36b217617" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1694/93337.jpg?s=b484ba223eb6f2be3ae96bf36b217617 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1694/93337.jpg?s=9b737f22fa171228e7b35ae840bd31a1 2x" width="90" height="140" class="image lazyload" alt="Tensei shitara Slime Datta Ken" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Death March kara Hajimaru Isekai Kyousoukyoku"><a href="https://myanimelist.net/recommendations/anime/34497-36882" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Death March kara Hajimaru Isekai Kyousoukyoku</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/88911.jpg?s=aa301500c49ef87f6dffd268924610a8" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/88911.jpg?s=aa301500c49ef87f6dffd268924610a8 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/88911.jpg?s=668b893265b39f0cc05bd1c5e5e9997e 2x" width="90" height="140" class="image lazyload" alt="Death March kara Hajimaru Isekai Kyousoukyoku" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru"><a href="https://myanimelist.net/recommendations/anime/36882-38659" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1715/103419.jpg?s=1e26f546fe424c39ea0c29e2aa6b8c96" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1715/103419.jpg?s=1e26f546fe424c39ea0c29e2aa6b8c96 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1715/103419.jpg?s=c5105ed435902e2dc9c6d093a864dca2 2x" width="90" height="140" class="image lazyload" alt="Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Goblin Slayer"><a href="https://myanimelist.net/recommendations/anime/36882-37349" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Goblin Slayer</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1719/95621.jpg?s=2e3368d5b4a34dcae824b65e7df3f9b6" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1719/95621.jpg?s=2e3368d5b4a34dcae824b65e7df3f9b6 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1719/95621.jpg?s=bcca77f05165fcdafe232c44dddcf1ba 2x" width="90" height="140" class="image lazyload" alt="Goblin Slayer" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Black Bullet"><a href="https://myanimelist.net/recommendations/anime/20787-36882" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Black Bullet</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1292/94693.jpg?s=e648de6659379e8c76e3a0f4fea9beaa" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1292/94693.jpg?s=e648de6659379e8c76e3a0f4fea9beaa 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1292/94693.jpg?s=4daa29e592f63b9207e0cbb32fa5d5ea 2x" width="90" height="140" class="image lazyload" alt="Black Bullet" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Gibiate"><a href="https://myanimelist.net/recommendations/anime/36882-40074" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Gibiate</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1769/107880.jpg?s=15ecb7756f233bf9e1debb56f1760ca9" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1769/107880.jpg?s=15ecb7756f233bf9e1debb56f1760ca9 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1769/107880.jpg?s=4903aed32d62bc0892d27d2017b92d10 2x" width="90" height="140" class="image lazyload" alt="Gibiate" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Sword Art Online"><a href="https://myanimelist.net/recommendations/anime/11757-36882" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Sword Art Online</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/11/39717.jpg?s=f7cf2e5766cdfbed24a635284c409585" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/11/39717.jpg?s=f7cf2e5766cdfbed24a635284c409585 1x,https://cdn.myanimelist.net/r/180x280/images/anime/11/39717.jpg?s=49cfc33030dd61fa251a1f279dc6f931 2x" width="90" height="140" class="image lazyload" alt="Sword Art Online" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Overlord"><a href="https://myanimelist.net/recommendations/anime/29803-36882" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Overlord</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/7/88019.jpg?s=6d24f0447f13a2ac58bf6ceb227db17e" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/7/88019.jpg?s=6d24f0447f13a2ac58bf6ceb227db17e 1x,https://cdn.myanimelist.net/r/180x280/images/anime/7/88019.jpg?s=1c58d7616725afcc37434ab7b6d6fc3d 2x" width="90" height="140" class="image lazyload" alt="Overlord" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Maou-sama, Retry!"><a href="https://myanimelist.net/recommendations/anime/36882-38297" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Maou-sama, Retry!</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1787/101288.jpg?s=34d5a89252147a83dbe3ea50bc1d18db" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1787/101288.jpg?s=34d5a89252147a83dbe3ea50bc1d18db 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1787/101288.jpg?s=8f071fd2b073d7d763709bc5a26cf62a 2x" width="90" height="140" class="image lazyload" alt="Maou-sama, Retry!" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kumo Desu ga, Nani ka?"><a href="https://myanimelist.net/recommendations/anime/36882-37984" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kumo Desu ga, Nani ka?</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1609/110322.jpg?s=a76fa4def2337ffb2ce203bffba1d3d7" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1609/110322.jpg?s=a76fa4def2337ffb2ce203bffba1d3d7 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1609/110322.jpg?s=2559785378c623b931de64772592a3bc 2x" width="90" height="140" class="image lazyload" alt="Kumo Desu ga, Nani ka?" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Isekai Maou to Shoukan Shoujo no Dorei Majutsu"><a href="https://myanimelist.net/recommendations/anime/36882-37210" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Isekai Maou to Shoukan Shoujo no Dorei Majutsu</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1649/93412.jpg?s=63200ece53805527b31ce7bf81be3fca" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1649/93412.jpg?s=63200ece53805527b31ce7bf81be3fca 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1649/93412.jpg?s=ce2862a0e5a8b5df89eb6a8b670953b5 2x" width="90" height="140" class="image lazyload" alt="Isekai Maou to Shoukan Shoujo no Dorei Majutsu" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Rokudenashi Majutsu Koushi to Akashic Records"><a href="https://myanimelist.net/recommendations/anime/32951-36882" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Rokudenashi Majutsu Koushi to Akashic Records</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/8/85593.jpg?s=62efce8af0a8cde4e985782c896ec0e7" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/8/85593.jpg?s=62efce8af0a8cde4e985782c896ec0e7 1x,https://cdn.myanimelist.net/r/180x280/images/anime/8/85593.jpg?s=806d1e84f3d9cf3bd82b0032b9b9c7df 2x" width="90" height="140" class="image lazyload" alt="Rokudenashi Majutsu Koushi to Akashic Records" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Isekai Cheat Magician"><a href="https://myanimelist.net/recommendations/anime/36882-37744" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Isekai Cheat Magician</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1282/102248.jpg?s=d9769e4be971724bd780a383f6b42b74" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1282/102248.jpg?s=d9769e4be971724bd780a383f6b42b74 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1282/102248.jpg?s=7e6f8295b8a46241dabb7d485f89f71d 2x" width="90" height="140" class="image lazyload" alt="Isekai Cheat Magician" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Log Horizon"><a href="https://myanimelist.net/recommendations/anime/17265-36882" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Log Horizon</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/84004.jpg?s=da6b4dc8262bcd8c9bb7b492e080dac6" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/84004.jpg?s=da6b4dc8262bcd8c9bb7b492e080dac6 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/84004.jpg?s=45538d9cc04071e9526bd9f0252817d2 2x" width="90" height="140" class="image lazyload" alt="Log Horizon" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!"><a href="https://myanimelist.net/recommendations/anime/36882-39523" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1859/103422.jpg?s=c5ee38a7995092b51c97404390cc6886" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1859/103422.jpg?s=c5ee38a7995092b51c97404390cc6886 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1859/103422.jpg?s=a3e287765319145de16e094b319b4007 2x" width="90" height="140" class="image lazyload" alt="Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!" border="0" ></a></li><li class="btn-anime" style="width:90px" title="100-man no Inochi no Ue ni Ore wa Tatteiru"><a href="https://myanimelist.net/recommendations/anime/36882-41380" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">100-man no Inochi no Ue ni Ore wa Tatteiru</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1825/108800.jpg?s=719ce49de8918b19f9323994154c2fcd" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1825/108800.jpg?s=719ce49de8918b19f9323994154c2fcd 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1825/108800.jpg?s=9aa23cdc07bd09180260ec878235d8f0 2x" width="90" height="140" class="image lazyload" alt="100-man no Inochi no Ue ni Ore wa Tatteiru" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kono Subarashii Sekai ni Shukufuku wo!"><a href="https://myanimelist.net/recommendations/anime/30831-36882" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kono Subarashii Sekai ni Shukufuku wo!</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/8/77831.jpg?s=b609eae92f1d025a645ce1a694594f93" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/8/77831.jpg?s=b609eae92f1d025a645ce1a694594f93 1x,https://cdn.myanimelist.net/r/180x280/images/anime/8/77831.jpg?s=b957e5b5e2858184f0b2459faecc33a7 2x" width="90" height="140" class="image lazyload" alt="Kono Subarashii Sekai ni Shukufuku wo!" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Hachi-nan tte, Sore wa Nai deshou!"><a href="https://myanimelist.net/recommendations/anime/36882-38830" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Hachi-nan tte, Sore wa Nai deshou!</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1834/110718.jpg?s=2e3698dc3b2cefa417997af10c964740" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1834/110718.jpg?s=2e3698dc3b2cefa417997af10c964740 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1834/110718.jpg?s=ead78034ff6cf24901bd899b2914b6c7 2x" width="90" height="140" class="image lazyload" alt="Hachi-nan tte, Sore wa Nai deshou!" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Tokyo Ghoul"><a href="https://myanimelist.net/recommendations/anime/22319-36882" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Tokyo Ghoul</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/64449.jpg?s=acf9635aceb622d791403fafb7e2927e" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/64449.jpg?s=acf9635aceb622d791403fafb7e2927e 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/64449.jpg?s=efdef1fc6a606887ae4ca13b25d8590d 2x" width="90" height="140" class="image lazyload" alt="Tokyo Ghoul" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"><a href="https://myanimelist.net/recommendations/anime/28121-36882" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/2/70187.jpg?s=e8d28fca3a87b5f43eb513af260e624f" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/2/70187.jpg?s=e8d28fca3a87b5f43eb513af260e624f 1x,https://cdn.myanimelist.net/r/180x280/images/anime/2/70187.jpg?s=c2c017ce19ab1534b520529d2a7c1fde 2x" width="90" height="140" class="image lazyload" alt="Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Isekai wa Smartphone to Tomo ni."><a href="https://myanimelist.net/recommendations/anime/35203-36882" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Isekai wa Smartphone to Tomo ni.</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/7/86794.jpg?s=9628484f38f87dbaaa2479325e922f50" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/7/86794.jpg?s=9628484f38f87dbaaa2479325e922f50 1x,https://cdn.myanimelist.net/r/180x280/images/anime/7/86794.jpg?s=bed0782d9c2e3d4d0e3ae9f4038a951d 2x" width="90" height="140" class="image lazyload" alt="Isekai wa Smartphone to Tomo ni." border="0" ></a></li><li class="btn-anime" style="width:90px" title="Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III"><a href="https://myanimelist.net/recommendations/anime/36882-40454" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1523/108380.jpg?s=94070fe313f7c8dbb8099473a4a9b351" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1523/108380.jpg?s=94070fe313f7c8dbb8099473a4a9b351 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1523/108380.jpg?s=c2101e811317d878c0f36a66368b95f9 2x" width="90" height="140" class="image lazyload" alt="Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Berserk"><a href="https://myanimelist.net/recommendations/anime/32379-36882" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Berserk</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/10/79352.jpg?s=a32009efe65ac9300f05971c86b7ab44" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/10/79352.jpg?s=a32009efe65ac9300f05971c86b7ab44 1x,https://cdn.myanimelist.net/r/180x280/images/anime/10/79352.jpg?s=59d0dbeba83b896225b34f30ab80a895 2x" width="90" height="140" class="image lazyload" alt="Berserk" border="0" ></a></li></ul></div></div></div>
+    </td>
+    </tr>
+    </table>
+    </div>  <div class="mauto clearfix pt24" style="width:760px;">
+    <div class="fl-l">
+      </div>
+      <div class="fl-r">
+      </div>
+    </div>
+
+</td>
+</tr>
+</table>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js" data-pin-hover="true"></script></div><!-- end of contentHome -->
+</div><!-- end of contentWrapper -->
+
+
+            
+  
+
+
+            
+  
+
+  <script>
+    $(document).ready(function() {
+      $(window).scroll(function() {
+        var cHeight = $("#myanimelist").height();
+        $("div[data-ad-sticky='manual']").each(function (i, o) {
+          var aHeight = $(o).height();
+          var aTop = $(o).parent().offset().top;
+          if (window.pageYOffset >= (cHeight - aHeight)) {
+            $(o).css("top", ((cHeight - aHeight) - window.pageYOffset) + "px");
+          } else if (window.pageYOffset >= aTop) {
+            $(o).addClass("sticky");
+            $(o).css("top", "");
+          } else {
+            $(o).removeClass("sticky");
+          }
+        });
+      });
+    });
+  </script>
+
+<!--  control container height -->
+<div style="clear:both;"></div>
+
+<!-- end rightbody -->
+
+</div><!-- wrapper -->
+
+
+    <div id="ad-skin-bg-right" class="ad-skin-side-outer ad-skin-side-bg bg-right">
+    <div id="ad-skin-right" class="ad-skin-side right" style="display: none;">
+      <div id="ad-skin-right-absolute-block">
+        <div id="ad-skin-right-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+</div><!-- #myanimelist -->
+
+
+<div class="footer-ranking">
+  <div class="ranking-container">
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php" class="view_more fl-r">More</a>Top Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Fullmetal Alchemist: Brotherhood</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011">Hunter x Hunter (2011)</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php?type=airing" class="view_more fl-r">More</a>Top Airing Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/42203/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season_Part_2">Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/42897/Horimiya">Horimiya</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/38474/Yuru_Camp△_Season_2">Yuru Camp△ Season 2</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/character.php" class="view_more fl-r">More</a>Most Popular Characters
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/character/417/Lelouch_Lamperouge">Lamperouge, Lelouch</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/character/45627/Levi">Levi</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/character/80/Light_Yagami">Yagami, Light</a>
+            </li>
+                  </ol>
+      </div>
+      </div>
+</div>
+<footer>
+  <div id="footer-block">
+    <div class="footer-link-block">
+      <p class="footer-link home di-ib">
+        <a href="https://myanimelist.net/">Home</a>
+      </p>
+      <p class="footer-link di-ib">
+        <a href="https://myanimelist.net/about.php">About</a>
+        <a href="https://myanimelist.net/pressroom">Press Room</a>
+        <a href="https://myanimelist.net/about.php?go=contact">Support</a>
+        <a href="https://myanimelist.net/advertising">Advertising</a>
+        <a href="https://myanimelist.net/forum/?topicid=515949">FAQ</a>
+        <a href="https://myanimelist.net/about/terms_of_use">Terms</a>
+        <a href="https://myanimelist.net/about/privacy_policy">Privacy</a>
+        <a href="#/" class="cmp-gdpr-only">Privacy Settings</a>
+        <a href="#/" class="cmp-ccpa-only">Do Not Sell My Personal Information</a>
+        <a href="https://myanimelist.net/about/cookie_policy">Cookie</a>
+        <a href="https://myanimelist.net/about/notice_at_collection">Notice at Collection</a>
+        <a href="https://myanimelist.net/about/sitemap">Sitemap</a>
+      </p>
+            <p class="footer-link login di-ib">
+        <a href="https://myanimelist.net/login.php?from=%2Fanime%2F36882%2FArifureta_Shokugyou_de_Sekai_Saikyou" id="malLogin" rel="nofollow">Login</a>
+        <a href="https://myanimelist.net/register.php?from=%2Fanime%2F36882%2FArifureta_Shokugyou_de_Sekai_Saikyou">Sign Up</a>
+      </p>
+          </div>
+
+    
+    <div class="banner-footer-anime-streaming">
+      <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+    </div>
+
+        <div class="footer-link-icon-block">
+            <div class="footer-social-media ac">
+        <a target="_blank" class="icon-sns icon-fb di-ib" href="https://www.facebook.com/OfficialMyAnimeList" rel="noreferrer"></a>
+        <a target="_blank" class="icon-sns icon-tw di-ib" title="Follow @myanimelist on Twitter" href="https://twitter.com/myanimelist" rel="noreferrer"></a></div>
+            <div class="footer-recommended ac">
+        <a target="_blank" class="icon-recommended icon-tokyo-otaku-mode" href="http://otakumode.com/fb/5aO" rel="noopener">Tokyo Otaku Mode</a>
+        <a target="_blank" class="icon-recommended icon-honeys-anime" href="https://honeysanime.com" rel="noopener">Honey's Anime</a>
+        <a target="_blank" class="icon-recommended icon-manga-store" href="https://myanimelist.net/store?_location=mal_f_m">Manga Store</a>
+      </div>
+    </div>
+
+    <div class="footer-fb">
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+      <div class="footer-fb-item">
+                <iframe class="fb-page" src="" width="450" height="154" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+      </div>
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+    </div>
+        
+    <div id="copyright">
+      MyAnimeList.net is a property of MyAnimeList Co.,Ltd. &copy;2021 All Rights Reserved.
+    </div>
+  </div>
+</footer>
+<div class="welcome-back popup-background">
+  <div class="popup">
+    <img class="logo" src="/img/pc/ownlist/logo_mal.png" alt="MyAnimeList">
+    <h3 class="popup-title">Welcome!</h3>
+    <p class="description">Join MyAnimeList to catalog your anime and manga, compare with your friends, create your own profile, and plenty more. It's free and easy to join.</p>
+    <div class="anime-slide1">
+      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/9/9453.jpg');"></div>
+      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/10/47347.jpg');"></div>
+      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/11/39717.jpg');"></div>
+      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
+
+      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/9/9453.jpg');"></div>
+      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/10/47347.jpg');"></div>
+      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/11/39717.jpg');"></div>
+      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
+    </div>
+    <div class="anime-slide2">
+      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/12/76049.jpg');"></div>
+      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/5/64449.jpg');"></div>
+      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/5/73199.jpg');"></div>
+      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/5/65187.jpg');"></div>
+
+      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/12/76049.jpg');"></div>
+      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/5/64449.jpg');"></div>
+      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/5/73199.jpg');"></div>
+      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/5/65187.jpg');"></div>
+    </div>
+    <h3 class="sign-up-with">Free Sign Up with</h3>
+    <div class="sns-sign-up">
+      <a class="sns-button google" href="/sns/login/google?from=%2Fanime%2F36882%2FArifureta_Shokugyou_de_Sekai_Saikyou&utm_medium=ldialog_google" onclick="ga('send', 'event', 'ldialog', 'click', 'google');">Google</a>
+      <a class="sns-button facebook" href="/sns/login/facebook?from=%2Fanime%2F36882%2FArifureta_Shokugyou_de_Sekai_Saikyou&utm_medium=ldialog_facebook" onclick="ga('send', 'event', 'ldialog', 'click', 'facebook');">Facebook</a>
+      <a class="sns-button twitter" href="/sns/login/twitter?from=%2Fanime%2F36882%2FArifureta_Shokugyou_de_Sekai_Saikyou&utm_medium=ldialog_twitter" onclick="ga('send', 'event', 'ldialog', 'click', 'twitter');">Twitter</a>
+    </div>
+    <div class="sign-up">
+      <a class="account register" href="/register.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'mail');">Create an account</a>
+      <br>      <a class="account" href="/login.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'login');">Already have an account?</a>
+    </div>
+    <div class="close-button" onclick="ga('send', 'event', 'ldialog', 'click', 'close');"></div>
+  </div>
+  <script>
+    $(function () {
+      ga('send', 'event', 'popup_login_form', 'show', location.href, {nonInteraction: true});
+      var onresize = function () {
+        var $welcome_back = $('.welcome-back');
+        var $popup = $('.welcome-back .popup');
+        var top = ($welcome_back.outerHeight() - $popup.outerHeight()) / 2;
+        $popup.css('top', top < 0 ? 0 : top);
+      };
+      var onclose = function () {
+        $('.welcome-back').addClass('fade-out')
+          .one('animationend', function () { $(this).remove(); });
+        $(window).off('resize', onresize);
+      };
+
+      var timer_id = null;
+      var show = function () {
+        timer_id = null;
+        // 優先順位の高いポップアップが出ていたら表示しない
+        if (($('.app_gdpr--2k2uB').length > 0 && $('.banner_hidden--MXmJ_').length === 0) || $('._cm-os-slider').length > 0 || $('#tbl-next-up').length > 0 || $('#gdpr-modal-bottom').length > 0) {
+          return
+        }
+        $('.welcome-back').addClass('fade-in');
+        onresize();
+        var timer = setTimeout(onclose,30000);
+        $('.popup').on('mousemove',function(){
+            clearTimeout(timer);
+            timer=setTimeout(onclose, 30000);
+        });
+      };
+
+      $(window)
+        .one('load', function () {
+          onresize();
+          timer_id = setTimeout(show,3000);
+          $('body').on('keydown mousedown mousemove',function(){
+            if(timer_id) {
+              clearTimeout(timer_id);
+              timer_id = setTimeout(show, 3000);
+            }
+          });
+          $(window).scroll(function(){
+            if(timer_id) {
+              clearTimeout(timer_id);
+              timer_id = setTimeout(show, 3000);
+            }
+          });
+        })
+        .on('resize', onresize);
+      $(document).one('click', '.close-button', function () {
+        onclose();
+      });
+      $('.register').click(function () {
+        ga('send', 'event', 'popup_login_form', 'click', location.href, {nonInteraction: true});
+      });
+    });
+  </script>
+</div>
+
+<script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+
+<script async>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga')
+
+  ga('create', 'UA-369102-1', 'auto')
+  ga('set', 'anonymizeIp', true)
+  ga('require', 'linkid') // Enhanced Link Attribution
+    ga('set', 'dimension1', 'guest')
+    ga('send', 'pageview')
+</script>   <script>
+window.onscroll = function(e){
+    const scrollThreshold = 50;
+    if (window.pageYOffset >= scrollThreshold) {
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            let t_height = ad.offsetHeight;
+            let offsetY = ad.getBoundingClientRect().top;
+            let screenHeight = window.outerHeight;
+            let t_position = offsetY - screenHeight;
+            if(-screenHeight<=(t_position　+　t_height) && t_position<0) {
+                ad.className = 'ad-tag';
+                (deployads = window.deployads || []).push({});
+            }
+        });
+    }
+}
+var timer = 0;
+window.onresize = function(e){
+    if (timer > 0) {
+        clearTimeout(timer);
+    }
+
+    timer = setTimeout(function () {
+        console.log('window resized');
+        [].forEach.call(document.querySelectorAll('.ad-tag'), function(ad) {
+            ad.className = 'no-ad';
+            (deployads = window.deployads || []).push({});
+        });
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            ad.className = 'ad-tag';
+            (deployads = window.deployads || []).push({});
+        });
+    }, 200);
+}
+</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WL4QW3G');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+var path = location.pathname;
+var param = location.search;
+
+dataLayer = dataLayer || [];
+
+// login.php
+
+function ga_notlogin(){
+  ga('send', 'event', 'not_login', '2.未ログインの場合', '/login.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=1');
+}
+
+function ga_sns(){
+  ga('send', 'event', 'sns_login', '2-1-1.ソーシャルログインの場合', '/login.php?login-mode=social&c-ms-mode=1');
+}
+
+function ga_login(){
+  ga('send', 'event', 'id_login', '2-1-2.IDログインの場合', '/login.php?login-mode=id&c-ms-mode=1');
+}
+
+// register.php
+
+function ga_registration(){
+  ga('send', 'event', 'registration', '2-2.会員登録ボタン', '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=2');
+}
+
+if ( path.match("register.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2F&c-ms-mode=2',
+        'member_title': '2-2-1.会員情報入力完了',
+        'event': 'loadready-register'
+    });
+}
+
+if ( path.match("login.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': path.concat(param, "&c-ms-mode=2"),
+        'member_title': '2-2-1.メールからの会員認証ページ',
+        'event': 'loadready-login'
+    });
+}
+
+// membership
+
+function ga_mal_banner(){
+  ga('send', 'event', 'support_mal', '2-3.MALバナー', '/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner&c-ms-mode=3');
+}
+
+if ( path.match("login.php") && param.match("from=%2F") ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=3',
+        'member_title': '2-2.会員登録ボタン',
+        'event': 'loadready-login'
+    });
+}
+
+function ga_credit(){
+  ga('send', 'event', 'support_mal', '3-1-1.クレカ登録', '/member-register?c-ms_payment=1&c-ms_mode=3');
+}
+
+function ga_paypal(){
+  ga('send', 'event', 'support_mal', '3-1-2.Paypal登録', '/member-register?c-ms_payment=2&c-ms_mode=3');
+}
+
+if ( path.match("account/membership/complete") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/member-register-complete?c-ms_payment=2&c-ms_mode=3',
+        'member_title': '3-1-2.MAL会員登録成功',
+        'event': 'loadready-member-register-complete'
+    });
+}
+
+</script>
+<script type="text/javascript">
+    window.MAL.magia = "06410c4e6b2518e9add8f6df0ccb2da2876bb8c980aacb43a8dcaa8153c0f92c";
+  window.MAL.madoka = "hZrDKm9k6FVRnqd3i%=K";
+
+  window.MAL.SLVK = "g4OvMLVOmEI3J8u7dt8f8+mAuualsqCo";
+  window.MAL.CDN_URL = "https://cdn.myanimelist.net";
+
+  window.MAL.CURRENT_TUTORIAL_STEP_ID = null;
+  window.MAL.USER_NAME = ""
+  window.MAL.FACEBOOK.APP_ID = "360769957454434"
+  window.MAL.FACEBOOK.API_VERSION = "v2.12"
+</script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+                    <script type="text/javascript">
+          window._taboola = window._taboola || [];
+          _taboola.push({flush: true});
+        </script>
+    </body>
+</html>

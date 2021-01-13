@@ -1,0 +1,1821 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    
+<link rel="preconnect" href="//fonts.gstatic.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//fonts.googleapis.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tags-cdn.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagservices.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagmanager.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//apis.google.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel-sync.sitescout.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel.tapad.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//c.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tpc.googlesyndication.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//googleads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="//securepubads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="https://cdn.myanimelist.net" crossorigin="anonymous" />
+
+
+<title>
+Akudama Drive - MyAnimeList.net
+</title>
+<meta name="description" content="Looking for information on the anime Akudama Drive? Find out more with MyAnimeList, the world&#039;s most active online anime and manga community and database. The bustling metropolis of Kansai, where cybernetic screens litter the neon landscape, may seem like a technological utopia at first glance. But in the dark alleys around the brightly-lit buildings, an unforgiving criminal underbelly still exists in the form of fugitives known as &quot;Akudama.&quot; No stranger to these individuals, Kansai police begin..." />
+
+  
+<meta name="keywords" content="anime, myanimelist, anime news, manga" />
+  
+
+
+    <meta property="og:locale" content="en_US"><meta property="fb:app_id" content="360769957454434"><meta property="og:site_name" content="MyAnimeList.net"><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@myanimelist"><meta property="og:title" content="Akudama Drive"><meta property="og:type" content="video.tv_show"><meta property="og:image" content="https://cdn.myanimelist.net/images/anime/1468/109172.jpg"><meta name="twitter:image:src" content="https://cdn.myanimelist.net/r/360x360/images/anime/1468/109172.jpg?s=ef4b3b7290ced6e1159671abae690719"><meta property="og:url" content="https://myanimelist.net/anime/41433/Akudama_Drive"><meta property="og:description" content="The bustling metropolis of Kansai, where cybernetic screens litter the neon landscape, may seem like a technological utopia at first glance. But in the dark alleys around the brightly-lit buildings, an unforgiving criminal underbelly still exists in the form of fugitives known as &quot;Akudama.&quot; No stranger to these individuals, Kansai police begin the countdown to the public execution of an infamous Akudama &quot;Cutthroat,&quot; guilty of killing 999 people. However, a mysterious message is sent to several elite Akudama, enlisting them to free Cutthroat for a substantial amount of money. An invisible hand seeks to gather these dangerous personas in one place, ensuring that the execution is well underway to becoming a full-blown bloodbath. [Written by MAL Rewrite]">
+
+
+<meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
+
+<meta name='csrf_token' content='e832c8b9c7bafa6e40c7cb9dc7384cda5fba7a27'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
+<meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" />
+
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" href="https://myanimelist.net/plugins/myanimelist.xml" title="MyAnimeList" />
+
+<link rel="shortcut icon" href="https://cdn.myanimelist.net/images/favicon.ico" />
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+      <script src="//tags-cdn.deployads.com/a/myanimelist.net.js" async="async"></script>
+            <script async="async" type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script>
+$(document).ready(function(){
+  window.Criteo = window.Criteo || {};
+  window.Criteo.events = window.Criteo.events || [];
+  $('.ad-criteo').each(function(){
+    var slotid = $(this).attr('data-ad-slot');
+    var zoneid = $(this).attr('data-ad-zone');
+    var CriteoAdUnits = {"placements":[{"slotid":slotid, "zoneid":zoneid}]};
+    var processCdbBid = function(){
+      var bids = Criteo.GetBidsForAdUnit(slotid);
+      if(bids.length > 0){
+        Criteo.RenderAd({bidId:bids[0].id, containerId:bids[0].impressionId});
+      }
+    };
+    Criteo.events.push(function(){Criteo.RequestBids(CriteoAdUnits, processCdbBid, 2000);});
+  });
+});
+</script>
+
+
+
+            <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/myanimelist/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>    
+</head>
+
+<body onload=" " class="page-common"data-ms="true" data-country-code="SI" >
+<div id="myanimelist">
+
+    
+  
+    <script type='text/javascript'>
+    window.MAL.SkinAd.prepareForSkin('');
+  </script>
+
+    <div id="ad-skin-bg-left" class="ad-skin-side-outer ad-skin-side-bg bg-left">
+    <div id="ad-skin-left" class="ad-skin-side left" style="display: none;">
+      <div id="ad-skin-left-absolute-block">
+        <div id="ad-skin-left-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
+    <script>(deployads = window.deployads || []).pageSegment = 'anime_title_41433';</script>
+
+
+<script>
+    var trackOutboundLink = function(url) {
+        ga('send', 'event', 'outbound', 'click', url, {
+            'transport': 'beacon',
+            'hitCallback': function(){return true;}
+        });
+    }
+</script><div class="banner-header-anime-straming" style="right:480px;">
+  <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+</div>
+
+
+<div id="header-menu" ><div class="header-menu-login"><a class="btn-mal-service"
+             href="https://myanimelist.net/membership?_location=mal_h_u" onClick="ga_mal_banner()">Hide Ads</a><a class="btn-login" href="https://myanimelist.net/login.php?from=%2Fanime%2F41433%2FAkudama_Drive" id="malLogin" onClick="ga_notlogin()">Login</a><a class="btn-signup" href="https://myanimelist.net/register.php?from=%2Fanime%2F41433%2FAkudama_Drive" onClick="ga_registration()">Sign Up</a></div></div></div>  <div id="menu" class="">
+    <div id="menu_right"><script type="text/x-template" id="incremental-result-item-anime"><div class="list anime" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info anime"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Aired: ${ item.payload.aired }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info anime"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-manga"><div class="list manga" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info manga"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Published: ${ item.payload.published }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info manga"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-character"><div class="list character" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div><div class="extra-info"><ul class="related-works"><li v-for="work in item.payload.related_works" class="fs-i">- ${ work }</li></ul>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-person"><div class="list person" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.alternative_name">${ item.payload.alternative_name }<br></span>Birthday: ${ item.payload.birthday }<br>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-store"><div class="list store" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info store"></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info store"></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-club"><div class="list club" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div><div class="extra-info">Members: ${ item.payload.members }<br>Category: ${ item.payload.category }<br>Created by: ${ item.payload.created_by }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-user"><div class="list user" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.authority">${ item.payload.authority }<br></span>Joined: ${ item.payload.joined }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-news"><div class="list news" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-featured"><div class="list featured" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-forum"><div class="list forum" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="extra-info">${ item.payload.date }<br><span>in ${ item.payload.category }</span></div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-separator"><div class="list separator"><div class="separator"><span v-show="item.name == 'anime'">Anime</span><span v-show="item.name == 'manga'">Manga</span><span v-show="item.name == 'character'">Characters</span><span v-show="item.name == 'person'">People</span></div></div></script><div id="top-search-bar"><form id="searchBar" method="get" class="searchBar" @submit.prevent="jump()"><div class="form-select-outer fl-l"><select name="type" id="topSearchValue" class="inputtext" v-model="type"><option value="all">All</option><option value="anime">Anime</option><option value="manga">Manga</option><option value="character">Characters</option><option value="person">People</option><option value="store">Manga Store</option><option value="news">News</option><option value="featured">Featured Articles</option><option value="forum">Forum</option><option value="club">Clubs</option><option value="user">Users</option></select></div><input v-model="keyword" id="topSearchText" type="text"
+            name="keyword" class="inputtext fl-l" placeholder="Search Anime, Manga, and more..."
+            size="30" autocomplete="off"
+            @keydown.up.prevent="moveSelection(-1)" @keydown.down.prevent="moveSelection(1)"
+            @focus="isFocused = true" @blur="isFocused = false"><input id="topSearchButon" class="fl-l" :class="{'notActive': (keyword.length < 3)}" type="submit" value="&#xf002"></form><div id="topSearchResultList" class="incrementalSearchResultList" :style="{display: (showResult ? 'block' : 'none')}" @mousedown.prevent=""><div v-for="(item, i) in items" @mouseover="selection=i"><component :is="resolveComponent(item)" :item="item" :focus="selection == i" :url="generateItemPageUrl(item)"></component></div><div class="list list-bottom" :class="{'focus': selection == -1}" @mouseover="selection = -1"
+               :style="{display: (showViewAllLink ? 'block' : 'none')}"><a :href="resultPageUrl">
+              View all results for <span class="fw-b">${ keyword }</span><i v-show="isRequesting" class="fa fa-spinner fa-spin ml4"></i></a></div></div></div></div><div id="menu_left">
+      <ul id="nav">
+        <li class="small"><a href="#" class="non-link">Anime</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/anime.php?_location=mal_h_m">Anime Search</a></li>
+            <li><a href="https://myanimelist.net/topanime.php?_location=mal_h_m">Top Anime</a></li>
+            <li><a href="https://myanimelist.net/anime/season?_location=mal_h_m">Seasonal Anime</a></li>
+                        <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m_a">Videos</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=anime&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=anime&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1885985&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Manga</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/manga.php?_location=mal_h_m">Manga Search</a></li>
+            <li><a href="https://myanimelist.net/topmanga.php?_location=mal_h_m">Top Manga</a></li>
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=manga&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=manga&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1886113&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li><a href="#" class="non-link">Community</a>
+          <ul>
+            <li><a href="https://myanimelist.net/forum/?_location=mal_h_m">Forums</a></li>
+            <li><a href="https://myanimelist.net/clubs.php?_location=mal_h_m">Clubs</a></li>
+            <li><a href="https://myanimelist.net/blog.php?_location=mal_h_m">Blogs</a></li>
+            <li><a href="https://myanimelist.net/users.php?_location=mal_h_m">Users</a></li>
+            <li><a href="https://discord.gg/E2xC8ZF">Discord Chat</a></li>
+          </ul>
+        </li>
+        <li class="small2"><a href="#" class="non-link">Industry</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/news?_location=mal_h_m">News</a></li>
+            <li><a href="https://myanimelist.net/featured?_location=mal_h_m">Featured Articles</a></li>
+            <li><a href="https://myanimelist.net/people.php?_location=mal_h_m">People</a></li>
+            <li><a href="https://myanimelist.net/character.php?_location=mal_h_m">Characters</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Watch</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m">Episode Videos</a></li>
+            <li><a href="https://myanimelist.net/watch/promotion?_location=mal_h_m">Promotional Videos</a></li></ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Read</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+          </ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Help</a>
+          <ul class="wide">
+            <li><a href="https://myanimelist.net/about.php?_location=mal_h_m">About</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=support&amp;_location=mal_h_m">Support</a></li>
+            <li><a href="https://myanimelist.net/advertising?_location=mal_h_m">Advertising</a></li>
+            <li><a href="https://myanimelist.net/forum/?topicid=515949&amp;_location=mal_h_m">FAQ</a></li>
+            <li><a href="https://myanimelist.net/modules.php?go=report&amp;_location=mal_h_m">Report</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=team&amp;_location=mal_h_m">Staff</a></li><li><a href="https://myanimelist.net/membership?_location=mal_h_m">MAL Supporter</a></li>
+          </ul>
+        </li>
+        
+            
+      </ul>
+    </div>  </div><div id="contentWrapper" itemscope itemtype="http://schema.org/TVSeries"><div><div class="h1 edit-info">
+      <div class="h1-title"><div itemprop="name"><h1 class="title-name h1_bold_none"><strong>Akudama Drive</strong></h1></div></div><div class="header-right">
+          <a href="https://myanimelist.net/login.php?from=%2Fanime%2F41433%2FAkudama_Drive&amp;error=login_required" class="js-anime-edit-info-button"><i class="fa fa-pencil mr4"></i>Edit</a>
+<div id="editdiv" class="fw-n fs11">
+  <form method="GET" action="https://myanimelist.net/dbchanges.php" class="di-i">
+    <input type="hidden" name="aid" value="41433">
+    <div class="pb8">What would you like to edit?</div>
+                      <select name="t" id="t" class="inputtext"><option value="synopsis">Synopsis</option><option value="background">Background</option><option value="alternative_titles">Alternative Titles</option><option value="pic">Picture</option><option value="airingdates">Airing Dates</option><option value="producers">Producers</option><option value="relations">Relations</option><option value="rating">Rating</option><option value="duration">Duration</option><option value="source">Source</option><option value="broadcast">Broadcast</option></select>
+     &nbsp;<input type="submit" value="Go" class="inputButton flat btn-middle">
+  </form>
+</div>
+</div></div></div><div id="content" >
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+	 <td class="borderClass" width="225" style="border-width: 0 1px 0 0;" valign="top"><div style="width: 225px">
+
+<div style="text-align: center;">
+          <a href="https://myanimelist.net/anime/41433/Akudama_Drive/pics">
+      <img class="lazyload" data-src="https://cdn.myanimelist.net/images/anime/1468/109172.jpg" alt="Akudama Drive" class="ac" itemprop="image">
+    </a>
+  </div>
+
+<!-- My List -->
+<div class="profileRows pb0">
+  <a href="https://myanimelist.net/login.php?from=%2Fanime%2F41433%2FAkudama_Drive&amp;error=login_required">Add to My List</a>
+</div>
+
+<div id="addtolist" class="addtolist-block js-anime-addtolist-block" style="display: none;">
+  <input type="hidden" id="myinfo_anime_id" value="41433">
+  <input type="hidden" id="myinfo_curstatus" value="">
+
+  <span class="notice_open_public pb4">* Your list is public by default.</span>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td class="spaceit">Status:</td>
+      <td class="spaceit">
+        <select name="myinfo_status" id="myinfo_status" class="inputtext js-anime-status-dropdown"><option value="1">Watching</option><option value="2">Completed</option><option value="3">On-Hold</option><option value="4">Dropped</option><option value="6">Plan to Watch</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td class="spaceit">Eps Seen:</td>
+      <td class="spaceit">
+        <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext" value=""> / <span id="curEps">12</span></td>
+    </tr>
+    <tr>
+      <td class="spaceit">Your Score:</td>
+      <td class="spaceit">
+        <select name="myinfo_score" id="myinfo_score" class="inputtext"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>
+                <input type="button" name="myinfo_submit" value="Add" class="inputButton btn-middle flat js-anime-add-button">
+        <span id="addtolistresult"><a href="https://myanimelist.net/ownlist/anime/add?selected_series_id=41433">Add Detailed Info</a></span>
+              </td>
+    </tr>
+  </table>
+  <div id="myinfoDisplay" style="padding-left: 89px; margin-top: 3px;"></div>
+</div>
+<!-- end My List -->
+
+<div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F41433%2FAkudama_Drive&amp;error=login_required" style="font-weight:normal;">Add to Favorites</a></div>
+
+<div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F41433%2FAkudama_Drive"></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F41433%2FAkudama_Drive&amp;text=Akudama%20Drive&amp;hashtags=anime"></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F41433%2FAkudama_Drive&amp;title=Akudama%20Drive"></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F41433%2FAkudama_Drive&amp;name=Akudama%20Drive"></a></div>  <br />
+
+  <h2>Alternative Titles</h2><div class="spaceit_pad">
+    <span class="dark_text">English:</span> Akudama Drive
+  </div><div class="spaceit_pad">
+    <span class="dark_text">Japanese:</span> アクダマドライブ
+  </div><br />
+
+<h2>Information</h2>
+
+<div>
+  <span class="dark_text">Type:</span>
+  <a href="https://myanimelist.net/topanime.php?type=tv">TV</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Episodes:</span>
+  12
+  </div>
+
+<div>
+  <span class="dark_text">Status:</span>
+  Finished Airing
+  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Aired:</span>
+  Oct 8, 2020 to Dec 24, 2020
+  </div>
+
+  <div>
+    <span class="dark_text">Premiered:</span>
+          <a href="https://myanimelist.net/anime/season/2020/fall">Fall 2020</a>
+          </div>
+
+  <div class="spaceit">
+    <span class="dark_text">Broadcast:</span>
+    Thursdays at 21:30 (JST)
+      </div>
+
+  <div>
+    <span class="dark_text">Producers:</span>
+          <a href="/anime/producer/82/Marvelous" title="Marvelous">Marvelous</a>,       <a href="/anime/producer/675/Yomiuri_Advertising" title="Yomiuri Advertising">Yomiuri Advertising</a>,       <a href="/anime/producer/711/Delfi_Sound" title="Delfi Sound">Delfi Sound</a>,       <a href="/anime/producer/1113/NBCUniversal_Entertainment_Japan" title="NBCUniversal Entertainment Japan">NBCUniversal Entertainment Japan</a>,       <a href="/anime/producer/1313/Amuse" title="Amuse">Amuse</a>,       <a href="/anime/producer/1345/Sammy" title="Sammy">Sammy</a>,       <a href="/anime/producer/1554/Contents_Seed" title="Contents Seed">Contents Seed</a>,       <a href="/anime/producer/1680/BS_NTV" title="BS NTV">BS NTV</a>,       <a href="/anime/producer/1886/Aeon_Entertainment" title="Aeon Entertainment">Aeon Entertainment</a>  </div>
+  <div class="spaceit">
+    <span class="dark_text">Licensors:</span>
+          <a href="/anime/producer/102/Funimation" title="Funimation">Funimation</a>  </div>
+  <div>
+    <span class="dark_text">Studios:</span>
+          <a href="/anime/producer/1/Studio_Pierrot" title="Studio Pierrot">Studio Pierrot</a>  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Source:</span>
+  Original
+  </div>
+
+<div>
+  <span class="dark_text">Genres:</span>
+      <span itemprop="genre" style="display: none">Action</span><a href="/anime/genre/1/Action" title="Action">Action</a>,     <span itemprop="genre" style="display: none">Sci-Fi</span><a href="/anime/genre/24/Sci-Fi" title="Sci-Fi">Sci-Fi</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Duration:</span>
+  23 min. per ep.
+  </div>
+
+<div>
+  <span class="dark_text">Rating:</span>
+  R - 17+ (violence &amp; profanity)
+  </div>
+
+<br />
+
+<h2>Statistics</h2>
+<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" class="po-r js-statistics-info di-ib" data-id="info1">
+  <span class="dark_text">Score:</span>
+  <span itemprop="ratingValue" class="score-label score-7">7.79</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">60967</span>60,967 users)
+      <meta itemprop="bestRating" content="10">
+    <meta itemprop="worstRating" content="1">
+      <div class="statistics-info info1">
+    <small><sup>1</sup>
+          indicates a <a href="javascript:void(0);" onclick="window.open('/info.php?go=topanime','topanime','menubar=no,scrollbars=no,status=no,width=500,height=380');">weighted score</a>.
+    </small>
+  </div>
+</div>
+<div class="spaceit po-r js-statistics-info di-ib" data-id="info2">
+  <span class="dark_text">Ranked:</span>
+  #841<sup>2</sup>
+    <div class="statistics-info info2">
+    <small><sup>2</sup>
+    based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
+    </small>
+  </div>
+</div>
+<div>
+  <span class="dark_text">Popularity:</span>
+  #831
+</div>
+<div class="spaceit">
+  <span class="dark_text">Members:</span>
+    173,237
+</div>
+<div>
+  <span class="dark_text">Favorites:</span>
+  1,468
+</div>
+
+  <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
+          </div>
+
+</div></td><td valign="top" style="padding-left: 5px;"><div class="js-scrollfix-bottom-rel"><div style="width:728px; margin:0 auto"></div><a name="lower"></a>
+<div id="horiznav_nav" style="margin: 5px 0 10px 0;">
+  <ul style="margin-right: 0; padding-right: 0;">
+        <li><a href="https://myanimelist.net/anime/41433/Akudama_Drive" class="horiznav_active">Details</a>
+    </li>
+        <li><a href="/anime/41433/Akudama_Drive/video">Videos</a>
+    </li>
+        <li>      <a href="https://myanimelist.net/anime/41433/Akudama_Drive/episode">Episodes</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/41433/Akudama_Drive/reviews">Reviews</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/41433/Akudama_Drive/userrecs">Recommendations</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/41433/Akudama_Drive/stats">Stats</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/41433/Akudama_Drive/characters">Characters &amp; Staff</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/41433/Akudama_Drive/news">News</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/41433/Akudama_Drive/forum">Forum</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/41433/Akudama_Drive/featured">Featured</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/41433/Akudama_Drive/clubs">Clubs</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/41433/Akudama_Drive/pics">Pictures</a>
+    </li>
+    </ul>
+</div>
+
+
+
+                    <div class="breadcrumb " itemscope itemtype="http://schema.org/BreadcrumbList"><div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/" itemprop="item"><span itemprop="name">
+              Top
+                          </span></a><meta itemprop="position" content="1"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime.php" itemprop="item"><span itemprop="name">
+              Anime
+                          </span></a><meta itemprop="position" content="2"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime/41433/Akudama_Drive" itemprop="item"><span itemprop="name">
+              Akudama Drive
+                          </span></a><meta itemprop="position" content="3"></div></div>
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="60,967 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-7">7.79</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#841</strong></span><span class="numbers popularity">Popularity <strong>#831</strong></span><span class="numbers members">Members <strong>173,237</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2020/fall">Fall 2020</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/1/Studio_Pierrot" title="Studio Pierrot">Studio Pierrot</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="41433"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F41433%2FAkudama_Drive&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+        Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="12">12</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Akudama%20Drive&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime js-shop-selecter icon-shop-default" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:41433,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><div class="anime-detail-header-affiliate-dialog js-shop-selecter-dialog" style="display:none"><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Akudama%20Drive&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:41433,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><a href="http://www.cdjapan.co.jp/aff/click.cgi/PytJTGW7Lok/6039/A764127/searches?q=Akudama+Drive" class="btn-affiliate cdjapan js-shop-anime js-shop-cd-japan" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;cdjapan&quot;,&quot;id&quot;:41433,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/logo-cdjapan.png" width="118" height="25" alt="buy from CD Japan"></a><a href="http://www.shareasale.com/r.cfm?u=1384175&b=866986&m=65886&afftrack=&urllink=www.rightstufanime.com%2Fsearch%3Fkeywords%3DAkudama%20Drive" class="btn-affiliate right_stuf js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;right_stuf&quot;,&quot;id&quot;:41433,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_right_stuf.png" width="118" height="25" alt="buy from Rightstuf"></a></div></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/41k3bjceNIU?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/41k3bjceNIU/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">PV 2</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/41433/Akudama_Drive/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
+</div><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=41433&t=synopsis" style="font-weight: normal;">Edit</a></div><h2>Synopsis</h2></div><p itemprop="description">The bustling metropolis of Kansai, where cybernetic screens litter the neon landscape, may seem like a technological utopia at first glance. But in the dark alleys around the brightly-lit buildings, an unforgiving criminal underbelly still exists in the form of fugitives known as &quot;Akudama.&quot; <br />
+<br />
+No stranger to these individuals, Kansai police begin the countdown to the public execution of an infamous Akudama &quot;Cutthroat,&quot; guilty of killing 999 people. However, a mysterious message is sent to several elite Akudama, enlisting them to free Cutthroat for a substantial amount of money. An invisible hand seeks to gather these dangerous personas in one place, ensuring that the execution is well underway to becoming a full-blown bloodbath.<br />
+<br />
+[Written by MAL Rewrite]</p><div style="margin-top: 15px;"><div class="floatRightHeader"><a href="/dbchanges.php?aid=41433&t=background" style="font-weight: normal;">Edit</a></div><h2>Background</h2></div>No background information has been added to this title. Help improve our database by adding background information <a href="/dbchanges.php?aid=41433&t=background">here</a>.<br><div class="border_top" style="padding:16px 0px 0px 0px;margin:14px 0px 0px 0px;"><div style="padding: 20px 0 20px 40px; float: left; position: relative; z-index: 1;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540582" data-ad-slot="criteo_slot_1540582" id="criteo_slot_1540582"></div>
+
+      </div>
+    </div><div style="padding: 20px 40px 20px 0; float: right; position: relative;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540583" data-ad-slot="criteo_slot_1540583" id="criteo_slot_1540583"></div>
+
+      </div>
+    </div></div></td></tr><tr><td class="pb24"><br><div><div class="floatRightHeader"><a href="/anime/41433/Akudama_Drive/characters" style="font-weight: normal;">More characters</a></div><h2>Characters & Voice Actors</h2></div><div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/179405/Cutthroat" class="fw-n">
+            <img alt="Cutthroat" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/3/409747.jpg?s=4804b6ba26ac520da5e0eadd3c49c0bf" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/3/409747.jpg?s=4804b6ba26ac520da5e0eadd3c49c0bf 1x, https://cdn.myanimelist.net/r/84x124/images/characters/3/409747.jpg?s=4f9f598e4fb1427c79b7704b5532db06 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/179405/Cutthroat">Cutthroat</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/79/Takahiro_Sakurai">Sakurai, Takahiro</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/79/Takahiro_Sakurai">
+                      <img alt="Sakurai, Takahiro" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/42157.jpg?s=fed156895f941257ce4a16a48ee27bdb" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/42157.jpg?s=fed156895f941257ce4a16a48ee27bdb 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/42157.jpg?s=08d8138259c7d520e4158d770cb305db 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/179399/Ordinary_Person" class="fw-n">
+            <img alt="Ordinary Person" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/13/418556.jpg?s=dbb7361ae6f3529c519dcd2d9389f5e2" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/13/418556.jpg?s=dbb7361ae6f3529c519dcd2d9389f5e2 1x, https://cdn.myanimelist.net/r/84x124/images/characters/13/418556.jpg?s=bd8cc2ecd787719dd4392e16c1d3e256 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/179399/Ordinary_Person">Ordinary Person</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/11661/Tomoyo_Kurosawa">Kurosawa, Tomoyo</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/11661/Tomoyo_Kurosawa">
+                      <img alt="Kurosawa, Tomoyo" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/60393.jpg?s=6d31cedc8b68f44d6db55971542bd846" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/60393.jpg?s=6d31cedc8b68f44d6db55971542bd846 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/60393.jpg?s=6d895f3c0113ae7f39c922198b8b3082 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/179400/Courier" class="fw-n">
+            <img alt="Courier" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/5/409751.jpg?s=946d923525b11ca63c5c74a10d65564c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/5/409751.jpg?s=946d923525b11ca63c5c74a10d65564c 1x, https://cdn.myanimelist.net/r/84x124/images/characters/5/409751.jpg?s=3a109734ee66c9951dfc14560f0b0578 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/179400/Courier">Courier</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/34209/Yuuichirou_Umehara">Umehara, Yuuichirou</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/34209/Yuuichirou_Umehara">
+                      <img alt="Umehara, Yuuichirou" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/60856.jpg?s=77fd5f00f80565da98d5c6c848102e98" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/60856.jpg?s=77fd5f00f80565da98d5c6c848102e98 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/60856.jpg?s=f7a7caed86ee219a24e099c8a8602d16 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/179402/Hacker" class="fw-n">
+            <img alt="Hacker" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/11/409750.jpg?s=ec8f7a6933df424219f78bc48f97da6a" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/11/409750.jpg?s=ec8f7a6933df424219f78bc48f97da6a 1x, https://cdn.myanimelist.net/r/84x124/images/characters/11/409750.jpg?s=bfdfafb051b8c5849a125ed1680a1347 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/179402/Hacker">Hacker</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/39133/Shun_Horie">Horie, Shun</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/39133/Shun_Horie">
+                      <img alt="Horie, Shun" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/46993.jpg?s=9ea5547034b13abde628c44d9c554af1" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/46993.jpg?s=9ea5547034b13abde628c44d9c554af1 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/46993.jpg?s=6d7082e246f6cb7672ebb5923e32af02 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/179401/Brawler" class="fw-n">
+            <img alt="Brawler" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/11/409752.jpg?s=fec103898af5d455d861575e941112eb" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/11/409752.jpg?s=fec103898af5d455d861575e941112eb 1x, https://cdn.myanimelist.net/r/84x124/images/characters/11/409752.jpg?s=67067c868442811fa797b06973fff130 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/179401/Brawler">Brawler</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/36471/Shunsuke_Takeuchi">Takeuchi, Shunsuke</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/36471/Shunsuke_Takeuchi">
+                      <img alt="Takeuchi, Shunsuke" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54403.jpg?s=7d05d25161272bce279bf3dbe584a8e5" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54403.jpg?s=7d05d25161272bce279bf3dbe584a8e5 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/54403.jpg?s=709528343083a2918ccbece248889502 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/179403/Doctor" class="fw-n">
+            <img alt="Doctor" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/6/409748.jpg?s=9c86c3e25cdbe60d2664e76101567c09" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/6/409748.jpg?s=9c86c3e25cdbe60d2664e76101567c09 1x, https://cdn.myanimelist.net/r/84x124/images/characters/6/409748.jpg?s=262bfd6d32450b85ae428f25669219cd 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/179403/Doctor">Doctor</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/287/Megumi_Ogata">Ogata, Megumi</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/287/Megumi_Ogata">
+                      <img alt="Ogata, Megumi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/12105.jpg?s=a3dc6d8e0686f45664ed2a770bc877dc" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/12105.jpg?s=a3dc6d8e0686f45664ed2a770bc877dc 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/12105.jpg?s=32a9ac041fbc81907ff892206b49a184 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/179404/Hoodlum" class="fw-n">
+            <img alt="Hoodlum" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/9/409749.jpg?s=8b76e26959ee6ea8a7fe890bc25d0b1e" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/9/409749.jpg?s=8b76e26959ee6ea8a7fe890bc25d0b1e 1x, https://cdn.myanimelist.net/r/84x124/images/characters/9/409749.jpg?s=8976c8b5e795908ae3c63ebe3521376f 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/179404/Hoodlum">Hoodlum</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/12480/Subaru_Kimura">Kimura, Subaru</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/12480/Subaru_Kimura">
+                      <img alt="Kimura, Subaru" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/44247.jpg?s=6da43e903d85ef0bc726234b7cea835d" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/44247.jpg?s=6da43e903d85ef0bc726234b7cea835d 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/44247.jpg?s=870a10b4a2f1753ed9b35bec12327525 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/186502/Execution_Division_Master" class="fw-n">
+            <img alt="Execution Division Master" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/10/418560.jpg?s=2704ea18f63792495b272478f20a072c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/10/418560.jpg?s=2704ea18f63792495b272478f20a072c 1x, https://cdn.myanimelist.net/r/84x124/images/characters/10/418560.jpg?s=4d9ed4cd27a53a4a3357698640d7b63f 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/186502/Execution_Division_Master">Execution Division Master</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/146/Akio_Ootsuka">Ootsuka, Akio</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/146/Akio_Ootsuka">
+                      <img alt="Ootsuka, Akio" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/58117.jpg?s=8168f341db3e6d45e2f06e8dbe4a1477" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/58117.jpg?s=8168f341db3e6d45e2f06e8dbe4a1477 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/58117.jpg?s=308faf9ed8833b2a1f695821f884b206 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/186503/Execution_Division_Apprentice" class="fw-n">
+            <img alt="Execution Division Apprentice" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/2/418561.jpg?s=1dceaa6448a529253574051f8c7fae62" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/2/418561.jpg?s=1dceaa6448a529253574051f8c7fae62 1x, https://cdn.myanimelist.net/r/84x124/images/characters/2/418561.jpg?s=1d3d00702b7e730535155c0a594e083c 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/186503/Execution_Division_Apprentice">Execution Division Apprentice</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/21543/Yumiri_Hanamori">Hanamori, Yumiri</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/21543/Yumiri_Hanamori">
+                      <img alt="Hanamori, Yumiri" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/55530.jpg?s=288cbd235a917ec330dcda33f8a96140" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/55530.jpg?s=288cbd235a917ec330dcda33f8a96140 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/55530.jpg?s=5e28cd800b2f4a453c129bb0306bb5bd 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/186505/Black_Cat" class="fw-n">
+            <img alt="Black Cat" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/10/418563.jpg?s=709f68e7d2a9f20812cfcf53c8f9f168" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/10/418563.jpg?s=709f68e7d2a9f20812cfcf53c8f9f168 1x, https://cdn.myanimelist.net/r/84x124/images/characters/10/418563.jpg?s=8094cbc6b2482f2e6d918e32a7b8de02 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/186505/Black_Cat">Black Cat</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/13639/Maaya_Uchida">Uchida, Maaya</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/13639/Maaya_Uchida">
+                      <img alt="Uchida, Maaya" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/53851.jpg?s=e151c79d59020740b869f2b31852b842" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/53851.jpg?s=e151c79d59020740b869f2b31852b842 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/53851.jpg?s=99169a27097fcd488546f1d216df4844 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div></div>
+<div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div><br>
+<a name="staff"></a>
+<div>
+  <div class="floatRightHeader"><a href="https://myanimelist.net/anime/41433/Akudama_Drive/characters#staff">More staff</a></div>
+  <h2>Staff</h2>
+</div>
+
+<div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/31235/Tomohisa_Taguchi" class="fw-n">
+            <img alt="Taguchi, Tomohisa" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/49332.jpg?s=a7b37676d1887836fcd7be05fa3f69c7" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/49332.jpg?s=a7b37676d1887836fcd7be05fa3f69c7 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/49332.jpg?s=a3611f440d4213c2ba06301b8477576b 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/31235/Tomohisa_Taguchi">Taguchi, Tomohisa</a>
+        <div class="spaceit_pad">
+          <small>Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/30337/Yukio_Nagasaki" class="fw-n">
+            <img alt="Nagasaki, Yukio" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/42517.jpg?s=3f3674da3f70231694bd8105dd156648" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/42517.jpg?s=3f3674da3f70231694bd8105dd156648 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/42517.jpg?s=7bd6f70e365adee4c1edadabafdf1dd7 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/30337/Yukio_Nagasaki">Nagasaki, Yukio</a>
+        <div class="spaceit_pad">
+          <small>Sound Director</small>
+        </div>
+      </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/46064/Urashimasakatasen" class="fw-n">
+            <img alt="Urashimasakatasen" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/60915.jpg?s=3b22b384d3dbebcabaf5d6bed24fbfc7" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/60915.jpg?s=3b22b384d3dbebcabaf5d6bed24fbfc7 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/60915.jpg?s=04bbc51419ce40217b156966ed2bac2c 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/46064/Urashimasakatasen">Urashimasakatasen</a>
+        <div class="spaceit_pad">
+          <small>Theme Song Performance</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/51944/SPARKSOUNDSHOW" class="fw-n">
+            <img alt="SPARK!!SOUND!!SHOW!!" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/60538.jpg?s=16cab1b7e32717d685183ee8c508abbd" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/60538.jpg?s=16cab1b7e32717d685183ee8c508abbd 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/60538.jpg?s=213497551ec47730ceed42f782c53ac7 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/51944/SPARKSOUNDSHOW">SPARK!!SOUND!!SHOW!!</a>
+        <div class="spaceit_pad">
+          <small>Theme Song Performance</small>
+        </div>
+      </td>
+    </tr>
+  </table></div></div>
+<br><br><div class="di-t">
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=41433&amp;t=theme" class="floatRightHeader">Edit</a>
+      <h2>Opening Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs opnening"><span class="theme-song">&quot;STEAL!!&quot; by SPARK!!SOUND!!SHOW!!</span><br></div>
+  </div>
+  <div class="di-tc va-t}" style="width:16px;"></div>
+
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=41433&amp;t=theme&amp;themetype=2" class="floatRightHeader">Edit</a>
+      <h2>Ending Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs ending"><span class="theme-song">&quot;Ready&quot; by Urashimasakatasen</span><br></div>
+  </div>
+</div>
+<br><br><br><div><span class="floatRightHeader"><a href="/anime/41433/Akudama_Drive/reviews">More reviews</a></span><h2>Reviews</h2></div>
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="5:06 AM">Dec 24, 2020</div>
+      <div class="lightLink spaceit">
+                  12 of 12 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score369607').toggle()">Overall Rating</a>:
+        3
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Ryuseishun">
+                  <img src="https://cdn.myanimelist.net/images/userimages/5242474.jpg?t=1610547000" data-src="https://cdn.myanimelist.net/images/userimages/5242474.jpg?t=1610547000" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Ryuseishun">Ryuseishun</a>
+              <small>(<a href="/profile/Ryuseishun/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp369607">815</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score369607">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>3</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">3</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">9</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">7</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">3</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">3</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Akudama Drive is one of those easily captivating and enticing sci-fi action flick series. Lots of flashing aesthetics, bombastic action, sheer madness, ludicrous characters, and a cool-looking hi-tech environment. With all of this in one package, being created and written by none other than Kazutaka Kodaka, the creator of the Danganronpa franchises, well as being influenced by classic films like Pulp Fiction, Blade Runner, and The Ghost in the Shell, it’s not surprising that many people would instantly be hooked on it and praise it so much.<br />
+<br />
+But the truth is, Akudama Drive is akin to a bunch of discombobulated parts tossed into a blender in
+
+          <span style="display: none;" id="review369607">
+        unruly fashion, or quite literally, a runaway train bound for wreckage. What was working out so well early on as a very promising presentation from the otherwise hectic year of 2020 simply unraveled down the stretch. So then you ask: what exactly went wrong?<br />
+<br />
+To start off, Akudama Drive is set in a futuristic Japan, specifically the regions of Kansai and Kanto, previously ravaged by war and conflict. Its initial appearance comes off as a very urbanized and splendid-looking state-of-the-art utopia, but underlying that mask is something else entirely that clearly defines this show’s setting as a dystopia filled with underlying criminal activity. Highly skilled and/or dangerous criminals are labeled as “Akudama” to be noted separately from normal civilians, while the Executioners are the law enforcers meant to handle and oppose them. For the most part during the series, there is very little groundwork regarding any proper approach to exploring the dystopic world itself, and any exposition covered is usually via regularly applied silly-looking televised cartoon skits, which actually do a fairly decent job of explaining the history. Otherwise, everything is pretty much at surface-level, as the majority of the concepts and themes within the show are underdeveloped and unsubstantial. The recurring subject of moral ambiguity, especially regarding the Akudama and the Executioners, keeps coming up every chance it gets. It’s obvious to see and recognize they’re there, but there’s not enough deeper context to properly support them and make them significant enough to tie them with the main characters, even with subtleties here and there.<br />
+<br />
+The direction of the story starts off fairly optimistic with a very well-paced progression as a consistently entertaining ride filled with a whole lot of blustering horseplay and shameless implementation of the “rule of cool”. A normal unnamed teenage girl is hilariously dragged along into a grand scheme along with a randomly gathered group of Akudama and given instructions to work together to “go against the system” and complete tasks along the way, with the promise of getting a huge fortune. Being initially uninvolved and unwilling to participate, the girl, aptly entitled as “Swindler” in ironic fashion, is forced along with the gang into the chaos. Every now and then, she vocalizes in how ridiculous or dangerous on the decisions made or actions taken. Coupled with the multi-colored composition of the different personalities in the Akudama gang, and it honestly made for a rather nonsensical yet self-aware wild ride. For a good amount of the first half, it was honestly going fairly well in the right direction despite the surface-level context and choice for a nameless narrative (meaning none of the characters in the series are given actual names).<br />
+<br />
+The second half of the series was when things start to unravel. The pacing starts to get rather sluggish as the story starts to accumulate more and more details regarding the settings itself, the mood of the story starts to shift to an abnormally serious one, and not in a pleasant fashion. The main characters are killed off, one by one, without so much as a consistent sense of impact. I will not deny that the narrative likely intended on killing off a number of the recurring cast members in the first place, but the way it did just that felt so….senseless. Practically like a version 2.0 of Akame Ga Kill. Gone was the sense of self-awareness that gave the series its identity. Gone were the chances to properly flesh out, develop, and/or realize the captivating main cast, not even so much as a sliver of some sort of backstory for any of them. Gone was the silly fun of the grand heist and now replaced with some overly conceited and unpleasant sense of anxiety and tension. The tonal shift may supposedly befit the show’s dystopic background, but there’s not much established beforehand to make the transition all that much smoother, and it comes off as jarring and obstructive. Sure, the themes are still very much expressed, but never properly explored, and by this point in the show, it becomes really hard to just take things at face value anymore. As the series wound down to the final episodes, we are provided with rather copious amounts of grating plot twists and revelations, ranging from human experiments to immortality to quantum physics. Even then, these revealed plot elements don’t seem like they amount to much beyond just a desperate attempt to come up with a conclusion to end the madness. There was always a very slight foreboding tone throughout the series, in all fairness, but again, there wasn’t enough there in terms of the premises’ foundations to amount to nearly enough. It’s as if the series has underwent a major identity crisis and upheaval, leading to a rather tedious and frustrating trudge to the finish line.<br />
+<br />
+In terms of the audiovisuals, Akudama Drive at least does shine the brightest in that department. Colorful looking urban backgrounds coupled with varying color tones, brightness, and saturation to really highlight the vivid illustrations and atmosphere of the dystopian world. The combinations of 2D and 3D graphics make for really nice presentations, and even the action &amp; fight scenes also have really nice consistent choreography. There’s also an extremely nice touch to the aesthetic experience with once-per-episode scene transitions, where the background art for the next segment would slam together piece by piece to replace the previous ones. The soundtracks and theme songs befit the somewhat dual nature of the settings, with the opening theme representing the bright and energetic outer parts of the city, while the ending theme may be symbolizing the more chill yet somewhat pessimistic and foreboding side, especially revolving around the main cast. The voice acting in particular was quite solid, albeit on occasions the dialogue may feel forced or hurried, though overall still a consistent performance, as the seiyuus did their best to bring out the personalities of the recurring cast members. By all means, the production value managed to provide grade-A art, which is by all means worthy of praise considering the infamous history of Studio Pierrot.<br />
+<br />
+I’ll have to admit right now that the interpretation regarding the character department can be rather subjective here. To me, while the recurring characters are really nice in terms of how they’re very well characterized to the point where we at least know what kind of people they are, the lack of deeper context in the series composition strikes again here. There isn’t much character work or development done in the series at all, and perhaps there was no need due to the nameless narrative being implemented. However, with nothing else to really give them more dimension, it’s really hard to find much to care about them and their objectives. As a result, their initially appealing traits can quickly grow dull. I’m pretty sure I’ve seen these kinds of characters in other series written far, far better. Sure, they were entertaining and all, but they came off as nothing more than a particularly rowdy group. I will admit, though, that the short-lived brotherly bonds between the Hoodlum and the Brawler guy was perhaps THE most wholesome thing I’ve seen from the show.<br />
+<br />
+As for the Swindler’s case of character development in the latter half of the series, I found it very unimpressive. It felt like more of a convenient case of instant gratification for the mainstream viewers to immediately be smitten by the Swindler’s heel-turn, from a stereotypical protagonist complacent about her unintended involvement, to a headstrong and resolved, selfless heroine. Yes, it’s development for sure, as it comes off from her eventually being unable to determine what’s really right or wrong and wanting to take matters into her own hands. However, it still felt too abrupt, untimely, and perhaps a bit obsolete; I would honestly say it should’ve been given more focus and time. While some people may insist that her development was subtle and actually happened along the way, it’ll still go back the problem to her not getting much of a background along with the other Akudama members. Perhaps if the whole nameless narrative thing wasn’t in play, the character department would’ve had far better results.<br />
+<br />
+In terms of my enjoyment level, I initially did enjoy Akudama Drive to a certain degree early on for its “dumb fun” and bombastic sequences, though I wasn’t really sold on a whole lot due to everything being given mostly at face value. The aesthetic experience was of course really nice throughout the series, especially during the well animated fight scenes. It was when the second half came along and reared its ugly head that my pleasure turned into bafflement. I was not sure whether I should continue turning my brain off or actually start thinking about whatever plot points were thrown at me. It was admittedly an infuriating sequence for me during that dreadful final stretch, trying to figure out what in the world did the show want to accomplish in the end beyond just mere schlock entertainment.<br />
+<br />
+Akudama Drive flew out the gates with blades of glory, only to later on fall hard and flat on its face. With its lack of fleshed out context and deeper characterization to an otherwise gorgeous-looking world, it only does best as popcorn entertainment. If you’re the kind who is willing to roll with anything and everything regardless as long as you’re entertained, feel free to watch it, as I would still recommend it for those who want nothing but entertainment and can still appreciate the characters for who they are; I would still warn about the second half, of course, where even just pure enjoyment would get compromised by the incoming convolutions and silly twists that ruined the potential for an underrated modern classic.
+        
+<div id="revhelp_output_369607" class="mt8 js-review-btn-helpful js-review-helpful-369607">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F41433%2FAkudama_Drive" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle369607"
+         class="js-toggle-review-button" data-id="369607">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=369607" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=369607" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="5:21 AM">Dec 24, 2020</div>
+      <div class="lightLink spaceit">
+                  12 of 12 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score369611').toggle()">Overall Rating</a>:
+        8
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/RebelPanda">
+                  <img src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610523600" data-src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610523600" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/RebelPanda">RebelPanda</a>
+              <small>(<a href="/profile/RebelPanda/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp369611">762</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score369611">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>8</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">8</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">9</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">8</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">7</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">9</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Akudama Drive is pure madness. It has all the action-packed mayhem of a 1980s B-movie, taken to ludicrous extremes with orgasmic animation and insane characters. It uses the classic cyberpunk aesthetic to tell a story saturated with razor-sharp social criticism and vibrant neon lights.<br />
+<br />
+This anime is a combination of Blade Runner, and Psycho-Pass lovingly brought to life by Kodaka, the creator of Danganronpa. It shouldn’t work, but it does...<br />
+<br />
+And it’s god damn amazing.<br />
+<br />
+The story is told through the eyes of Swindler, an ordinary person who has been mistakenly labeled as an Akudama; One of the most dangerous and highly skilled criminals in the city of
+
+          <span style="display: none;" id="review369611">
+        Kansai. Swindler and six other Akudama must evade the militarized police force pursuing them. If they manage to escape alive and retrieve a package for a mysterious bidder, they’ll each earn 10 million dollars. <br />
+<br />
+All seven Akudama are wildly entertaining; each has such a unique character design and a distinctive persona, they could lead their own shows. It might seem strange at first, but we only know them by their criminal labels: Swindler, Cutthroat, Courier, Hacker, Brawler, Hoodlum, and Doctor. Their faces are plastered on billboards with these names. They only matter because there’s a bounty on their heads. Real names are irrelevant in this world. In Kansai, a person’s life is worth less than a candy bar. The ones who can be used for profit are more valuable. Human life is a commodity. It is fought over, bought, and sold. One of this anime’s clear messages is, human dignity is gone, alluding to a very plausible future.<br />
+<br />
+Watching these unstoppable badasses fend off executioners and deliver surprisingly hilarious one-liners is always exhilarating. Wisely, the anime ups the stakes by pairing its merciless and seemingly impenetrable Akudama with Swindler, an empathetic and innocent bystander. The action is easy to follow, with a violent neon visual spectacle overflowing with sakuga and impressive visual effects unseen in modern anime. <br />
+<br />
+Once you become an Akudama, you no longer have human rights. You will be executed without trial. Anyone, even innocent people, can be declared a criminal; It’s eerily similar to how the police abuse their power every day. That’s how Swindler gets wrapped up in everything. She’s our window into this crazy world—like the audience’s avatar. Blank slate characters are rarely done right, but Swindler’s is one of the lucky few. Her hollow personality is like a sponge; she absorbs all of the fucked up things happening around her and develops into an entirely new person. A lot of people have criticized her for lacking characterization, but they’re missing the point. You’re meant to project onto her. She’s relatable in the sense that she also has no idea what the fuck is happening. As she learns about the world, so do we. Often, she comments aloud on what’s happening, like a narrator. Her commentary is helpful when the action gets intense. Then there are times when it feels like the show is holding our hand, which is fine. The pacing is so fast that it helps to have someone fill in the blanks. I’d like to think we’re smart enough to figure things out. <br />
+<br />
+Misguided critics have said that Akudama Drive is unrealistic, too stupid, and comical. No shit, sherlock. This show is self-aware. From the beginning, it’s clear the only logic it adheres to is the rule of cool. Courier literally rides his motorcycle on the sides of buildings, equipped with a massive railgun and grappling hook. Brawler can catch bullets with his teeth and shoot them like a gun. Don’t think about it, just enjoy the spectacle. <br />
+<br />
+I can’t overstate how bloody this anime is. It is cartoonish, and the color palette is straight out of a comic book. You can’t say it’s realistic, but it’s impactful—blood sprays everywhere like fountains, guts, and gore spill out in plain sight. They wanted death to stick with you. It might be humorous at times, but this is intentional. Death is meaningless in this world—not even the main characters are safe. In the last few episodes, there is some plot armor. It’s forgivable because the ending is so god damn good. Unfortunately, the violence is censored with dark shadows covering the gore. I’ll be looking for the Blu Ray release to get the full experience. <br />
+<br />
+Purely as a sci-fi action show, it’s brilliant; Incredible tension, animation, and visuals. Akudama Drive’s visual excellence is achieved through the marriage of 2D art and CGI. Not the overreliance on one or the other. The kinetic action sequences are dazzlingly realized with digital compositing by Kazuhiro Yamada. He was responsible for Attack on Titan’s excellent action sequences blending 3D background art with 2D action animation. He also worked with the animators to render all the holographic neon effects, beautifully enhancing the background art and every action sequence. Similar to Danganronpa, the background art transitions piece by piece as if a stage is being rearranged. All of its visual idiosyncrasies culminate in one unique aesthetic.<br />
+<br />
+Like all great sci-fi thrillers, Akudama Drive uses over-the-top action to tell a story about social inequities in modern society. <br />
+<br />
+Cyberpunk settings are hard to make unique because they are defined by a grunge aesthetic and anti-capitalism themes. Akudama Drive is not exactly new, but it provides a new interpretation of the genre. This is a show that pokes fun of our modern-day police system and the corrupt government. Kansai is quite literally a militarized police state. It is an exaggerated but frighteningly believable totalitarian state controlled by a politically motivated police force that watches the citizens’ every move. In this world, resistance equals death. If you protest the government, you won’t just be pepper-sprayed and arrested—you’ll be mercilessly slaughtered. The Executioners live in their own version of Kansai’s Tower, right beside upscale hotels. The wealthy and privileged tower over the smog-filled city. Citizens live in slums below, a neon-lit wasteland covered in advertisements, garbage, and populated by the middle-class and homeless people. Kansai’s version of a sporting event is public executions where the worst criminals get beheaded. Hundreds of bloodthirsty citizens fill a stadium to watch. <br />
+<br />
+The two executioners who pursue the Akudama squad have their own subplot behind the scenes. Police officers craft their plan to hunt and kill the criminals. Seemingly the police’s only purpose is to punish rather than rehabilitate. We’re meant to see the two executioners as fascists or a man and woman mistakenly helping a fascist society. They commit their lives to kill criminals. Their duty is to “Remove the dregs of society.” Which means anyone who opposes their fascist control. They literally destroyed their political opposition in a war and then rebuilt their land as a paradise for the ultra-wealthy. These two characters are the personification of a failed justice system. A system that focuses on crime after it happens. Instead, they should focus on preventing crime by creating a better quality of life so people wouldn’t need to turn to theft and murder in the first place. The anime uses its corrupt justice system to tell a potent message: If we treat people like animals, they’ll act like animals. <br />
+<br />
+Barely any time is wasted on pesky exposition. Thank god it doesn’t bother explaining sci-fi technology, unlike most modern anime. It follows the “Show-don’t-tell” rule very well. If you care about stuff like world-building, there’s plenty of visual story-telling in the background art. Though it may take multiple viewings to pick up on everything. We also get pieces of info for each episode in a diegetic puppet show. It plays out like a kids educational TV show with slapstick humor. I found it to be a nice way to transition between settings while explaining introducing new concepts.<br />
+<br />
+People have plenty of minor critiques of this show, some deserved, but most are nitpicks. To be fair, it has its fair share of contrived situations and plot conveniences. You could wonder, “Why didn’t the woman at the food stand just ask for Swindler to give the food back? If she was so serious about being paid, why wouldn’t she ask for payment before giving her the food?” But at the end of the day, all of those critiques would be nitpicks. The sheer bombast and messages it tells alone are enough for me to forgive these flaws. If fast pacing will put you off, this isn’t going to be for you. It purposefully moves quickly, but I was always able to follow it. The plot itself is procedural in nature. Though it is sometimes cliche, you can never guess where it’ll go. The twists always feel earned rather than shoehorned. There are clues throughout the show to build-up the mystery. This attention to fine details gives the show so much heart. You can rewatch the show and pick up on new things you didn’t realize the first time. Minor lines of dialogue and subtle details in the background art contribute significantly to the rewatch-value. <br />
+<br />
+Akudama Drive is a love letter to every Sci-fi classic of the 20th century. It waves its inspiration like a flag while providing a fresh and culturally relevant satire. It’s not without its flaws, but I love everything about it. Although the premise is simple, it has more thought-provoking story beats than you’d expect. With only a 12 episode show, it managed to tell a fantastic complete story. You owe it to yourself to watch this underrated gem. This is one I’ll be returning to in the future.
+        
+<div id="revhelp_output_369611" class="mt8 js-review-btn-helpful js-review-helpful-369611">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F41433%2FAkudama_Drive" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle369611"
+         class="js-toggle-review-button" data-id="369611">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=369611" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=369611" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="5:00 AM">Dec 24, 2020</div>
+      <div class="lightLink spaceit">
+                  12 of 12 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score369604').toggle()">Overall Rating</a>:
+        8
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/ACasualViewer">
+                  <img src="https://cdn.myanimelist.net/images/userimages/7060988.jpg?t=1610496000" data-src="https://cdn.myanimelist.net/images/userimages/7060988.jpg?t=1610496000" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/ACasualViewer">ACasualViewer</a>
+              <small>(<a href="/profile/ACasualViewer/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp369604">761</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score369604">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>8</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">8</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">9</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">8</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">8</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">8</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Are you tired of boring Rom Com series with dense protagonists that never go anywhere? Would you rather quit anime altogether than watch another basic Shonen series? Do you enjoy high octane action driven series set in a well-developed gritty cyberpunk world? Well Akudama Drive is the right anime for you. Every moment is either action, world building, or characters explaining something important, not a moment is wasted in this breakneck paced show. <br />
+<br />
+THIS REVIEW CONTAINS SPOILERS<br />
+<br />
+Story: 8<br />
+<br />
+Imagine Suicide Squad the anime, throw in a futuristic world where crime rankings are a power level and authoritarian police that were implemented during some civil war and
+
+          <span style="display: none;" id="review369604">
+        you got Akudama Drive in a nutshell. The show for a lack of a better word, is just plain wild, there is a plot to the madness however its best to just take the show in as it unfolds and think about it later. Most of the story is told visually and through character interactions, there aren’t many instances of significant narration or long winded explanations, everything occurs during fights, adorable little shorts produced by Kansai, planning stages or chases. <br />
+<br />
+This somehow actually works perfectly for the series, it keeps the show from getting bogged down and lets the story stay fast paced while delivering a very thoroughly built world, an excellent and interesting cast of very unique characters, and slowly building up the mystery of why they are working together and for what purpose. On the note of the mystery, this anime was directed by the creator of a rather popular survival game battle royale style anime and his work in this series lives up to the standard he set before, so you can definitely look forward to how it unfolds. There are a lot of sci fi themes thrown in including cloning, genetic engineering, repairing a destroyed world, and post scarcity technology, they are not heavy handed and are handled well overall, the story is definitely a solid 8 and one of the better this season.<br />
+<br />
+Art: 9<br />
+<br />
+The artwork is absolutely pristine, the action scenes are gorgeous and beyond any expectations one would have for a studio like Pierott, in fact it might be the single best looking show produced by this studio and the very first episode might have had the best visuals of any first episode this year if not for the Journey of Elaina coming out in the same season as well. The direction for the fights and their choreography were smooth, pretty much movie quality, and there were no shortcuts for the animation or any lazy camera work that is normally typical for this studio. The most notable fight scenes were nearly as long as an episode and at no point was there any laziness in delivery, there is some censorship if you watch the tv version of the anime but it’s nothing that ruins scenes.<br />
+<br />
+Characters were very uniquely designed, and all the girls were super cute looking but still blended into the dark color pallet and atmosphere of the series. The character designs clearly had a lot of work put into them, they heavily reflected the nature and personality of the characters, they also were designed with significant detail which meant that animating them would have been a challenge. Despite the high levels of detail, almost no CGI was used for character movements, outside of massive waves of robots for obvious reasons. Side characters like the executioners all had interesting introductions, outfits, poses, and overall, just overflowed with style.<br />
+<br />
+Background art is something that specifically has to be noted in this series, the amazing world building was only half visual storytelling the other half was the art. The city was truly detailed to look as shiny and futuristic as possible while still carrying the dark and gritty atmosphere expected of a series like this.<br />
+<br />
+The sound: 8<br />
+<br />
+The OP was among the best this season, if not for the incredible line up of impressive anime opening songs this season it definitely would have taken first place. From banging combat sound effects to a lit techno-rap soundtrack, Akudama Drive has some of the better music in the season it aired in and most of the music here is worth listening to even outside of the show.<br />
+<br />
+The soundtrack during fights was also quite hyped up fights and were easy to get lost in, the music selection is among the best this season and heavily complements the world the story takes place in.<br />
+<br />
+Characters: 8<br />
+<br />
+Excluding the main girl, the characters are all immoral criminals brought together over a shared mission with a high pay out but instant death if they fail. The executors who are essentially Judge Dredd style law enforcement are quite interesting as well, they feel very similar to the enforcers from Psycho Pass but with significantly improved fighting prowess, I especially love watching them continuously try to outsmart the Akudama and its nice to see competent law enforcement in anime.<br />
+<br />
+The characters are not actually named, they have codenames and it’s a good idea to not get very attached to any of them, this series does not shy away from building up characters and then killing them when the time is right. One of the most impactful scenes in the show involve a girl whose mentor was killed and them crying in the rain but it barely being noticeable, subtle moments like this really help elevate the impact these characters have despite only having a few episodes to build them up and not giving them names.<br />
+<br />
+There are also instances of betrayal and characters not being who they appeared to be initially, however there is usually some build up for this and it does not ruin their characterization, some of it was predictable while one betrayal was a complete surprise.<br />
+<br />
+Overall: 8<br />
+<br />
+The art style, the original feel, the characters, and the overall world building along with excellently delivered story lead me to giving this series an 8. If you enjoyed Psychopass and like series set in futuristic worlds with lots of well-choreographed action, then this show is definitely something you will enjoy.<br />
+
+        
+<div id="revhelp_output_369604" class="mt8 js-review-btn-helpful js-review-helpful-369604">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F41433%2FAkudama_Drive" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle369604"
+         class="js-toggle-review-button" data-id="369604">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=369604" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=369604" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="5:00 AM">Dec 24, 2020</div>
+      <div class="lightLink spaceit">
+                  12 of 12 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score369603').toggle()">Overall Rating</a>:
+        4
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/SingleH">
+                  <img src="https://cdn.myanimelist.net/images/userimages/6384999.jpg?t=1610541000" data-src="https://cdn.myanimelist.net/images/userimages/6384999.jpg?t=1610541000" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/SingleH">SingleH</a>
+              <small>(<a href="/profile/SingleH/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp369603">698</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score369603">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>4</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">4</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">6</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">5</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">4</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">5</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Episode one of Akudama Drive is all gas, no brakes. Four badass edgelords wreaking havoc upon the most over-the-top cyberpunk setting imaginable are offered a ludicrous amount of money to rescue a fifth badass edgelord who is scheduled for execution, and the madness and violence which ensues throughout the course of the first episode is the result of this bounty which they were all happy to compete for, but after having razed the world before them to complete their task, they’re met with a talking cat who has the very man they saved snap collar bombs around their necks and the necks of two other
+
+          <span style="display: none;" id="review369603">
+        nobodies who just happened to get caught up in the chaos, and the episode then swiftly ends without having explained any of its craziness, of which there was plenty. Episode two, on the other hand, begins with the following exposition, and while dissecting a scene or two usually wouldn’t be enough to review an entire show, things change when every scene is the exact same. The purpose of the painfully meticulous structure of the review you’re about to read is to illustrate the fact Akudama Drive would be a perfectly fine show if you didn’t put any thought into it whatsoever.<br />
+<br />
+The talking cat begins by expressing its gratitude towards everyone for showing up, and says he shouldn’t have been surprised since they are all veteran Akudama, a phase this show uses as a proper noun which literally means “bad person.” After a short discussion which still somehow felt too long, the talking cat reveals he is a robot cat and the mastermind who sent them the original bounty. The few sane individuals present protest the collar bombs around their necks, but the cat refuses to remove them stating this is all part of a larger plan they are now a part of, and while the two nobodies in the group weren’t originally part of it, the fact even they remained standing after the previous episode’s carnage is proof of their skill. More of them protest, simply not wanting to continue taking part in a conspiracy they have no observable interest in, but when a character called “Brawler” attempts to rip his collar bomb off and walk away, the robot cat implores them to wait and pays them all for successfully saving the prisoner, the task he now describes as Phase One. Before he can explain what this means, the character called “Hacker” asks why everyone was paid, when the single individual who actually freed the prisoner should’ve been the only one rewarded. The robot cat responds who best preformed wasn’t his concern, alerting Hacker and all the other Akudama to the fact this Phase One was merely a test, and when asked if they passed, the robot cat affirmed they did so with flying colors. He proceeds to entice them into participating in Phase Two of his plan by boasting the fact no Akudama has ever passed it before. Phase Two consists of attacking the site known as the Shinkansen, the only entrance to the territory in which they reside which is revered as sacred grounds by many who live there. To dismiss their hesitation, the robot cat announces this next job will reward them with an even greater sum of money to make them an offer they can’t refuse, but their conversation is interrupted when the remaining armed guards from the previous episode’s bombastic prison break storm the area. <br />
+<br />
+The scene transitions to our cast (inexplicably) relocated to a rooftop somewhere where they impatiently await a “bus,” which in this setting, is apparently a blimp. When one doesn’t come, Brawler jumps off the rooftop and soars through the air straight through the window of one of these so-called buses. Having successfully hijacked the vehicle and murdered its driver, Brawler asks the others how to drive it, only to be unanimously deemed a moron. Hacker does something seemingly advanced with his hands which kites the airship to port, and inside the blimp, he remarks how primitive its systems are and quickly commandeers its controls to fly them to where the cat had specified. In flight, the character called “Delinquent” praises Brawler for his superhuman jump, but Brawler says it’s only natural, since, after all, he is the world’s greatest brawler. Before they can arrive, the character they all saved from being executed, “Cutthroat,” randomly presses a big red button on the control panel which sends the blimp speeding into overdrive. Hacker exclaims that was only for emergencies, and when asked where they’re headed, he shrugs, and they crash into a high-rise hotel at mach speed. Having all miraculously survived, they have a conversation in some hallway where Delinquent praises Brawler yet again for being unfazed by a crash which would’ve killed any normal man, and the police originally chasing them catch up almost immediately and begin firing at them indiscriminately down the hallway. Hacker and the character “Doctor” don’t react at all, and Brawler continues to stand in the middle of the hallway within a spray of bullets which refuses to hit him. Outside, two oddly normal, twenty-first century looking police officers stress over the current state of affairs. The deputy suggests to the detective their men are utterly outclassed and will continue getting slaughtered by the Akudama, and the detective begrudgingly acknowledges the deputy is correct, but when they’re radioed by headquarters and told two “Executioners” are on their way, the detective becomes frustrated saying they didn’t ask for help. <br />
+<br />
+Inside the hotel and past the now-dead policemen lying in piles of gore, the cast sits down and continues their exposition dump where its determined all those present have skills necessary for Phase Two despite the fact one of the two nobodies is self-admittedly useless and the other is at the very least known to be useless by the cat, and they do so on a screen inside a random hotel room which somehow contains and can display all the cat’s files and graphics relevant to the proposed heist, but that’s enough narration, because at this point the fact should be clear: nothing about this sequence makes sense. First of all, the briefcase of collar bombs given to Cutthroat had enough to put one on everyone there, but the plan was to only enlist the original four the cat sent the bounty to. If this apparent miscalculation wasn’t enough, the cat is constantly portrayed as being highly intelligent throughout these exchanges, yet at no point does he see the plainly observable fact Delinquent and the character called “Ordinary Person” aren’t in any way the badass edgelords he’s looking for, even going so far as to say their mere presence proved their skill, despite the fact we viewers witnessed the events of episode one ourselves and know they literally stumbled their way into this situation. Speaking of episode one, Brawler is introduced as a loose canon who loves nothing more than brutalizing the police and those who tell him what to do, yet when a talking cat tells him to stop taking his collar bomb off, he complies with no resistance or talk-back whatsoever, completely betraying his character. His subsequent jump into the blimp is dumb in and of itself, but what’s even sillier is the fact he then has the described exchange with the other Akudama still on the rooftop despite being dozens of meters away in an aircraft, a distance no human ear could hear from. And in the blimp, he blows off the praise he received from Delinquent by stating the fact he can preform superhuman jumps is a natural effect of being the world’s strongest brawler, even though hand-to-hand combat has nothing to do with such a feat.<br />
+<br />
+Hacker’s motivations and consistencies are questionable as well, since he and Doctor were complaining about the blimp not picking them up, but after Brawler did his stunt and failed to steer the blimp, Hacker just brought it down to pick them up anyway using techno-nonsense, with nothing to suggest he couldn’t have just done so from the start. The first thing he says when he enters the cockpit is its systems are primitive, yet when Cutthroat sends the blimp into overdrive he just stands by doing nothing while they all crash into a building. Putting aside the fact he panicked when Cutthroat hit the button yet was completely calm mere seconds later for a completely unfunny joke, the fact he could take complete control of the blimp from outside the damn thing yet not do the same from inside the cockpit is absolutely preposterous. But specifics themselves are pointless to dissect, since the entire premise itself makes just as little sense. These assholes just crashed a blimp into a concrete building at rocket speeds, and every single one of them, including Ordinary Person, a teenage girl with no connection to the comically badass Akudama edgelord anime gods, survives. Forgetting how laughable it is this fact is accentuated by Delinquent praising Brawler for walking away from the crash without a scratch despite the fact he did the exact same, this is by no means the only instance of this utterly farcical nature of the show’s presentation. I mentioned Brawler standing in a hail of bullets down a straight hallway and still not getting shot, but I didn’t even have space to discuss Doctor literally getting her throat slit and surviving by somehow sewing it up herself before bleeding out, a process which should’ve been nearly instant. Even the characters who look like somewhat normal people are internally broken in the first half-minute we see them. The police detective outside is introduced coming to terms which the fact he and his unit are completely outgunned by the Akudama and can’t subdue them alone, but when he learns the Executioners are on the way, he clicks his tongue and remarks in contempt.<br />
+<br />
+I know it may seem like I gave way too much attention and devoted way too much analysis to a sequence which spanned only half an episode, if that, but every scene in this show is intrinsically broken for all the same reasons of forced contrivance and unapologetic contradiction, so such analysis of really any scene would’ve functioned as a perfect encapsulation of the show’s fundamentally broken presentation. Akudama Drive is an anime which began as and ceaselessly proceeded to be a gimmick on every level. The nameless cast of characters defined by the tropes which stand in for their non-existent personalities carry the story of ridiculous visual action which is set apart only by its constant insistence on breaking the laws of physics, and the characterization for our empty cast extends only as far as their paper-thin backstories, many of which make the likes of Kirito Kamui seem sensical. Despite the potential in the art design, the show turned out to be downright ugly in a truly A-1 Pictures fashion, with little attention paid to consistency and polish, but every attention paid to the action sequences and fan service which will ultimately be selling the show to its young audience. While its sheer absurdity can put a smile on your face, and while the fan service is nice in the form of Doctor’s tits, what ends up being far more masturbatory is the show’s hyper-violent gore which often begs anatomical belief. The unexpectedly provocative geopolitical commentary behind the setting and its facilitation is kind of respectable, but it’s also just an inferior imitation of the world in Rolling Girls which explores the same themes with cooler concepts, a well-built society, personable characters, and a jaw-dropping animation production, whereas Akudama Drive does its thing through an unanimated exposition dump in the form of a literal puppet show. When you really sit back and look at all this in conjunction with its Blade Runner cityscape and its Danganronpa character designs, mascots, and plot devices, the more you’ll see just how much of this thing is and always was a pure rip-off.<br />
+<br />
+Thank you for reading. 
+        
+<div id="revhelp_output_369603" class="mt8 js-review-btn-helpful js-review-helpful-369603">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F41433%2FAkudama_Drive" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle369603"
+         class="js-toggle-review-button" data-id="369603">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=369603" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=369603" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+<div class="mt4"></div><div class="amazon-ads anime-manga-detail bottom pt20 pb16">
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "animedetail-20";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Buy on Amazon.com ";
+amzn_assoc_default_search_phrase = "Akudama Drive";
+amzn_assoc_default_category = "DVD";
+amzn_assoc_linkid = "d33d41183eb8aee6216ffe9ff44ca735";
+amzn_assoc_rows = "1";
+amzn_assoc_search_bar_position = "bottom";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+</div>            <div class="mal-ad-unit" data-ad-width="801" data-ad-height="633">
+        <div id="taboola-below-article-thumbnails-anime"></div> <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'alternating-thumbnails-a',
+    container: 'taboola-below-article-thumbnails-anime',
+    placement: 'Below Article Thumbnails Anime',
+    target_type: 'mix'
+  });
+</script>
+
+      </div>
+    <br><div><div class="floatRightHeader"><a href="/anime/41433/Akudama_Drive/news">More news</a></div><h2>Recent News</h2></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/60807607" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1601318938-90b366d0ee226cca6a5f9c0e732c548f.jpeg?s=974e2aff16babfb701642d823d26b478" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1601318938-90b366d0ee226cca6a5f9c0e732c548f.jpeg?s=974e2aff16babfb701642d823d26b478 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1601318938-90b366d0ee226cca6a5f9c0e732c548f.jpeg?s=233cc45aaed4ae7cd7bb35eb6974db5b 2x" alt="Fall 2020 Simulcast List [Update 12/1]" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/60807607"><strong>Fall 2020 Simulcast List [Update 12/1]</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p>In this thread, you&#039;ll find a comprehensive list of anime acquired for simulcast release during the Fall 2020 season. This list also includes titles that were p...<a href="/news/60807607">read more</a></p></div>
+		<p class="lightLink spaceit">Sep 28, 2020 11:50 AM by <a href="/profile/Snow">Snow</a> | <a href="/forum/?topicid=1867128">Discuss (75 comments)</a></p></div>
+		<div class="borderClass"></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/60720316" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1600216652-42c871790ac41862dc4ee37f1f6ea014.jpeg?s=9cc909d2d9aeb34abb47a15797569d3c" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1600216652-42c871790ac41862dc4ee37f1f6ea014.jpeg?s=9cc909d2d9aeb34abb47a15797569d3c 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1600216652-42c871790ac41862dc4ee37f1f6ea014.jpeg?s=9e70e9c19dfc1c23b42d0ad8cfff6433 2x" alt="Fall 2020 Preview" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/60720316"><strong>Fall 2020 Preview</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p>In this thread you&#039;ll find a comprehensive list of Fall 2020 titles with an accompanying promotional video (PV), commercial (CM), or trailer. This post will be ...<a href="/news/60720316">read more</a></p></div>
+		<p class="lightLink spaceit">Sep 15, 2020 12:55 PM by <a href="/profile/Snow">Snow</a> | <a href="/forum/?topicid=1864732">Discuss (24 comments)</a></p></div>
+		<div class="borderClass"></div><br><div><div class="floatRightHeader"><a href="/forum/?animeid=41433"><a href="/anime/41433/Akudama_Drive/forum">More discussions</a></div><h2>Recent Forum Discussion</h2></div><div class="page-forum">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F41433%2FAkudama_Drive&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1876813">Akudama Drive Episode 7 Discussion</a> <small> ( <a href="/forum/?topicid=1876813&show=0">1</a> <a href="/forum/?topicid=1876813&show=50">2</a> <a href="/forum/?topicid=1876813&show=100">3</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Nov 19, 2020</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">147 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/leonthelionhart">leonthelionhart</a> <a href="/forum/?topicid=1876813&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Yesterday, 4:23 AM</td>
+            </tr>
+            <tr id="topicRow2">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F41433%2FAkudama_Drive&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1884164">Akudama Drive Episode 12 Discussion</a> <small> ( <a href="/forum/?topicid=1884164&show=0">1</a> <a href="/forum/?topicid=1884164&show=50">2</a> <a href="/forum/?topicid=1884164&show=100">3</a> <a href="/forum/?topicid=1884164&show=150">4</a> <a href="/forum/?topicid=1884164&show=200">5</a>  ... <a href="/forum/?topicid=1884164&show=250">Last Page</a> ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Dec 24, 2020</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">282 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Nylism">Nylism</a> <a href="/forum/?topicid=1884164&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Jan 11, 8:47 PM</td>
+            </tr>
+            </table></div><br><div><div class="floatRightHeader"><a href="/anime/41433/Akudama_Drive/featured">More featured articles</a></div><h2>Recent Featured Articles</h2></div><div class="detail-page-featured-article"><div class="news-list">
+      
+    <div class="news-unit clearfix"><div class="picSurround fl-l mr8 ml3">
+          <a href="https://myanimelist.net/featured/2347/MAL_Staff_Picks__Fall_2020_Opening_Themes"><img src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1604898708-2a91d15e0e8c2bb8eb308e81b809639f.jpeg?s=fc51ced94f56e63b6fb4b71652704ddb" alt="MAL Staff Picks: Fall 2020 Opening Themes" class="image lazyload" width="50" height="78" srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1604898708-2a91d15e0e8c2bb8eb308e81b809639f.jpeg?s=fc51ced94f56e63b6fb4b71652704ddb 1x, https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1604898708-2a91d15e0e8c2bb8eb308e81b809639f.jpeg?s=bafb52ac72d71b35cea0e8699f351efa 2x" /></a>
+        </div><div class="news-unit-right rect">
+        <p class="title">
+          <a href="https://myanimelist.net/featured/2347/MAL_Staff_Picks__Fall_2020_Opening_Themes" title="MAL Staff Picks: Fall 2020 Opening Themes">MAL Staff Picks: Fall 2020 Opening Themes</a>
+        </p>
+        <div class="text">
+          26 staff members judged 39 songs to bring you our definitive ranking of nearly every opening theme this season!
+        </div>
+        <div class="information">
+          <p class="info pr8">
+            by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
+          </p><p class="di-tc pv pr8">
+              <b>34,320</b> views
+            </p></div>
+      </div>
+    </div>
+        </div>
+</div><div style="padding:16px 0px 0px 0px;"><div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div></div><br><div>
+            <div class="floatRightHeader"><a href="/anime/41433/Akudama_Drive/userrecs">More recommendations</a></div>
+            <h2>Recommendations
+            </h2></div>  <div class=""><div class="anime-slide-block" id="anime_recommendation" data-json='{"width":800,"btnWidth":40,"margin":8}'><div class="btn-anime-slide-side left"><span class="btn-inner"></span></div><div class="btn-anime-slide-side right"><span class="btn-inner"></span></div><div class="anime-slide-outer" style="height:140px;"><ul class="anime-slide js-anime-slide" data-slide="8"><li class="btn-anime" style="width:90px" title="Psycho-Pass"><a href="https://myanimelist.net/recommendations/anime/13601-41433" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Psycho-Pass</span><span class="users">6 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/43399.jpg?s=0f78a138335b4622d5f74446eb66f381" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/43399.jpg?s=0f78a138335b4622d5f74446eb66f381 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/43399.jpg?s=97b771a592671e00af3e0616bf82bcec 2x" width="90" height="140" class="image lazyload" alt="Psycho-Pass" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Akame ga Kill!"><a href="https://myanimelist.net/recommendations/anime/22199-41433" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Akame ga Kill!</span><span class="users">5 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1429/95946.jpg?s=adb4bcab3ac606dcb25d08d817451f1c" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1429/95946.jpg?s=adb4bcab3ac606dcb25d08d817451f1c 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1429/95946.jpg?s=f58a59ea176e4e3e3c82397934bbbf0e 2x" width="90" height="140" class="image lazyload" alt="Akame ga Kill!" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Tokyo Ghoul"><a href="https://myanimelist.net/recommendations/anime/22319-41433" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Tokyo Ghoul</span><span class="users">3 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/64449.jpg?s=acf9635aceb622d791403fafb7e2927e" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/64449.jpg?s=acf9635aceb622d791403fafb7e2927e 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/64449.jpg?s=efdef1fc6a606887ae4ca13b25d8590d 2x" width="90" height="140" class="image lazyload" alt="Tokyo Ghoul" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Juuni Taisen"><a href="https://myanimelist.net/recommendations/anime/35076-41433" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Juuni Taisen</span><span class="users">3 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/87684.jpg?s=df12b2a61b5aec4d2a095c92db27412f" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/87684.jpg?s=df12b2a61b5aec4d2a095c92db27412f 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/87684.jpg?s=795b8a996d354009b557a144fce3d0b8 2x" width="90" height="140" class="image lazyload" alt="Juuni Taisen" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Dorohedoro"><a href="https://myanimelist.net/recommendations/anime/38668-41433" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Dorohedoro</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1740/104786.jpg?s=6c194237d31497bb4568e23b56af0ca8" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1740/104786.jpg?s=6c194237d31497bb4568e23b56af0ca8 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1740/104786.jpg?s=5e05f466714b24f507789009bd08adde 2x" width="90" height="140" class="image lazyload" alt="Dorohedoro" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Mirai Nikki"><a href="https://myanimelist.net/recommendations/anime/10620-41433" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Mirai Nikki</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/13/33465.jpg?s=3e33e9b1a37b8a08735105ab42104b9d" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/13/33465.jpg?s=3e33e9b1a37b8a08735105ab42104b9d 1x,https://cdn.myanimelist.net/r/180x280/images/anime/13/33465.jpg?s=0803767006a1dedae192a3cc8672381e 2x" width="90" height="140" class="image lazyload" alt="Mirai Nikki" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Devilman: Crybaby"><a href="https://myanimelist.net/recommendations/anime/35120-41433" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Devilman: Crybaby</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/2/89973.jpg?s=bed841ef5e6590491a5ab5a368149629" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/2/89973.jpg?s=bed841ef5e6590491a5ab5a368149629 1x,https://cdn.myanimelist.net/r/180x280/images/anime/2/89973.jpg?s=e77c7b34d843685bfaf1147777e3c07c 2x" width="90" height="140" class="image lazyload" alt="Devilman: Crybaby" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Koutetsujou no Kabaneri"><a href="https://myanimelist.net/recommendations/anime/28623-41433" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Koutetsujou no Kabaneri</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/79164.jpg?s=7f0e8a513f08d55b2ccd0a8bf46c947a" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/79164.jpg?s=7f0e8a513f08d55b2ccd0a8bf46c947a 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/79164.jpg?s=36ba8e1d07f7ecc01fca3cc661870ead 2x" width="90" height="140" class="image lazyload" alt="Koutetsujou no Kabaneri" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Black Lagoon"><a href="https://myanimelist.net/recommendations/anime/889-41433" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Black Lagoon</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/25596.jpg?s=68535b7130c44562f82f53e934b40df6" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/25596.jpg?s=68535b7130c44562f82f53e934b40df6 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/25596.jpg?s=cfc055a4d406db92536eb33f9fc00d5f 2x" width="90" height="140" class="image lazyload" alt="Black Lagoon" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation"><a href="https://myanimelist.net/recommendations/anime/16592-41433" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/51463.jpg?s=6f1c09a0b24cd04f0dbd06ac73542823" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/51463.jpg?s=6f1c09a0b24cd04f0dbd06ac73542823 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/51463.jpg?s=81d1140ada53ac4d1eb45fa509020283 2x" width="90" height="140" class="image lazyload" alt="Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kekkai Sensen"><a href="https://myanimelist.net/recommendations/anime/24439-41433" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kekkai Sensen</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/73559.jpg?s=f6e31a8797cf2541bdfc76c2f71d11a1" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/73559.jpg?s=f6e31a8797cf2541bdfc76c2f71d11a1 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/73559.jpg?s=dca43aefaaf5cd88126390fbcf96980f 2x" width="90" height="140" class="image lazyload" alt="Kekkai Sensen" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Ikebukuro West Gate Park"><a href="https://myanimelist.net/recommendations/anime/40359-41433" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Ikebukuro West Gate Park</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1277/108376.jpg?s=0f491775a1768cab1b9eaa8a5c516674" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1277/108376.jpg?s=0f491775a1768cab1b9eaa8a5c516674 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1277/108376.jpg?s=aed1f1c224a48c40a3fd22a159d57721 2x" width="90" height="140" class="image lazyload" alt="Ikebukuro West Gate Park" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Drifters"><a href="https://myanimelist.net/recommendations/anime/31339-41433" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Drifters</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/10/80271.jpg?s=c5c9e487d86a4b7226fd1f7ee4d521d7" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/10/80271.jpg?s=c5c9e487d86a4b7226fd1f7ee4d521d7 1x,https://cdn.myanimelist.net/r/180x280/images/anime/10/80271.jpg?s=604e09fcdbafbf7db863b09c002a02af 2x" width="90" height="140" class="image lazyload" alt="Drifters" border="0" ></a></li><li class="btn-anime" style="width:90px" title="JoJo no Kimyou na Bouken Part 5: Ougon no Kaze"><a href="https://myanimelist.net/recommendations/anime/37991-41433" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">JoJo no Kimyou na Bouken Part 5: Ougon no Kaze</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1572/95010.jpg?s=f84bc3dcde1f07d14802017db29e8f1d" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1572/95010.jpg?s=f84bc3dcde1f07d14802017db29e8f1d 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1572/95010.jpg?s=578b6fdda53bb14be12b13b5d2cf43df 2x" width="90" height="140" class="image lazyload" alt="JoJo no Kimyou na Bouken Part 5: Ougon no Kaze" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Cowboy Bebop"><a href="https://myanimelist.net/recommendations/anime/1-41433" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Cowboy Bebop</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/19644.jpg?s=12482a016a312d2f6976be928c35fac1" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/19644.jpg?s=12482a016a312d2f6976be928c35fac1 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/19644.jpg?s=a76161ce0786a9b5df55dac2757a61b3 2x" width="90" height="140" class="image lazyload" alt="Cowboy Bebop" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Made in Abyss"><a href="https://myanimelist.net/recommendations/anime/34599-41433" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Made in Abyss</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/6/86733.jpg?s=ab47103a4f31f8e6505044acc9fb1d3b" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/6/86733.jpg?s=ab47103a4f31f8e6505044acc9fb1d3b 1x,https://cdn.myanimelist.net/r/180x280/images/anime/6/86733.jpg?s=5f8a7c26e2d5ae281e85e95433bec1af 2x" width="90" height="140" class="image lazyload" alt="Made in Abyss" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Noragami"><a href="https://myanimelist.net/recommendations/anime/20507-41433" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Noragami</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/9/77809.jpg?s=18c64e5aea2eacbb260f313269d53f70" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/9/77809.jpg?s=18c64e5aea2eacbb260f313269d53f70 1x,https://cdn.myanimelist.net/r/180x280/images/anime/9/77809.jpg?s=14b2e394b839715d021f272881eed617 2x" width="90" height="140" class="image lazyload" alt="Noragami" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Houseki no Kuni (TV)"><a href="https://myanimelist.net/recommendations/anime/35557-41433" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Houseki no Kuni (TV)</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/3/88293.jpg?s=68cfa02abb7d734b2c62f0ddd0ee01c1" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/3/88293.jpg?s=68cfa02abb7d734b2c62f0ddd0ee01c1 1x,https://cdn.myanimelist.net/r/180x280/images/anime/3/88293.jpg?s=9210fc8e50669a34371150021f8f1b6f 2x" width="90" height="140" class="image lazyload" alt="Houseki no Kuni (TV)" border="0" ></a></li><li class="btn-anime" style="width:90px" title="JoJo no Kimyou na Bouken (TV)"><a href="https://myanimelist.net/recommendations/anime/14719-41433" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">JoJo no Kimyou na Bouken (TV)</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/3/40409.jpg?s=6010c21bbc9fd3755caad152528c97c3" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/3/40409.jpg?s=6010c21bbc9fd3755caad152528c97c3 1x,https://cdn.myanimelist.net/r/180x280/images/anime/3/40409.jpg?s=cce0a60b473d219a45365a48d681a9b6 2x" width="90" height="140" class="image lazyload" alt="JoJo no Kimyou na Bouken (TV)" border="0" ></a></li></ul></div></div></div>
+    </td>
+    </tr>
+    </table>
+    </div>  <div class="mauto clearfix pt24" style="width:760px;">
+    <div class="fl-l">
+      </div>
+      <div class="fl-r">
+      </div>
+    </div>
+
+</td>
+</tr>
+</table>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js" data-pin-hover="true"></script></div><!-- end of contentHome -->
+</div><!-- end of contentWrapper -->
+
+
+            
+  
+
+
+            
+  
+
+  <script>
+    $(document).ready(function() {
+      $(window).scroll(function() {
+        var cHeight = $("#myanimelist").height();
+        $("div[data-ad-sticky='manual']").each(function (i, o) {
+          var aHeight = $(o).height();
+          var aTop = $(o).parent().offset().top;
+          if (window.pageYOffset >= (cHeight - aHeight)) {
+            $(o).css("top", ((cHeight - aHeight) - window.pageYOffset) + "px");
+          } else if (window.pageYOffset >= aTop) {
+            $(o).addClass("sticky");
+            $(o).css("top", "");
+          } else {
+            $(o).removeClass("sticky");
+          }
+        });
+      });
+    });
+  </script>
+
+<!--  control container height -->
+<div style="clear:both;"></div>
+
+<!-- end rightbody -->
+
+</div><!-- wrapper -->
+
+
+    <div id="ad-skin-bg-right" class="ad-skin-side-outer ad-skin-side-bg bg-right">
+    <div id="ad-skin-right" class="ad-skin-side right" style="display: none;">
+      <div id="ad-skin-right-absolute-block">
+        <div id="ad-skin-right-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+</div><!-- #myanimelist -->
+
+
+<div class="footer-ranking">
+  <div class="ranking-container">
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php" class="view_more fl-r">More</a>Top Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Fullmetal Alchemist: Brotherhood</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011">Hunter x Hunter (2011)</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php?type=airing" class="view_more fl-r">More</a>Top Airing Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/42203/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season_Part_2">Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/42897/Horimiya">Horimiya</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/38474/Yuru_Camp△_Season_2">Yuru Camp△ Season 2</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/character.php" class="view_more fl-r">More</a>Most Popular Characters
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/character/417/Lelouch_Lamperouge">Lamperouge, Lelouch</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/character/45627/Levi">Levi</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/character/80/Light_Yagami">Yagami, Light</a>
+            </li>
+                  </ol>
+      </div>
+      </div>
+</div>
+<footer>
+  <div id="footer-block">
+    <div class="footer-link-block">
+      <p class="footer-link home di-ib">
+        <a href="https://myanimelist.net/">Home</a>
+      </p>
+      <p class="footer-link di-ib">
+        <a href="https://myanimelist.net/about.php">About</a>
+        <a href="https://myanimelist.net/pressroom">Press Room</a>
+        <a href="https://myanimelist.net/about.php?go=contact">Support</a>
+        <a href="https://myanimelist.net/advertising">Advertising</a>
+        <a href="https://myanimelist.net/forum/?topicid=515949">FAQ</a>
+        <a href="https://myanimelist.net/about/terms_of_use">Terms</a>
+        <a href="https://myanimelist.net/about/privacy_policy">Privacy</a>
+        <a href="#/" class="cmp-gdpr-only">Privacy Settings</a>
+        <a href="#/" class="cmp-ccpa-only">Do Not Sell My Personal Information</a>
+        <a href="https://myanimelist.net/about/cookie_policy">Cookie</a>
+        <a href="https://myanimelist.net/about/notice_at_collection">Notice at Collection</a>
+        <a href="https://myanimelist.net/about/sitemap">Sitemap</a>
+      </p>
+            <p class="footer-link login di-ib">
+        <a href="https://myanimelist.net/login.php?from=%2Fanime%2F41433%2FAkudama_Drive" id="malLogin" rel="nofollow">Login</a>
+        <a href="https://myanimelist.net/register.php?from=%2Fanime%2F41433%2FAkudama_Drive">Sign Up</a>
+      </p>
+          </div>
+
+    
+    <div class="banner-footer-anime-streaming">
+      <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+    </div>
+
+        <div class="footer-link-icon-block">
+            <div class="footer-social-media ac">
+        <a target="_blank" class="icon-sns icon-fb di-ib" href="https://www.facebook.com/OfficialMyAnimeList" rel="noreferrer"></a>
+        <a target="_blank" class="icon-sns icon-tw di-ib" title="Follow @myanimelist on Twitter" href="https://twitter.com/myanimelist" rel="noreferrer"></a></div>
+            <div class="footer-recommended ac">
+        <a target="_blank" class="icon-recommended icon-tokyo-otaku-mode" href="http://otakumode.com/fb/5aO" rel="noopener">Tokyo Otaku Mode</a>
+        <a target="_blank" class="icon-recommended icon-honeys-anime" href="https://honeysanime.com" rel="noopener">Honey's Anime</a>
+        <a target="_blank" class="icon-recommended icon-manga-store" href="https://myanimelist.net/store?_location=mal_f_m">Manga Store</a>
+      </div>
+    </div>
+
+    <div class="footer-fb">
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+      <div class="footer-fb-item">
+                <iframe class="fb-page" src="" width="450" height="154" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+      </div>
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+    </div>
+        
+    <div id="copyright">
+      MyAnimeList.net is a property of MyAnimeList Co.,Ltd. &copy;2021 All Rights Reserved.
+    </div>
+  </div>
+</footer>
+<div class="welcome-back popup-background">
+  <div class="popup">
+    <img class="logo" src="/img/pc/ownlist/logo_mal.png" alt="MyAnimeList">
+    <h3 class="popup-title">Welcome!</h3>
+    <p class="description">Join MyAnimeList to catalog your anime and manga, compare with your friends, create your own profile, and plenty more. It's free and easy to join.</p>
+    <div class="anime-slide1">
+      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/9/9453.jpg');"></div>
+      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/10/47347.jpg');"></div>
+      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/11/39717.jpg');"></div>
+      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
+
+      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/9/9453.jpg');"></div>
+      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/10/47347.jpg');"></div>
+      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/11/39717.jpg');"></div>
+      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
+    </div>
+    <div class="anime-slide2">
+      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/12/76049.jpg');"></div>
+      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/5/64449.jpg');"></div>
+      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/5/73199.jpg');"></div>
+      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/5/65187.jpg');"></div>
+
+      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/12/76049.jpg');"></div>
+      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/5/64449.jpg');"></div>
+      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/5/73199.jpg');"></div>
+      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/5/65187.jpg');"></div>
+    </div>
+    <h3 class="sign-up-with">Free Sign Up with</h3>
+    <div class="sns-sign-up">
+      <a class="sns-button google" href="/sns/login/google?from=%2Fanime%2F41433%2FAkudama_Drive&utm_medium=ldialog_google" onclick="ga('send', 'event', 'ldialog', 'click', 'google');">Google</a>
+      <a class="sns-button facebook" href="/sns/login/facebook?from=%2Fanime%2F41433%2FAkudama_Drive&utm_medium=ldialog_facebook" onclick="ga('send', 'event', 'ldialog', 'click', 'facebook');">Facebook</a>
+      <a class="sns-button twitter" href="/sns/login/twitter?from=%2Fanime%2F41433%2FAkudama_Drive&utm_medium=ldialog_twitter" onclick="ga('send', 'event', 'ldialog', 'click', 'twitter');">Twitter</a>
+    </div>
+    <div class="sign-up">
+      <a class="account register" href="/register.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'mail');">Create an account</a>
+      <br>      <a class="account" href="/login.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'login');">Already have an account?</a>
+    </div>
+    <div class="close-button" onclick="ga('send', 'event', 'ldialog', 'click', 'close');"></div>
+  </div>
+  <script>
+    $(function () {
+      ga('send', 'event', 'popup_login_form', 'show', location.href, {nonInteraction: true});
+      var onresize = function () {
+        var $welcome_back = $('.welcome-back');
+        var $popup = $('.welcome-back .popup');
+        var top = ($welcome_back.outerHeight() - $popup.outerHeight()) / 2;
+        $popup.css('top', top < 0 ? 0 : top);
+      };
+      var onclose = function () {
+        $('.welcome-back').addClass('fade-out')
+          .one('animationend', function () { $(this).remove(); });
+        $(window).off('resize', onresize);
+      };
+
+      var timer_id = null;
+      var show = function () {
+        timer_id = null;
+        // 優先順位の高いポップアップが出ていたら表示しない
+        if (($('.app_gdpr--2k2uB').length > 0 && $('.banner_hidden--MXmJ_').length === 0) || $('._cm-os-slider').length > 0 || $('#tbl-next-up').length > 0 || $('#gdpr-modal-bottom').length > 0) {
+          return
+        }
+        $('.welcome-back').addClass('fade-in');
+        onresize();
+        var timer = setTimeout(onclose,30000);
+        $('.popup').on('mousemove',function(){
+            clearTimeout(timer);
+            timer=setTimeout(onclose, 30000);
+        });
+      };
+
+      $(window)
+        .one('load', function () {
+          onresize();
+          timer_id = setTimeout(show,3000);
+          $('body').on('keydown mousedown mousemove',function(){
+            if(timer_id) {
+              clearTimeout(timer_id);
+              timer_id = setTimeout(show, 3000);
+            }
+          });
+          $(window).scroll(function(){
+            if(timer_id) {
+              clearTimeout(timer_id);
+              timer_id = setTimeout(show, 3000);
+            }
+          });
+        })
+        .on('resize', onresize);
+      $(document).one('click', '.close-button', function () {
+        onclose();
+      });
+      $('.register').click(function () {
+        ga('send', 'event', 'popup_login_form', 'click', location.href, {nonInteraction: true});
+      });
+    });
+  </script>
+</div>
+
+<script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+
+<script async>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga')
+
+  ga('create', 'UA-369102-1', 'auto')
+  ga('set', 'anonymizeIp', true)
+  ga('require', 'linkid') // Enhanced Link Attribution
+    ga('set', 'dimension1', 'guest')
+    ga('send', 'pageview')
+</script>   <script>
+window.onscroll = function(e){
+    const scrollThreshold = 50;
+    if (window.pageYOffset >= scrollThreshold) {
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            let t_height = ad.offsetHeight;
+            let offsetY = ad.getBoundingClientRect().top;
+            let screenHeight = window.outerHeight;
+            let t_position = offsetY - screenHeight;
+            if(-screenHeight<=(t_position　+　t_height) && t_position<0) {
+                ad.className = 'ad-tag';
+                (deployads = window.deployads || []).push({});
+            }
+        });
+    }
+}
+var timer = 0;
+window.onresize = function(e){
+    if (timer > 0) {
+        clearTimeout(timer);
+    }
+
+    timer = setTimeout(function () {
+        console.log('window resized');
+        [].forEach.call(document.querySelectorAll('.ad-tag'), function(ad) {
+            ad.className = 'no-ad';
+            (deployads = window.deployads || []).push({});
+        });
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            ad.className = 'ad-tag';
+            (deployads = window.deployads || []).push({});
+        });
+    }, 200);
+}
+</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WL4QW3G');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+var path = location.pathname;
+var param = location.search;
+
+dataLayer = dataLayer || [];
+
+// login.php
+
+function ga_notlogin(){
+  ga('send', 'event', 'not_login', '2.未ログインの場合', '/login.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=1');
+}
+
+function ga_sns(){
+  ga('send', 'event', 'sns_login', '2-1-1.ソーシャルログインの場合', '/login.php?login-mode=social&c-ms-mode=1');
+}
+
+function ga_login(){
+  ga('send', 'event', 'id_login', '2-1-2.IDログインの場合', '/login.php?login-mode=id&c-ms-mode=1');
+}
+
+// register.php
+
+function ga_registration(){
+  ga('send', 'event', 'registration', '2-2.会員登録ボタン', '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=2');
+}
+
+if ( path.match("register.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2F&c-ms-mode=2',
+        'member_title': '2-2-1.会員情報入力完了',
+        'event': 'loadready-register'
+    });
+}
+
+if ( path.match("login.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': path.concat(param, "&c-ms-mode=2"),
+        'member_title': '2-2-1.メールからの会員認証ページ',
+        'event': 'loadready-login'
+    });
+}
+
+// membership
+
+function ga_mal_banner(){
+  ga('send', 'event', 'support_mal', '2-3.MALバナー', '/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner&c-ms-mode=3');
+}
+
+if ( path.match("login.php") && param.match("from=%2F") ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=3',
+        'member_title': '2-2.会員登録ボタン',
+        'event': 'loadready-login'
+    });
+}
+
+function ga_credit(){
+  ga('send', 'event', 'support_mal', '3-1-1.クレカ登録', '/member-register?c-ms_payment=1&c-ms_mode=3');
+}
+
+function ga_paypal(){
+  ga('send', 'event', 'support_mal', '3-1-2.Paypal登録', '/member-register?c-ms_payment=2&c-ms_mode=3');
+}
+
+if ( path.match("account/membership/complete") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/member-register-complete?c-ms_payment=2&c-ms_mode=3',
+        'member_title': '3-1-2.MAL会員登録成功',
+        'event': 'loadready-member-register-complete'
+    });
+}
+
+</script>
+<script type="text/javascript">
+    window.MAL.magia = "06410c4e6b2518e9add8f6df0ccb2da2876bb8c980aacb43a8dcaa8153c0f92c";
+  window.MAL.madoka = "hZrDKm9k6FVRnqd3i%=K";
+
+  window.MAL.SLVK = "g4OvMLVOmEI3J8u7dt8f8+mAuualsqCo";
+  window.MAL.CDN_URL = "https://cdn.myanimelist.net";
+
+  window.MAL.CURRENT_TUTORIAL_STEP_ID = null;
+  window.MAL.USER_NAME = ""
+  window.MAL.FACEBOOK.APP_ID = "360769957454434"
+  window.MAL.FACEBOOK.API_VERSION = "v2.12"
+</script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+                    <script type="text/javascript">
+          window._taboola = window._taboola || [];
+          _taboola.push({flush: true});
+        </script>
+    </body>
+</html>
