@@ -690,8 +690,8 @@ anime,oseba,vloga
 28121,869,Supporting
 28121,13639,Supporting
 28121,7263,Supporting
-28121,5626,Supporting
 28121,18227,Supporting
+28121,5626,Supporting
 28121,12652,Supporting
 28121,270,Supporting
 28121,42213,Producer
@@ -1683,7 +1683,7 @@ anime,oseba,vloga
 20899,174,Supporting
 20899,243,Supporting
 20899,429,Supporting
-20899,8,Supporting
+20899,276,Supporting
 20899,40476,Producer
 20899,15107,Director
 20899,31545,Director
@@ -2779,8 +2779,8 @@ anime,oseba,vloga
 37347,13639,Supporting
 37347,20795,Supporting
 37347,7263,Supporting
-37347,5626,Supporting
 37347,18227,Supporting
+37347,5626,Supporting
 37347,12652,Supporting
 37347,10935,Director
 37347,8074,Sound Director
@@ -4570,20 +4570,6 @@ anime,oseba,vloga
 8516,8834,Sound Director
 8516,9265,Episode Director
 8516,16231,Episode Director
-20031,185,Main
-20031,93,Main
-20031,20,Main
-20031,132,Main
-20031,61,Main
-20031,116,Supporting
-20031,599,Supporting
-20031,52,Supporting
-20031,91,Supporting
-20031,70,Supporting
-20031,28655,Director
-20031,8185,Sound Director
-20031,185,Theme Song Performance
-20031,599,Theme Song Performance
 40956,25437,Main
 40956,46066,Main
 40956,6686,Main
@@ -4598,6 +4584,20 @@ anime,oseba,vloga
 40956,8074,Sound Director
 40956,12859,Theme Song Performance
 40956,36714,Theme Song Performance
+20031,185,Main
+20031,93,Main
+20031,20,Main
+20031,132,Main
+20031,61,Main
+20031,116,Supporting
+20031,599,Supporting
+20031,52,Supporting
+20031,91,Supporting
+20031,70,Supporting
+20031,28655,Director
+20031,8185,Sound Director
+20031,185,Theme Song Performance
+20031,599,Theme Song Performance
 20853,11030,Main
 20853,29295,Main
 20853,671,Main
@@ -4779,6 +4779,20 @@ anime,oseba,vloga
 28249,8074,Sound Director
 28249,38824,Episode Director
 28249,31583,Episode Director
+40776,15919,Main
+40776,20156,Main
+40776,270,Supporting
+40776,1764,Supporting
+40776,672,Supporting
+40776,513,Supporting
+40776,1762,Supporting
+40776,88,Supporting
+40776,15743,Supporting
+40776,21157,Supporting
+40776,25989,Script
+40776,12707,Theme Song Performance
+40776,32987,Theme Song Performance
+40776,21495,Music
 7785,186,Main
 7785,90,Main
 7785,283,Main
@@ -4807,20 +4821,6 @@ anime,oseba,vloga
 4752,10377,Storyboard
 4752,11976,Storyboard
 4752,8146,Storyboard
-40776,15919,Main
-40776,20156,Main
-40776,270,Supporting
-40776,1764,Supporting
-40776,672,Supporting
-40776,513,Supporting
-40776,1762,Supporting
-40776,88,Supporting
-40776,15743,Supporting
-40776,21157,Supporting
-40776,25989,Script
-40776,12707,Theme Song Performance
-40776,32987,Theme Song Performance
-40776,21495,Music
 6114,113,Main
 6114,398,Main
 6114,82,Main
@@ -6482,8 +6482,8 @@ anime,oseba,vloga
 33028,144,Main
 33028,24,Main
 33028,24,Main
-33028,144,Main
 33028,31,Main
+33028,144,Main
 33028,287,Supporting
 33028,53277,Producer
 33028,6909,Director
@@ -7615,6 +7615,20 @@ anime,oseba,vloga
 2581,5083,Director
 2581,16749,Sound Director
 2581,13677,Episode Director
+40497,513,Main
+40497,869,Main
+40497,7263,Main
+40497,185,Supporting
+40497,11784,Supporting
+40497,6997,Supporting
+40497,6560,Supporting
+40497,21517,Supporting
+40497,158,Supporting
+40497,8639,Supporting
+40497,49733,Director
+40497,20216,Theme Song Performance
+40497,5172,Music
+40497,15613,Original Creator
 37744,34785,Main
 37744,38438,Main
 37744,45496,Supporting
@@ -7643,20 +7657,6 @@ anime,oseba,vloga
 2129,6837,Director
 2129,33967,Sound Director
 2129,6518,Episode Director
-40497,513,Main
-40497,869,Main
-40497,7263,Main
-40497,185,Supporting
-40497,11784,Supporting
-40497,6997,Supporting
-40497,6560,Supporting
-40497,21517,Supporting
-40497,158,Supporting
-40497,8639,Supporting
-40497,49733,Director
-40497,20216,Theme Song Performance
-40497,5172,Music
-40497,15613,Original Creator
 9941,125,Main
 9941,205,Main
 9941,270,Supporting
@@ -7922,19 +7922,6 @@ anime,oseba,vloga
 40417,8074,Sound Director
 40417,12965,Theme Song Performance
 40417,48910,Theme Song Performance
-550,287,Main
-550,112,Main
-550,6,Main
-550,287,Main
-550,1223,Main
-550,298,Main
-550,177,Main
-550,1223,Supporting
-550,1576,Supporting
-550,40537,Director
-550,5650,Director
-550,38987,Episode Director
-550,47930,Episode Director
 41433,79,Main
 41433,11661,Main
 41433,34209,Main
@@ -7949,6 +7936,19 @@ anime,oseba,vloga
 41433,30337,Sound Director
 41433,46064,Theme Song Performance
 41433,51944,Theme Song Performance
+550,287,Main
+550,112,Main
+550,6,Main
+550,287,Main
+550,1223,Main
+550,298,Main
+550,177,Main
+550,1223,Supporting
+550,1576,Supporting
+550,40537,Director
+550,5650,Director
+550,38987,Episode Director
+550,47930,Episode Director
 34104,34785,Main
 34104,15903,Main
 34104,40400,Main
@@ -8004,8 +8004,8 @@ anime,oseba,vloga
 18139,6024,Inserted Song Performance
 30187,93,Main
 30187,30853,Main
-30187,17,Supporting
 30187,34697,Supporting
+30187,17,Supporting
 30187,12487,Supporting
 30187,195,Supporting
 30187,167,Supporting
@@ -8560,8 +8560,8 @@ anime,oseba,vloga
 35222,17215,Supporting
 35222,1489,Supporting
 35222,212,Supporting
-35222,43279,Supporting
 35222,47335,Supporting
+35222,43279,Supporting
 35222,723,Supporting
 35222,6549,Sound Director
 35222,15655,Script
@@ -8973,6 +8973,20 @@ anime,oseba,vloga
 12431,20050,Sound Director
 12431,35807,Episode Director
 12431,42077,Episode Director
+41930,16635,Main
+41930,11622,Main
+41930,5142,Supporting
+41930,279,Supporting
+41930,25991,Supporting
+41930,52135,Supporting
+41930,5295,Supporting
+41930,14161,Supporting
+41930,1762,Supporting
+41930,141,Supporting
+41930,37429,Director
+41930,35787,Sound Director
+41930,2347,Script
+41930,14637,Theme Song Performance
 21353,17091,Main
 21353,10013,Main
 21353,579,Supporting
@@ -9028,20 +9042,6 @@ anime,oseba,vloga
 5940,5657,Director
 5940,40875,Sound Director
 5940,25613,Episode Director
-41930,16635,Main
-41930,11622,Main
-41930,5142,Supporting
-41930,279,Supporting
-41930,25991,Supporting
-41930,52135,Supporting
-41930,5295,Supporting
-41930,14161,Supporting
-41930,1762,Supporting
-41930,141,Supporting
-41930,37429,Director
-41930,35787,Sound Director
-41930,2347,Script
-41930,14637,Theme Song Performance
 36266,42259,Main
 36266,28921,Main
 36266,21515,Main
@@ -10008,6 +10008,20 @@ anime,oseba,vloga
 34591,25613,Director
 34591,36836,Episode Director
 34591,52006,Episode Director
+40595,21517,Main
+40595,26705,Main
+40595,36812,Supporting
+40595,10217,Supporting
+40595,42439,Supporting
+40595,21543,Supporting
+40595,38176,Supporting
+40595,80,Supporting
+40595,6996,Supporting
+40595,39127,Supporting
+40595,6753,Director
+40595,41261,Director
+40595,37118,Sound Director
+40595,21517,Theme Song Performance
 33478,73,Main
 33478,11893,Main
 33478,43104,Main
@@ -10064,20 +10078,6 @@ anime,oseba,vloga
 16157,8074,Sound Director
 16157,39644,Episode Director
 16157,11845,Episode Director
-40595,21517,Main
-40595,26705,Main
-40595,36812,Supporting
-40595,10217,Supporting
-40595,42439,Supporting
-40595,21543,Supporting
-40595,38176,Supporting
-40595,80,Supporting
-40595,6996,Supporting
-40595,39127,Supporting
-40595,6753,Director
-40595,41261,Director
-40595,37118,Sound Director
-40595,21517,Theme Song Performance
 18893,9593,Main
 18893,7288,Main
 18893,9973,Supporting
@@ -11003,6 +11003,17 @@ anime,oseba,vloga
 16005,19369,Director
 16005,30337,Sound Director
 16005,34579,Episode Director
+41380,24875,Main
+41380,45853,Main
+41380,36812,Main
+41380,39366,Main
+41380,61,Supporting
+41380,90,Supporting
+41380,600,Supporting
+41380,50854,Director
+41380,40875,Sound Director
+41380,39552,Theme Song Performance
+41380,39553,Inserted Song Performance
 7590,6996,Main
 7590,762,Main
 7590,885,Main
@@ -11031,17 +11042,6 @@ anime,oseba,vloga
 3467,6016,Sound Director
 3467,31665,Storyboard
 3467,40,Theme Song Performance
-41380,24875,Main
-41380,45853,Main
-41380,36812,Main
-41380,39366,Main
-41380,61,Supporting
-41380,90,Supporting
-41380,600,Supporting
-41380,50854,Director
-41380,40875,Sound Director
-41380,39552,Theme Song Performance
-41380,39553,Inserted Song Performance
 534,14,Main
 534,112,Main
 534,310,Main
@@ -11152,6 +11152,17 @@ anime,oseba,vloga
 19365,11449,Episode Director
 19365,40847,Episode Director
 19365,48837,Episode Director
+40911,18227,Main
+40911,17635,Main
+40911,9580,Main
+40911,47439,Main
+40911,245,Supporting
+40911,24875,Supporting
+40911,1154,Supporting
+40911,18003,Director
+40911,30689,Sound Director
+40911,12018,Theme Song Performance
+40911,26977,Theme Song Performance
 687,329,Main
 687,277,Main
 687,298,Main
@@ -11166,17 +11177,6 @@ anime,oseba,vloga
 687,40493,Episode Director
 687,24389,Episode Director
 687,10285,Storyboard
-40911,18227,Main
-40911,17635,Main
-40911,9580,Main
-40911,47439,Main
-40911,245,Supporting
-40911,24875,Supporting
-40911,1154,Supporting
-40911,18003,Director
-40911,30689,Sound Director
-40911,12018,Theme Song Performance
-40911,26977,Theme Song Performance
 18,22,Main
 18,160,Main
 18,1,Main
@@ -11518,8 +11518,8 @@ anime,oseba,vloga
 4477,1251,Supporting
 4477,42,Supporting
 4477,333,Supporting
-4477,92,Supporting
 4477,93,Supporting
+4477,92,Supporting
 4477,9,Supporting
 4477,245,Supporting
 4477,241,Supporting
@@ -12688,20 +12688,6 @@ anime,oseba,vloga
 4720,15107,Episode Director
 4720,9571,Episode Director
 4720,15805,Episode Director
-37426,1764,Main
-37426,39133,Main
-37426,15919,Main
-37426,65,Supporting
-37426,5626,Supporting
-37426,95,Supporting
-37426,49673,Supporting
-37426,591,Supporting
-37426,8,Supporting
-37426,1122,Supporting
-37426,5082,Director
-37426,13709,Director
-37426,35729,Sound Director
-37426,50658,Episode Director
 32032,494,Main
 32032,25437,Main
 32032,1526,Main
@@ -12716,6 +12702,20 @@ anime,oseba,vloga
 32032,12077,Director
 32032,11547,Director
 32032,30337,Sound Director
+37426,1764,Main
+37426,39133,Main
+37426,15919,Main
+37426,65,Supporting
+37426,5626,Supporting
+37426,95,Supporting
+37426,49673,Supporting
+37426,591,Supporting
+37426,8,Supporting
+37426,1122,Supporting
+37426,5082,Director
+37426,13709,Director
+37426,35729,Sound Director
+37426,50658,Episode Director
 65,60,Main
 65,136,Main
 65,99,Main
@@ -12832,8 +12832,8 @@ anime,oseba,vloga
 25517,14,Supporting
 25517,496,Supporting
 25517,113,Supporting
-25517,65,Supporting
 25517,516,Supporting
+25517,65,Supporting
 25517,598,Supporting
 25517,413,Supporting
 25517,38368,Producer
@@ -13750,6 +13750,19 @@ anime,oseba,vloga
 33985,42227,Theme Song Performance
 33985,9299,Art Director
 33985,23809,Color Design
+40397,11297,Main
+40397,11817,Main
+40397,20156,Supporting
+40397,27395,Supporting
+40397,34615,Supporting
+40397,15903,Supporting
+40397,92,Supporting
+40397,95,Supporting
+40397,113,Supporting
+40397,15249,Director
+40397,11297,Theme Song Performance
+40397,45297,Theme Song Performance
+40397,10082,Music
 36317,18227,Main
 36317,407,Supporting
 36317,7263,Supporting
@@ -13764,19 +13777,6 @@ anime,oseba,vloga
 36317,39370,Sound Director
 36317,48446,Script
 36317,18227,Theme Song Performance
-40397,11297,Main
-40397,11817,Main
-40397,20156,Supporting
-40397,27395,Supporting
-40397,34615,Supporting
-40397,15903,Supporting
-40397,92,Supporting
-40397,95,Supporting
-40397,113,Supporting
-40397,15249,Director
-40397,11297,Theme Song Performance
-40397,45297,Theme Song Performance
-40397,10082,Music
 22507,22,Main
 22507,160,Main
 22507,1,Main
@@ -14379,6 +14379,20 @@ anime,oseba,vloga
 30895,35787,Sound Director
 30895,2076,Script
 30895,24947,Theme Song Performance
+41312,17297,Main
+41312,25991,Main
+41312,195,Supporting
+41312,35441,Supporting
+41312,333,Supporting
+41312,39366,Supporting
+41312,212,Supporting
+41312,43104,Supporting
+41312,37047,Supporting
+41312,17635,Supporting
+41312,33207,Director
+41312,37045,Sound Director
+41312,15641,Script
+41312,17297,Theme Song Performance
 38889,33995,Main
 38889,17215,Main
 38889,44870,Main
@@ -14420,20 +14434,6 @@ anime,oseba,vloga
 28423,8185,Sound Director
 28423,38026,Theme Song Performance
 28423,39082,Theme Song Performance
-41312,17297,Main
-41312,25991,Main
-41312,195,Supporting
-41312,35441,Supporting
-41312,333,Supporting
-41312,39366,Supporting
-41312,212,Supporting
-41312,43104,Supporting
-41312,37047,Supporting
-41312,17635,Supporting
-41312,33207,Director
-41312,37045,Sound Director
-41312,15641,Script
-41312,17297,Theme Song Performance
 32094,556,Main
 32094,130,Main
 32094,8983,Supporting
@@ -15227,6 +15227,20 @@ anime,oseba,vloga
 32023,8074,Sound Director
 32023,39900,Script
 32023,26633,Script
+40059,34615,Main
+40059,17629,Main
+40059,221,Main
+40059,591,Supporting
+40059,337,Supporting
+40059,5626,Supporting
+40059,20,Supporting
+40059,91,Supporting
+40059,299,Supporting
+40059,576,Supporting
+40059,11268,Director
+40059,8074,Sound Director
+40059,49457,Theme Song Performance
+40059,39642,Music
 38161,20,Main
 38161,513,Main
 38161,23249,Supporting
@@ -15255,20 +15269,6 @@ anime,oseba,vloga
 478,661,Producer
 478,2501,Director
 478,5639,Director
-40059,34615,Main
-40059,17629,Main
-40059,221,Main
-40059,591,Supporting
-40059,337,Supporting
-40059,5626,Supporting
-40059,20,Supporting
-40059,91,Supporting
-40059,299,Supporting
-40059,576,Supporting
-40059,11268,Director
-40059,8074,Sound Director
-40059,49457,Theme Song Performance
-40059,39642,Music
 7079,655,Main
 7079,655,Main
 7079,52,Main
@@ -15952,6 +15952,19 @@ anime,oseba,vloga
 3613,15943,Sound Director
 3613,38420,Episode Director
 3613,35015,Episode Director
+40974,46800,Main
+40974,36812,Main
+40974,5250,Supporting
+40974,39149,Supporting
+40974,11297,Supporting
+40974,40742,Supporting
+40974,25343,Supporting
+40974,49776,Supporting
+40974,68,Supporting
+40974,40215,Director
+40974,48890,Director
+40974,37638,Sound Director
+40974,36812,Theme Song Performance
 32608,12017,Main
 32608,819,Main
 32608,93,Supporting
@@ -15966,19 +15979,6 @@ anime,oseba,vloga
 32608,9490,Sound Director
 32608,44528,Episode Director
 32608,49320,Script
-40974,46800,Main
-40974,36812,Main
-40974,5250,Supporting
-40974,39149,Supporting
-40974,11297,Supporting
-40974,40742,Supporting
-40974,25343,Supporting
-40974,49776,Supporting
-40974,68,Supporting
-40974,40215,Director
-40974,48890,Director
-40974,37638,Sound Director
-40974,36812,Theme Song Performance
 35427,25645,Main
 35427,38659,Main
 35427,27243,Main
@@ -16717,6 +16717,20 @@ anime,oseba,vloga
 2369,6016,Sound Director
 2369,40170,Episode Director
 2369,24147,Script
+41783,5142,Main
+41783,14441,Main
+41783,36461,Main
+41783,39149,Main
+41783,27,Supporting
+41783,10071,Supporting
+41783,5997,Supporting
+41783,47536,Supporting
+41783,42204,Supporting
+41783,671,Supporting
+41783,9826,Director
+41783,5142,Theme Song Performance
+41783,14441,Theme Song Performance
+41783,39149,Theme Song Performance
 15125,185,Main
 15125,11359,Main
 15125,18455,Main
@@ -16742,20 +16756,6 @@ anime,oseba,vloga
 33589,39069,Sound Director
 33589,8826,Script
 33589,11297,Theme Song Performance
-41783,5142,Main
-41783,14441,Main
-41783,36461,Main
-41783,39149,Main
-41783,27,Supporting
-41783,10071,Supporting
-41783,5997,Supporting
-41783,47536,Supporting
-41783,42204,Supporting
-41783,671,Supporting
-41783,9826,Director
-41783,5142,Theme Song Performance
-41783,14441,Theme Song Performance
-41783,39149,Theme Song Performance
 21167,12212,Main
 21167,20156,Main
 21167,11787,Supporting
@@ -17236,8 +17236,8 @@ anime,oseba,vloga
 10015,40547,Sound Director
 10015,11829,Script
 10015,36770,Script
-39221,819,Main
 39221,25437,Main
+39221,819,Main
 39221,20,Main
 39221,13639,Supporting
 39221,27495,Supporting
@@ -17453,14 +17453,6 @@ anime,oseba,vloga
 161,38304,Director
 161,8834,Sound Director
 161,11406,Episode Director
-31091,8921,Main
-31091,30901,Main
-31091,27395,Main
-31091,37722,Supporting
-31091,16373,Director
-31091,33713,Sound Director
-31091,25227,Original Creator
-31091,33715,Editing
 40550,45243,Main
 40550,49032,Main
 40550,26541,Main
@@ -17475,6 +17467,14 @@ anime,oseba,vloga
 40550,8834,Sound Director
 40550,45243,Theme Song Performance
 40550,48505,Theme Song Performance
+31091,8921,Main
+31091,30901,Main
+31091,27395,Main
+31091,37722,Supporting
+31091,16373,Director
+31091,33713,Sound Director
+31091,25227,Original Creator
+31091,33715,Editing
 1453,425,Main
 1453,629,Main
 1453,255,Main
@@ -17932,8 +17932,8 @@ anime,oseba,vloga
 35834,39133,Supporting
 35834,819,Supporting
 35834,792,Supporting
-35834,113,Supporting
 35834,39128,Supporting
+35834,113,Supporting
 35834,299,Supporting
 35834,735,Supporting
 35834,48786,Director
@@ -19330,7 +19330,7 @@ anime,oseba,vloga
 24855,10981,Supporting
 24855,10765,Supporting
 24855,8,Supporting
-24855,156,Supporting
+24855,7254,Supporting
 24855,46598,Producer
 24855,9686,Producer
 24855,15663,Director
@@ -19660,9 +19660,9 @@ anime,oseba,vloga
 5702,8080,Episode Director
 37598,185,Main
 37598,270,Main
-37598,21971,Main
-37598,2,Main
 37598,79,Main
+37598,2,Main
+37598,21971,Main
 37598,28,Supporting
 37598,44317,Supporting
 37598,113,Supporting
@@ -20153,20 +20153,6 @@ anime,oseba,vloga
 4028,6016,Sound Director
 4028,42034,Episode Director
 4028,40170,Episode Director
-1570,376,Main
-1570,492,Main
-1570,1131,Main
-1570,1636,Main
-1570,5281,Main
-1570,6921,Supporting
-1570,1635,Supporting
-1570,93,Supporting
-1570,1548,Supporting
-1570,221,Supporting
-1570,40492,Director
-1570,48558,Sound Director
-1570,38061,Episode Director
-1570,40146,Episode Director
 38337,11297,Main
 38337,11622,Main
 38337,16135,Main
@@ -20181,6 +20167,20 @@ anime,oseba,vloga
 38337,8074,Sound Director
 38337,15641,Script
 38337,11297,Theme Song Performance
+1570,376,Main
+1570,492,Main
+1570,1131,Main
+1570,1636,Main
+1570,5281,Main
+1570,6921,Supporting
+1570,1635,Supporting
+1570,93,Supporting
+1570,1548,Supporting
+1570,221,Supporting
+1570,40492,Director
+1570,48558,Sound Director
+1570,38061,Episode Director
+1570,40146,Episode Director
 37188,10981,Main
 37188,25167,Main
 37188,27643,Supporting
@@ -20249,17 +20249,6 @@ anime,oseba,vloga
 37206,15943,Sound Director
 37206,8067,Script
 37206,47717,Storyboard
-119,204,Main
-119,440,Main
-119,584,Supporting
-119,401,Supporting
-119,434,Supporting
-119,27,Supporting
-119,170,Supporting
-119,19329,Producer
-119,12585,Director
-119,11268,Storyboard
-119,7402,Theme Song Performance
 42668,30211,Main
 42668,819,Main
 42668,87,Main
@@ -20274,6 +20263,17 @@ anime,oseba,vloga
 42668,672,Theme Song Performance
 42668,87,Theme Song Performance
 42668,819,Theme Song Performance
+119,204,Main
+119,440,Main
+119,584,Supporting
+119,401,Supporting
+119,434,Supporting
+119,27,Supporting
+119,170,Supporting
+119,19329,Producer
+119,12585,Director
+119,11268,Storyboard
+119,7402,Theme Song Performance
 690,209,Main
 690,22,Main
 690,287,Supporting
@@ -21521,8 +21521,8 @@ anime,oseba,vloga
 37869,110,Main
 37869,11622,Main
 37869,40511,Main
-37869,15903,Main
 37869,17297,Main
+37869,15903,Main
 37869,48874,Director
 37869,35787,Sound Director
 37869,52140,Episode Director
@@ -23547,13 +23547,13 @@ anime,oseba,vloga
 36309,735,Main
 36309,9580,Main
 36309,23249,Supporting
-36309,600,Supporting
 36309,36503,Supporting
-36309,1489,Supporting
+36309,600,Supporting
 36309,857,Supporting
-36309,42087,Supporting
-36309,35193,Supporting
+36309,1489,Supporting
 36309,45357,Supporting
+36309,35193,Supporting
+36309,42439,Supporting
 36309,41253,Director
 36309,37045,Sound Director
 36309,7337,Theme Song Performance
@@ -24914,6 +24914,15 @@ anime,oseba,vloga
 1583,6016,Sound Director
 1583,10958,Episode Director
 1583,5172,Music
+41364,25437,Main
+41364,12212,Main
+41364,34785,Main
+41364,21543,Main
+41364,39149,Main
+41364,50817,Script
+41364,18803,Original Character Design
+41364,50816,Original Creator
+41364,39415,Character Design
 308,600,Main
 308,810,Main
 308,61,Main
@@ -24927,15 +24936,6 @@ anime,oseba,vloga
 308,936,Sound Director
 308,16373,Episode Director
 308,31571,Episode Director
-41364,25437,Main
-41364,12212,Main
-41364,34785,Main
-41364,21543,Main
-41364,39149,Main
-41364,50817,Script
-41364,18803,Original Character Design
-41364,50816,Original Creator
-41364,39415,Character Design
 38098,13639,Main
 38098,33995,Main
 38098,672,Main
@@ -25926,8 +25926,8 @@ anime,oseba,vloga
 37873,110,Main
 37873,11622,Main
 37873,40511,Main
-37873,15903,Main
 37873,17297,Main
+37873,15903,Main
 37873,40961,Director
 37873,40962,Storyboard
 37873,11622,Theme Song Performance
@@ -26689,6 +26689,17 @@ anime,oseba,vloga
 2253,6306,Episode Director
 2253,9516,Episode Director
 2253,13767,Script
+40504,39938,Main
+40504,185,Main
+40504,21971,Main
+40504,14441,Supporting
+40504,46800,Supporting
+40504,11622,Supporting
+40504,12212,Supporting
+40504,15643,Director
+40504,8834,Sound Director
+40504,28383,Script
+40504,37611,Script
 2409,17,Main
 2409,22,Main
 2409,5246,Main
@@ -26702,17 +26713,6 @@ anime,oseba,vloga
 2409,6598,Episode Director
 2409,22703,Episode Director
 2409,38420,Episode Director
-40504,39938,Main
-40504,185,Main
-40504,21971,Main
-40504,14441,Supporting
-40504,46800,Supporting
-40504,11622,Supporting
-40504,12212,Supporting
-40504,15643,Director
-40504,8834,Sound Director
-40504,28383,Script
-40504,37611,Script
 35114,39128,Main
 35114,45154,Main
 35114,45155,Main
@@ -26886,6 +26886,9 @@ anime,oseba,vloga
 5155,5393,Director
 5155,8462,Script
 5155,8213,Theme Song Composition
+41266,9503,Supporting
+41266,50614,Director
+41266,10728,Original Creator
 1932,407,Main
 1932,88,Main
 1932,655,Main
@@ -26900,9 +26903,6 @@ anime,oseba,vloga
 1932,12664,Episode Director
 1932,11924,Episode Director
 1932,8743,Episode Director
-41266,9503,Supporting
-41266,50614,Director
-41266,10728,Original Creator
 1591,70,Main
 1591,725,Main
 1591,451,Main
@@ -27931,19 +27931,6 @@ anime,oseba,vloga
 582,29213,Episode Director
 37268,6738,Storyboard
 37268,10981,Theme Song Performance
-34411,11510,Main
-34411,213,Main
-34411,7512,Main
-34411,7512,Main
-34411,7288,Main
-34411,1526,Main
-34411,245,Main
-34411,48677,Supporting
-34411,10594,Supporting
-34411,48669,Director
-34411,48676,Sound Director
-34411,38085,Art Director
-34411,45063,Music
 40272,8639,Main
 40272,43680,Main
 40272,40432,Main
@@ -27958,6 +27945,19 @@ anime,oseba,vloga
 40272,36682,Sound Director
 40272,7695,Theme Song Performance
 40272,167,Theme Song Performance
+34411,11510,Main
+34411,213,Main
+34411,7512,Main
+34411,7512,Main
+34411,7288,Main
+34411,1526,Main
+34411,245,Main
+34411,48677,Supporting
+34411,10594,Supporting
+34411,48669,Director
+34411,48676,Sound Director
+34411,38085,Art Director
+34411,45063,Music
 29941,11864,Main
 29941,34209,Main
 29941,20835,Main
@@ -28788,8 +28788,8 @@ anime,oseba,vloga
 4362,243,Main
 4362,47022,Director
 817,31,Main
-817,441,Main
 817,132,Main
+817,441,Main
 817,116,Supporting
 817,539,Supporting
 817,124,Supporting
@@ -31692,8 +31692,8 @@ anime,oseba,vloga
 40854,110,Main
 40854,11622,Main
 40854,40511,Main
-40854,15903,Main
 40854,17297,Main
+40854,15903,Main
 38673,19884,Main
 38673,40903,Main
 38673,36812,Main
@@ -32439,6 +32439,10 @@ anime,oseba,vloga
 4443,62,Supporting
 4443,374,Supporting
 4443,6018,Original Creator
+42883,51982,Producer
+42883,51983,Producer
+42883,51984,Producer
+42883,36529,Director
 2361,1506,Main
 2361,651,Main
 2361,1518,Main
@@ -32453,10 +32457,6 @@ anime,oseba,vloga
 2361,11694,Script
 2361,9222,Theme Song Performance
 2361,8893,In-Between Animation
-42883,51982,Producer
-42883,51983,Producer
-42883,51984,Producer
-42883,36529,Director
 349,441,Main
 349,111,Main
 349,309,Main
@@ -35129,8 +35129,8 @@ anime,oseba,vloga
 39620,47386,Sound Director
 39620,26493,Script
 39620,13763,Theme Song Performance
-4823,1702,Main
 4823,6725,Main
+4823,1702,Main
 4823,21,Main
 4823,701,Main
 4823,710,Supporting
@@ -37269,8 +37269,8 @@ anime,oseba,vloga
 4439,9623,Director
 4439,9058,Episode Director
 4439,11783,Script
-4044,11930,Main
 4044,43728,Main
+4044,11930,Main
 4044,339,Main
 4044,24631,Supporting
 4044,6455,Supporting
@@ -41202,12 +41202,13 @@ anime,oseba,vloga
 16650,5764,Main
 16650,21,Supporting
 16650,75,Supporting
+16650,138,Supporting
 16650,339,Supporting
 16650,918,Supporting
-16650,138,Supporting
-16650,6792,Supporting
+16650,683,Supporting
 16650,11795,Supporting
 16650,8775,Supporting
+16650,6792,Supporting
 16650,6837,Director
 16650,3710,Episode Director
 16650,10276,Episode Director

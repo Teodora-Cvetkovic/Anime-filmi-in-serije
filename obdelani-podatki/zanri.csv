@@ -1586,13 +1586,13 @@ anime,zanr
 8516,Romance
 8516,School
 8516,Super Power
+40956,Action
+40956,Supernatural
+40956,Shounen
 20031,Game
 20031,Comedy
 20031,School
 20031,Seinen
-40956,Action
-40956,Supernatural
-40956,Shounen
 20853,Action
 20853,Adventure
 20853,Comedy
@@ -1649,6 +1649,11 @@ anime,zanr
 28249,Fantasy
 28249,Historical
 28249,Shounen
+40776,Comedy
+40776,Sports
+40776,Drama
+40776,School
+40776,Shounen
 7785,Mystery
 7785,Comedy
 7785,Psychological
@@ -1659,11 +1664,6 @@ anime,zanr
 4752,Shoujo
 4752,Supernatural
 4752,Vampire
-40776,Comedy
-40776,Sports
-40776,Drama
-40776,School
-40776,Shounen
 6114,Drama
 6114,Historical
 6114,Seinen
@@ -2551,18 +2551,18 @@ anime,zanr
 2581,Space
 2581,Drama
 2581,Mecha
-37744,Action
-37744,Adventure
-37744,Fantasy
-2129,Drama
-2129,Romance
-2129,School
 40497,Action
 40497,Sci-Fi
 40497,Supernatural
 40497,Magic
 40497,Romance
 40497,School
+37744,Action
+37744,Adventure
+37744,Fantasy
+2129,Drama
+2129,Romance
+2129,School
 9941,Action
 9941,Mystery
 9941,Comedy
@@ -2642,13 +2642,13 @@ anime,zanr
 40417,Drama
 40417,Romance
 40417,Shoujo
+41433,Action
+41433,Sci-Fi
 550,Action
 550,Game
 550,Comedy
 550,Fantasy
 550,Shounen
-41433,Action
-41433,Sci-Fi
 34104,Action
 34104,Fantasy
 34104,Mecha
@@ -2953,6 +2953,8 @@ anime,zanr
 12431,Seinen
 12431,Slice of Life
 12431,Space
+41930,Drama
+41930,Fantasy
 21353,Action
 21353,Sci-Fi
 21353,Comedy
@@ -2969,8 +2971,6 @@ anime,zanr
 5940,Action
 5940,Adventure
 5940,Fantasy
-41930,Drama
-41930,Fantasy
 36266,Drama
 36266,Horror
 36266,Psychological
@@ -3249,6 +3249,10 @@ anime,zanr
 34591,Supernatural
 34591,Drama
 34591,Shoujo
+40595,Action
+40595,Military
+40595,Romance
+40595,Fantasy
 33478,Action
 33478,Sci-Fi
 33478,Magic
@@ -3267,10 +3271,6 @@ anime,zanr
 16157,Parody
 16157,Sci-Fi
 16157,Supernatural
-40595,Action
-40595,Military
-40595,Romance
-40595,Fantasy
 18893,Action
 18893,Sci-Fi
 18893,Seinen
@@ -3551,16 +3551,16 @@ anime,zanr
 16005,Super Power
 16005,Supernatural
 16005,Shounen
-7590,Comedy
-7590,Harem
-7590,Romance
-3467,Comedy
-3467,Romance
 41380,Action
 41380,Game
 41380,Drama
 41380,Fantasy
 41380,Shounen
+7590,Comedy
+7590,Harem
+7590,Romance
+3467,Comedy
+3467,Romance
 534,Adventure
 534,Comedy
 534,Demons
@@ -3595,16 +3595,16 @@ anime,zanr
 19365,Comedy
 19365,Parody
 19365,Super Power
+40911,Mystery
+40911,Historical
+40911,Psychological
+40911,Shounen
 687,Sci-Fi
 687,Comedy
 687,Magic
 687,Romance
 687,Fantasy
 687,Shoujo
-40911,Mystery
-40911,Historical
-40911,Psychological
-40911,Shounen
 18,Action
 18,Cars
 18,Sports
@@ -4072,10 +4072,10 @@ anime,zanr
 4720,Harem
 4720,Music
 4720,Romance
+32032,Sci-Fi
 37426,Action
 37426,Supernatural
 37426,Fantasy
-32032,Sci-Fi
 65,Action
 65,Comedy
 65,Drama
@@ -4397,14 +4397,14 @@ anime,zanr
 33985,Action
 33985,Supernatural
 33985,Vampire
-36317,Comedy
-36317,Slice of Life
 40397,Slice of Life
 40397,Comedy
 40397,Supernatural
 40397,Magic
 40397,Fantasy
 40397,Shounen
+36317,Comedy
+36317,Slice of Life
 22507,Sports
 22507,Cars
 22507,Seinen
@@ -4582,6 +4582,10 @@ anime,zanr
 30895,Mystery
 30895,Romance
 30895,School
+41312,Adventure
+41312,Slice of Life
+41312,Magic
+41312,Fantasy
 38889,Drama
 38889,Music
 38889,Romance
@@ -4597,10 +4601,6 @@ anime,zanr
 28423,Romance
 28423,School
 28423,Shounen
-41312,Adventure
-41312,Slice of Life
-41312,Magic
-41312,Fantasy
 32094,Comedy
 32094,Magic
 32094,Fantasy
@@ -4833,6 +4833,10 @@ anime,zanr
 32023,Sci-Fi
 32023,Drama
 32023,Mecha
+40059,Action
+40059,Adventure
+40059,Historical
+40059,Seinen
 38161,Mystery
 38161,Comedy
 38161,Drama
@@ -4842,10 +4846,6 @@ anime,zanr
 478,Super Power
 478,Supernatural
 478,Sci-Fi
-40059,Action
-40059,Adventure
-40059,Historical
-40059,Seinen
 7079,Action
 7079,Mystery
 7079,Horror
@@ -5043,11 +5043,11 @@ anime,zanr
 3613,Military
 3613,Comedy
 3613,Romance
-32608,Adventure
-32608,Fantasy
 40974,Adventure
 40974,Comedy
 40974,Fantasy
+32608,Adventure
+32608,Fantasy
 35427,Comedy
 35427,Parody
 35427,School
@@ -5263,6 +5263,9 @@ anime,zanr
 2369,Mystery
 2369,Supernatural
 2369,Fantasy
+41783,Comedy
+41783,Sports
+41783,School
 15125,Comedy
 15125,School
 15125,Shounen
@@ -5271,9 +5274,6 @@ anime,zanr
 33589,Drama
 33589,Magic
 33589,Martial Arts
-41783,Comedy
-41783,Sports
-41783,School
 21167,Fantasy
 6758,Action
 6758,Fantasy
@@ -5486,12 +5486,12 @@ anime,zanr
 161,Historical
 161,Samurai
 161,Shounen
-31091,Slice of Life
-31091,Comedy
-31091,School
 40550,Action
 40550,Magic
 40550,Fantasy
+31091,Slice of Life
+31091,Comedy
+31091,School
 1453,Slice of Life
 1453,Comedy
 1453,Drama
@@ -6275,13 +6275,13 @@ anime,zanr
 4028,Adventure
 4028,Comedy
 4028,Fantasy
+38337,Slice of Life
+38337,Comedy
 1570,Comedy
 1570,Harem
 1570,Magic
 1570,Romance
 1570,School
-38337,Slice of Life
-38337,Comedy
 37188,Comedy
 37188,Slice of Life
 40075,Sci-Fi
@@ -6298,11 +6298,11 @@ anime,zanr
 37206,Comedy
 37206,School
 37206,Sports
+42668,Sports
 119,Comedy
 119,Drama
 119,Romance
 119,Slice of Life
-42668,Sports
 690,Action
 690,Horror
 690,Demons
@@ -7686,12 +7686,12 @@ anime,zanr
 1583,Mecha
 1583,Sci-Fi
 1583,Seinen
+41364,Slice of Life
 308,Sci-Fi
 308,Mystery
 308,Drama
 308,Fantasy
 308,Shounen
-41364,Slice of Life
 38098,Drama
 38098,Romance
 38098,School
@@ -8213,14 +8213,14 @@ anime,zanr
 2253,Mecha
 2253,Sci-Fi
 2253,Shounen
-2409,Adventure
-2409,Comedy
-2409,Fantasy
-2409,Magic
 40504,Comedy
 40504,Sports
 40504,Drama
 40504,Shounen
+2409,Adventure
+2409,Comedy
+2409,Fantasy
+2409,Magic
 35114,Drama
 35114,School
 23433,Slice of Life
@@ -8274,16 +8274,16 @@ anime,zanr
 5155,Drama
 5155,Historical
 5155,Romance
-1932,Action
-1932,Fantasy
-1932,Magic
-1932,School
-1932,Shoujo
 41266,Slice of Life
 41266,Comedy
 41266,Historical
 41266,Sports
 41266,Seinen
+1932,Action
+1932,Fantasy
+1932,Magic
+1932,School
+1932,Shoujo
 1591,Comedy
 1591,Romance
 1591,School
@@ -8587,10 +8587,10 @@ anime,zanr
 37268,Fantasy
 37268,School
 37268,Shounen
-34411,Historical
-34411,Supernatural
 40272,Slice of Life
 40272,Drama
+34411,Historical
+34411,Supernatural
 29941,Music
 4549,Action
 4549,Drama
@@ -9932,12 +9932,12 @@ anime,zanr
 4443,Adventure
 4443,Comedy
 4443,Shounen
+42883,Mystery
 2361,Action
 2361,Sci-Fi
 2361,Adventure
 2361,Space
 2361,Mecha
-42883,Mystery
 349,Supernatural
 349,Drama
 349,Magic
@@ -14459,6 +14459,8 @@ anime,zanr
 38138,Sports
 38138,Super Power
 38138,Kids
+45596,Comedy
+45596,Romance
 29489,Kids
 29759,Kids
 37102,Adventure
@@ -14516,8 +14518,6 @@ anime,zanr
 29740,Kids
 38631,Cars
 38631,Kids
-45596,Comedy
-45596,Romance
 38075,Cars
 38075,Kids
 24797,Comedy
