@@ -82,6 +82,9 @@ def izloci_podatke_animeja(blok):
     anime['id'] = int(anime['id'])
     anime['stevilo_clenov'] = int(anime['stevilo_clenov'].replace(',', ''))
 
+    if anime['oznaka'] == '-':
+        anime['oznaka'] = None
+
     if anime['opis'] != None:
         anime['opis'] = anime['opis'].replace('&#039;', "'").replace('&quot;', '"')
 
