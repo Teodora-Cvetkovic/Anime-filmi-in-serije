@@ -16,16 +16,49 @@ Analizirala bom podatke o 4290 anime serijah (v nadaljevanju bom pisala *anime* 
 - oznako
 
 
-### Delovne hipoteze:
-- Ali se povprečna ocena razlikuje od ocene za celoten anime?
-- Ali prve sezone imajo večje ocene kot naslednje sezone, če anime serija ima več sezon?
-- Ali prvi del anime filma ima večjo oceno kot naslednji deli, če anime ima več delov?
-- Ali filmi imajo većje ocene kot serije?
-- Ali je ocena za celoten anime odvisna od žanra?
-- Ali je ocena odvisna od datuma izida in datuma končanja?
-- Ali je ocena za celoten anime odvisna od števila epizod?
-- Ali lahko iz opisa napovemo žanr animeja?
-- Ali je anime predvajan čez več sezon?
+### Analizirala bom:
+- Vir:
+    - Iz katerega vira je narejeno največ animejev?
+    - Kateri vir animeja je najbolj popularen?
+    - Ali je popularnost animeja odvisna od vira?
+    - Ali je ocena animeja odvisna od vira?
+    - Kateri vir animeja ima največjo povprečno oceno?
+    - Kateri vir je "najljubši"?
+- Čas:
+    - Kdaj je izišlo največ animejev?
+    - Kdaj so izišli najbolj popularni animeji?
+    - V katerem letu je največje povprečno število gledalcev?
+    - Katero je "najboljše leto", tj. leto z najvišjo povprečno oceno?
+    - Kdaj so izišli najboljši animeji?
+    - Ali je popularnost animeja odvisna od tega, ali je leto končanja enako letu izida animeja?
+    - Ali je ocena animeja odvisna od tega, ali je leto končanja enako letu izida animeja?
+    - Ali je popularnost animeja odvisna od števila epizod?
+    - Ali je ocena animeja odvisna od števila epizod?
+    - Ali je popularnost animeja odvisna od dolžine epizod?
+    - Ali je ocena odvisna od dolžine epizod?
+    - V kateri sezoni ima največ popularnih animejev?
+    - V kateri sezoni so najboljši animeji?
+    - Katera je sezona najbolj popularna?
+    - Katera sezona ima najvišjo oceno?
+    - Katera je sezona "najljubša"?
+- Oznaka:
+    - Ali sta popularnost in ocena animeja odvisni od oznake?
+    - Katere oznake imajo najbolj popularni animeji?
+    - Katere oznake imajo najboljši animeji?
+    - Katera oznaka je najbolj popularna?
+    - Katera oznaka ima najvišjo povprečno oceno?
+    - Katera oznaka je "najljubša"?
+    - Ali lahko napovemo oznako animeja iz njegovega naslova in opisa?
+- Žanr:
+    - Katrih animejev je največ, glede na žanr?
+    - Katere žanre imajo najbolj popularni animeji?
+    - Katere žanre imajo najboljši animeji?
+    - Kateri je žanr najbolj popularen?
+    - Kateri žanr ima najvišjo oceno?
+    - Kateri je "najljubši žanr"?
+    - Ali so ocena in popularnost animeja odvisni od žanra?
+    - Ali lahko iz opisa in naslova animeja napovemo njegov žanr?
+- Osebe:
 
 
 ### Datoteke
