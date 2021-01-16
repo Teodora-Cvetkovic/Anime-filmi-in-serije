@@ -136,7 +136,9 @@ def najdi_studio(datoteka):
     studiji = []
     vsebina = orodja.vsebina_datoteke(datoteka)
     for s in re.finditer(vzorec_studija, vsebina):
-        studiji.append(s.groupdict())
+        studio = s.groupdict()
+        studio['studio'] = studio['studio'].replace('&#039;', "'")
+        studiji.append(studio)
     return studiji
 
 def najdi_naslov(datoteka):
