@@ -1,7 +1,6 @@
 ### Zelo mal spremenjena datoteka s predavanjh ###
 
 import csv
-import json
 import os
 import requests
 import sys
