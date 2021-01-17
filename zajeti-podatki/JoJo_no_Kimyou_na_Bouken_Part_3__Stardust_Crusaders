@@ -35,7 +35,7 @@ JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='d2c46999066c5722b23d7970cf8dbe40e9a9433a'>
+<meta name='csrf_token' content='1d7afabcd4491a847920821c5981a8ae1c3cbf9d'>
 <meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
 <meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
 <link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
@@ -352,7 +352,7 @@ $(document).ready(function(){
 </div>
 <div class="spaceit po-r js-statistics-info di-ib" data-id="info2">
   <span class="dark_text">Ranked:</span>
-  #395<sup>2</sup>
+  #396<sup>2</sup>
     <div class="statistics-info info2">
     <small><sup>2</sup>
     based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
@@ -365,11 +365,11 @@ $(document).ready(function(){
 </div>
 <div class="spaceit">
   <span class="dark_text">Members:</span>
-    651,670
+    651,979
 </div>
 <div>
   <span class="dark_text">Favorites:</span>
-  13,281
+  13,289
 </div>
 
   <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
@@ -419,7 +419,7 @@ $(document).ready(function(){
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tr>
-	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="437,960 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.12</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#395</strong></span><span class="numbers popularity">Popularity <strong>#139</strong></span><span class="numbers members">Members <strong>651,670</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2014/spring">Spring 2014</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/287/David_Production" title="David Production">David Production</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="20899"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F20899%2FJoJo_no_Kimyou_na_Bouken_Part_3__Stardust_Crusaders&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="437,960 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.12</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#396</strong></span><span class="numbers popularity">Popularity <strong>#139</strong></span><span class="numbers members">Members <strong>651,979</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2014/spring">Spring 2014</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/287/David_Production" title="David Production">David Production</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="20899"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F20899%2FJoJo_no_Kimyou_na_Bouken_Part_3__Stardust_Crusaders&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
         Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="24">24</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=JoJo%27s%20Bizarre%20Adventure%3A%20Stardust%20Crusaders&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime js-shop-selecter icon-shop-default" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:20899,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><div class="anime-detail-header-affiliate-dialog js-shop-selecter-dialog" style="display:none"><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=JoJo%27s%20Bizarre%20Adventure%3A%20Stardust%20Crusaders&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:20899,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><a href="http://www.cdjapan.co.jp/aff/click.cgi/PytJTGW7Lok/6039/A764127/searches?q=JoJo+no+Kimyou+na+Bouken+Part+3%3A+Stardust+Crusaders" class="btn-affiliate cdjapan js-shop-anime js-shop-cd-japan" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;cdjapan&quot;,&quot;id&quot;:20899,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/logo-cdjapan.png" width="118" height="25" alt="buy from CD Japan"></a><a href="http://www.shareasale.com/r.cfm?u=1384175&b=866986&m=65886&afftrack=&urllink=www.rightstufanime.com%2Fsearch%3Fkeywords%3DJoJo%27s%20Bizarre%20Adventure%20Stardust%20Crusaders" class="btn-affiliate right_stuf js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;right_stuf&quot;,&quot;id&quot;:20899,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_right_stuf.png" width="118" height="25" alt="buy from Rightstuf"></a></div></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/ER_SrymjhHQ?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/ER_SrymjhHQ/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">PV Polnareff version</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/20899/JoJo_no_Kimyou_na_Bouken_Part_3__Stardust_Crusaders/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
 </div><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=20899&t=synopsis" style="font-weight: normal;">Edit</a></div><h2>Synopsis</h2></div><p itemprop="description">Years after an ancient evil was salvaged from the depths of the sea, Joutarou Kuujou sits peacefully within a Japanese jail cell. He&#039;s committed no crime yet demands he not be released, believing he&#039;s been possessed by an evil spirit capable of harming those around him. Concerned for her son, Holly Kuujou asks her father, Joseph Joestar, to convince Joutarou to leave the prison. Joseph informs his grandson that the &quot;evil spirit&quot; is in fact something called a &quot;Stand,&quot; the physical manifestation of one&#039;s fighting spirit which can adopt a variety of deadly forms. After a fiery brawl with Joseph&#039;s friend Mohammed Avdol, Joutarou is forced out of his cell and begins learning how to control the power of his Stand.<br />
 <br />
@@ -720,13 +720,13 @@ However, when a Stand awakens within Holly and threatens to consume her in 50 da
     <tr>
       <td valign="top" width="27" class="ac borderClass">
         <div class="picSurround">
-          <a href="https://myanimelist.net/character/106407/Ann" class="fw-n">
-            <img alt="Ann" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/11/246429.jpg?s=4ec90fdce0e9a1904a266c08cb4f617d" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/11/246429.jpg?s=4ec90fdce0e9a1904a266c08cb4f617d 1x, https://cdn.myanimelist.net/r/84x124/images/characters/11/246429.jpg?s=79baa7c033fd914e4d252b608dd040b5 2x" class="lazyload" />
+          <a href="https://myanimelist.net/character/21962/Suzie_Q" class="fw-n">
+            <img alt="Q, Suzie" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/14/211527.jpg?s=fc4b72c58a7a7b4ce328ea4083070063" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/14/211527.jpg?s=fc4b72c58a7a7b4ce328ea4083070063 1x, https://cdn.myanimelist.net/r/84x124/images/characters/14/211527.jpg?s=1214b19b37f6a8f1592b2fea6f2ca617 2x" class="lazyload" />
           </a>
         </div>
       </td>
       <td valign="top" class="borderClass">
-        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/106407/Ann">Ann</a></h3>
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/21962/Suzie_Q">Q, Suzie</a></h3>
         <div class="spaceit_pad">
           <small>Supporting</small>
         </div>
@@ -734,13 +734,13 @@ However, when a Stand awakens within Holly and threatens to consume her in 50 da
       <td align="right" valign="top" class="borderClass">
                 <table border="0" cellpadding="0" cellspacing="0"><tr>
                 <td class="va-t ar pl4 pr4">
-                  <a href="https://myanimelist.net/people/8/Rie_Kugimiya">Kugimiya, Rie</a><br>
+                  <a href="https://myanimelist.net/people/276/Sachiko_Kojima">Kojima, Sachiko</a><br>
                   <small>Japanese</small>
                 </td>
                 <td valign="top">
                   <div class="picSurround">
-                    <a href="https://myanimelist.net/people/8/Rie_Kugimiya">
-                      <img alt="Kugimiya, Rie" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54599.jpg?s=a17bceae2a00b024c1d3b5d1877adda5" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54599.jpg?s=a17bceae2a00b024c1d3b5d1877adda5 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/54599.jpg?s=ab68ebb68bbc8deea9c81e695d731dd2 2x" class="lazyload" />
+                    <a href="https://myanimelist.net/people/276/Sachiko_Kojima">
+                      <img alt="Kojima, Sachiko" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/20389.jpg?s=9f412a55f0cff8ae48fb22447a43899b" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/20389.jpg?s=9f412a55f0cff8ae48fb22447a43899b 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/20389.jpg?s=ff6f08808afb50d4c0c89581142893a3 2x" class="lazyload" />
                     </a>
                   </div>
                 </td>
@@ -1014,7 +1014,7 @@ You should all watch Jojo over all the other mediocries that is currently airing
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/Jesswem">
-                  <img src="https://cdn.myanimelist.net/images/userimages/7163449.jpg?t=1610406600" data-src="https://cdn.myanimelist.net/images/userimages/7163449.jpg?t=1610406600" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/7163449.jpg?t=1610558400" data-src="https://cdn.myanimelist.net/images/userimages/7163449.jpg?t=1610558400" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1253,7 +1253,7 @@ This has been The Neko and I wish you have a nice day/night.
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/Stark700">
-                  <img src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" data-src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610581800" data-src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610581800" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1384,13 +1384,13 @@ amzn_assoc_search_bar_position = "bottom";
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F20899%2FJoJo_no_Kimyou_na_Bouken_Part_3__Stardust_Crusaders&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
                  <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1237727">JoJo&#039;s Bizarre Adventure: Stardust Crusaders Episode 18 Discussion</a> <small> ( <a href="/forum/?topicid=1237727&show=0">1</a> <a href="/forum/?topicid=1237727&show=50">2</a> <a href="/forum/?topicid=1237727&show=100">3</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Aug 1, 2014</span></td>
               <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">128 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/ViniSD">ViniSD</a> <a href="/forum/?topicid=1237727&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>9 hours ago</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/ViniSD">ViniSD</a> <a href="/forum/?topicid=1237727&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Yesterday, 8:57 PM</td>
             </tr>
             <tr id="topicRow2">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F20899%2FJoJo_no_Kimyou_na_Bouken_Part_3__Stardust_Crusaders&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
                  <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1233281">JoJo&#039;s Bizarre Adventure: Stardust Crusaders Episode 17 Discussion</a> <small> ( <a href="/forum/?topicid=1233281&show=0">1</a> <a href="/forum/?topicid=1233281&show=50">2</a> <a href="/forum/?topicid=1233281&show=100">3</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Akanezora">Akanezora</a></span> - <span class="lightLink">Jul 25, 2014</span></td>
               <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">142 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/ViniSD">ViniSD</a> <a href="/forum/?topicid=1233281&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>10 hours ago</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/ViniSD">ViniSD</a> <a href="/forum/?topicid=1233281&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Yesterday, 7:44 PM</td>
             </tr>
             </table></div><br><div><div class="floatRightHeader"><a href="/anime/20899/JoJo_no_Kimyou_na_Bouken_Part_3__Stardust_Crusaders/featured">More featured articles</a></div><h2>Recent Featured Articles</h2></div><div class="detail-page-featured-article"><div class="news-list">
       
@@ -1407,7 +1407,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
           </p><p class="di-tc pv pr8">
-              <b>28,782</b> views
+              <b>28,968</b> views
             </p></div>
       </div>
     </div>
@@ -1425,7 +1425,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
           </p><p class="di-tc pv pr8">
-              <b>319,599</b> views
+              <b>319,926</b> views
             </p></div>
       </div>
     </div>

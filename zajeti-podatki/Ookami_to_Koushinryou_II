@@ -35,7 +35,7 @@ Ookami to Koushinryou II (Spice and Wolf II) - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='1e74d62ee4d69c4c4dd8c031d478c66a595ef5f1'>
+<meta name='csrf_token' content='fdc614e046837739e8704fdf1ad447989a32ba0a'>
 <meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
 <meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
 <link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
@@ -370,11 +370,11 @@ $(document).ready(function(){
 </div>
 <div class="spaceit">
   <span class="dark_text">Members:</span>
-    387,091
+    387,140
 </div>
 <div>
   <span class="dark_text">Favorites:</span>
-  4,105
+  4,106
 </div>
 
   <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
@@ -424,7 +424,7 @@ $(document).ready(function(){
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tr>
-	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="217,207 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.37</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#176</strong></span><span class="numbers popularity">Popularity <strong>#328</strong></span><span class="numbers members">Members <strong>387,091</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2009/summer">Summer 2009</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/112/Brains_Base" title="Brain&#039;s Base">Brain&#039;s Base</a>,             <a href="/anime/producer/553/Marvy_Jack" title="Marvy Jack">Marvy Jack</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="5341"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F5341%2FOokami_to_Koushinryou_II&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="217,207 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.37</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#176</strong></span><span class="numbers popularity">Popularity <strong>#328</strong></span><span class="numbers members">Members <strong>387,140</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2009/summer">Summer 2009</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/112/Brains_Base" title="Brain&#039;s Base">Brain&#039;s Base</a>,             <a href="/anime/producer/553/Marvy_Jack" title="Marvy Jack">Marvy Jack</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="5341"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F5341%2FOokami_to_Koushinryou_II&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
         Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="12" disabled>/<span id="curEps" data-num="12">12</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://myanimelist.net/store/manga/896/Spice_and_Wolf_light_novel?_location=mal_atf_affiliate"
            class="btn-affiliate manga-store js-shop-anime icon-shop-default"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Buy on Manga Store
         </a></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/mnCXgfrjn1k?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://cdn.myanimelist.net/images/icon-banned-youtube.png')"><div class="info-container"><span class="title pl4 pr4">PV FUNimation version</span></div></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/5341/Ookami_to_Koushinryou_II/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
@@ -1163,7 +1163,7 @@ As a side note:  you will love Training With Horo (S&amp;W2 special #2)
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/GonzoLewd">
-                  <img src="https://cdn.myanimelist.net/images/userimages/985071.jpg?t=1610523000" data-src="https://cdn.myanimelist.net/images/userimages/985071.jpg?t=1610523000" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/985071.jpg?t=1610577000" data-src="https://cdn.myanimelist.net/images/userimages/985071.jpg?t=1610577000" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1311,7 +1311,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/NicWat10">NicWat10</a>
           </p><p class="di-tc pv pr8">
-              <b>177,536</b> views
+              <b>177,562</b> views
             </p><div class="tags">
               <div class="tags-inner"><a href="https://myanimelist.net/featured/tag/recommendation" class="tag tag-color-feature-recommendation" title="Recommendation">Recommendation</a><a href="https://myanimelist.net/featured/tag/collection" class="tag tag-color-feature-collection" title="Collection">Collection</a></div>
             </div></div>
@@ -1331,7 +1331,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/Kvasir369">Kvasir369</a>
           </p><p class="di-tc pv pr8">
-              <b>552,790</b> views
+              <b>552,984</b> views
             </p><div class="tags">
               <div class="tags-inner"><a href="https://myanimelist.net/featured/tag/collection" class="tag tag-color-feature-collection" title="Collection">Collection</a><a href="https://myanimelist.net/featured/tag/animals" class="tag tag-color-feature-animals" title="Animals">Animals</a><a href="https://myanimelist.net/featured/tag/monsters" class="tag tag-color-feature-monsters" title="Monsters">Monsters</a><a href="https://myanimelist.net/featured/tag/supernatural" class="tag tag-color-feature-supernatural" title="Supernatural">Supernatural</a></div>
             </div></div>

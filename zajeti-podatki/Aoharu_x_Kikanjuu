@@ -35,7 +35,7 @@ Aoharu x Kikanjuu (Aoharu x Machinegun) - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='bd8ee52edffa9685d1d25607640e881087712379'>
+<meta name='csrf_token' content='74d8ef5ed4adcde65d82906f534b42174eaef787'>
 <meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
 <meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
 <link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
@@ -357,7 +357,7 @@ $(document).ready(function(){
 </div>
 <div class="spaceit po-r js-statistics-info di-ib" data-id="info2">
   <span class="dark_text">Ranked:</span>
-  #2807<sup>2</sup>
+  #2810<sup>2</sup>
     <div class="statistics-info info2">
     <small><sup>2</sup>
     based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
@@ -370,11 +370,11 @@ $(document).ready(function(){
 </div>
 <div class="spaceit">
   <span class="dark_text">Members:</span>
-    181,067
+    181,097
 </div>
 <div>
   <span class="dark_text">Favorites:</span>
-  1,277
+  1,278
 </div>
 
   <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
@@ -424,7 +424,7 @@ $(document).ready(function(){
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tr>
-	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="83,214 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-7">7.19</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#2807</strong></span><span class="numbers popularity">Popularity <strong>#789</strong></span><span class="numbers members">Members <strong>181,067</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2015/summer">Summer 2015</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/112/Brains_Base" title="Brain&#039;s Base">Brain&#039;s Base</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="30205"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F30205%2FAoharu_x_Kikanjuu&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="83,214 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-7">7.19</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#2810</strong></span><span class="numbers popularity">Popularity <strong>#789</strong></span><span class="numbers members">Members <strong>181,097</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2015/summer">Summer 2015</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/112/Brains_Base" title="Brain&#039;s Base">Brain&#039;s Base</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="30205"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F30205%2FAoharu_x_Kikanjuu&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
         Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="12">12</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://myanimelist.net/store/manga/310/Aoharu_x_Machine_Gun?_location=mal_atf_affiliate"
            class="btn-affiliate manga-store js-shop-anime icon-shop-default"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Buy on Manga Store
         </a></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/3-xcAfq7JFY?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/3-xcAfq7JFY/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">PV TBS Global Business version</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/30205/Aoharu_x_Kikanjuu/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
@@ -871,7 +871,7 @@ Although Hotaru tries her best, there are just two little problems: she is absol
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/HaXXspetten">
-                  <img src="https://cdn.myanimelist.net/images/userimages/2513325.jpg?t=1610544600" data-src="https://cdn.myanimelist.net/images/userimages/2513325.jpg?t=1610544600" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/2513325.jpg?t=1610575200" data-src="https://cdn.myanimelist.net/images/userimages/2513325.jpg?t=1610575200" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1370,7 +1370,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/lmearriola">lmearriola</a>
           </p><p class="di-tc pv pr8">
-              <b>1,575,524</b> views
+              <b>1,575,949</b> views
             </p><div class="tags">
               <div class="tags-inner"><a href="https://myanimelist.net/featured/tag/recommendation" class="tag tag-color-feature-recommendation" title="Recommendation">Recommendation</a><a href="https://myanimelist.net/featured/tag/collection" class="tag tag-color-feature-collection" title="Collection">Collection</a><a href="https://myanimelist.net/featured/tag/cute_girls" class="tag tag-color-feature-cute_girls" title="Cute Girls">Cute Girls</a><a href="https://myanimelist.net/featured/tag/cute_guys" class="tag tag-color-feature-cute_guys" title="Cute Guys">Cute Guys</a><a href="https://myanimelist.net/featured/tag/funny" class="tag tag-color-feature-funny" title="Funny">Funny</a><a href="https://myanimelist.net/featured/tag/kawaii" class="tag tag-color-feature-kawaii" title="Kawaii">Kawaii</a><a href="https://myanimelist.net/featured/tag/moe" class="tag tag-color-feature-moe" title="Moe">Moe</a></div>
             </div></div>
@@ -1390,7 +1390,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/melodius">melodius</a>
           </p><p class="di-tc pv pr8">
-              <b>523,139</b> views
+              <b>523,279</b> views
             </p><div class="tags">
               <div class="tags-inner"><a href="https://myanimelist.net/featured/tag/collection" class="tag tag-color-feature-collection" title="Collection">Collection</a><a href="https://myanimelist.net/featured/tag/cute_girls" class="tag tag-color-feature-cute_girls" title="Cute Girls">Cute Girls</a><a href="https://myanimelist.net/featured/tag/weapons" class="tag tag-color-feature-weapons" title="Weapons">Weapons</a><a href="https://myanimelist.net/featured/tag/gif" class="tag tag-color-feature-gif" title="GIF">GIF</a></div>
             </div></div>
@@ -1607,6 +1607,103 @@ amzn_assoc_search_bar_position = "bottom";
     </div>
   </div>
 </footer>
+<div class="welcome-back popup-background">
+  <div class="popup">
+    <img class="logo" src="/img/pc/ownlist/logo_mal.png" alt="MyAnimeList">
+    <h3 class="popup-title">Welcome!</h3>
+    <p class="description">Join MyAnimeList to catalog your anime and manga, compare with your friends, create your own profile, and plenty more. It's free and easy to join.</p>
+    <div class="anime-slide1">
+      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/9/9453.jpg');"></div>
+      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/10/47347.jpg');"></div>
+      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/11/39717.jpg');"></div>
+      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
+
+      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/9/9453.jpg');"></div>
+      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/10/47347.jpg');"></div>
+      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/11/39717.jpg');"></div>
+      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
+    </div>
+    <div class="anime-slide2">
+      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/12/76049.jpg');"></div>
+      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/5/64449.jpg');"></div>
+      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/5/73199.jpg');"></div>
+      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/5/65187.jpg');"></div>
+
+      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/12/76049.jpg');"></div>
+      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/5/64449.jpg');"></div>
+      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/5/73199.jpg');"></div>
+      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/5/65187.jpg');"></div>
+    </div>
+    <h3 class="sign-up-with">Free Sign Up with</h3>
+    <div class="sns-sign-up">
+      <a class="sns-button google" href="/sns/login/google?from=%2Fanime%2F30205%2FAoharu_x_Kikanjuu&utm_medium=ldialog_google" onclick="ga('send', 'event', 'ldialog', 'click', 'google');">Google</a>
+      <a class="sns-button facebook" href="/sns/login/facebook?from=%2Fanime%2F30205%2FAoharu_x_Kikanjuu&utm_medium=ldialog_facebook" onclick="ga('send', 'event', 'ldialog', 'click', 'facebook');">Facebook</a>
+      <a class="sns-button twitter" href="/sns/login/twitter?from=%2Fanime%2F30205%2FAoharu_x_Kikanjuu&utm_medium=ldialog_twitter" onclick="ga('send', 'event', 'ldialog', 'click', 'twitter');">Twitter</a>
+    </div>
+    <div class="sign-up">
+      <a class="account register" href="/register.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'mail');">Create an account</a>
+      <br>      <a class="account" href="/login.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'login');">Already have an account?</a>
+    </div>
+    <div class="close-button" onclick="ga('send', 'event', 'ldialog', 'click', 'close');"></div>
+  </div>
+  <script>
+    $(function () {
+      ga('send', 'event', 'popup_login_form', 'show', location.href, {nonInteraction: true});
+      var onresize = function () {
+        var $welcome_back = $('.welcome-back');
+        var $popup = $('.welcome-back .popup');
+        var top = ($welcome_back.outerHeight() - $popup.outerHeight()) / 2;
+        $popup.css('top', top < 0 ? 0 : top);
+      };
+      var onclose = function () {
+        $('.welcome-back').addClass('fade-out')
+          .one('animationend', function () { $(this).remove(); });
+        $(window).off('resize', onresize);
+      };
+
+      var timer_id = null;
+      var show = function () {
+        timer_id = null;
+        // 優先順位の高いポップアップが出ていたら表示しない
+        if (($('.app_gdpr--2k2uB').length > 0 && $('.banner_hidden--MXmJ_').length === 0) || $('._cm-os-slider').length > 0 || $('#tbl-next-up').length > 0 || $('#gdpr-modal-bottom').length > 0) {
+          return
+        }
+        $('.welcome-back').addClass('fade-in');
+        onresize();
+        var timer = setTimeout(onclose,30000);
+        $('.popup').on('mousemove',function(){
+            clearTimeout(timer);
+            timer=setTimeout(onclose, 30000);
+        });
+      };
+
+      $(window)
+        .one('load', function () {
+          onresize();
+          timer_id = setTimeout(show,3000);
+          $('body').on('keydown mousedown mousemove',function(){
+            if(timer_id) {
+              clearTimeout(timer_id);
+              timer_id = setTimeout(show, 3000);
+            }
+          });
+          $(window).scroll(function(){
+            if(timer_id) {
+              clearTimeout(timer_id);
+              timer_id = setTimeout(show, 3000);
+            }
+          });
+        })
+        .on('resize', onresize);
+      $(document).one('click', '.close-button', function () {
+        onclose();
+      });
+      $('.register').click(function () {
+        ga('send', 'event', 'popup_login_form', 'click', location.href, {nonInteraction: true});
+      });
+    });
+  </script>
+</div>
 
 <script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
 <script>

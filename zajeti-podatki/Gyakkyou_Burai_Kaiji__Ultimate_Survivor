@@ -35,7 +35,7 @@ Gyakkyou Burai Kaiji: Ultimate Survivor (Kaiji: Ultimate Survivor) - MyAnimeList
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='38393828295d4c48320bf6f09cafc7abb282da0a'>
+<meta name='csrf_token' content='06822e3f1cc12ec610a1963267129c51f68ce201'>
 <meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
 <meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
 <link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
@@ -370,11 +370,11 @@ $(document).ready(function(){
 </div>
 <div class="spaceit">
   <span class="dark_text">Members:</span>
-    239,163
+    239,233
 </div>
 <div>
   <span class="dark_text">Favorites:</span>
-  7,555
+  7,558
 </div>
 
   <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
@@ -424,7 +424,7 @@ $(document).ready(function(){
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tr>
-	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="109,918 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.28</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#244</strong></span><span class="numbers popularity">Popularity <strong>#585</strong></span><span class="numbers members">Members <strong>239,163</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2007/fall">Fall 2007</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/11/Madhouse" title="Madhouse">Madhouse</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="3002"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F3002%2FGyakkyou_Burai_Kaiji__Ultimate_Survivor&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option selected="selected" value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="109,918 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.28</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#244</strong></span><span class="numbers popularity">Popularity <strong>#585</strong></span><span class="numbers members">Members <strong>239,233</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2007/fall">Fall 2007</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/11/Madhouse" title="Madhouse">Madhouse</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="3002"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F3002%2FGyakkyou_Burai_Kaiji__Ultimate_Survivor&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option selected="selected" value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
         Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="26">26</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://myanimelist.net/store/manga/832/Gambling_Apocalypse_Kaiji?_location=mal_atf_affiliate"
            class="btn-affiliate manga-store js-shop-anime icon-shop-default"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Buy on Manga Store
         </a></div><span class="notice_open_public pt4">* Your list is public by default.</span></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
@@ -1318,7 +1318,7 @@ amzn_assoc_search_bar_position = "bottom";
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F3002%2FGyakkyou_Burai_Kaiji__Ultimate_Survivor&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
                  <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=6740">Kaiji Episode 4 Discussion</a> <small> ( <a href="/forum/?topicid=6740&show=0">1</a> <a href="/forum/?topicid=6740&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/cyruz">cyruz</a></span> - <span class="lightLink">Oct 30, 2007</span></td>
               <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">66 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Death_spork">Death_spork</a> <a href="/forum/?topicid=6740&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>11 hours ago</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Death_spork">Death_spork</a> <a href="/forum/?topicid=6740&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Yesterday, 7:01 PM</td>
             </tr>
             <tr id="topicRow2">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F3002%2FGyakkyou_Burai_Kaiji__Ultimate_Survivor&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
@@ -1341,7 +1341,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/MisterD98">MisterD98</a>
           </p><p class="di-tc pv pr8">
-              <b>1,888,352</b> views
+              <b>1,888,732</b> views
             </p><div class="tags">
               <div class="tags-inner"><a href="https://myanimelist.net/featured/tag/recommendation" class="tag tag-color-feature-recommendation" title="Recommendation">Recommendation</a><a href="https://myanimelist.net/featured/tag/collection" class="tag tag-color-feature-collection" title="Collection">Collection</a><a href="https://myanimelist.net/featured/tag/action" class="tag tag-color-feature-action" title="Action">Action</a><a href="https://myanimelist.net/featured/tag/cute_girls" class="tag tag-color-feature-cute_girls" title="Cute Girls">Cute Girls</a><a href="https://myanimelist.net/featured/tag/cute_guys" class="tag tag-color-feature-cute_guys" title="Cute Guys">Cute Guys</a><a href="https://myanimelist.net/featured/tag/despair" class="tag tag-color-feature-despair" title="Despair">Despair</a><a href="https://myanimelist.net/featured/tag/horror" class="tag tag-color-feature-horror" title="Horror">Horror</a><a href="https://myanimelist.net/featured/tag/supernatural" class="tag tag-color-feature-supernatural" title="Supernatural">Supernatural</a></div>
             </div></div>
@@ -1361,7 +1361,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/Littoface">Littoface</a>
           </p><p class="di-tc pv pr8">
-              <b>1,220,475</b> views
+              <b>1,220,795</b> views
             </p><div class="tags">
               <div class="tags-inner"><div class="tags-inner-attributes"><span class="tag tag-color-feature-spoiler">Spoiler</span></div><a href="https://myanimelist.net/featured/tag/recommendation" class="tag tag-color-feature-recommendation" title="Recommendation">Recommendation</a><a href="https://myanimelist.net/featured/tag/collection" class="tag tag-color-feature-collection" title="Collection">Collection</a><a href="https://myanimelist.net/featured/tag/analysis" class="tag tag-color-feature-analysis" title="Analysis">Analysis</a></div>
             </div></div>

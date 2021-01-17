@@ -35,7 +35,7 @@ Digimon Tamers - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='f66872e03edd7c8d1e5f9211faa73af1ebf9c596'>
+<meta name='csrf_token' content='e9510e6b04e9d4b5490438a4f5038d121c7d6fc2'>
 <meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
 <meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
 <link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
@@ -365,11 +365,11 @@ $(document).ready(function(){
 </div>
 <div class="spaceit">
   <span class="dark_text">Members:</span>
-    156,659
+    156,682
 </div>
 <div>
   <span class="dark_text">Favorites:</span>
-  1,642
+  1,641
 </div>
 
   <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
@@ -419,7 +419,7 @@ $(document).ready(function(){
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tr>
-	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="96,584 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-7">7.63</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#1201</strong></span><span class="numbers popularity">Popularity <strong>#913</strong></span><span class="numbers members">Members <strong>156,659</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2001/spring">Spring 2001</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/18/Toei_Animation" title="Toei Animation">Toei Animation</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="874"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F874%2FDigimon_Tamers&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option value="0">Select</option><option value="10">(10) Masterpiece</option><option selected="selected" value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="96,584 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-7">7.63</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#1201</strong></span><span class="numbers popularity">Popularity <strong>#913</strong></span><span class="numbers members">Members <strong>156,682</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2001/spring">Spring 2001</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/18/Toei_Animation" title="Toei Animation">Toei Animation</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="874"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F874%2FDigimon_Tamers&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option value="0">Select</option><option value="10">(10) Masterpiece</option><option selected="selected" value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
         Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="51" disabled>/<span id="curEps" data-num="51">51</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Digimon%20Tamers&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime js-shop-selecter icon-shop-default" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:874,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><div class="anime-detail-header-affiliate-dialog js-shop-selecter-dialog" style="display:none"><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Digimon%20Tamers&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:874,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><a href="http://www.cdjapan.co.jp/aff/click.cgi/PytJTGW7Lok/6039/A764127/searches?q=Digimon+Tamers" class="btn-affiliate cdjapan js-shop-anime js-shop-cd-japan" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;cdjapan&quot;,&quot;id&quot;:874,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/logo-cdjapan.png" width="118" height="25" alt="buy from CD Japan"></a><a href="http://www.shareasale.com/r.cfm?u=1384175&b=866986&m=65886&afftrack=&urllink=www.rightstufanime.com%2Fsearch%3Fkeywords%3DDigimon%20Tamers" class="btn-affiliate right_stuf js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;right_stuf&quot;,&quot;id&quot;:874,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_right_stuf.png" width="118" height="25" alt="buy from Rightstuf"></a></div></div><span class="notice_open_public pt4">* Your list is public by default.</span></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
 </div><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=874&t=synopsis" style="font-weight: normal;">Edit</a></div><h2>Synopsis</h2></div><p itemprop="description"><i>Digimon Tamers</i> takes place in a world where the popular Digimon franchise is all the rage, consisting of a cartoon, video games, and the trading card game. Takato Matsuda is a huge Digimon fan that&#039;s particularly obsessed with the card game, and constantly daydreams about the universe therein. One day, he finds a mysterious blue card, which he slides through a scanner toy to use in the popular battle game. His toy suddenly glows and transforms into a Digivice, and Takato&#039;s fan-made design, Guilmon, materialises in front of him. Thrilled by the prospect of having a real-life Digimon, Takato embraces his new partner, and his adventures as a Digimon Tamer begin.<br />
 <br />
@@ -1388,7 +1388,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/NicWat10">NicWat10</a>
           </p><p class="di-tc pv pr8">
-              <b>151,790</b> views
+              <b>151,818</b> views
             </p><div class="tags">
               <div class="tags-inner"><div class="tags-inner-attributes"><span class="tag tag-color-feature-spoiler">Spoiler</span></div><a href="https://myanimelist.net/featured/tag/recommendation" class="tag tag-color-feature-recommendation" title="Recommendation">Recommendation</a><a href="https://myanimelist.net/featured/tag/collection" class="tag tag-color-feature-collection" title="Collection">Collection</a><a href="https://myanimelist.net/featured/tag/video" class="tag tag-color-feature-video" title="Video">Video</a></div>
             </div></div>
@@ -1408,7 +1408,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/hoyvinglavin64">hoyvinglavin64</a>
           </p><p class="di-tc pv pr8">
-              <b>19,655</b> views
+              <b>19,658</b> views
             </p><div class="tags">
               <div class="tags-inner"><a href="https://myanimelist.net/featured/tag/collection" class="tag tag-color-feature-collection" title="Collection">Collection</a></div>
             </div></div>
@@ -1628,6 +1628,103 @@ amzn_assoc_search_bar_position = "bottom";
     </div>
   </div>
 </footer>
+<div class="welcome-back popup-background">
+  <div class="popup">
+    <img class="logo" src="/img/pc/ownlist/logo_mal.png" alt="MyAnimeList">
+    <h3 class="popup-title">Welcome!</h3>
+    <p class="description">Join MyAnimeList to catalog your anime and manga, compare with your friends, create your own profile, and plenty more. It's free and easy to join.</p>
+    <div class="anime-slide1">
+      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/9/9453.jpg');"></div>
+      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/10/47347.jpg');"></div>
+      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/11/39717.jpg');"></div>
+      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
+
+      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/9/9453.jpg');"></div>
+      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/10/47347.jpg');"></div>
+      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/11/39717.jpg');"></div>
+      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
+    </div>
+    <div class="anime-slide2">
+      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/12/76049.jpg');"></div>
+      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/5/64449.jpg');"></div>
+      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/5/73199.jpg');"></div>
+      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/5/65187.jpg');"></div>
+
+      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/12/76049.jpg');"></div>
+      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/5/64449.jpg');"></div>
+      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/5/73199.jpg');"></div>
+      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/5/65187.jpg');"></div>
+    </div>
+    <h3 class="sign-up-with">Free Sign Up with</h3>
+    <div class="sns-sign-up">
+      <a class="sns-button google" href="/sns/login/google?from=%2Fanime%2F874%2FDigimon_Tamers&utm_medium=ldialog_google" onclick="ga('send', 'event', 'ldialog', 'click', 'google');">Google</a>
+      <a class="sns-button facebook" href="/sns/login/facebook?from=%2Fanime%2F874%2FDigimon_Tamers&utm_medium=ldialog_facebook" onclick="ga('send', 'event', 'ldialog', 'click', 'facebook');">Facebook</a>
+      <a class="sns-button twitter" href="/sns/login/twitter?from=%2Fanime%2F874%2FDigimon_Tamers&utm_medium=ldialog_twitter" onclick="ga('send', 'event', 'ldialog', 'click', 'twitter');">Twitter</a>
+    </div>
+    <div class="sign-up">
+      <a class="account register" href="/register.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'mail');">Create an account</a>
+      <br>      <a class="account" href="/login.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'login');">Already have an account?</a>
+    </div>
+    <div class="close-button" onclick="ga('send', 'event', 'ldialog', 'click', 'close');"></div>
+  </div>
+  <script>
+    $(function () {
+      ga('send', 'event', 'popup_login_form', 'show', location.href, {nonInteraction: true});
+      var onresize = function () {
+        var $welcome_back = $('.welcome-back');
+        var $popup = $('.welcome-back .popup');
+        var top = ($welcome_back.outerHeight() - $popup.outerHeight()) / 2;
+        $popup.css('top', top < 0 ? 0 : top);
+      };
+      var onclose = function () {
+        $('.welcome-back').addClass('fade-out')
+          .one('animationend', function () { $(this).remove(); });
+        $(window).off('resize', onresize);
+      };
+
+      var timer_id = null;
+      var show = function () {
+        timer_id = null;
+        // 優先順位の高いポップアップが出ていたら表示しない
+        if (($('.app_gdpr--2k2uB').length > 0 && $('.banner_hidden--MXmJ_').length === 0) || $('._cm-os-slider').length > 0 || $('#tbl-next-up').length > 0 || $('#gdpr-modal-bottom').length > 0) {
+          return
+        }
+        $('.welcome-back').addClass('fade-in');
+        onresize();
+        var timer = setTimeout(onclose,30000);
+        $('.popup').on('mousemove',function(){
+            clearTimeout(timer);
+            timer=setTimeout(onclose, 30000);
+        });
+      };
+
+      $(window)
+        .one('load', function () {
+          onresize();
+          timer_id = setTimeout(show,3000);
+          $('body').on('keydown mousedown mousemove',function(){
+            if(timer_id) {
+              clearTimeout(timer_id);
+              timer_id = setTimeout(show, 3000);
+            }
+          });
+          $(window).scroll(function(){
+            if(timer_id) {
+              clearTimeout(timer_id);
+              timer_id = setTimeout(show, 3000);
+            }
+          });
+        })
+        .on('resize', onresize);
+      $(document).one('click', '.close-button', function () {
+        onclose();
+      });
+      $('.register').click(function () {
+        ga('send', 'event', 'popup_login_form', 'click', location.href, {nonInteraction: true});
+      });
+    });
+  </script>
+</div>
 
 <script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
 <script>

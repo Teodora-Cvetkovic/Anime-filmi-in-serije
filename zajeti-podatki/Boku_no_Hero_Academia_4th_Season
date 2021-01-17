@@ -35,7 +35,7 @@ Boku no Hero Academia 4th Season (My Hero Academia 4) - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='2d80ac50ce877f4d74c6b492ac734cc767989cf4'>
+<meta name='csrf_token' content='75090c4f40578160301d785f533b81f7cf5d3795'>
 <meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
 <meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
 <link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
@@ -350,7 +350,7 @@ $(document).ready(function(){
 </div>
 <div class="spaceit po-r js-statistics-info di-ib" data-id="info2">
   <span class="dark_text">Ranked:</span>
-  #425<sup>2</sup>
+  #426<sup>2</sup>
     <div class="statistics-info info2">
     <small><sup>2</sup>
     based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
@@ -363,11 +363,11 @@ $(document).ready(function(){
 </div>
 <div class="spaceit">
   <span class="dark_text">Members:</span>
-    861,532
+    862,149
 </div>
 <div>
   <span class="dark_text">Favorites:</span>
-  7,584
+  7,593
 </div>
 
   <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
@@ -417,7 +417,7 @@ $(document).ready(function(){
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tr>
-	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="455,423 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.09</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#425</strong></span><span class="numbers popularity">Popularity <strong>#81</strong></span><span class="numbers members">Members <strong>861,532</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2019/fall">Fall 2019</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/4/Bones" title="Bones">Bones</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="38408"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F38408%2FBoku_no_Hero_Academia_4th_Season&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="455,423 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.09</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#426</strong></span><span class="numbers popularity">Popularity <strong>#81</strong></span><span class="numbers members">Members <strong>862,149</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2019/fall">Fall 2019</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/4/Bones" title="Bones">Bones</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="38408"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F38408%2FBoku_no_Hero_Academia_4th_Season&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
         Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="25">25</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=My%20Hero%20Academia%204&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime js-shop-selecter icon-shop-default" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:38408,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><div class="anime-detail-header-affiliate-dialog js-shop-selecter-dialog" style="display:none"><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=My%20Hero%20Academia%204&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:38408,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><a href="http://www.cdjapan.co.jp/aff/click.cgi/PytJTGW7Lok/6039/A764127/searches?q=Boku+no+Hero+Academia+4th+Season" class="btn-affiliate cdjapan js-shop-anime js-shop-cd-japan" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;cdjapan&quot;,&quot;id&quot;:38408,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/logo-cdjapan.png" width="118" height="25" alt="buy from CD Japan"></a><a href="http://www.shareasale.com/r.cfm?u=1384175&b=866986&m=65886&afftrack=&urllink=www.rightstufanime.com%2Fsearch%3Fkeywords%3DMy%20Hero%20Academia%204" class="btn-affiliate right_stuf js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;right_stuf&quot;,&quot;id&quot;:38408,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_right_stuf.png" width="118" height="25" alt="buy from Rightstuf"></a></div></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/5VQwDC5jqzQ?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/5VQwDC5jqzQ/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">PV 4</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/38408/Boku_no_Hero_Academia_4th_Season/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
 </div><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=38408&t=synopsis" style="font-weight: normal;">Edit</a></div><h2>Synopsis</h2></div><p itemprop="description">After successfully passing his Provisional Hero License exam, Izuku &quot;Deku&quot; Midoriya seeks out an extracurricular internship with a professional hero agency. At the recommendation of his mentor All Might, Midoriya lands a position under All Might&#039;s former sidekick, Sir Nighteye, now a famous hero in his own right.<br />
 <br />
@@ -1358,7 +1358,7 @@ amzn_assoc_search_bar_position = "bottom";
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F38408%2FBoku_no_Hero_Academia_4th_Season&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
                  <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1830187">Boku no Hero Academia 4th Season Episode 23 Discussion</a> <small> ( <a href="/forum/?topicid=1830187&show=0">1</a> <a href="/forum/?topicid=1830187&show=50">2</a> <a href="/forum/?topicid=1830187&show=100">3</a> <a href="/forum/?topicid=1830187&show=150">4</a> <a href="/forum/?topicid=1830187&show=200">5</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Mar 21, 2020</span></td>
               <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">212 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/matan7890">matan7890</a> <a href="/forum/?topicid=1830187&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>11 hours ago</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/matan7890">matan7890</a> <a href="/forum/?topicid=1830187&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Yesterday, 6:22 PM</td>
             </tr>
             <tr id="topicRow2">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F38408%2FBoku_no_Hero_Academia_4th_Season&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
@@ -1381,7 +1381,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
           </p><p class="di-tc pv pr8">
-              <b>87,245</b> views
+              <b>87,263</b> views
             </p><div class="tags">
               <div class="tags-inner"><span class="tag tag-color-feature-spoiler">Spoiler</span></div>
             </div></div>
@@ -1402,7 +1402,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/MAL_editing_team">MAL_editing_team</a>
           </p><p class="di-tc pv pr8">
-              <b>24,428</b> views
+              <b>24,447</b> views
             </p></div>
       </div>
     </div>
@@ -1410,10 +1410,7 @@ amzn_assoc_search_bar_position = "bottom";
 </div><div style="padding:16px 0px 0px 0px;"><div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div></div><br><div>
             <div class="floatRightHeader"><a href="/anime/38408/Boku_no_Hero_Academia_4th_Season/userrecs">More recommendations</a></div>
             <h2>Recommendations
-            </h2></div>  <div class=""><a href="https://myanimelist.net/anime/38408/Boku_no_Hero_Academia_4th_Season/userrecs" class="btn-detail-recommendations-view-all fl-r">
-      <span class="text">View All</span>
-      <span class="icon-next"><i class="fa fa-chevron-right icon-chevron" aria-hidden="true"></i></span>
-    </a><div class="anime-slide-block" id="anime_recommendation" data-json='{"width":702,"btnWidth":40,"margin":8}'><div class="btn-anime-slide-side left"><span class="btn-inner"></span></div><div class="btn-anime-slide-side right"><span class="btn-inner"></span></div><div class="anime-slide-outer" style="height:140px;"><ul class="anime-slide js-anime-slide" data-slide="7"><li class="btn-anime" style="width:90px" title="Naruto: Shippuuden"><a href="https://myanimelist.net/recommendations/anime/1735-38408" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Naruto: Shippuuden</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/17407.jpg?s=f5458fbab1cf06afb3664af111efda65" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/17407.jpg?s=f5458fbab1cf06afb3664af111efda65 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/17407.jpg?s=316444dfcc595847f4f871107736c9b7 2x" width="90" height="140" class="image lazyload" alt="Naruto: Shippuuden" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Ansatsu Kyoushitsu"><a href="https://myanimelist.net/recommendations/anime/24833-38408" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Ansatsu Kyoushitsu</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/75639.jpg?s=cfa785c25705d5f956c831ea85270a12" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/75639.jpg?s=cfa785c25705d5f956c831ea85270a12 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/75639.jpg?s=b5ae43b339f3448af5d41408eba76f7f 2x" width="90" height="140" class="image lazyload" alt="Ansatsu Kyoushitsu" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Black Clover"><a href="https://myanimelist.net/recommendations/anime/34572-38408" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Black Clover</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/2/88336.jpg?s=f52c4d67853982c19bea585826bd17b1" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/2/88336.jpg?s=f52c4d67853982c19bea585826bd17b1 1x,https://cdn.myanimelist.net/r/180x280/images/anime/2/88336.jpg?s=3ee1437a484dd34f52f34a84eac9a10f 2x" width="90" height="140" class="image lazyload" alt="Black Clover" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II"><a href="https://myanimelist.net/recommendations/anime/37347-38408" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1730/101329.jpg?s=4fc23ae157a2aeef1a86bd271dc94cde" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1730/101329.jpg?s=4fc23ae157a2aeef1a86bd271dc94cde 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1730/101329.jpg?s=cc3a1cee92ef6d6438f48e6545f5f123 2x" width="90" height="140" class="image lazyload" alt="Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Super Dragon Ball Heroes"><a href="https://myanimelist.net/recommendations/anime/37885-38408" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Super Dragon Ball Heroes</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1480/92990.jpg?s=fce836677197d5a7132e05d13a98e3c3" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1480/92990.jpg?s=fce836677197d5a7132e05d13a98e3c3 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1480/92990.jpg?s=7185f35e21d997313c28471118fe908c 2x" width="90" height="140" class="image lazyload" alt="Super Dragon Ball Heroes" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Tu Bian Ying Xiong Leaf"><a href="https://myanimelist.net/recommendations/anime/35044-38408" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Tu Bian Ying Xiong Leaf</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1552/93084.jpg?s=8b5390622a9ecd65b2c58f53b8a175b0" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1552/93084.jpg?s=8b5390622a9ecd65b2c58f53b8a175b0 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1552/93084.jpg?s=007646fffff40de9a7212664322532e7 2x" width="90" height="140" class="image lazyload" alt="Tu Bian Ying Xiong Leaf" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Boruto: Naruto Next Generations"><a href="https://myanimelist.net/recommendations/anime/34566-38408" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Boruto: Naruto Next Generations</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/9/84460.jpg?s=41f891267404722f12882d2504c58d15" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/9/84460.jpg?s=41f891267404722f12882d2504c58d15 1x,https://cdn.myanimelist.net/r/180x280/images/anime/9/84460.jpg?s=71c01fa5cf6305d127c190bc79d59c7c 2x" width="90" height="140" class="image lazyload" alt="Boruto: Naruto Next Generations" border="0" ></a></li><li class="btn-anime" style="width:90px" title="One Punch Man 2nd Season"><a href="https://myanimelist.net/recommendations/anime/34134-38408" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">One Punch Man 2nd Season</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1805/99571.jpg?s=2777d5abe2e1ecef912ce007de060c30" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1805/99571.jpg?s=2777d5abe2e1ecef912ce007de060c30 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1805/99571.jpg?s=61892399b92e6adddd4d97dee7f8dbf2 2x" width="90" height="140" class="image lazyload" alt="One Punch Man 2nd Season" border="0" ></a></li><li class="btn-anime" style="width:90px" title="To Be Hero"><a href="https://myanimelist.net/recommendations/anime/34009-38408" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">To Be Hero</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/2/82347.jpg?s=af674583127655a6998afd9bf999f33e" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/2/82347.jpg?s=af674583127655a6998afd9bf999f33e 1x,https://cdn.myanimelist.net/r/180x280/images/anime/2/82347.jpg?s=e0a188fed87c944ac7dc67b8c4448065 2x" width="90" height="140" class="image lazyload" alt="To Be Hero" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Dragon Ball Super"><a href="https://myanimelist.net/recommendations/anime/30694-38408" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Dragon Ball Super</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/7/74606.jpg?s=c68f105c612e84fe9ecb8e0ce8fde70f" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/7/74606.jpg?s=c68f105c612e84fe9ecb8e0ce8fde70f 1x,https://cdn.myanimelist.net/r/180x280/images/anime/7/74606.jpg?s=2a331807d0ecb3b09ff2be0214148802 2x" width="90" height="140" class="image lazyload" alt="Dragon Ball Super" border="0" ></a></li><li class="btn-anime" style="width:90px" title="One Punch Man"><a href="https://myanimelist.net/recommendations/anime/30276-38408" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">One Punch Man</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/76049.jpg?s=7996680313e9884e2ecdd1bf6c042e78" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/76049.jpg?s=7996680313e9884e2ecdd1bf6c042e78 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/76049.jpg?s=d560865fb58c77de3c8d490b300f6680 2x" width="90" height="140" class="image lazyload" alt="One Punch Man" border="0" ></a></li></ul></div></div></div>
+            </h2></div>  <div class=""><div class="anime-slide-block" id="anime_recommendation" data-json='{"width":800,"btnWidth":40,"margin":8}'><div class="btn-anime-slide-side left"><span class="btn-inner"></span></div><div class="btn-anime-slide-side right"><span class="btn-inner"></span></div><div class="anime-slide-outer" style="height:140px;"><ul class="anime-slide js-anime-slide" data-slide="8"><li class="btn-anime" style="width:90px" title="Naruto: Shippuuden"><a href="https://myanimelist.net/recommendations/anime/1735-38408" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Naruto: Shippuuden</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/17407.jpg?s=f5458fbab1cf06afb3664af111efda65" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/17407.jpg?s=f5458fbab1cf06afb3664af111efda65 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/17407.jpg?s=316444dfcc595847f4f871107736c9b7 2x" width="90" height="140" class="image lazyload" alt="Naruto: Shippuuden" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Ansatsu Kyoushitsu"><a href="https://myanimelist.net/recommendations/anime/24833-38408" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Ansatsu Kyoushitsu</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/75639.jpg?s=cfa785c25705d5f956c831ea85270a12" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/75639.jpg?s=cfa785c25705d5f956c831ea85270a12 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/75639.jpg?s=b5ae43b339f3448af5d41408eba76f7f 2x" width="90" height="140" class="image lazyload" alt="Ansatsu Kyoushitsu" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Black Clover"><a href="https://myanimelist.net/recommendations/anime/34572-38408" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Black Clover</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/2/88336.jpg?s=f52c4d67853982c19bea585826bd17b1" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/2/88336.jpg?s=f52c4d67853982c19bea585826bd17b1 1x,https://cdn.myanimelist.net/r/180x280/images/anime/2/88336.jpg?s=3ee1437a484dd34f52f34a84eac9a10f 2x" width="90" height="140" class="image lazyload" alt="Black Clover" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II"><a href="https://myanimelist.net/recommendations/anime/37347-38408" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1730/101329.jpg?s=4fc23ae157a2aeef1a86bd271dc94cde" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1730/101329.jpg?s=4fc23ae157a2aeef1a86bd271dc94cde 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1730/101329.jpg?s=cc3a1cee92ef6d6438f48e6545f5f123 2x" width="90" height="140" class="image lazyload" alt="Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Super Dragon Ball Heroes"><a href="https://myanimelist.net/recommendations/anime/37885-38408" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Super Dragon Ball Heroes</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1480/92990.jpg?s=fce836677197d5a7132e05d13a98e3c3" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1480/92990.jpg?s=fce836677197d5a7132e05d13a98e3c3 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1480/92990.jpg?s=7185f35e21d997313c28471118fe908c 2x" width="90" height="140" class="image lazyload" alt="Super Dragon Ball Heroes" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Tu Bian Ying Xiong Leaf"><a href="https://myanimelist.net/recommendations/anime/35044-38408" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Tu Bian Ying Xiong Leaf</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1552/93084.jpg?s=8b5390622a9ecd65b2c58f53b8a175b0" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1552/93084.jpg?s=8b5390622a9ecd65b2c58f53b8a175b0 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1552/93084.jpg?s=007646fffff40de9a7212664322532e7 2x" width="90" height="140" class="image lazyload" alt="Tu Bian Ying Xiong Leaf" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Boruto: Naruto Next Generations"><a href="https://myanimelist.net/recommendations/anime/34566-38408" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Boruto: Naruto Next Generations</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/9/84460.jpg?s=41f891267404722f12882d2504c58d15" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/9/84460.jpg?s=41f891267404722f12882d2504c58d15 1x,https://cdn.myanimelist.net/r/180x280/images/anime/9/84460.jpg?s=71c01fa5cf6305d127c190bc79d59c7c 2x" width="90" height="140" class="image lazyload" alt="Boruto: Naruto Next Generations" border="0" ></a></li><li class="btn-anime" style="width:90px" title="One Punch Man 2nd Season"><a href="https://myanimelist.net/recommendations/anime/34134-38408" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">One Punch Man 2nd Season</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1805/99571.jpg?s=2777d5abe2e1ecef912ce007de060c30" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1805/99571.jpg?s=2777d5abe2e1ecef912ce007de060c30 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1805/99571.jpg?s=61892399b92e6adddd4d97dee7f8dbf2 2x" width="90" height="140" class="image lazyload" alt="One Punch Man 2nd Season" border="0" ></a></li><li class="btn-anime" style="width:90px" title="To Be Hero"><a href="https://myanimelist.net/recommendations/anime/34009-38408" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">To Be Hero</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/2/82347.jpg?s=af674583127655a6998afd9bf999f33e" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/2/82347.jpg?s=af674583127655a6998afd9bf999f33e 1x,https://cdn.myanimelist.net/r/180x280/images/anime/2/82347.jpg?s=e0a188fed87c944ac7dc67b8c4448065 2x" width="90" height="140" class="image lazyload" alt="To Be Hero" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Dragon Ball Super"><a href="https://myanimelist.net/recommendations/anime/30694-38408" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Dragon Ball Super</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/7/74606.jpg?s=c68f105c612e84fe9ecb8e0ce8fde70f" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/7/74606.jpg?s=c68f105c612e84fe9ecb8e0ce8fde70f 1x,https://cdn.myanimelist.net/r/180x280/images/anime/7/74606.jpg?s=2a331807d0ecb3b09ff2be0214148802 2x" width="90" height="140" class="image lazyload" alt="Dragon Ball Super" border="0" ></a></li><li class="btn-anime" style="width:90px" title="One Punch Man"><a href="https://myanimelist.net/recommendations/anime/30276-38408" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">One Punch Man</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/76049.jpg?s=7996680313e9884e2ecdd1bf6c042e78" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/76049.jpg?s=7996680313e9884e2ecdd1bf6c042e78 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/76049.jpg?s=d560865fb58c77de3c8d490b300f6680 2x" width="90" height="140" class="image lazyload" alt="One Punch Man" border="0" ></a></li></ul></div></div></div>
     </td>
     </tr>
     </table>
@@ -1620,103 +1617,6 @@ amzn_assoc_search_bar_position = "bottom";
     </div>
   </div>
 </footer>
-<div class="welcome-back popup-background">
-  <div class="popup">
-    <img class="logo" src="/img/pc/ownlist/logo_mal.png" alt="MyAnimeList">
-    <h3 class="popup-title">Welcome!</h3>
-    <p class="description">Join MyAnimeList to catalog your anime and manga, compare with your friends, create your own profile, and plenty more. It's free and easy to join.</p>
-    <div class="anime-slide1">
-      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/9/9453.jpg');"></div>
-      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/10/47347.jpg');"></div>
-      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/11/39717.jpg');"></div>
-      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
-
-      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/9/9453.jpg');"></div>
-      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/10/47347.jpg');"></div>
-      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/11/39717.jpg');"></div>
-      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
-    </div>
-    <div class="anime-slide2">
-      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/12/76049.jpg');"></div>
-      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/5/64449.jpg');"></div>
-      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/5/73199.jpg');"></div>
-      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/5/65187.jpg');"></div>
-
-      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/12/76049.jpg');"></div>
-      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/5/64449.jpg');"></div>
-      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/5/73199.jpg');"></div>
-      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/5/65187.jpg');"></div>
-    </div>
-    <h3 class="sign-up-with">Free Sign Up with</h3>
-    <div class="sns-sign-up">
-      <a class="sns-button google" href="/sns/login/google?from=%2Fanime%2F38408%2FBoku_no_Hero_Academia_4th_Season&utm_medium=ldialog_google" onclick="ga('send', 'event', 'ldialog', 'click', 'google');">Google</a>
-      <a class="sns-button facebook" href="/sns/login/facebook?from=%2Fanime%2F38408%2FBoku_no_Hero_Academia_4th_Season&utm_medium=ldialog_facebook" onclick="ga('send', 'event', 'ldialog', 'click', 'facebook');">Facebook</a>
-      <a class="sns-button twitter" href="/sns/login/twitter?from=%2Fanime%2F38408%2FBoku_no_Hero_Academia_4th_Season&utm_medium=ldialog_twitter" onclick="ga('send', 'event', 'ldialog', 'click', 'twitter');">Twitter</a>
-    </div>
-    <div class="sign-up">
-      <a class="account register" href="/register.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'mail');">Create an account</a>
-      <br>      <a class="account" href="/login.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'login');">Already have an account?</a>
-    </div>
-    <div class="close-button" onclick="ga('send', 'event', 'ldialog', 'click', 'close');"></div>
-  </div>
-  <script>
-    $(function () {
-      ga('send', 'event', 'popup_login_form', 'show', location.href, {nonInteraction: true});
-      var onresize = function () {
-        var $welcome_back = $('.welcome-back');
-        var $popup = $('.welcome-back .popup');
-        var top = ($welcome_back.outerHeight() - $popup.outerHeight()) / 2;
-        $popup.css('top', top < 0 ? 0 : top);
-      };
-      var onclose = function () {
-        $('.welcome-back').addClass('fade-out')
-          .one('animationend', function () { $(this).remove(); });
-        $(window).off('resize', onresize);
-      };
-
-      var timer_id = null;
-      var show = function () {
-        timer_id = null;
-        // 優先順位の高いポップアップが出ていたら表示しない
-        if (($('.app_gdpr--2k2uB').length > 0 && $('.banner_hidden--MXmJ_').length === 0) || $('._cm-os-slider').length > 0 || $('#tbl-next-up').length > 0 || $('#gdpr-modal-bottom').length > 0) {
-          return
-        }
-        $('.welcome-back').addClass('fade-in');
-        onresize();
-        var timer = setTimeout(onclose,30000);
-        $('.popup').on('mousemove',function(){
-            clearTimeout(timer);
-            timer=setTimeout(onclose, 30000);
-        });
-      };
-
-      $(window)
-        .one('load', function () {
-          onresize();
-          timer_id = setTimeout(show,3000);
-          $('body').on('keydown mousedown mousemove',function(){
-            if(timer_id) {
-              clearTimeout(timer_id);
-              timer_id = setTimeout(show, 3000);
-            }
-          });
-          $(window).scroll(function(){
-            if(timer_id) {
-              clearTimeout(timer_id);
-              timer_id = setTimeout(show, 3000);
-            }
-          });
-        })
-        .on('resize', onresize);
-      $(document).one('click', '.close-button', function () {
-        onclose();
-      });
-      $('.register').click(function () {
-        ga('send', 'event', 'popup_login_form', 'click', location.href, {nonInteraction: true});
-      });
-    });
-  </script>
-</div>
 
 <script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
 <script>

@@ -1,0 +1,1804 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    
+<link rel="preconnect" href="//fonts.gstatic.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//fonts.googleapis.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tags-cdn.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagservices.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagmanager.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//apis.google.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel-sync.sitescout.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel.tapad.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//c.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tpc.googlesyndication.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//googleads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="//securepubads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="https://cdn.myanimelist.net" crossorigin="anonymous" />
+
+
+<title>
+Listeners - MyAnimeList.net
+</title>
+<meta name="description" content="Looking for information on the anime Listeners? Find out more with MyAnimeList, the world&#039;s most active online anime and manga community and database. Set in a world where the concept of music ceases to exist. The story begins when a boy encounters Myuu, a mysterious girl who possesses an audio input jack in her body. The two intermingle with the history of rock music and embark on an unforgettable journey. (Source: MAL News)" />
+
+  
+<meta name="keywords" content="anime, myanimelist, anime news, manga" />
+  
+
+
+    <meta property="og:locale" content="en_US"><meta property="fb:app_id" content="360769957454434"><meta property="og:site_name" content="MyAnimeList.net"><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@myanimelist"><meta property="og:title" content="Listeners"><meta property="og:type" content="video.tv_show"><meta property="og:image" content="https://cdn.myanimelist.net/images/anime/1589/106391.jpg"><meta name="twitter:image:src" content="https://cdn.myanimelist.net/r/360x360/images/anime/1589/106391.jpg?s=5694047bc1a6c2671d8cf14dd230c056"><meta property="og:url" content="https://myanimelist.net/anime/40165/Listeners"><meta property="og:description" content="Set in a world where the concept of music ceases to exist. The story begins when a boy encounters Myuu, a mysterious girl who possesses an audio input jack in her body. The two intermingle with the history of rock music and embark on an unforgettable journey. (Source: MAL News)">
+
+
+<meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
+
+<meta name='csrf_token' content='da6b6e316b0c42cdaade64ae547831f4ea894d2c'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
+<meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" />
+
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" href="https://myanimelist.net/plugins/myanimelist.xml" title="MyAnimeList" />
+
+<link rel="shortcut icon" href="https://cdn.myanimelist.net/images/favicon.ico" />
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+      <script src="//tags-cdn.deployads.com/a/myanimelist.net.js" async="async"></script>
+            <script async="async" type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script>
+$(document).ready(function(){
+  window.Criteo = window.Criteo || {};
+  window.Criteo.events = window.Criteo.events || [];
+  $('.ad-criteo').each(function(){
+    var slotid = $(this).attr('data-ad-slot');
+    var zoneid = $(this).attr('data-ad-zone');
+    var CriteoAdUnits = {"placements":[{"slotid":slotid, "zoneid":zoneid}]};
+    var processCdbBid = function(){
+      var bids = Criteo.GetBidsForAdUnit(slotid);
+      if(bids.length > 0){
+        Criteo.RenderAd({bidId:bids[0].id, containerId:bids[0].impressionId});
+      }
+    };
+    Criteo.events.push(function(){Criteo.RequestBids(CriteoAdUnits, processCdbBid, 2000);});
+  });
+});
+</script>
+
+
+
+            <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/myanimelist/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>    
+</head>
+
+<body onload=" " class="page-common"data-ms="true" data-country-code="SI" >
+<div id="myanimelist">
+
+    
+  
+    <script type='text/javascript'>
+    window.MAL.SkinAd.prepareForSkin('');
+  </script>
+
+    <div id="ad-skin-bg-left" class="ad-skin-side-outer ad-skin-side-bg bg-left">
+    <div id="ad-skin-left" class="ad-skin-side left" style="display: none;">
+      <div id="ad-skin-left-absolute-block">
+        <div id="ad-skin-left-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
+    <script>(deployads = window.deployads || []).pageSegment = 'anime_title_40165';</script>
+
+
+<script>
+    var trackOutboundLink = function(url) {
+        ga('send', 'event', 'outbound', 'click', url, {
+            'transport': 'beacon',
+            'hitCallback': function(){return true;}
+        });
+    }
+</script><div class="banner-header-anime-straming" style="right:480px;">
+  <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+</div>
+
+
+<div id="header-menu" ><div class="header-menu-login"><a class="btn-mal-service"
+             href="https://myanimelist.net/membership?_location=mal_h_u" onClick="ga_mal_banner()">Hide Ads</a><a class="btn-login" href="https://myanimelist.net/login.php?from=%2Fanime%2F40165%2FListeners" id="malLogin" onClick="ga_notlogin()">Login</a><a class="btn-signup" href="https://myanimelist.net/register.php?from=%2Fanime%2F40165%2FListeners" onClick="ga_registration()">Sign Up</a></div></div></div>  <div id="menu" class="">
+    <div id="menu_right"><script type="text/x-template" id="incremental-result-item-anime"><div class="list anime" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info anime"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Aired: ${ item.payload.aired }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info anime"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-manga"><div class="list manga" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info manga"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Published: ${ item.payload.published }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info manga"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-character"><div class="list character" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div><div class="extra-info"><ul class="related-works"><li v-for="work in item.payload.related_works" class="fs-i">- ${ work }</li></ul>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-person"><div class="list person" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.alternative_name">${ item.payload.alternative_name }<br></span>Birthday: ${ item.payload.birthday }<br>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-store"><div class="list store" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info store"></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info store"></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-club"><div class="list club" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div><div class="extra-info">Members: ${ item.payload.members }<br>Category: ${ item.payload.category }<br>Created by: ${ item.payload.created_by }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-user"><div class="list user" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.authority">${ item.payload.authority }<br></span>Joined: ${ item.payload.joined }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-news"><div class="list news" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-featured"><div class="list featured" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-forum"><div class="list forum" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="extra-info">${ item.payload.date }<br><span>in ${ item.payload.category }</span></div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-separator"><div class="list separator"><div class="separator"><span v-show="item.name == 'anime'">Anime</span><span v-show="item.name == 'manga'">Manga</span><span v-show="item.name == 'character'">Characters</span><span v-show="item.name == 'person'">People</span></div></div></script><div id="top-search-bar"><form id="searchBar" method="get" class="searchBar" @submit.prevent="jump()"><div class="form-select-outer fl-l"><select name="type" id="topSearchValue" class="inputtext" v-model="type"><option value="all">All</option><option value="anime">Anime</option><option value="manga">Manga</option><option value="character">Characters</option><option value="person">People</option><option value="store">Manga Store</option><option value="news">News</option><option value="featured">Featured Articles</option><option value="forum">Forum</option><option value="club">Clubs</option><option value="user">Users</option></select></div><input v-model="keyword" id="topSearchText" type="text"
+            name="keyword" class="inputtext fl-l" placeholder="Search Anime, Manga, and more..."
+            size="30" autocomplete="off"
+            @keydown.up.prevent="moveSelection(-1)" @keydown.down.prevent="moveSelection(1)"
+            @focus="isFocused = true" @blur="isFocused = false"><input id="topSearchButon" class="fl-l" :class="{'notActive': (keyword.length < 3)}" type="submit" value="&#xf002"></form><div id="topSearchResultList" class="incrementalSearchResultList" :style="{display: (showResult ? 'block' : 'none')}" @mousedown.prevent=""><div v-for="(item, i) in items" @mouseover="selection=i"><component :is="resolveComponent(item)" :item="item" :focus="selection == i" :url="generateItemPageUrl(item)"></component></div><div class="list list-bottom" :class="{'focus': selection == -1}" @mouseover="selection = -1"
+               :style="{display: (showViewAllLink ? 'block' : 'none')}"><a :href="resultPageUrl">
+              View all results for <span class="fw-b">${ keyword }</span><i v-show="isRequesting" class="fa fa-spinner fa-spin ml4"></i></a></div></div></div></div><div id="menu_left">
+      <ul id="nav">
+        <li class="small"><a href="#" class="non-link">Anime</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/anime.php?_location=mal_h_m">Anime Search</a></li>
+            <li><a href="https://myanimelist.net/topanime.php?_location=mal_h_m">Top Anime</a></li>
+            <li><a href="https://myanimelist.net/anime/season?_location=mal_h_m">Seasonal Anime</a></li>
+                        <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m_a">Videos</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=anime&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=anime&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1885985&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Manga</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/manga.php?_location=mal_h_m">Manga Search</a></li>
+            <li><a href="https://myanimelist.net/topmanga.php?_location=mal_h_m">Top Manga</a></li>
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=manga&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=manga&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1886113&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li><a href="#" class="non-link">Community</a>
+          <ul>
+            <li><a href="https://myanimelist.net/forum/?_location=mal_h_m">Forums</a></li>
+            <li><a href="https://myanimelist.net/clubs.php?_location=mal_h_m">Clubs</a></li>
+            <li><a href="https://myanimelist.net/blog.php?_location=mal_h_m">Blogs</a></li>
+            <li><a href="https://myanimelist.net/users.php?_location=mal_h_m">Users</a></li>
+            <li><a href="https://discord.gg/E2xC8ZF">Discord Chat</a></li>
+          </ul>
+        </li>
+        <li class="small2"><a href="#" class="non-link">Industry</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/news?_location=mal_h_m">News</a></li>
+            <li><a href="https://myanimelist.net/featured?_location=mal_h_m">Featured Articles</a></li>
+            <li><a href="https://myanimelist.net/people.php?_location=mal_h_m">People</a></li>
+            <li><a href="https://myanimelist.net/character.php?_location=mal_h_m">Characters</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Watch</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m">Episode Videos</a></li>
+            <li><a href="https://myanimelist.net/watch/promotion?_location=mal_h_m">Promotional Videos</a></li></ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Read</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+          </ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Help</a>
+          <ul class="wide">
+            <li><a href="https://myanimelist.net/about.php?_location=mal_h_m">About</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=support&amp;_location=mal_h_m">Support</a></li>
+            <li><a href="https://myanimelist.net/advertising?_location=mal_h_m">Advertising</a></li>
+            <li><a href="https://myanimelist.net/forum/?topicid=515949&amp;_location=mal_h_m">FAQ</a></li>
+            <li><a href="https://myanimelist.net/modules.php?go=report&amp;_location=mal_h_m">Report</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=team&amp;_location=mal_h_m">Staff</a></li><li><a href="https://myanimelist.net/membership?_location=mal_h_m">MAL Supporter</a></li>
+          </ul>
+        </li>
+        
+            
+      </ul>
+    </div>  </div><div id="contentWrapper" itemscope itemtype="http://schema.org/TVSeries"><div><div class="h1 edit-info">
+      <div class="h1-title"><div itemprop="name"><h1 class="title-name h1_bold_none"><strong>Listeners</strong></h1></div></div><div class="header-right">
+          <a href="https://myanimelist.net/login.php?from=%2Fanime%2F40165%2FListeners&amp;error=login_required" class="js-anime-edit-info-button"><i class="fa fa-pencil mr4"></i>Edit</a>
+<div id="editdiv" class="fw-n fs11">
+  <form method="GET" action="https://myanimelist.net/dbchanges.php" class="di-i">
+    <input type="hidden" name="aid" value="40165">
+    <div class="pb8">What would you like to edit?</div>
+                      <select name="t" id="t" class="inputtext"><option value="synopsis">Synopsis</option><option value="background">Background</option><option value="alternative_titles">Alternative Titles</option><option value="pic">Picture</option><option value="airingdates">Airing Dates</option><option value="producers">Producers</option><option value="relations">Relations</option><option value="rating">Rating</option><option value="duration">Duration</option><option value="source">Source</option><option value="broadcast">Broadcast</option></select>
+     &nbsp;<input type="submit" value="Go" class="inputButton flat btn-middle">
+  </form>
+</div>
+</div></div></div><div id="content" >
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+	 <td class="borderClass" width="225" style="border-width: 0 1px 0 0;" valign="top"><div style="width: 225px">
+
+<div style="text-align: center;">
+          <a href="https://myanimelist.net/anime/40165/Listeners/pics">
+      <img class="lazyload" data-src="https://cdn.myanimelist.net/images/anime/1589/106391.jpg" alt="Listeners" class="ac" itemprop="image">
+    </a>
+  </div>
+
+<!-- My List -->
+<div class="profileRows pb0">
+  <a href="https://myanimelist.net/login.php?from=%2Fanime%2F40165%2FListeners&amp;error=login_required">Add to My List</a>
+</div>
+
+<div id="addtolist" class="addtolist-block js-anime-addtolist-block" style="display: none;">
+  <input type="hidden" id="myinfo_anime_id" value="40165">
+  <input type="hidden" id="myinfo_curstatus" value="">
+
+  <span class="notice_open_public pb4">* Your list is public by default.</span>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td class="spaceit">Status:</td>
+      <td class="spaceit">
+        <select name="myinfo_status" id="myinfo_status" class="inputtext js-anime-status-dropdown"><option value="1">Watching</option><option value="2">Completed</option><option value="3">On-Hold</option><option value="4">Dropped</option><option value="6">Plan to Watch</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td class="spaceit">Eps Seen:</td>
+      <td class="spaceit">
+        <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext" value=""> / <span id="curEps">12</span></td>
+    </tr>
+    <tr>
+      <td class="spaceit">Your Score:</td>
+      <td class="spaceit">
+        <select name="myinfo_score" id="myinfo_score" class="inputtext"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>
+                <input type="button" name="myinfo_submit" value="Add" class="inputButton btn-middle flat js-anime-add-button">
+        <span id="addtolistresult"><a href="https://myanimelist.net/ownlist/anime/add?selected_series_id=40165">Add Detailed Info</a></span>
+              </td>
+    </tr>
+  </table>
+  <div id="myinfoDisplay" style="padding-left: 89px; margin-top: 3px;"></div>
+</div>
+<!-- end My List -->
+
+<div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F40165%2FListeners&amp;error=login_required" style="font-weight:normal;">Add to Favorites</a></div>
+
+<div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F40165%2FListeners"></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F40165%2FListeners&amp;text=Listeners&amp;hashtags=anime"></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F40165%2FListeners&amp;title=Listeners"></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F40165%2FListeners&amp;name=Listeners"></a></div>  <br />
+
+  <h2>Alternative Titles</h2><div class="spaceit_pad">
+    <span class="dark_text">English:</span> Listeners
+  </div><div class="spaceit_pad">
+    <span class="dark_text">Japanese:</span> LISTENERS リスナーズ
+  </div><br />
+
+<h2>Information</h2>
+
+<div>
+  <span class="dark_text">Type:</span>
+  <a href="https://myanimelist.net/topanime.php?type=tv">TV</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Episodes:</span>
+  12
+  </div>
+
+<div>
+  <span class="dark_text">Status:</span>
+  Finished Airing
+  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Aired:</span>
+  Apr 4, 2020 to Jun 20, 2020
+  </div>
+
+  <div>
+    <span class="dark_text">Premiered:</span>
+          <a href="https://myanimelist.net/anime/season/2020/spring">Spring 2020</a>
+          </div>
+
+  <div class="spaceit">
+    <span class="dark_text">Broadcast:</span>
+    Saturdays at 01:55 (JST)
+      </div>
+
+  <div>
+    <span class="dark_text">Producers:</span>
+          <a href="/anime/producer/143/Mainichi_Broadcasting_System" title="Mainichi Broadcasting System">Mainichi Broadcasting System</a>,       <a href="/anime/producer/735/Slow_Curve" title="Slow Curve">Slow Curve</a>,       <a href="/anime/producer/1671/DMM_pictures" title="DMM pictures">DMM pictures</a>,       <a href="/anime/producer/1856/dugout" title="dugout">dugout</a>,       <a href="/anime/producer/2139/DMM_Music" title="DMM Music">DMM Music</a>  </div>
+  <div class="spaceit">
+    <span class="dark_text">Licensors:</span>
+          <a href="/anime/producer/102/Funimation" title="Funimation">Funimation</a>  </div>
+  <div>
+    <span class="dark_text">Studios:</span>
+          <a href="/anime/producer/569/MAPPA" title="MAPPA">MAPPA</a>  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Source:</span>
+  Original
+  </div>
+
+<div>
+  <span class="dark_text">Genres:</span>
+      <span itemprop="genre" style="display: none">Action</span><a href="/anime/genre/1/Action" title="Action">Action</a>,     <span itemprop="genre" style="display: none">Mecha</span><a href="/anime/genre/18/Mecha" title="Mecha">Mecha</a>,     <span itemprop="genre" style="display: none">Music</span><a href="/anime/genre/19/Music" title="Music">Music</a>,     <span itemprop="genre" style="display: none">Sci-Fi</span><a href="/anime/genre/24/Sci-Fi" title="Sci-Fi">Sci-Fi</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Duration:</span>
+  24 min. per ep.
+  </div>
+
+<div>
+  <span class="dark_text">Rating:</span>
+  None
+  </div>
+
+<br />
+
+<h2>Statistics</h2>
+<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" class="po-r js-statistics-info di-ib" data-id="info1">
+  <span class="dark_text">Score:</span>
+  <span itemprop="ratingValue" class="score-label score-5">5.39</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">11687</span>11,687 users)
+      <meta itemprop="bestRating" content="10">
+    <meta itemprop="worstRating" content="1">
+      <div class="statistics-info info1">
+    <small><sup>1</sup>
+          indicates a <a href="javascript:void(0);" onclick="window.open('/info.php?go=topanime','topanime','menubar=no,scrollbars=no,status=no,width=500,height=380');">weighted score</a>.
+    </small>
+  </div>
+</div>
+<div class="spaceit po-r js-statistics-info di-ib" data-id="info2">
+  <span class="dark_text">Ranked:</span>
+  #9884<sup>2</sup>
+    <div class="statistics-info info2">
+    <small><sup>2</sup>
+    based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
+    </small>
+  </div>
+</div>
+<div>
+  <span class="dark_text">Popularity:</span>
+  #2274
+</div>
+<div class="spaceit">
+  <span class="dark_text">Members:</span>
+    47,659
+</div>
+<div>
+  <span class="dark_text">Favorites:</span>
+  52
+</div>
+
+  <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
+          </div>
+
+</div></td><td valign="top" style="padding-left: 5px;"><div class="js-scrollfix-bottom-rel"><div style="width:728px; margin:0 auto"></div><a name="lower"></a>
+<div id="horiznav_nav" style="margin: 5px 0 10px 0;">
+  <ul style="margin-right: 0; padding-right: 0;">
+        <li><a href="https://myanimelist.net/anime/40165/Listeners" class="horiznav_active">Details</a>
+    </li>
+        <li><a href="/anime/40165/Listeners/video">Videos</a>
+    </li>
+        <li>      <a href="https://myanimelist.net/anime/40165/Listeners/episode">Episodes</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/40165/Listeners/reviews">Reviews</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/40165/Listeners/userrecs">Recommendations</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/40165/Listeners/stats">Stats</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/40165/Listeners/characters">Characters &amp; Staff</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/40165/Listeners/news">News</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/40165/Listeners/forum">Forum</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/40165/Listeners/featured">Featured</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/40165/Listeners/clubs">Clubs</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/40165/Listeners/pics">Pictures</a>
+    </li>
+    </ul>
+</div>
+
+
+
+                    <div class="breadcrumb " itemscope itemtype="http://schema.org/BreadcrumbList"><div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/" itemprop="item"><span itemprop="name">
+              Top
+                          </span></a><meta itemprop="position" content="1"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime.php" itemprop="item"><span itemprop="name">
+              Anime
+                          </span></a><meta itemprop="position" content="2"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime/40165/Listeners" itemprop="item"><span itemprop="name">
+              Listeners
+                          </span></a><meta itemprop="position" content="3"></div></div>
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="11,687 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-5">5.39</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#9884</strong></span><span class="numbers popularity">Popularity <strong>#2274</strong></span><span class="numbers members">Members <strong>47,659</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2020/spring">Spring 2020</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/569/MAPPA" title="MAPPA">MAPPA</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="40165"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F40165%2FListeners&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+        Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="12">12</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Listeners&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime js-shop-selecter icon-shop-default" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:40165,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><div class="anime-detail-header-affiliate-dialog js-shop-selecter-dialog" style="display:none"><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Listeners&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:40165,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><a href="http://www.cdjapan.co.jp/aff/click.cgi/PytJTGW7Lok/6039/A764127/searches?q=Listeners" class="btn-affiliate cdjapan js-shop-anime js-shop-cd-japan" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;cdjapan&quot;,&quot;id&quot;:40165,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/logo-cdjapan.png" width="118" height="25" alt="buy from CD Japan"></a><a href="http://www.shareasale.com/r.cfm?u=1384175&b=866986&m=65886&afftrack=&urllink=www.rightstufanime.com%2Fsearch%3Fkeywords%3DListeners" class="btn-affiliate right_stuf js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;right_stuf&quot;,&quot;id&quot;:40165,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_right_stuf.png" width="118" height="25" alt="buy from Rightstuf"></a></div></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/M9dINy-ZDlQ?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/M9dINy-ZDlQ/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">Teaser</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/40165/Listeners/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
+</div><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=40165&t=synopsis" style="font-weight: normal;">Edit</a></div><h2>Synopsis</h2></div><p itemprop="description">Set in a world where the concept of music ceases to exist. The story begins when a boy encounters Myuu, a mysterious girl who possesses an audio input jack in her body. The two intermingle with the history of rock music and embark on an unforgettable journey.<br />
+<br />
+(Source: MAL News)</p><div style="margin-top: 15px;"><div class="floatRightHeader"><a href="/dbchanges.php?aid=40165&t=background" style="font-weight: normal;">Edit</a></div><h2>Background</h2></div>No background information has been added to this title. Help improve our database by adding background information <a href="/dbchanges.php?aid=40165&t=background">here</a>.<br><div class="border_top" style="padding:16px 0px 0px 0px;margin:14px 0px 0px 0px;"><div style="padding: 20px 0 20px 40px; float: left; position: relative; z-index: 1;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540582" data-ad-slot="criteo_slot_1540582" id="criteo_slot_1540582"></div>
+
+      </div>
+    </div><div style="padding: 20px 40px 20px 0; float: right; position: relative;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540583" data-ad-slot="criteo_slot_1540583" id="criteo_slot_1540583"></div>
+
+      </div>
+    </div></div></td></tr><tr><td class="pb24"><br><div><div class="floatRightHeader"><a href="/anime/40165/Listeners/characters" style="font-weight: normal;">More characters</a></div><h2>Characters & Voice Actors</h2></div><div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/177740/μ" class="fw-n">
+            <img alt="μ" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/3/403813.jpg?s=60d2c03e3873561b54199b0ba5766a0e" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/3/403813.jpg?s=60d2c03e3873561b54199b0ba5766a0e 1x, https://cdn.myanimelist.net/r/84x124/images/characters/3/403813.jpg?s=81e329513d6db55352c8432746c7b341 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/177740/μ">μ</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/34785/Rie_Takahashi">Takahashi, Rie</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/34785/Rie_Takahashi">
+                      <img alt="Takahashi, Rie" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/48142.jpg?s=56adeb913af82900b5fe29f2686c133b" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/48142.jpg?s=56adeb913af82900b5fe29f2686c133b 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/48142.jpg?s=5b4dbacf0892489f0db44fc6c363a8b8 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/179708/Echo_Reck" class="fw-n">
+            <img alt="Reck, Echo" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/3/403812.jpg?s=2c00cef03c4fc10cf0bf2a702a485fa5" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/3/403812.jpg?s=2c00cef03c4fc10cf0bf2a702a485fa5 1x, https://cdn.myanimelist.net/r/84x124/images/characters/3/403812.jpg?s=badccabc5cff203beaa805ca5817957d 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/179708/Echo_Reck">Reck, Echo</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/15919/Ayumu_Murase">Murase, Ayumu</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/15919/Ayumu_Murase">
+                      <img alt="Murase, Ayumu" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/61057.jpg?s=a889d2677cb564fbe156c313297faa80" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/61057.jpg?s=a889d2677cb564fbe156c313297faa80 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/61057.jpg?s=6ce83a602464498beabf50347e5f7d4e 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/179709/Nir" class="fw-n">
+            <img alt="Nir" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/7/403826.jpg?s=ec61bc8fe89a575f503bf8c1770f1639" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/7/403826.jpg?s=ec61bc8fe89a575f503bf8c1770f1639 1x, https://cdn.myanimelist.net/r/84x124/images/characters/7/403826.jpg?s=bd7b9c8ee9f5dcaf80d15a8746e92e29 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/179709/Nir">Nir</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/8/Rie_Kugimiya">Kugimiya, Rie</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/8/Rie_Kugimiya">
+                      <img alt="Kugimiya, Rie" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54599.jpg?s=a17bceae2a00b024c1d3b5d1877adda5" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54599.jpg?s=a17bceae2a00b024c1d3b5d1877adda5 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/54599.jpg?s=ab68ebb68bbc8deea9c81e695d731dd2 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/179717/Kim" class="fw-n">
+            <img alt="Kim" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/12/403818.jpg?s=807abbceca3b8833ca217cac91232f93" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/12/403818.jpg?s=807abbceca3b8833ca217cac91232f93 1x, https://cdn.myanimelist.net/r/84x124/images/characters/12/403818.jpg?s=5cff1d9d5a8fcb1bba99906077f11f89 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/179717/Kim">Kim</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/100/Atsuko_Tanaka">Tanaka, Atsuko</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/100/Atsuko_Tanaka">
+                      <img alt="Tanaka, Atsuko" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/32781.jpg?s=ad07ffce476f640b6a347b870ed8bed1" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/32781.jpg?s=ad07ffce476f640b6a347b870ed8bed1 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/32781.jpg?s=7defd6a4710be5aaaf1d6d5a3f15f3b4 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/179731/Jimi_Stonefree" class="fw-n">
+            <img alt="Stonefree, Jimi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/8/403832.jpg?s=103c91b15957c3ae6800038dec23b9a9" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/8/403832.jpg?s=103c91b15957c3ae6800038dec23b9a9 1x, https://cdn.myanimelist.net/r/84x124/images/characters/8/403832.jpg?s=20a8022225d506a352cd8b288c63add2 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/179731/Jimi_Stonefree">Stonefree, Jimi</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/86/Jun_Fukuyama">Fukuyama, Jun</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/86/Jun_Fukuyama">
+                      <img alt="Fukuyama, Jun" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/60810.jpg?s=e3f5b394ae1e215359052aef53b5d844" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/60810.jpg?s=e3f5b394ae1e215359052aef53b5d844 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/60810.jpg?s=b9bc53db49dafc16750eb472d3969ac9 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/179711/Denka" class="fw-n">
+            <img alt="Denka" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/6/403815.jpg?s=e73804cbe8ecb591874f1f589dd1ae8e" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/6/403815.jpg?s=e73804cbe8ecb591874f1f589dd1ae8e 1x, https://cdn.myanimelist.net/r/84x124/images/characters/6/403815.jpg?s=be8c886f1416ebb52bf26d930aca5269 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/179711/Denka">Denka</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/95/Junichi_Suwabe">Suwabe, Junichi</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/95/Junichi_Suwabe">
+                      <img alt="Suwabe, Junichi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/44598.jpg?s=1da5aaec7569d4b4540a99099af6d643" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/44598.jpg?s=1da5aaec7569d4b4540a99099af6d643 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/44598.jpg?s=b8b36c295273a41aeb9dc11ed406823b 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/179710/Roz" class="fw-n">
+            <img alt="Roz" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/2/403830.jpg?s=f5968a05b9366499b5c6d0a2310da274" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/2/403830.jpg?s=f5968a05b9366499b5c6d0a2310da274 1x, https://cdn.myanimelist.net/r/84x124/images/characters/2/403830.jpg?s=2823843f6569a79943195647e412ab51 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/179710/Roz">Roz</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/185/Kana_Hanazawa">Hanazawa, Kana</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/185/Kana_Hanazawa">
+                      <img alt="Hanazawa, Kana" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/57913.jpg?s=2b49be6c369051294f90ff2647f81a1a" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/57913.jpg?s=2b49be6c369051294f90ff2647f81a1a 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/57913.jpg?s=4042565b20c9f98d00c81f5045178da6 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/179726/Sally_Simpson" class="fw-n">
+            <img alt="Simpson, Sally" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/7/403831.jpg?s=01585d85210ae544dabb8b0c591f24ab" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/7/403831.jpg?s=01585d85210ae544dabb8b0c591f24ab 1x, https://cdn.myanimelist.net/r/84x124/images/characters/7/403831.jpg?s=8e99f28c8cfb86a9201ee7998e129429 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/179726/Sally_Simpson">Simpson, Sally</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/47364/Miyuri_Shimabukuro">Shimabukuro, Miyuri</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/47364/Miyuri_Shimabukuro">
+                      <img alt="Shimabukuro, Miyuri" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/52388.jpg?s=8aaff9fc59624b32cd24ea869a15842b" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/52388.jpg?s=8aaff9fc59624b32cd24ea869a15842b 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/52388.jpg?s=228c57d482378b5a6b988c9730fb6937 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/179725/McGee" class="fw-n">
+            <img alt="McGee" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/4/403822.jpg?s=571b6e2c92a5037efdc93b05befc2d32" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/4/403822.jpg?s=571b6e2c92a5037efdc93b05befc2d32 1x, https://cdn.myanimelist.net/r/84x124/images/characters/4/403822.jpg?s=4bb2f6b319ab7d3fdf9977b9b84fe305 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/179725/McGee">McGee</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/898/Cho">Cho</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/898/Cho">
+                      <img alt="Cho" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54628.jpg?s=017e8a7c532742ecccd9b99787beee94" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54628.jpg?s=017e8a7c532742ecccd9b99787beee94 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/54628.jpg?s=51692ef87cdb2f4e4ff4e5900f7e5fa4 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/179724/Swell_Reck" class="fw-n">
+            <img alt="Reck, Swell" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/12/403827.jpg?s=c05ee87186f4c0671791f8e8bf122c3a" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/12/403827.jpg?s=c05ee87186f4c0671791f8e8bf122c3a 1x, https://cdn.myanimelist.net/r/84x124/images/characters/12/403827.jpg?s=3fab2bc7ec9fb81316741f7fec7d8a8f 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/179724/Swell_Reck">Reck, Swell</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/241/Rina_Satou">Satou, Rina</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/241/Rina_Satou">
+                      <img alt="Satou, Rina" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54579.jpg?s=32dbaed6a156fee09f37e450c3a2a42a" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54579.jpg?s=32dbaed6a156fee09f37e450c3a2a42a 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/54579.jpg?s=88a5f27e9feef2a2ccc0d1036bc4e8ef 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div></div>
+<div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div><br>
+<a name="staff"></a>
+<div>
+  <div class="floatRightHeader"><a href="https://myanimelist.net/anime/40165/Listeners/characters#staff">More staff</a></div>
+  <h2>Staff</h2>
+</div>
+
+<div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/11475/Hiroaki_Andou" class="fw-n">
+            <img alt="Andou, Hiroaki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/11475/Hiroaki_Andou">Andou, Hiroaki</a>
+        <div class="spaceit_pad">
+          <small>Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/39686/Kisuke_Koizumi" class="fw-n">
+            <img alt="Koizumi, Kisuke" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/55492.jpg?s=291220527ad34d23029122a29bc5cfe3" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/55492.jpg?s=291220527ad34d23029122a29bc5cfe3 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/55492.jpg?s=0dcc45a3ff490847fd03641b7702d28a 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/39686/Kisuke_Koizumi">Koizumi, Kisuke</a>
+        <div class="spaceit_pad">
+          <small>Sound Director</small>
+        </div>
+      </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/18249/Jin" class="fw-n">
+            <img alt="Jin" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/25701.jpg?s=2ae55680768cbde10e17f183bb1bdc39" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/25701.jpg?s=2ae55680768cbde10e17f183bb1bdc39 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/25701.jpg?s=b23e5506ff9a8ff02e5d9809218019ee 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/18249/Jin">Jin</a>
+        <div class="spaceit_pad">
+          <small>Original Creator</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/5245/Dai_Satou" class="fw-n">
+            <img alt="Satou, Dai" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/42332.jpg?s=442d19cc72822a45098819f0ccbf1afa" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/42332.jpg?s=442d19cc72822a45098819f0ccbf1afa 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/42332.jpg?s=ebf538238cb9293fed48e96f3ee9ca5d 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/5245/Dai_Satou">Satou, Dai</a>
+        <div class="spaceit_pad">
+          <small>Series Composition, Original Creator</small>
+        </div>
+      </td>
+    </tr>
+  </table></div></div>
+<br><br><div class="di-t">
+  <div class="di-tc va-t borderDark pb4" style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=40165&amp;t=theme" class="floatRightHeader">Edit</a>
+      <h2>Opening Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs opnening"><span class="theme-song">&quot;Into the blue&#039;s&quot; by ACCAMER</span><br></div>
+  </div>
+  <div class="di-tc va-t}" style="width:16px;"></div>
+
+  <div class="di-tc va-t borderDark pb4" style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=40165&amp;t=theme&amp;themetype=2" class="floatRightHeader">Edit</a>
+      <h2>Ending Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs ending"><span class="theme-song">#01: &quot;Muse&quot; by μ (Rie Takahashi) (ep 1)</span><br><span class="theme-song">#02: &quot;Borders&quot; by μ (Rie Takahashi) (ep 2)</span><br><span class="theme-song">#03: &quot;Slip out!&quot; by μ (Rie Takahashi) (ep 3)</span><br><span class="theme-song">#04: &quot;Rainy lain&quot; by μ (Rie Takahashi) (ep 4)</span><br><span class="theme-song">#05: &quot;Top of ocean&quot; by μ (Rie Takahashi) (ep 5)</span><br><span class="theme-song">#06: &quot;Trauma&quot; by μ (Rie Takahashi) (ep 6)</span><br><span class="theme-song">#07: &quot;Dilemma&quot; by μ (Rie Takahashi) (ep 7)</span><br><span class="theme-song">#08: &quot;Fairy tale&quot; by μ (Rie Takahashi) (ep 8)</span><br><span class="theme-song">#09: &quot;Slumber&quot; by μ (Rie Takahashi) (ep 9)</span><br><span class="theme-song">#10: &quot;Love song&quot; by μ (Rie Takahashi) (ep 10)</span><br><div class="hide js-viewOpEd" id="edTheme"><span class="theme-song">#11: &quot;Listeners&quot; by μ (Rie Takahashi) (ep 11)</span><br><span class="theme-song">#12: &quot;Into the blue&#039;s (modern ver.)&quot; by μ (Rie Takahashi) (ep 12)</span><br></div></div>
+  </div>
+</div>
+<div class="di-b ar">
+  <a href="javascript:void(0);" class="viewOpEdMore js-anime-toggle-op-ed-button"><i class="fa fa-chevron-down mr4"></i>More theme songs</a>
+</div><br><br><br><div><span class="floatRightHeader"><a href="/anime/40165/Listeners/reviews">More reviews</a></span><h2>Reviews</h2></div>
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="1:26 PM">Jun 21, 2020</div>
+      <div class="lightLink spaceit">
+                  12 of 12 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score344956').toggle()">Overall Rating</a>:
+        2
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Goober-fish">
+                  <img src="https://cdn.myanimelist.net/images/userimages/3995335.jpg?t=1610524200" data-src="https://cdn.myanimelist.net/images/userimages/3995335.jpg?t=1610524200" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Goober-fish">Goober-fish</a>
+              <small>(<a href="/profile/Goober-fish/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp344956">74</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score344956">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>2</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">1</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">3</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">3</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">1</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">1</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    HEY! Listen!<br />
+<br />
+“Listeners” is fucking garbage, and in most cases, I’d say you’d have to see it to believe it but I pray no one besides myself has to lay themselves bare to this level of unfiltered drek. <br />
+<br />
+If the litmus test for a half-decent anime screen-writer is having listened to the musical stylings of Jimi Hendrix, Prince, and Pink Floyd (among many...many others), then you can consider most dads in the continental United States accomplished enough to pen something equal to or better than Listeners. This isn’t a show for music nerds or people who can appreciate the hallowed halls of surface-level dad-rock, no, no,
+
+          <span style="display: none;" id="review344956">
+        Listeners is a bit more sinister than that. Listeners is 12 straight episodes of some smug prick patting himself on the back for having listened to the most bare-essential “classics” in the history of popular music. You like Nirvana? So does the rest of the world, dude.<br />
+<br />
+Besides its flashy concept and presentation, Listeners is one giant nothingburger of an anime. Its intentions are pretty damn transparent, to the point where its disjointed narrative throws caution to the wind in order to fulfill the fucking reference quota in any given episode. The dialogue in this script simply acts as a placeholder for more fucking references. I shit you not, entire sequences of conversation in this show can be boiled down to two Talking Heads (see, I can make references too) reciting famous song lyrics to each other in place of substantive discourse, exposition, or character interaction. I’ve seen some call this “impressive” for sheer virtue of the fact that you have to frame this in a manner that both visually and narratively fits the story… PUHLEASE! “We don’t need no education”, frame that entire lyric on a shallow vignette that barely touches base with what Roger Waters was intending when he wrote that it and make it a slice of life school anime, that&#039;s Listeners&#039; brand of storytelling. It’s not hard people! <br />
+<br />
+Mu, of course, the mascot character and strong female deuteragonist. Another mysterious Mary McGuffin who lacks social graces, sports a bitchy attitude, and is generally unlikable by most standards. Complete with a nebulous past that is somehow directly involved in the plot, lovely, haven’t had enough of those. But she wouldn’t be complete without “Echo”, what a lovely character. An intrepid young lad with an appetite for (reconstruction?). These two may as well just be Kamijou Touma and Index but even they had better chemistry than these two buffoons. Your average character interaction between them will generally involve Echo regurgitating essential world-building and Mu calling Echo a weirdo for doing so, brilliant.<br />
+ <br />
+I get that this show is supposed to be some kind of kitschy tribute to artists of old but there’s little to no consistency in terms to what it chooses to riff that the references at best come off like a Spotify playlist of rock essentials. The world of Listeners suggests a reverence for rockstars, but the references wouldn’t lead you to believe so. This makes me question references to MBV and Robert Johnson, I mean does the type of music Kevin Shields produces exactly scream “rock star?” People under the supposition that this show has consistency in terms of what music it chooses to pay tribute to are gravely mistaken. Additionally, artists like Kurt Cobain who famously repudiated this degree of blind idolatry have flagrant references strewn about like kitschy decor, which is stunningly ironic.  <br />
+<br />
+It would be one thing if all these on the nose winks and nods to popular music acts from back in the day were for the sake of aesthetic (take Jojo’s for example), but it couldn’t be that simple, this shit is intrinsically tied to the narrative. Everything from “Teen Spirit” to “The Wall” has some form of off-the-cuff functionality in the world-building that lives and dies with whatever episode it was mentioned in. Also, I have to question the rationale behind making the Jimi Hendrix (widely recognized as one of if not THE single most important black musician in the history of music) stand-in, a generic pasty-skinned rock god catch-all. What kind of optics are these? Who the fuck co-signed this shit? The same dude who tried to cast Julia Roberts as Harriet Tubman?  <br />
+<br />
+The CG models for the mechs are chunky and distractingly out of place which makes for some of the most awkward action sequences I’ve seen come out of an anime in this year. Give this concept to Trigger or David Productions and I’m sure they’d at least be able to cobble something together with the visual panache to distract from its cliched sensibilities. <br />
+<br />
+Yeah...so...Listeners, that was a thing, I guess? Alright, listen (okay...I’ll stop), perhaps this show wasn’t made for someone like me who is cognizant of most if not all of the musicians it proudly flaunts, but I have to question if this show even really has a target audience I could recommend it to. If you’re someone who is completely oblivious to all or most of the references, what leg would this anime have to stand on? There isn’t a compelling story, not a single noteworthy character, or even just a brief cut of decent visuals that isn’t just lazily aping the music it pays tribute to. It’s just utter nonsense and sci-fi gobbledygook. <br />
+<br />
+Needless to say, this anime made me foam at the mouth, and not in a good way. This show is so eye-roll inducing that my sockets have ballooned by at least a centimeter over the course of its 12 episodes. Fuck you Jin. 
+        
+<div id="revhelp_output_344956" class="mt8 js-review-btn-helpful js-review-helpful-344956">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F40165%2FListeners" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle344956"
+         class="js-toggle-review-button" data-id="344956">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=344956" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=344956" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="10:20 AM">Jun 19, 2020</div>
+      <div class="lightLink spaceit">
+                  12 of 12 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score344502').toggle()">Overall Rating</a>:
+        5
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Watame">
+                  <img src="https://cdn.myanimelist.net/images/userimages/8378793.jpg?t=1608821400" data-src="https://cdn.myanimelist.net/images/userimages/8378793.jpg?t=1608821400" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Watame">Watame</a>
+              <small>(<a href="/profile/Watame/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp344502">23</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score344502">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>5</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">0</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">0</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">0</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">0</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">0</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    In a Nutshell <br />
+Set in a post-apocalyptic world that has been terrorized by shadowy creatures known as Earless for far too long, the humanity is now to battle their inhuman enemies. The series focuses on a boy called Echo, who wants to join the fight against the Earless.<br />
+<br />
+FLCL on Shrooms<br />
+It is quite obvious that something like ‘a boy finds a mystery girl and together they save the world’ sounds way too overused. Here, however, the show at least gives the girl with amnesia a personality. Let us see if this show even tries to be ‘somewhat’ unique. The boy is your Takkun (FLCL), or Simon
+
+          <span style="display: none;" id="review344502">
+        (Tengen Toppa Gurren Lagann), in other words, weak, nerdy boy, who want to escape and change something in his life.  The problem, however, is that he shows even less development than Takkun and Simon, he is just your average Joe that you have seen 100000 times already. The girl, μ, has an amnesia (I am not going to stress the fact how many times it has been used in other series). She looks like a big human amplifier, do not ask me why, Japan is weird, yes. While she does have 0 recollection of what she is, she does not care about it and keeps fighting. People like her are called players, and they are known for bringing music into the world. Unfortunately, players have been banned from the town Echo lives in, because earless monsters might destroy it, if they were to cooperate with any players.<br />
+<br />
+It Is Just Way Too Generic<br />
+The show does focus on music, which is something you will rarely see, ehem Macross, ehem and it does manage to be somewhat unique, but it just fails to be anywhere entertaining. A series that focuses on music, has such a weak OST, please. Listeners does use mecha fights and does it quite often, I must say. But these action scenes are just way too boring. I mean, mecha fights must be epic, mecha means epic and here they are just anything but epic. <br />
+<br />
+Too Many Things Going On<br />
+Listeners is a great example of a show that tries to be everything, but fails to be good.  You are introduced to the world of Listeners, however, you do not get a normal explanation about where the Earless came from, what the mechs are exactly, where Players came from, who are the Earless, what they want and so on. It is perfectly fine, if you do not want to focus on the actions scenes, no problem. But do pay enough time to the world-building and characters. Already the main protagonists, let us be honest, are nothing special, but the show  introduces more and more characters that do not receive enough development, as well as the screen time for the viewer to like them, to understand what they are and what they are trying to achieve and many many more.<br />
+<br />
+Not Recommended (5/10)<br />
+But it does not mean that you should not watch this series. It is not bad, it is just average. I will not try to deny the fact that it did try to be unique and it could have become quite a successful show of this season, if more attention has been paid to the characters. However, this show is just way too generic, it shows way too many things, I have seen too many times already, so seeing it one more time was not quite what I was looking for. 
+        
+<div id="revhelp_output_344502" class="mt8 js-review-btn-helpful js-review-helpful-344502">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F40165%2FListeners" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle344502"
+         class="js-toggle-review-button" data-id="344502">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=344502" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=344502" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="1:38 PM">Jun 19, 2020</div>
+      <div class="lightLink spaceit">
+                  12 of 12 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score344546').toggle()">Overall Rating</a>:
+        7
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/robert788">
+                  <img src="https://cdn.myanimelist.net/images/userimages/7773834.jpg?t=1610580600" data-src="https://cdn.myanimelist.net/images/userimages/7773834.jpg?t=1610580600" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/robert788">robert788</a>
+              <small>(<a href="/profile/robert788/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp344546">19</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score344546">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>7</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">6</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">9</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">7</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">7</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">6</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Listeners (2020)<br />
+<br />
+First off this is a show that will be slated and in some cases for good reason but at the same time, it is a bit harsh. I think this would have benefited having more than 12 episodes but not as many as 24. Perhaps the ending should have been an OVA immediately released to allow it to spread more of the story. <br />
+<br />
+The show itself does contain a pretty basic plot and it is also one that does a full 360. In this I mean we have an event that causes a war-like scenario which is then repeated to have a different ending.
+
+          <span style="display: none;" id="review344546">
+        The ending is more representative of the 1960-1970 era of the hippies and love. <br />
+<br />
+The show started off really strong and it was building itself to be a real show breaker coming out of the generic storyline to actually build. Problem is that it faltered about 6 episodes in. Personally, I believe this was due to it being only 12 episodes. If it had a few more it would have been able to portray itself much better. <br />
+<br />
+The art of the show is actually pretty brilliant. It is a high standard throughout and really shows the symbolism that it wants to give. The CGI used on the mechs is also of a great standard. <br />
+<br />
+Sound in the show is good, not quite as I would have hoped since the music it was based off is so iconic. I guess there must have been some legal reasons that dulled the authentic feel down. <br />
+<br />
+Characters mainly Mu and Echo the protagonists are really good. To begin with, you believe Echo to be the soul main with Mu then coming to take over and then it is shared. <br />
+<br />
+A few other characters of note make for an interest situation. Nir is very interesting since she actually gets an episode purely for her which was so unusual. <br />
+<br />
+We must remember most characters are based off someone generally. <br />
+<br />
+Best girl tournament in this for me:<br />
+<br />
+1. Nir<br />
+2. Sally <br />
+3. Roz <br />
+4. Mu<br />
+5. Janis<br />
+<br />
+Mu is a great girl but she develops in a different way and her Tsundere personality is handled a bit weirdly. <br />
+<br />
+Remember in episode 12 you see &#039;track 13&#039; so it sort of has a short ending episode with a short OVA you could say.<br />
+<br />
+In the end, I would say honestly the show is good. Nothing more and nothing less than good. It would have been a solid 9 had the show not been rushed to cram in content and possibly a 10 if the music was that little bit better and more authentic. <br />
+<br />
+The show is an enjoyable ride as something casual to watch. I would recommend it since the ending is pretty nice and a cliff hanger. Saying that I don&#039;t expect to see it renewed, I actually don&#039;t think it needs to be as it left on a nice note. 
+        
+<div id="revhelp_output_344546" class="mt8 js-review-btn-helpful js-review-helpful-344546">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F40165%2FListeners" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle344546"
+         class="js-toggle-review-button" data-id="344546">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=344546" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=344546" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="12:55 PM">Jul 1, 2020</div>
+      <div class="lightLink spaceit">
+                  12 of 12 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score346554').toggle()">Overall Rating</a>:
+        7
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/JiangHaoyi1979">
+                  <img src="https://cdn.myanimelist.net/images/userimages/7283186.jpg?t=1610319600" data-src="https://cdn.myanimelist.net/images/userimages/7283186.jpg?t=1610319600" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/JiangHaoyi1979">JiangHaoyi1979</a>
+              <small>(<a href="/profile/JiangHaoyi1979/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp346554">14</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score346554">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>7</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">7</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">7</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">8</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">4</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">4</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Ok, top 3 reviewers of this original anime, obviously don&#039;t have any love for this and IMAO, they basically have no appreciations for the music and art  that this original presents......Now, I don&#039;t know if any of them reviewers around here notices that this was the original creation of a guy whose name is &quot;Jin&quot; who  created a lotta musical composition in a lot of anime, so basically this was his only anime creation and yet IMO he did a good job. Ok, here were my ratings:<br />
+<br />
+<br />
+Story-Good 7: Ok, so the story maybe the usual guy finds anthropomorphic girl and from there their
+
+          <span style="display: none;" id="review346554">
+        adventure begins, but in this original anime, the adventure wasn&#039;t your typical one , cu&#039;z it was more like an adventure of self discovery when involves a girl who has no idea that she&#039;s the baddie around here and a guy who save the day and manages to save the girl in the end. <br />
+<br />
+Art-Good 7: Well, given that the motif of fashion and illustration, it was kinda good when something from the 70&#039;s was blended  with something from both the 80&#039;s and 90&#039;s.  <br />
+<br />
+Sound-Very Good 7: that&#039;s for the opening &quot;&quot;Into the blue&#039;s&quot; by ACCAMER&quot;  and the various ending theme and the soundtrack that were played around this original anime. <br />
+<br />
+Character- Decent 4: There wasn&#039;t much about the characters around here, when we talk about Echo and Mu as usual Rick Echo was this weakling guy who gets to be on the receiving end of Mu&#039;z tsundere thing , everything else were just the usual baddie and ally thing....<br />
+<br />
+Enjoyment-Decent 4: Well, it wasn&#039;t a chore to watch given that this was more on the musical side. <br />
+<br />
+Overall-Good 7: Not bad at all........IMAO... <br />
+<br />
+   
+        
+<div id="revhelp_output_346554" class="mt8 js-review-btn-helpful js-review-helpful-346554">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F40165%2FListeners" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle346554"
+         class="js-toggle-review-button" data-id="346554">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=346554" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=346554" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+<div class="mt4"></div><div class="amazon-ads anime-manga-detail bottom pt20 pb16">
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "animedetail-20";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Buy on Amazon.com ";
+amzn_assoc_default_search_phrase = "Listeners";
+amzn_assoc_default_category = "DVD";
+amzn_assoc_linkid = "d33d41183eb8aee6216ffe9ff44ca735";
+amzn_assoc_rows = "1";
+amzn_assoc_search_bar_position = "bottom";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+</div>            <div class="mal-ad-unit" data-ad-width="801" data-ad-height="633">
+        <div id="taboola-below-article-thumbnails-anime"></div> <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'alternating-thumbnails-a',
+    container: 'taboola-below-article-thumbnails-anime',
+    placement: 'Below Article Thumbnails Anime',
+    target_type: 'mix'
+  });
+</script>
+
+      </div>
+    <br><div><div class="floatRightHeader"><a href="/anime/40165/Listeners/news">More news</a></div><h2>Recent News</h2></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/59431415" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1585195110-8942c28cb62e104db5923dd0a5e0a455.jpeg?s=bb4f94f1916aa54070461adc6e7c16a6" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1585195110-8942c28cb62e104db5923dd0a5e0a455.jpeg?s=bb4f94f1916aa54070461adc6e7c16a6 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1585195110-8942c28cb62e104db5923dd0a5e0a455.jpeg?s=1af4c15745b9f92838942437f3b4d84e 2x" alt="Spring 2020 Simulcast List [Update 4/28]" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/59431415"><strong>Spring 2020 Simulcast List [Update 4/28]</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p>In this thread, you&#039;ll find a comprehensive list of anime acquired for simulcast release during the Spring 2020 season. Anime series licensed for home video rel...<a href="/news/59431415">read more</a></p></div>
+		<p class="lightLink spaceit">Mar 25, 2020 8:58 PM by <a href="/profile/Snow">Snow</a> | <a href="/forum/?topicid=1830969">Discuss (68 comments)</a></p></div>
+		<div class="borderClass"></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/59358730" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1584391372-955f0a34158fdfaac7aebda0a5d8d997.jpeg?s=d9c0bdcac1ed538d4581218102dec6cb" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1584391372-955f0a34158fdfaac7aebda0a5d8d997.jpeg?s=d9c0bdcac1ed538d4581218102dec6cb 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1584391372-955f0a34158fdfaac7aebda0a5d8d997.jpeg?s=04822c7065404d0e56511e35872a89b3 2x" alt="Spring 2020 Preview" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/59358730"><strong>Spring 2020 Preview</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p>In this thread, you&#039;ll find a comprehensive list of Spring 2020 titles with an accompanying promotional video (PV), commercial (CM), or trailer. This post will ...<a href="/news/59358730">read more</a></p></div>
+		<p class="lightLink spaceit">Mar 16, 2020 1:45 PM by <a href="/profile/Snow">Snow</a> | <a href="/forum/?topicid=1829488">Discuss (17 comments)</a></p></div>
+		<div class="borderClass"></div><br><div><div class="floatRightHeader"><a href="/forum/?animeid=40165"><a href="/anime/40165/Listeners/forum">More discussions</a></div><h2>Recent Forum Discussion</h2></div><div class="page-forum">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F40165%2FListeners&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1832748">Listeners Episode 1 Discussion</a> <small> ( <a href="/forum/?topicid=1832748&show=0">1</a> <a href="/forum/?topicid=1832748&show=50">2</a> <a href="/forum/?topicid=1832748&show=100">3</a> <a href="/forum/?topicid=1832748&show=150">4</a>  ) </small><br><span class="forum_postusername"><a href="/profile/moodie">moodie</a></span> - <span class="lightLink">Apr 3, 2020</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">154 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/BasedAkko">BasedAkko</a> <a href="/forum/?topicid=1832748&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Dec 31, 2020 9:03 AM</td>
+            </tr>
+            <tr id="topicRow2">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F40165%2FListeners&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1842106">Listeners Episode 8 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">May 22, 2020</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">22 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/nyanbinary">nyanbinary</a> <a href="/forum/?topicid=1842106&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Dec 28, 2020 4:12 PM</td>
+            </tr>
+            </table></div><br><div><div class="floatRightHeader"><a href="/anime/40165/Listeners/featured">More featured articles</a></div><h2>Recent Featured Articles</h2></div><div class="detail-page-featured-article"><div class="news-list">
+      
+    <div class="news-unit clearfix"><div class="picSurround fl-l mr8 ml3">
+          <a href="https://myanimelist.net/featured/2326/In_Numbers__Spring_2020_Premiere_Rankings"><img src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1588249843-7bf1745de673f6636bc3d6e8b7dc85a7.jpeg?s=54510a4eb9f655a28748f89e24597ff0" alt="In Numbers: Spring 2020 Premiere Rankings" class="image lazyload" width="50" height="78" srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1588249843-7bf1745de673f6636bc3d6e8b7dc85a7.jpeg?s=54510a4eb9f655a28748f89e24597ff0 1x, https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1588249843-7bf1745de673f6636bc3d6e8b7dc85a7.jpeg?s=4ddf20ad2f7612c3418065f07980dc84 2x" /></a>
+        </div><div class="news-unit-right rect">
+        <p class="title">
+          <a href="https://myanimelist.net/featured/2326/In_Numbers__Spring_2020_Premiere_Rankings" title="In Numbers: Spring 2020 Premiere Rankings">In Numbers: Spring 2020 Premiere Rankings</a>
+        </p>
+        <div class="text">
+          The season is now fully underway, but which shows took off running and which tripped at the starting line?
+        </div>
+        <div class="information">
+          <p class="info pr8">
+            by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
+          </p><p class="di-tc pv pr8">
+              <b>45,602</b> views
+            </p></div>
+      </div>
+    </div>
+        </div>
+</div><div style="padding:16px 0px 0px 0px;"><div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div></div><br><div>
+            <div class="floatRightHeader"><a href="/anime/40165/Listeners/userrecs">More recommendations</a></div>
+            <h2>Recommendations
+            </h2></div>  <div class=""><div class="anime-slide-block" id="anime_recommendation" data-json='{"width":800,"btnWidth":40,"margin":8}'><div class="btn-anime-slide-side left"><span class="btn-inner"></span></div><div class="btn-anime-slide-side right"><span class="btn-inner"></span></div><div class="anime-slide-outer" style="height:140px;"><ul class="anime-slide js-anime-slide" data-slide="8"><li class="btn-anime" style="width:90px" title="Koukyoushihen Eureka Seven"><a href="https://myanimelist.net/recommendations/anime/237-40165" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Koukyoushihen Eureka Seven</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/34443.jpg?s=5422b0a62712bec22d404840d26e6589" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/34443.jpg?s=5422b0a62712bec22d404840d26e6589 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/34443.jpg?s=793de65400762b449e9c71632632eeb7 2x" width="90" height="140" class="image lazyload" alt="Koukyoushihen Eureka Seven" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Akanesasu Shoujo"><a href="https://myanimelist.net/recommendations/anime/37561-40165" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Akanesasu Shoujo</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1210/95781.jpg?s=4213f11fe66137ebaa8fb68c9fb74487" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1210/95781.jpg?s=4213f11fe66137ebaa8fb68c9fb74487 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1210/95781.jpg?s=63f32b8aed8affd6f2b239245deb980b 2x" width="90" height="140" class="image lazyload" alt="Akanesasu Shoujo" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Elfen Lied"><a href="https://myanimelist.net/recommendations/anime/226-40165" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Elfen Lied</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/10/6883.jpg?s=933f638f7bd44ced35c99bfd70df08ec" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/10/6883.jpg?s=933f638f7bd44ced35c99bfd70df08ec 1x,https://cdn.myanimelist.net/r/180x280/images/anime/10/6883.jpg?s=a21d701d3558aa9973a2966e50441d36 2x" width="90" height="140" class="image lazyload" alt="Elfen Lied" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Planet With"><a href="https://myanimelist.net/recommendations/anime/37578-40165" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Planet With</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1985/95103.jpg?s=11a8ebd49fc34a8a4b56df504055f1f9" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1985/95103.jpg?s=11a8ebd49fc34a8a4b56df504055f1f9 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1985/95103.jpg?s=4457bf08eb100833d3eff79e46e0f458 2x" width="90" height="140" class="image lazyload" alt="Planet With" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Fractale"><a href="https://myanimelist.net/recommendations/anime/9314-40165" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Fractale</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/2/28197.jpg?s=b5b65d396931d888807adb19b469ab63" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/2/28197.jpg?s=b5b65d396931d888807adb19b469ab63 1x,https://cdn.myanimelist.net/r/180x280/images/anime/2/28197.jpg?s=cbf883ca8470c8c7f6e3831ef4ede63c 2x" width="90" height="140" class="image lazyload" alt="Fractale" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Darling in the FranXX"><a href="https://myanimelist.net/recommendations/anime/35849-40165" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Darling in the FranXX</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1614/90408.jpg?s=dad8e6ac952be206e3e2ea7b446e4f8f" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1614/90408.jpg?s=dad8e6ac952be206e3e2ea7b446e4f8f 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1614/90408.jpg?s=91a4e3dbe6f1001346628e13e1eb3015 2x" width="90" height="140" class="image lazyload" alt="Darling in the FranXX" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Senki Zesshou Symphogear"><a href="https://myanimelist.net/recommendations/anime/11751-40165" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Senki Zesshou Symphogear</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/11/75580.jpg?s=7fdc4e6272981bff2be2b83b82a9ccd3" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/11/75580.jpg?s=7fdc4e6272981bff2be2b83b82a9ccd3 1x,https://cdn.myanimelist.net/r/180x280/images/anime/11/75580.jpg?s=bd7f21bf169bf070cb20522b9ec145e4 2x" width="90" height="140" class="image lazyload" alt="Senki Zesshou Symphogear" border="0" ></a></li><li class="btn-anime" style="width:90px" title="FLCL"><a href="https://myanimelist.net/recommendations/anime/227-40165" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">FLCL</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/7/77356.jpg?s=18114774aab6f5731778fc6875fa1d1b" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/7/77356.jpg?s=18114774aab6f5731778fc6875fa1d1b 1x,https://cdn.myanimelist.net/r/180x280/images/anime/7/77356.jpg?s=173628528690f2bdc8cc5f7db5fd8dac 2x" width="90" height="140" class="image lazyload" alt="FLCL" border="0" ></a></li></ul></div></div></div>
+    </td>
+    </tr>
+    </table>
+    </div>  <div class="mauto clearfix pt24" style="width:760px;">
+    <div class="fl-l">
+      </div>
+      <div class="fl-r">
+      </div>
+    </div>
+
+</td>
+</tr>
+</table>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js" data-pin-hover="true"></script></div><!-- end of contentHome -->
+</div><!-- end of contentWrapper -->
+
+
+            
+  
+
+
+            
+  
+
+  <script>
+    $(document).ready(function() {
+      $(window).scroll(function() {
+        var cHeight = $("#myanimelist").height();
+        $("div[data-ad-sticky='manual']").each(function (i, o) {
+          var aHeight = $(o).height();
+          var aTop = $(o).parent().offset().top;
+          if (window.pageYOffset >= (cHeight - aHeight)) {
+            $(o).css("top", ((cHeight - aHeight) - window.pageYOffset) + "px");
+          } else if (window.pageYOffset >= aTop) {
+            $(o).addClass("sticky");
+            $(o).css("top", "");
+          } else {
+            $(o).removeClass("sticky");
+          }
+        });
+      });
+    });
+  </script>
+
+<!--  control container height -->
+<div style="clear:both;"></div>
+
+<!-- end rightbody -->
+
+</div><!-- wrapper -->
+
+
+    <div id="ad-skin-bg-right" class="ad-skin-side-outer ad-skin-side-bg bg-right">
+    <div id="ad-skin-right" class="ad-skin-side right" style="display: none;">
+      <div id="ad-skin-right-absolute-block">
+        <div id="ad-skin-right-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+</div><!-- #myanimelist -->
+
+
+<div class="footer-ranking">
+  <div class="ranking-container">
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php" class="view_more fl-r">More</a>Top Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Fullmetal Alchemist: Brotherhood</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011">Hunter x Hunter (2011)</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php?type=airing" class="view_more fl-r">More</a>Top Airing Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/42203/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season_Part_2">Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/42897/Horimiya">Horimiya</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/38474/Yuru_Camp△_Season_2">Yuru Camp△ Season 2</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/character.php" class="view_more fl-r">More</a>Most Popular Characters
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/character/417/Lelouch_Lamperouge">Lamperouge, Lelouch</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/character/45627/Levi">Levi</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/character/80/Light_Yagami">Yagami, Light</a>
+            </li>
+                  </ol>
+      </div>
+      </div>
+</div>
+<footer>
+  <div id="footer-block">
+    <div class="footer-link-block">
+      <p class="footer-link home di-ib">
+        <a href="https://myanimelist.net/">Home</a>
+      </p>
+      <p class="footer-link di-ib">
+        <a href="https://myanimelist.net/about.php">About</a>
+        <a href="https://myanimelist.net/pressroom">Press Room</a>
+        <a href="https://myanimelist.net/about.php?go=contact">Support</a>
+        <a href="https://myanimelist.net/advertising">Advertising</a>
+        <a href="https://myanimelist.net/forum/?topicid=515949">FAQ</a>
+        <a href="https://myanimelist.net/about/terms_of_use">Terms</a>
+        <a href="https://myanimelist.net/about/privacy_policy">Privacy</a>
+        <a href="#/" class="cmp-gdpr-only">Privacy Settings</a>
+        <a href="#/" class="cmp-ccpa-only">Do Not Sell My Personal Information</a>
+        <a href="https://myanimelist.net/about/cookie_policy">Cookie</a>
+        <a href="https://myanimelist.net/about/notice_at_collection">Notice at Collection</a>
+        <a href="https://myanimelist.net/about/sitemap">Sitemap</a>
+      </p>
+            <p class="footer-link login di-ib">
+        <a href="https://myanimelist.net/login.php?from=%2Fanime%2F40165%2FListeners" id="malLogin" rel="nofollow">Login</a>
+        <a href="https://myanimelist.net/register.php?from=%2Fanime%2F40165%2FListeners">Sign Up</a>
+      </p>
+          </div>
+
+    
+    <div class="banner-footer-anime-streaming">
+      <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+    </div>
+
+        <div class="footer-link-icon-block">
+            <div class="footer-social-media ac">
+        <a target="_blank" class="icon-sns icon-fb di-ib" href="https://www.facebook.com/OfficialMyAnimeList" rel="noreferrer"></a>
+        <a target="_blank" class="icon-sns icon-tw di-ib" title="Follow @myanimelist on Twitter" href="https://twitter.com/myanimelist" rel="noreferrer"></a></div>
+            <div class="footer-recommended ac">
+        <a target="_blank" class="icon-recommended icon-tokyo-otaku-mode" href="http://otakumode.com/fb/5aO" rel="noopener">Tokyo Otaku Mode</a>
+        <a target="_blank" class="icon-recommended icon-honeys-anime" href="https://honeysanime.com" rel="noopener">Honey's Anime</a>
+        <a target="_blank" class="icon-recommended icon-manga-store" href="https://myanimelist.net/store?_location=mal_f_m">Manga Store</a>
+      </div>
+    </div>
+
+    <div class="footer-fb">
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+      <div class="footer-fb-item">
+                <iframe class="fb-page" src="" width="450" height="154" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+      </div>
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+    </div>
+        
+    <div id="copyright">
+      MyAnimeList.net is a property of MyAnimeList Co.,Ltd. &copy;2021 All Rights Reserved.
+    </div>
+  </div>
+</footer>
+<div class="welcome-back popup-background">
+  <div class="popup">
+    <img class="logo" src="/img/pc/ownlist/logo_mal.png" alt="MyAnimeList">
+    <h3 class="popup-title">Welcome!</h3>
+    <p class="description">Join MyAnimeList to catalog your anime and manga, compare with your friends, create your own profile, and plenty more. It's free and easy to join.</p>
+    <div class="anime-slide1">
+      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/9/9453.jpg');"></div>
+      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/10/47347.jpg');"></div>
+      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/11/39717.jpg');"></div>
+      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
+
+      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/9/9453.jpg');"></div>
+      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/10/47347.jpg');"></div>
+      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/11/39717.jpg');"></div>
+      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
+    </div>
+    <div class="anime-slide2">
+      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/12/76049.jpg');"></div>
+      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/5/64449.jpg');"></div>
+      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/5/73199.jpg');"></div>
+      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/5/65187.jpg');"></div>
+
+      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/12/76049.jpg');"></div>
+      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/5/64449.jpg');"></div>
+      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/5/73199.jpg');"></div>
+      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/5/65187.jpg');"></div>
+    </div>
+    <h3 class="sign-up-with">Free Sign Up with</h3>
+    <div class="sns-sign-up">
+      <a class="sns-button google" href="/sns/login/google?from=%2Fanime%2F40165%2FListeners&utm_medium=ldialog_google" onclick="ga('send', 'event', 'ldialog', 'click', 'google');">Google</a>
+      <a class="sns-button facebook" href="/sns/login/facebook?from=%2Fanime%2F40165%2FListeners&utm_medium=ldialog_facebook" onclick="ga('send', 'event', 'ldialog', 'click', 'facebook');">Facebook</a>
+      <a class="sns-button twitter" href="/sns/login/twitter?from=%2Fanime%2F40165%2FListeners&utm_medium=ldialog_twitter" onclick="ga('send', 'event', 'ldialog', 'click', 'twitter');">Twitter</a>
+    </div>
+    <div class="sign-up">
+      <a class="account register" href="/register.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'mail');">Create an account</a>
+      <br>      <a class="account" href="/login.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'login');">Already have an account?</a>
+    </div>
+    <div class="close-button" onclick="ga('send', 'event', 'ldialog', 'click', 'close');"></div>
+  </div>
+  <script>
+    $(function () {
+      ga('send', 'event', 'popup_login_form', 'show', location.href, {nonInteraction: true});
+      var onresize = function () {
+        var $welcome_back = $('.welcome-back');
+        var $popup = $('.welcome-back .popup');
+        var top = ($welcome_back.outerHeight() - $popup.outerHeight()) / 2;
+        $popup.css('top', top < 0 ? 0 : top);
+      };
+      var onclose = function () {
+        $('.welcome-back').addClass('fade-out')
+          .one('animationend', function () { $(this).remove(); });
+        $(window).off('resize', onresize);
+      };
+
+      var timer_id = null;
+      var show = function () {
+        timer_id = null;
+        // 優先順位の高いポップアップが出ていたら表示しない
+        if (($('.app_gdpr--2k2uB').length > 0 && $('.banner_hidden--MXmJ_').length === 0) || $('._cm-os-slider').length > 0 || $('#tbl-next-up').length > 0 || $('#gdpr-modal-bottom').length > 0) {
+          return
+        }
+        $('.welcome-back').addClass('fade-in');
+        onresize();
+        var timer = setTimeout(onclose,30000);
+        $('.popup').on('mousemove',function(){
+            clearTimeout(timer);
+            timer=setTimeout(onclose, 30000);
+        });
+      };
+
+      $(window)
+        .one('load', function () {
+          onresize();
+          timer_id = setTimeout(show,3000);
+          $('body').on('keydown mousedown mousemove',function(){
+            if(timer_id) {
+              clearTimeout(timer_id);
+              timer_id = setTimeout(show, 3000);
+            }
+          });
+          $(window).scroll(function(){
+            if(timer_id) {
+              clearTimeout(timer_id);
+              timer_id = setTimeout(show, 3000);
+            }
+          });
+        })
+        .on('resize', onresize);
+      $(document).one('click', '.close-button', function () {
+        onclose();
+      });
+      $('.register').click(function () {
+        ga('send', 'event', 'popup_login_form', 'click', location.href, {nonInteraction: true});
+      });
+    });
+  </script>
+</div>
+
+<script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+
+<script async>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga')
+
+  ga('create', 'UA-369102-1', 'auto')
+  ga('set', 'anonymizeIp', true)
+  ga('require', 'linkid') // Enhanced Link Attribution
+    ga('set', 'dimension1', 'guest')
+    ga('send', 'pageview')
+</script>   <script>
+window.onscroll = function(e){
+    const scrollThreshold = 50;
+    if (window.pageYOffset >= scrollThreshold) {
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            let t_height = ad.offsetHeight;
+            let offsetY = ad.getBoundingClientRect().top;
+            let screenHeight = window.outerHeight;
+            let t_position = offsetY - screenHeight;
+            if(-screenHeight<=(t_position　+　t_height) && t_position<0) {
+                ad.className = 'ad-tag';
+                (deployads = window.deployads || []).push({});
+            }
+        });
+    }
+}
+var timer = 0;
+window.onresize = function(e){
+    if (timer > 0) {
+        clearTimeout(timer);
+    }
+
+    timer = setTimeout(function () {
+        console.log('window resized');
+        [].forEach.call(document.querySelectorAll('.ad-tag'), function(ad) {
+            ad.className = 'no-ad';
+            (deployads = window.deployads || []).push({});
+        });
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            ad.className = 'ad-tag';
+            (deployads = window.deployads || []).push({});
+        });
+    }, 200);
+}
+</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WL4QW3G');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+var path = location.pathname;
+var param = location.search;
+
+dataLayer = dataLayer || [];
+
+// login.php
+
+function ga_notlogin(){
+  ga('send', 'event', 'not_login', '2.未ログインの場合', '/login.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=1');
+}
+
+function ga_sns(){
+  ga('send', 'event', 'sns_login', '2-1-1.ソーシャルログインの場合', '/login.php?login-mode=social&c-ms-mode=1');
+}
+
+function ga_login(){
+  ga('send', 'event', 'id_login', '2-1-2.IDログインの場合', '/login.php?login-mode=id&c-ms-mode=1');
+}
+
+// register.php
+
+function ga_registration(){
+  ga('send', 'event', 'registration', '2-2.会員登録ボタン', '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=2');
+}
+
+if ( path.match("register.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2F&c-ms-mode=2',
+        'member_title': '2-2-1.会員情報入力完了',
+        'event': 'loadready-register'
+    });
+}
+
+if ( path.match("login.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': path.concat(param, "&c-ms-mode=2"),
+        'member_title': '2-2-1.メールからの会員認証ページ',
+        'event': 'loadready-login'
+    });
+}
+
+// membership
+
+function ga_mal_banner(){
+  ga('send', 'event', 'support_mal', '2-3.MALバナー', '/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner&c-ms-mode=3');
+}
+
+if ( path.match("login.php") && param.match("from=%2F") ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=3',
+        'member_title': '2-2.会員登録ボタン',
+        'event': 'loadready-login'
+    });
+}
+
+function ga_credit(){
+  ga('send', 'event', 'support_mal', '3-1-1.クレカ登録', '/member-register?c-ms_payment=1&c-ms_mode=3');
+}
+
+function ga_paypal(){
+  ga('send', 'event', 'support_mal', '3-1-2.Paypal登録', '/member-register?c-ms_payment=2&c-ms_mode=3');
+}
+
+if ( path.match("account/membership/complete") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/member-register-complete?c-ms_payment=2&c-ms_mode=3',
+        'member_title': '3-1-2.MAL会員登録成功',
+        'event': 'loadready-member-register-complete'
+    });
+}
+
+</script>
+<script type="text/javascript">
+    window.MAL.magia = "06410c4e6b2518e9add8f6df0ccb2da2876bb8c980aacb43a8dcaa8153c0f92c";
+  window.MAL.madoka = "hZrDKm9k6FVRnqd3i%=K";
+
+  window.MAL.SLVK = "g4OvMLVOmEI3J8u7dt8f8+mAuualsqCo";
+  window.MAL.CDN_URL = "https://cdn.myanimelist.net";
+
+  window.MAL.CURRENT_TUTORIAL_STEP_ID = null;
+  window.MAL.USER_NAME = ""
+  window.MAL.FACEBOOK.APP_ID = "360769957454434"
+  window.MAL.FACEBOOK.API_VERSION = "v2.12"
+</script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+                    <script type="text/javascript">
+          window._taboola = window._taboola || [];
+          _taboola.push({flush: true});
+        </script>
+    </body>
+</html>

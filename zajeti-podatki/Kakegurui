@@ -35,7 +35,7 @@ Kakegurui (Kakegurui: Compulsive Gambler) - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='093779a3418f34c91626537525280f873d6847e8'>
+<meta name='csrf_token' content='150b568445d3dfd59b836041f655f02e2c9dfe0b'>
 <meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
 <meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
 <link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
@@ -357,7 +357,7 @@ $(document).ready(function(){
 </div>
 <div class="spaceit po-r js-statistics-info di-ib" data-id="info2">
   <span class="dark_text">Ranked:</span>
-  #1785<sup>2</sup>
+  #1786<sup>2</sup>
     <div class="statistics-info info2">
     <small><sup>2</sup>
     based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
@@ -370,11 +370,11 @@ $(document).ready(function(){
 </div>
 <div class="spaceit">
   <span class="dark_text">Members:</span>
-    784,053
+    784,668
 </div>
 <div>
   <span class="dark_text">Favorites:</span>
-  7,400
+  7,403
 </div>
 
   <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
@@ -428,7 +428,7 @@ $(document).ready(function(){
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tr>
-	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="449,246 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-7">7.44</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#1785</strong></span><span class="numbers popularity">Popularity <strong>#101</strong></span><span class="numbers members">Members <strong>784,053</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2017/summer">Summer 2017</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/569/MAPPA" title="MAPPA">MAPPA</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="34933"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F34933%2FKakegurui&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="449,246 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-7">7.44</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#1786</strong></span><span class="numbers popularity">Popularity <strong>#101</strong></span><span class="numbers members">Members <strong>784,668</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2017/summer">Summer 2017</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/569/MAPPA" title="MAPPA">MAPPA</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="34933"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F34933%2FKakegurui&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
         Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="12">12</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://myanimelist.net/store/manga/273/Kakegurui_-_Compulsive_Gambler_-?_location=mal_atf_affiliate"
            class="btn-affiliate manga-store js-shop-anime icon-shop-default"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Buy on Manga Store
         </a></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/v2xJDuM9ZDM?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/v2xJDuM9ZDM/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">PV 2</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/34933/Kakegurui/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
@@ -873,7 +873,7 @@ Yumeko Jabami, a seemingly naive and beautiful transfer student, is ready to try
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/AndoCommando">
-                  <img src="https://cdn.myanimelist.net/images/userimages/5453235.jpg?t=1610544000" data-src="https://cdn.myanimelist.net/images/userimages/5453235.jpg?t=1610544000" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/5453235.jpg?t=1610547600" data-src="https://cdn.myanimelist.net/images/userimages/5453235.jpg?t=1610547600" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -982,7 +982,7 @@ In conclusion, Kakegurui was pretty awful, filled with formulaic, villain-of-the
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/Zaber_san">
-                  <img src="https://cdn.myanimelist.net/images/userimages/6377235.jpg?t=1610511000" data-src="https://cdn.myanimelist.net/images/userimages/6377235.jpg?t=1610511000" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/6377235.jpg?t=1610576400" data-src="https://cdn.myanimelist.net/images/userimages/6377235.jpg?t=1610576400" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1093,7 +1093,7 @@ Overall.. I rate this anime as 8.5/10 or 8/10 for the fact that it focuses on it
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/Stark700">
-                  <img src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" data-src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610575200" data-src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610575200" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1322,14 +1322,14 @@ amzn_assoc_search_bar_position = "bottom";
     <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F34933%2FKakegurui&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
                  <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=1888588">this is worth watching, i know. :) </a> <small></small><br><span class="forum_postusername"><a href="/profile/chillinrightnow">chillinrightnow</a></span> - <span class="lightLink">Jan 12</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">2 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/urfavedogboy">urfavedogboy</a> <a href="/forum/?topicid=1888588&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>23 minutes ago</td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">3 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/V1nnyB0y123">V1nnyB0y123</a> <a href="/forum/?topicid=1888588&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>7 hours ago</td>
             </tr>
             <tr id="topicRow2">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F34933%2FKakegurui&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
                  <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1635045">Kakegurui Episode 2 Discussion</a> <small> ( <a href="/forum/?topicid=1635045&show=0">1</a> <a href="/forum/?topicid=1635045&show=50">2</a> <a href="/forum/?topicid=1635045&show=100">3</a> <a href="/forum/?topicid=1635045&show=150">4</a> <a href="/forum/?topicid=1635045&show=200">5</a>  ... <a href="/forum/?topicid=1635045&show=300">Last Page</a> ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Jul 8, 2017</span></td>
               <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">345 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/FrozenRaider">FrozenRaider</a> <a href="/forum/?topicid=1635045&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>2 hours ago</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/FrozenRaider">FrozenRaider</a> <a href="/forum/?topicid=1635045&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>12 hours ago</td>
             </tr>
             </table></div><br><div><div class="floatRightHeader"><a href="/anime/34933/Kakegurui/featured">More featured articles</a></div><h2>Recent Featured Articles</h2></div><div class="detail-page-featured-article"><div class="news-list">
       
@@ -1347,7 +1347,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/MAL_editing_team">MAL_editing_team</a>
           </p><p class="di-tc pv pr8">
-              <b>8,425</b> views
+              <b>8,428</b> views
             </p></div>
       </div>
     </div>
@@ -1365,7 +1365,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
           </p><p class="di-tc pv pr8">
-              <b>319,598</b> views
+              <b>319,925</b> views
             </p></div>
       </div>
     </div>
@@ -1583,6 +1583,103 @@ amzn_assoc_search_bar_position = "bottom";
     </div>
   </div>
 </footer>
+<div class="welcome-back popup-background">
+  <div class="popup">
+    <img class="logo" src="/img/pc/ownlist/logo_mal.png" alt="MyAnimeList">
+    <h3 class="popup-title">Welcome!</h3>
+    <p class="description">Join MyAnimeList to catalog your anime and manga, compare with your friends, create your own profile, and plenty more. It's free and easy to join.</p>
+    <div class="anime-slide1">
+      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/9/9453.jpg');"></div>
+      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/10/47347.jpg');"></div>
+      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/11/39717.jpg');"></div>
+      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
+
+      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/9/9453.jpg');"></div>
+      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/10/47347.jpg');"></div>
+      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/11/39717.jpg');"></div>
+      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
+    </div>
+    <div class="anime-slide2">
+      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/12/76049.jpg');"></div>
+      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/5/64449.jpg');"></div>
+      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/5/73199.jpg');"></div>
+      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/5/65187.jpg');"></div>
+
+      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/12/76049.jpg');"></div>
+      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/5/64449.jpg');"></div>
+      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/5/73199.jpg');"></div>
+      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/5/65187.jpg');"></div>
+    </div>
+    <h3 class="sign-up-with">Free Sign Up with</h3>
+    <div class="sns-sign-up">
+      <a class="sns-button google" href="/sns/login/google?from=%2Fanime%2F34933%2FKakegurui&utm_medium=ldialog_google" onclick="ga('send', 'event', 'ldialog', 'click', 'google');">Google</a>
+      <a class="sns-button facebook" href="/sns/login/facebook?from=%2Fanime%2F34933%2FKakegurui&utm_medium=ldialog_facebook" onclick="ga('send', 'event', 'ldialog', 'click', 'facebook');">Facebook</a>
+      <a class="sns-button twitter" href="/sns/login/twitter?from=%2Fanime%2F34933%2FKakegurui&utm_medium=ldialog_twitter" onclick="ga('send', 'event', 'ldialog', 'click', 'twitter');">Twitter</a>
+    </div>
+    <div class="sign-up">
+      <a class="account register" href="/register.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'mail');">Create an account</a>
+      <br>      <a class="account" href="/login.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'login');">Already have an account?</a>
+    </div>
+    <div class="close-button" onclick="ga('send', 'event', 'ldialog', 'click', 'close');"></div>
+  </div>
+  <script>
+    $(function () {
+      ga('send', 'event', 'popup_login_form', 'show', location.href, {nonInteraction: true});
+      var onresize = function () {
+        var $welcome_back = $('.welcome-back');
+        var $popup = $('.welcome-back .popup');
+        var top = ($welcome_back.outerHeight() - $popup.outerHeight()) / 2;
+        $popup.css('top', top < 0 ? 0 : top);
+      };
+      var onclose = function () {
+        $('.welcome-back').addClass('fade-out')
+          .one('animationend', function () { $(this).remove(); });
+        $(window).off('resize', onresize);
+      };
+
+      var timer_id = null;
+      var show = function () {
+        timer_id = null;
+        // 優先順位の高いポップアップが出ていたら表示しない
+        if (($('.app_gdpr--2k2uB').length > 0 && $('.banner_hidden--MXmJ_').length === 0) || $('._cm-os-slider').length > 0 || $('#tbl-next-up').length > 0 || $('#gdpr-modal-bottom').length > 0) {
+          return
+        }
+        $('.welcome-back').addClass('fade-in');
+        onresize();
+        var timer = setTimeout(onclose,30000);
+        $('.popup').on('mousemove',function(){
+            clearTimeout(timer);
+            timer=setTimeout(onclose, 30000);
+        });
+      };
+
+      $(window)
+        .one('load', function () {
+          onresize();
+          timer_id = setTimeout(show,3000);
+          $('body').on('keydown mousedown mousemove',function(){
+            if(timer_id) {
+              clearTimeout(timer_id);
+              timer_id = setTimeout(show, 3000);
+            }
+          });
+          $(window).scroll(function(){
+            if(timer_id) {
+              clearTimeout(timer_id);
+              timer_id = setTimeout(show, 3000);
+            }
+          });
+        })
+        .on('resize', onresize);
+      $(document).one('click', '.close-button', function () {
+        onclose();
+      });
+      $('.register').click(function () {
+        ga('send', 'event', 'popup_login_form', 'click', location.href, {nonInteraction: true});
+      });
+    });
+  </script>
+</div>
 
 <script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
 <script>

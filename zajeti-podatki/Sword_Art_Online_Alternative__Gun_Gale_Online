@@ -35,7 +35,7 @@ Sword Art Online Alternative: Gun Gale Online - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='6e7c5e355516bbca405ae530c078de109cb4ba3c'>
+<meta name='csrf_token' content='dd54cf37d93750ff712d6dd2704e6db69a065e8e'>
 <meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
 <meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
 <link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
@@ -355,7 +355,7 @@ $(document).ready(function(){
 </div>
 <div class="spaceit po-r js-statistics-info di-ib" data-id="info2">
   <span class="dark_text">Ranked:</span>
-  #3279<sup>2</sup>
+  #3282<sup>2</sup>
     <div class="statistics-info info2">
     <small><sup>2</sup>
     based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
@@ -368,7 +368,7 @@ $(document).ready(function(){
 </div>
 <div class="spaceit">
   <span class="dark_text">Members:</span>
-    400,668
+    400,879
 </div>
 <div>
   <span class="dark_text">Favorites:</span>
@@ -422,7 +422,7 @@ $(document).ready(function(){
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tr>
-	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="202,342 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-7">7.09</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#3279</strong></span><span class="numbers popularity">Popularity <strong>#313</strong></span><span class="numbers members">Members <strong>400,668</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2018/spring">Spring 2018</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/1127/Studio_3Hz" title="Studio 3Hz">Studio 3Hz</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="36475"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F36475%2FSword_Art_Online_Alternative__Gun_Gale_Online&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="202,342 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-7">7.09</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#3282</strong></span><span class="numbers popularity">Popularity <strong>#313</strong></span><span class="numbers members">Members <strong>400,879</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2018/spring">Spring 2018</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/1127/Studio_3Hz" title="Studio 3Hz">Studio 3Hz</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="36475"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F36475%2FSword_Art_Online_Alternative__Gun_Gale_Online&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
         Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="12">12</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://myanimelist.net/store/manga/899/Sword_Art_Online_Alternative_Gun_Gale_Online_light_novel?_location=mal_atf_affiliate"
            class="btn-affiliate manga-store js-shop-anime icon-shop-default"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Buy on Manga Store
         </a></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/ZoEtBn_6KOI?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/ZoEtBn_6KOI/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">PV 2 Aniplex USA version</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/36475/Sword_Art_Online_Alternative__Gun_Gale_Online/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
@@ -869,7 +869,7 @@ However, when one of LLENN&#039;s targets gets the best of her, she ends up meet
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/RebelPanda">
-                  <img src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610523600" data-src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610523600" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610580000" data-src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610580000" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -993,7 +993,7 @@ Sword Art Online Alternative is the most entertaining entry in the franchise, it
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/Stark700">
-                  <img src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" data-src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610581800" data-src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610581800" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1100,7 +1100,7 @@ Sword Art Online: Alternative Online felt more like playing a video game than a 
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/Zaber_san">
-                  <img src="https://cdn.myanimelist.net/images/userimages/6377235.jpg?t=1610546400" data-src="https://cdn.myanimelist.net/images/userimages/6377235.jpg?t=1610546400" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/6377235.jpg?t=1610576400" data-src="https://cdn.myanimelist.net/images/userimages/6377235.jpg?t=1610576400" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1213,7 +1213,7 @@ Overall: 8/10
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/TakamakiJoker">
-                  <img src="https://cdn.myanimelist.net/images/userimages/4835791.jpg?t=1610530200" data-src="https://cdn.myanimelist.net/images/userimages/4835791.jpg?t=1610530200" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/4835791.jpg?t=1610575200" data-src="https://cdn.myanimelist.net/images/userimages/4835791.jpg?t=1610575200" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1417,7 +1417,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
           </p><p class="di-tc pv pr8">
-              <b>319,608</b> views
+              <b>319,930</b> views
             </p></div>
       </div>
     </div>
@@ -1435,7 +1435,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/MSPOfficial">MSPOfficial</a>
           </p><p class="di-tc pv pr8">
-              <b>26,666</b> views
+              <b>26,668</b> views
             </p></div>
       </div>
     </div>

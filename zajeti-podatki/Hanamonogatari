@@ -35,7 +35,7 @@ Hanamonogatari - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='5f22123f3d10813c5851a1b94a1b6891e8ae748d'>
+<meta name='csrf_token' content='4b6a1ddb253a075160e74710df400e79e8ec16c5'>
 <meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
 <meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
 <link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
@@ -370,7 +370,7 @@ $(document).ready(function(){
 </div>
 <div class="spaceit">
   <span class="dark_text">Members:</span>
-    314,961
+    315,045
 </div>
 <div>
   <span class="dark_text">Favorites:</span>
@@ -424,7 +424,7 @@ $(document).ready(function(){
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tr>
-	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="173,946 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.00</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#545</strong></span><span class="numbers popularity">Popularity <strong>#421</strong></span><span class="numbers members">Members <strong>314,961</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2014/summer">Summer 2014</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/44/Shaft" title="Shaft">Shaft</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="21855"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F21855%2FHanamonogatari&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="173,946 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.00</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#545</strong></span><span class="numbers popularity">Popularity <strong>#421</strong></span><span class="numbers members">Members <strong>315,045</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2014/summer">Summer 2014</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/44/Shaft" title="Shaft">Shaft</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="21855"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F21855%2FHanamonogatari&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
         Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="5">5</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://myanimelist.net/store/manga/961/Monogatari_Series__Second_Season?_location=mal_atf_affiliate"
            class="btn-affiliate manga-store js-shop-anime icon-shop-default"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Buy on Manga Store
         </a></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/njPnn2rmIO8?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/njPnn2rmIO8/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">PV English sub version</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/21855/Hanamonogatari/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
@@ -807,7 +807,7 @@ She discovers the Devil is actually Rouka Numachi, a former rival from junior hi
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/Stark700">
-                  <img src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" data-src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610581800" data-src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610581800" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1365,7 +1365,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/5camp">5camp</a>
           </p><p class="di-tc pv pr8">
-              <b>15,425</b> views
+              <b>15,426</b> views
             </p><div class="tags">
               <div class="tags-inner"><div class="tags-inner-attributes"><span class="tag tag-color-feature-spoiler">Spoiler</span></div><a href="https://myanimelist.net/featured/tag/recap" class="tag tag-color-feature-recap" title="Recap">Recap</a><a href="https://myanimelist.net/featured/tag/first_impression" class="tag tag-color-feature-first_impression" title="First Impression">First Impression</a><a href="https://myanimelist.net/featured/tag/school_life" class="tag tag-color-feature-school_life" title="School Life">School Life</a><a href="https://myanimelist.net/featured/tag/supernatural" class="tag tag-color-feature-supernatural" title="Supernatural">Supernatural</a></div>
             </div></div>
@@ -1385,7 +1385,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/5camp">5camp</a>
           </p><p class="di-tc pv pr8">
-              <b>8,887</b> views
+              <b>8,888</b> views
             </p><div class="tags">
               <div class="tags-inner"><div class="tags-inner-attributes"><span class="tag tag-color-feature-spoiler">Spoiler</span></div><a href="https://myanimelist.net/featured/tag/recap" class="tag tag-color-feature-recap" title="Recap">Recap</a><a href="https://myanimelist.net/featured/tag/first_impression" class="tag tag-color-feature-first_impression" title="First Impression">First Impression</a><a href="https://myanimelist.net/featured/tag/school_life" class="tag tag-color-feature-school_life" title="School Life">School Life</a><a href="https://myanimelist.net/featured/tag/supernatural" class="tag tag-color-feature-supernatural" title="Supernatural">Supernatural</a></div>
             </div></div>

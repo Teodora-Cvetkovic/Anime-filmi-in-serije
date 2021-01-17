@@ -35,7 +35,7 @@ Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru - MyAnimeList.
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='74fac8a5086eed1fe576ef64b94c6279ea3c44ae'>
+<meta name='csrf_token' content='290631b433e6708d0455d0a30a8f200c4832bb83'>
 <meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
 <meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
 <link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
@@ -370,7 +370,7 @@ $(document).ready(function(){
 </div>
 <div class="spaceit">
   <span class="dark_text">Members:</span>
-    331,716
+    331,903
 </div>
 <div>
   <span class="dark_text">Favorites:</span>
@@ -424,7 +424,7 @@ $(document).ready(function(){
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tr>
-	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="181,585 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-7">7.56</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#1396</strong></span><span class="numbers popularity">Popularity <strong>#384</strong></span><span class="numbers members">Members <strong>331,716</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2019/fall">Fall 2019</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/314/White_Fox" title="White Fox">White Fox</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="38659"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F38659%2FShinchou_Yuusha__Kono_Yuusha_ga_Ore_Tueee_Kuse_ni_Shinchou_Sugiru&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="181,585 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-7">7.56</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#1396</strong></span><span class="numbers popularity">Popularity <strong>#384</strong></span><span class="numbers members">Members <strong>331,903</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2019/fall">Fall 2019</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/314/White_Fox" title="White Fox">White Fox</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="38659"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F38659%2FShinchou_Yuusha__Kono_Yuusha_ga_Ore_Tueee_Kuse_ni_Shinchou_Sugiru&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
         Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="12">12</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://myanimelist.net/store/manga/910/The_Hero_Is_Overpowered_but_Overly_Cautious_light_novel?_location=mal_atf_affiliate"
            class="btn-affiliate manga-store js-shop-anime icon-shop-default"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Buy on Manga Store
         </a></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/-K4TaXrKHRc?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/-K4TaXrKHRc/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">Teaser</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/38659/Shinchou_Yuusha__Kono_Yuusha_ga_Ore_Tueee_Kuse_ni_Shinchou_Sugiru/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
@@ -871,7 +871,7 @@ While his attitude may be a bit annoying, it might just be the saving grace of G
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/NemozaZ">
-                  <img src="https://cdn.myanimelist.net/images/userimages/7719765.jpg?t=1610534400" data-src="https://cdn.myanimelist.net/images/userimages/7719765.jpg?t=1610534400" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/7719765.jpg?t=1610569800" data-src="https://cdn.myanimelist.net/images/userimages/7719765.jpg?t=1610569800" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -986,7 +986,7 @@ Overall: (8/10) *&quot;If you have a free time, go and watch it, It&#039;s worth
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/RebelPanda">
-                  <img src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610523600" data-src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610523600" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610580000" data-src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610580000" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1097,7 +1097,7 @@ Cautious Hero would have been another Konosuba clone, but the ending proved itâ€
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/LegendAqua">
-                  <img src="https://cdn.myanimelist.net/images/userimages/2191881.jpg?t=1610520000" data-src="https://cdn.myanimelist.net/images/userimages/2191881.jpg?t=1610520000" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/2191881.jpg?t=1610578200" data-src="https://cdn.myanimelist.net/images/userimages/2191881.jpg?t=1610578200" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1214,7 +1214,7 @@ Ready Perfectly...
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/MozillaFennekin">
-                  <img src="https://cdn.myanimelist.net/images/userimages/4673091.jpg?t=1610545800" data-src="https://cdn.myanimelist.net/images/userimages/4673091.jpg?t=1610545800" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/4673091.jpg?t=1610572800" data-src="https://cdn.myanimelist.net/images/userimages/4673091.jpg?t=1610572800" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1431,7 +1431,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
           </p><p class="di-tc pv pr8">
-              <b>87,247</b> views
+              <b>87,263</b> views
             </p><div class="tags">
               <div class="tags-inner"><span class="tag tag-color-feature-spoiler">Spoiler</span></div>
             </div></div>
@@ -1451,7 +1451,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/MAL_Articles">MAL_Articles</a>
           </p><p class="di-tc pv pr8">
-              <b>48,629</b> views
+              <b>48,635</b> views
             </p><div class="tags">
               <div class="tags-inner"><span class="tag tag-color-feature-spoiler">Spoiler</span></div>
             </div></div>

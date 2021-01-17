@@ -35,7 +35,7 @@ Yakusoku no Neverland (The Promised Neverland) - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='769beb0cbc72b4012bc1412b8a38a37826a86fdc'>
+<meta name='csrf_token' content='0278c57e47d3f2ad6a3097dfbef17bbf3e3a8b88'>
 <meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
 <meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
 <link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
@@ -363,11 +363,11 @@ $(document).ready(function(){
 </div>
 <div class="spaceit">
   <span class="dark_text">Members:</span>
-    999,508
+    1,000,514
 </div>
 <div>
   <span class="dark_text">Favorites:</span>
-  28,765
+  28,805
 </div>
 
   <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
@@ -417,7 +417,7 @@ $(document).ready(function(){
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tr>
-	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="607,904 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.66</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#56</strong></span><span class="numbers popularity">Popularity <strong>#62</strong></span><span class="numbers members">Members <strong>999,508</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2019/winter">Winter 2019</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/1835/CloverWorks" title="CloverWorks">CloverWorks</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="37779"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F37779%2FYakusoku_no_Neverland&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="607,904 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.66</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#56</strong></span><span class="numbers popularity">Popularity <strong>#62</strong></span><span class="numbers members">Members <strong>1,000,514</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2019/winter">Winter 2019</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/1835/CloverWorks" title="CloverWorks">CloverWorks</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="37779"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F37779%2FYakusoku_no_Neverland&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
         Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="12">12</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=The%20Promised%20Neverland&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime js-shop-selecter icon-shop-default" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:37779,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><div class="anime-detail-header-affiliate-dialog js-shop-selecter-dialog" style="display:none"><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=The%20Promised%20Neverland&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:37779,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><a href="http://www.cdjapan.co.jp/aff/click.cgi/PytJTGW7Lok/6039/A764127/searches?q=Yakusoku+no+Neverland" class="btn-affiliate cdjapan js-shop-anime js-shop-cd-japan" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;cdjapan&quot;,&quot;id&quot;:37779,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/logo-cdjapan.png" width="118" height="25" alt="buy from CD Japan"></a><a href="http://www.shareasale.com/r.cfm?u=1384175&b=866986&m=65886&afftrack=&urllink=www.rightstufanime.com%2Fsearch%3Fkeywords%3DThe%20Promised%20Neverland" class="btn-affiliate right_stuf js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;right_stuf&quot;,&quot;id&quot;:37779,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_right_stuf.png" width="118" height="25" alt="buy from Rightstuf"></a></div></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/JIcjo7XVlOY?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/JIcjo7XVlOY/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">PV 2 Aniplex USA version</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/37779/Yakusoku_no_Neverland/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
 </div><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=37779&t=synopsis" style="font-weight: normal;">Edit</a></div><h2>Synopsis</h2></div><p itemprop="description">Surrounded by a forest and a gated entrance, the Grace Field House is inhabited by orphans happily living together as one big family, looked after by their &quot;Mama,&quot; Isabella. Although they are required to take tests daily, the children are free to spend their time as they see fit, usually playing outside, as long as they do not venture too far from the orphanage&mdash;a rule they are expected to follow no matter what. However, all good times must come to an end, as every few months, a child is adopted and sent to live with their new family... never to be heard from again.<br />
 <br />
@@ -851,7 +851,7 @@ However, the three oldest siblings have their suspicions about what is actually 
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/Zaber_san">
-                  <img src="https://cdn.myanimelist.net/images/userimages/6377235.jpg?t=1610511000" data-src="https://cdn.myanimelist.net/images/userimages/6377235.jpg?t=1610511000" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/6377235.jpg?t=1610576400" data-src="https://cdn.myanimelist.net/images/userimages/6377235.jpg?t=1610576400" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -959,7 +959,7 @@ The Promised Neverland are one of the anime I am so engaged to watch on. It is m
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/HaXXspetten">
-                  <img src="https://cdn.myanimelist.net/images/userimages/2513325.jpg?t=1610544600" data-src="https://cdn.myanimelist.net/images/userimages/2513325.jpg?t=1610544600" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/2513325.jpg?t=1610575200" data-src="https://cdn.myanimelist.net/images/userimages/2513325.jpg?t=1610575200" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1062,7 +1062,7 @@ To add to that, we&#039;ve now also gotten confirmation that a second season is 
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/Snapshot426">
-                  <img src="https://cdn.myanimelist.net/images/userimages/6787406.jpg?t=1610536200" data-src="https://cdn.myanimelist.net/images/userimages/6787406.jpg?t=1610536200" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/6787406.jpg?t=1610557200" data-src="https://cdn.myanimelist.net/images/userimages/6787406.jpg?t=1610557200" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1338,15 +1338,15 @@ amzn_assoc_search_bar_position = "bottom";
 		<div class="borderClass"></div><br><div><div class="floatRightHeader"><a href="/forum/?animeid=37779"><a href="/anime/37779/Yakusoku_no_Neverland/forum">More discussions</a></div><h2>Recent Forum Discussion</h2></div><div class="page-forum">
     <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F37779%2FYakusoku_no_Neverland&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1769344">Yakusoku no Neverland Episode 8 Discussion</a> <small> ( <a href="/forum/?topicid=1769344&show=0">1</a> <a href="/forum/?topicid=1769344&show=50">2</a> <a href="/forum/?topicid=1769344&show=100">3</a> <a href="/forum/?topicid=1769344&show=150">4</a> <a href="/forum/?topicid=1769344&show=200">5</a>  ... <a href="/forum/?topicid=1769344&show=250">Last Page</a> ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Feb 28, 2019</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">275 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/AbiSa">AbiSa</a> <a href="/forum/?topicid=1769344&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>11 minutes ago</td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1774366">Yakusoku no Neverland Episode 12 Discussion</a> <small> ( <a href="/forum/?topicid=1774366&show=0">1</a> <a href="/forum/?topicid=1774366&show=50">2</a> <a href="/forum/?topicid=1774366&show=100">3</a> <a href="/forum/?topicid=1774366&show=150">4</a> <a href="/forum/?topicid=1774366&show=200">5</a>  ... <a href="/forum/?topicid=1774366&show=500">Last Page</a> ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Mar 28, 2019</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">513 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/AbiSa">AbiSa</a> <a href="/forum/?topicid=1774366&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>6 hours ago</td>
             </tr>
             <tr id="topicRow2">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F37779%2FYakusoku_no_Neverland&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1768081">Yakusoku no Neverland Episode 7 Discussion</a> <small> ( <a href="/forum/?topicid=1768081&show=0">1</a> <a href="/forum/?topicid=1768081&show=50">2</a> <a href="/forum/?topicid=1768081&show=100">3</a> <a href="/forum/?topicid=1768081&show=150">4</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Feb 21, 2019</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">154 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/AbiSa">AbiSa</a> <a href="/forum/?topicid=1768081&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>39 minutes ago</td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1773029">Yakusoku no Neverland Episode 11 Discussion</a> <small> ( <a href="/forum/?topicid=1773029&show=0">1</a> <a href="/forum/?topicid=1773029&show=50">2</a> <a href="/forum/?topicid=1773029&show=100">3</a> <a href="/forum/?topicid=1773029&show=150">4</a> <a href="/forum/?topicid=1773029&show=200">5</a>  ... <a href="/forum/?topicid=1773029&show=250">Last Page</a> ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Mar 21, 2019</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">259 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/AbiSa">AbiSa</a> <a href="/forum/?topicid=1773029&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>6 hours ago</td>
             </tr>
             </table></div><br><div><div class="floatRightHeader"><a href="/anime/37779/Yakusoku_no_Neverland/featured">More featured articles</a></div><h2>Recent Featured Articles</h2></div><div class="detail-page-featured-article"><div class="news-list">
       
@@ -1363,7 +1363,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
           </p><p class="di-tc pv pr8">
-              <b>46,270</b> views
+              <b>46,750</b> views
             </p></div>
       </div>
     </div>
@@ -1382,7 +1382,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/MAL_editing_team">MAL_editing_team</a>
           </p><p class="di-tc pv pr8">
-              <b>8,425</b> views
+              <b>8,428</b> views
             </p></div>
       </div>
     </div>

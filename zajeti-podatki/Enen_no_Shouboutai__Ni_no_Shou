@@ -35,7 +35,7 @@ Enen no Shouboutai: Ni no Shou (Fire Force Season 2) - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='c390a26434833e04ddd95e91320498f812eb9ce4'>
+<meta name='csrf_token' content='42fa98e1605ac31269c82f970fd128f6b04d8a06'>
 <meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
 <meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
 <link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
@@ -346,7 +346,7 @@ $(document).ready(function(){
 <h2>Statistics</h2>
 <div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" class="po-r js-statistics-info di-ib" data-id="info1">
   <span class="dark_text">Score:</span>
-  <span itemprop="ratingValue" class="score-label score-7">7.80</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">103075</span>103,075 users)
+  <span itemprop="ratingValue" class="score-label score-7">7.80</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">103429</span>103,429 users)
       <meta itemprop="bestRating" content="10">
     <meta itemprop="worstRating" content="1">
       <div class="statistics-info info1">
@@ -366,15 +366,15 @@ $(document).ready(function(){
 </div>
 <div>
   <span class="dark_text">Popularity:</span>
-  #429
+  #428
 </div>
 <div class="spaceit">
   <span class="dark_text">Members:</span>
-    307,984
+    308,455
 </div>
 <div>
   <span class="dark_text">Favorites:</span>
-  1,380
+  1,383
 </div>
 
   <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
@@ -424,7 +424,7 @@ $(document).ready(function(){
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tr>
-	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="103,075 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-7">7.80</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#830</strong></span><span class="numbers popularity">Popularity <strong>#429</strong></span><span class="numbers members">Members <strong>307,984</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2020/summer">Summer 2020</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/287/David_Production" title="David Production">David Production</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="40956"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F40956%2FEnen_no_Shouboutai__Ni_no_Shou&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="103,429 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-7">7.80</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#830</strong></span><span class="numbers popularity">Popularity <strong>#428</strong></span><span class="numbers members">Members <strong>308,455</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2020/summer">Summer 2020</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/287/David_Production" title="David Production">David Production</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="40956"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F40956%2FEnen_no_Shouboutai__Ni_no_Shou&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
         Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="24">24</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://myanimelist.net/store/manga/54/Fire_Force?_location=mal_atf_affiliate"
            class="btn-affiliate manga-store js-shop-anime icon-shop-default"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Buy on Manga Store
         </a></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/NpDvoopi0AE?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/NpDvoopi0AE/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">PV 3</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/40956/Enen_no_Shouboutai__Ni_no_Shou/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
@@ -878,7 +878,7 @@ The Evangelist&#039;s plan is clear: to gather the eight pillars&mdash;the indiv
               <small>(<a href="/profile/Watame/reviews">All reviews</a>)</small><br>
                         <div class="lightLink spaceit">
               <strong>
-                <span id="rhelp367489">119</span>
+                <span id="rhelp367489">120</span>
               </strong>
               people found this review helpful
             </div>
@@ -985,7 +985,7 @@ All in all, I regret watching the second season. After seeing the first season I
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/Marinate1016">
-                  <img src="https://cdn.myanimelist.net/images/userimages/7822234.jpg?t=1610515200" data-src="https://cdn.myanimelist.net/images/userimages/7822234.jpg?t=1610515200" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/7822234.jpg?t=1610580000" data-src="https://cdn.myanimelist.net/images/userimages/7822234.jpg?t=1610580000" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1084,7 +1084,7 @@ Season 2 of FF gets 10 Adolla Links, out of 10.
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/Horn_dawg_2019">
-                  <img src="https://cdn.myanimelist.net/images/userimages/8263192.jpg?t=1609972200" data-src="https://cdn.myanimelist.net/images/userimages/8263192.jpg?t=1609972200" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/8263192.jpg?t=1610582400" data-src="https://cdn.myanimelist.net/images/userimages/8263192.jpg?t=1610582400" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1093,7 +1093,7 @@ Season 2 of FF gets 10 Adolla Links, out of 10.
               <small>(<a href="/profile/Horn_dawg_2019/reviews">All reviews</a>)</small><br>
                         <div class="lightLink spaceit">
               <strong>
-                <span id="rhelp367522">80</span>
+                <span id="rhelp367522">81</span>
               </strong>
               people found this review helpful
             </div>
@@ -1226,7 +1226,7 @@ LATOM!!!!
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/KANLen09">
-                  <img src="https://cdn.myanimelist.net/images/userimages/6448140.jpg?t=1610546400" data-src="https://cdn.myanimelist.net/images/userimages/6448140.jpg?t=1610546400" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/6448140.jpg?t=1610578800" data-src="https://cdn.myanimelist.net/images/userimages/6448140.jpg?t=1610578800" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1235,7 +1235,7 @@ LATOM!!!!
               <small>(<a href="/profile/KANLen09/reviews">All reviews</a>)</small><br>
                         <div class="lightLink spaceit">
               <strong>
-                <span id="rhelp367491">71</span>
+                <span id="rhelp367491">72</span>
               </strong>
               people found this review helpful
             </div>
@@ -1353,15 +1353,15 @@ amzn_assoc_search_bar_position = "bottom";
 		<div class="borderClass"></div><br><div><div class="floatRightHeader"><a href="/forum/?animeid=40956"><a href="/anime/40956/Enen_no_Shouboutai__Ni_no_Shou/forum">More discussions</a></div><h2>Recent Forum Discussion</h2></div><div class="page-forum">
     <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F40956%2FEnen_no_Shouboutai__Ni_no_Shou&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1881331">Enen no Shouboutai: Ni no Shou Episode 24 Discussion</a> <small> ( <a href="/forum/?topicid=1881331&show=0">1</a> <a href="/forum/?topicid=1881331&show=50">2</a> <a href="/forum/?topicid=1881331&show=100">3</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Dec 11, 2020</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">126 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/akihikosama">akihikosama</a> <a href="/forum/?topicid=1881331&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Jan 10, 11:29 PM</td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1866557">Enen no Shouboutai: Ni no Shou Episode 13 Discussion</a> <small> ( <a href="/forum/?topicid=1866557&show=0">1</a> <a href="/forum/?topicid=1866557&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Sep 25, 2020</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">65 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Mirai">Mirai</a> <a href="/forum/?topicid=1866557&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>3 hours ago</td>
             </tr>
             <tr id="topicRow2">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F40956%2FEnen_no_Shouboutai__Ni_no_Shou&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1849942">Enen no Shouboutai: Ni no Shou Episode 1 Discussion</a> <small> ( <a href="/forum/?topicid=1849942&show=0">1</a> <a href="/forum/?topicid=1849942&show=50">2</a> <a href="/forum/?topicid=1849942&show=100">3</a> <a href="/forum/?topicid=1849942&show=150">4</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Jul 3, 2020</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">178 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Mirai">Mirai</a> <a href="/forum/?topicid=1849942&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Jan 7, 12:38 PM</td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1881331">Enen no Shouboutai: Ni no Shou Episode 24 Discussion</a> <small> ( <a href="/forum/?topicid=1881331&show=0">1</a> <a href="/forum/?topicid=1881331&show=50">2</a> <a href="/forum/?topicid=1881331&show=100">3</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Dec 11, 2020</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">126 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/akihikosama">akihikosama</a> <a href="/forum/?topicid=1881331&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Jan 10, 11:29 PM</td>
             </tr>
             </table></div><br><div><div class="floatRightHeader"><a href="/anime/40956/Enen_no_Shouboutai__Ni_no_Shou/featured">More featured articles</a></div><h2>Recent Featured Articles</h2></div><div class="detail-page-featured-article"><div class="news-list">
       
@@ -1378,7 +1378,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
           </p><p class="di-tc pv pr8">
-              <b>40,286</b> views
+              <b>40,330</b> views
             </p></div>
       </div>
     </div>
@@ -1396,7 +1396,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
           </p><p class="di-tc pv pr8">
-              <b>64,429</b> views
+              <b>64,499</b> views
             </p></div>
       </div>
     </div>
@@ -1404,7 +1404,7 @@ amzn_assoc_search_bar_position = "bottom";
 </div><div style="padding:16px 0px 0px 0px;"><div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div></div><br><div>
             <div class="floatRightHeader"><a href="/anime/40956/Enen_no_Shouboutai__Ni_no_Shou/userrecs">More recommendations</a></div>
             <h2>Recommendations
-            </h2></div>  <div class=""><div class="anime-slide-block" id="anime_recommendation" data-json='{"width":800,"btnWidth":40,"margin":8}'><div class="btn-anime-slide-side left"><span class="btn-inner"></span></div><div class="btn-anime-slide-side right"><span class="btn-inner"></span></div><div class="anime-slide-outer" style="height:140px;"><ul class="anime-slide js-anime-slide" data-slide="8"><li class="btn-anime" style="width:90px" title="Shingeki no Kyojin"><a href="https://myanimelist.net/recommendations/anime/16498-40956" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Shingeki no Kyojin</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/10/47347.jpg?s=6f15de5e242b40673393fce69500f1ea" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/10/47347.jpg?s=6f15de5e242b40673393fce69500f1ea 1x,https://cdn.myanimelist.net/r/180x280/images/anime/10/47347.jpg?s=7e22de0807c6ed2f0478fc026de58933 2x" width="90" height="140" class="image lazyload" alt="Shingeki no Kyojin" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Fullmetal Alchemist: Brotherhood"><a href="https://myanimelist.net/recommendations/anime/5114-40956" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Fullmetal Alchemist: Brotherhood</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1223/96541.jpg?s=1998a649a8e31e1692e1c55e3c76b054" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1223/96541.jpg?s=1998a649a8e31e1692e1c55e3c76b054 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1223/96541.jpg?s=28818a71bdab1efdde13d199114500a2 2x" width="90" height="140" class="image lazyload" alt="Fullmetal Alchemist: Brotherhood" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Natsume Yuujinchou Go"><a href="https://myanimelist.net/anime/32983/Natsume_Yuujinchou_Go?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Natsume Yuujinchou Go</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/11/81755.jpg?s=01ce064dc49ca021dbf19b653d204c22" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/11/81755.jpg?s=01ce064dc49ca021dbf19b653d204c22 1x,https://cdn.myanimelist.net/r/180x280/images/anime/11/81755.jpg?s=f48b2c4a3621632c03cdde0623072081 2x" width="90" height="140" class="image lazyload" alt="Natsume Yuujinchou Go" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Natsume Yuujinchou San"><a href="https://myanimelist.net/anime/10379/Natsume_Yuujinchou_San?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Natsume Yuujinchou San</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/8/82394.jpg?s=63b5bd799811986cded10b918d68b775" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/8/82394.jpg?s=63b5bd799811986cded10b918d68b775 1x,https://cdn.myanimelist.net/r/180x280/images/anime/8/82394.jpg?s=aafa18397122d86aa5299515a9fafe12 2x" width="90" height="140" class="image lazyload" alt="Natsume Yuujinchou San" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Haikyuu!!: To the Top 2nd Season"><a href="https://myanimelist.net/anime/40776/Haikyuu__To_the_Top_2nd_Season?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Haikyuu!!: To the Top 2nd Season</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1453/106768.jpg?s=8564e403d6506ba4fc636080be9bbd35" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1453/106768.jpg?s=8564e403d6506ba4fc636080be9bbd35 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1453/106768.jpg?s=cd768ade2803dbe7e99b2c6d6be34238 2x" width="90" height="140" class="image lazyload" alt="Haikyuu!!: To the Top 2nd Season" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Fate/stay night Movie: Heaven&#039;s Feel - II. Lost Butterfly"><a href="https://myanimelist.net/anime/33049/Fate_stay_night_Movie__Heavens_Feel_-_II_Lost_Butterfly?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Fate/stay night Movie: Heaven&#039;s Feel - II. Lost Butterfly</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1974/98158.jpg?s=92b5bf4625a4f74ce8efa001aedaf92d" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1974/98158.jpg?s=92b5bf4625a4f74ce8efa001aedaf92d 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1974/98158.jpg?s=f7bb50179d27f9e060f0b1d51dc3c0fa 2x" width="90" height="140" class="image lazyload" alt="Fate/stay night Movie: Heaven&#039;s Feel - II. Lost Butterfly" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Fruits Basket 2nd Season"><a href="https://myanimelist.net/anime/40417/Fruits_Basket_2nd_Season?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Fruits Basket 2nd Season</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1486/106692.jpg?s=46784625c0b1b94a5860aae496d952d2" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1486/106692.jpg?s=46784625c0b1b94a5860aae496d952d2 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1486/106692.jpg?s=d5329348312609254191dccbc38bac1c 2x" width="90" height="140" class="image lazyload" alt="Fruits Basket 2nd Season" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Kizumonogatari II: Nekketsu-hen"><a href="https://myanimelist.net/anime/31757/Kizumonogatari_II__Nekketsu-hen?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kizumonogatari II: Nekketsu-hen</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/8/80930.jpg?s=a398d7adbbba007948d8edd0a1c72ac2" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/8/80930.jpg?s=a398d7adbbba007948d8edd0a1c72ac2 1x,https://cdn.myanimelist.net/r/180x280/images/anime/8/80930.jpg?s=5cba838c5c956f2a6f7f8523e3ecaa49 2x" width="90" height="140" class="image lazyload" alt="Kizumonogatari II: Nekketsu-hen" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="One Punch Man"><a href="https://myanimelist.net/anime/30276/One_Punch_Man?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">One Punch Man</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/76049.jpg?s=7996680313e9884e2ecdd1bf6c042e78" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/76049.jpg?s=7996680313e9884e2ecdd1bf6c042e78 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/76049.jpg?s=d560865fb58c77de3c8d490b300f6680 2x" width="90" height="140" class="image lazyload" alt="One Punch Man" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Kimetsu no Yaiba"><a href="https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kimetsu no Yaiba</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1286/99889.jpg?s=b866831b109fac7cf6d971d49c2b6198" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1286/99889.jpg?s=b866831b109fac7cf6d971d49c2b6198 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1286/99889.jpg?s=3aeb6b6fc9db88b07d62eb304f43036c 2x" width="90" height="140" class="image lazyload" alt="Kimetsu no Yaiba" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Bakuman. 3rd Season"><a href="https://myanimelist.net/anime/12365/Bakuman_3rd_Season?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Bakuman. 3rd Season</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/6/41845.jpg?s=341e03b338f0c29ebaad1f7106e2160f" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/6/41845.jpg?s=341e03b338f0c29ebaad1f7106e2160f 1x,https://cdn.myanimelist.net/r/180x280/images/anime/6/41845.jpg?s=c6a8259ac503a87429206818166c12d1 2x" width="90" height="140" class="image lazyload" alt="Bakuman. 3rd Season" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Yuru Camp△ Season 2"><a href="https://myanimelist.net/anime/38474/Yuru_Camp△_Season_2?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Yuru Camp△ Season 2</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1255/110636.jpg?s=eeb5c29b4222fcd01eb8b4e45ca757f8" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1255/110636.jpg?s=eeb5c29b4222fcd01eb8b4e45ca757f8 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1255/110636.jpg?s=de77f23ad35ee497b76f6435ed43ba8e 2x" width="90" height="140" class="image lazyload" alt="Yuru Camp△ Season 2" border="0" ></a></li></ul></div></div></div>
+            </h2></div>  <div class=""><div class="anime-slide-block" id="anime_recommendation" data-json='{"width":800,"btnWidth":40,"margin":8}'><div class="btn-anime-slide-side left"><span class="btn-inner"></span></div><div class="btn-anime-slide-side right"><span class="btn-inner"></span></div><div class="anime-slide-outer" style="height:140px;"><ul class="anime-slide js-anime-slide" data-slide="8"><li class="btn-anime" style="width:90px" title="Shingeki no Kyojin"><a href="https://myanimelist.net/recommendations/anime/16498-40956" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Shingeki no Kyojin</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/10/47347.jpg?s=6f15de5e242b40673393fce69500f1ea" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/10/47347.jpg?s=6f15de5e242b40673393fce69500f1ea 1x,https://cdn.myanimelist.net/r/180x280/images/anime/10/47347.jpg?s=7e22de0807c6ed2f0478fc026de58933 2x" width="90" height="140" class="image lazyload" alt="Shingeki no Kyojin" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Fullmetal Alchemist: Brotherhood"><a href="https://myanimelist.net/recommendations/anime/5114-40956" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Fullmetal Alchemist: Brotherhood</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1223/96541.jpg?s=1998a649a8e31e1692e1c55e3c76b054" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1223/96541.jpg?s=1998a649a8e31e1692e1c55e3c76b054 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1223/96541.jpg?s=28818a71bdab1efdde13d199114500a2 2x" width="90" height="140" class="image lazyload" alt="Fullmetal Alchemist: Brotherhood" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Seto no Hanayome"><a href="https://myanimelist.net/anime/2104/Seto_no_Hanayome?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Seto no Hanayome</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/13/58383.jpg?s=374ab5b782043e932adce0be00d472b5" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/13/58383.jpg?s=374ab5b782043e932adce0be00d472b5 1x,https://cdn.myanimelist.net/r/180x280/images/anime/13/58383.jpg?s=7e7c05839fff020c978655c6c65e1ac4 2x" width="90" height="140" class="image lazyload" alt="Seto no Hanayome" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Hanasakeru Seishounen"><a href="https://myanimelist.net/anime/5835/Hanasakeru_Seishounen?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Hanasakeru Seishounen</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/6/22695.jpg?s=f4aae1bc68a0a80f2aa07c0e804a196e" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/6/22695.jpg?s=f4aae1bc68a0a80f2aa07c0e804a196e 1x,https://cdn.myanimelist.net/r/180x280/images/anime/6/22695.jpg?s=03ced07cd039f049c5235fd3ec35b25f 2x" width="90" height="140" class="image lazyload" alt="Hanasakeru Seishounen" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Texhnolyze"><a href="https://myanimelist.net/anime/26/Texhnolyze?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Texhnolyze</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/3/18165.jpg?s=27ae776b300775ad1ea729bf760d8316" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/3/18165.jpg?s=27ae776b300775ad1ea729bf760d8316 1x,https://cdn.myanimelist.net/r/180x280/images/anime/3/18165.jpg?s=b93d78132d9c863847dd39f7e1699838 2x" width="90" height="140" class="image lazyload" alt="Texhnolyze" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Ueki no Housoku"><a href="https://myanimelist.net/anime/479/Ueki_no_Housoku?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Ueki no Housoku</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/8/20596.jpg?s=96478a46b1659585627ecbf2f83d42d9" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/8/20596.jpg?s=96478a46b1659585627ecbf2f83d42d9 1x,https://cdn.myanimelist.net/r/180x280/images/anime/8/20596.jpg?s=cabc7569605b2a2544da411fd9cc8aba 2x" width="90" height="140" class="image lazyload" alt="Ueki no Housoku" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Yamato Nadeshiko Shichihenge♥"><a href="https://myanimelist.net/anime/1562/Yamato_Nadeshiko_Shichihenge♥?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Yamato Nadeshiko Shichihenge♥</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/11/7701.jpg?s=51e0cf45a43658533e4f7278f6609f72" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/11/7701.jpg?s=51e0cf45a43658533e4f7278f6609f72 1x,https://cdn.myanimelist.net/r/180x280/images/anime/11/7701.jpg?s=f405e799c1bee1cac9a1b3e368ba18ab 2x" width="90" height="140" class="image lazyload" alt="Yamato Nadeshiko Shichihenge♥" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Tamayura: Sotsugyou Shashin Part 2 - Hibiki"><a href="https://myanimelist.net/anime/29829/Tamayura__Sotsugyou_Shashin_Part_2_-_Hibiki?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Tamayura: Sotsugyou Shashin Part 2 - Hibiki</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/76028.jpg?s=beda44f79d3c88a124ba26f4cd4898cb" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/76028.jpg?s=beda44f79d3c88a124ba26f4cd4898cb 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/76028.jpg?s=3c7a771981796ae66d317ac545c116f0 2x" width="90" height="140" class="image lazyload" alt="Tamayura: Sotsugyou Shashin Part 2 - Hibiki" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou"><a href="https://myanimelist.net/anime/36702/Shingeki_no_Kyojin_Season_2_Movie__Kakusei_no_Houkou?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1710/95650.jpg?s=d77072f8e805576cdb19a96157e49aed" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1710/95650.jpg?s=d77072f8e805576cdb19a96157e49aed 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1710/95650.jpg?s=f0ebfbd15ff086d933d8b30f5ce775f2 2x" width="90" height="140" class="image lazyload" alt="Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="New Game!!"><a href="https://myanimelist.net/anime/34914/New_Game?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">New Game!!</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/86790.jpg?s=d25076132407bf9f0dd5da696c3a40c7" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/86790.jpg?s=d25076132407bf9f0dd5da696c3a40c7 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/86790.jpg?s=f9ca48c845bc25d2fc71031c86221367 2x" width="90" height="140" class="image lazyload" alt="New Game!!" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Fairy Tail (2014)"><a href="https://myanimelist.net/anime/22043/Fairy_Tail_2014?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Fairy Tail (2014)</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/3/60551.jpg?s=c65e9df00b3438ffb0c3ffe4e305a152" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/3/60551.jpg?s=c65e9df00b3438ffb0c3ffe4e305a152 1x,https://cdn.myanimelist.net/r/180x280/images/anime/3/60551.jpg?s=a5b43f81dc55fa93105f6cac644c5668 2x" width="90" height="140" class="image lazyload" alt="Fairy Tail (2014)" border="0" ></a></li><li class="btn-anime auto" style="width:90px" title="Saint Seiya: Meiou Hades Meikai-hen"><a href="https://myanimelist.net/anime/1253/Saint_Seiya__Meiou_Hades_Meikai-hen?suggestion" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Saint Seiya: Meiou Hades Meikai-hen</span><span class="users">AutoRec</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/75732.jpg?s=04b5c19b104691c7477e29522c04e3b8" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/75732.jpg?s=04b5c19b104691c7477e29522c04e3b8 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/75732.jpg?s=b3446ff9c735e53844e411fe08256327 2x" width="90" height="140" class="image lazyload" alt="Saint Seiya: Meiou Hades Meikai-hen" border="0" ></a></li></ul></div></div></div>
     </td>
     </tr>
     </table>
@@ -1611,103 +1611,6 @@ amzn_assoc_search_bar_position = "bottom";
     </div>
   </div>
 </footer>
-<div class="welcome-back popup-background">
-  <div class="popup">
-    <img class="logo" src="/img/pc/ownlist/logo_mal.png" alt="MyAnimeList">
-    <h3 class="popup-title">Welcome!</h3>
-    <p class="description">Join MyAnimeList to catalog your anime and manga, compare with your friends, create your own profile, and plenty more. It's free and easy to join.</p>
-    <div class="anime-slide1">
-      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/9/9453.jpg');"></div>
-      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/10/47347.jpg');"></div>
-      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/11/39717.jpg');"></div>
-      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
-
-      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/9/9453.jpg');"></div>
-      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/10/47347.jpg');"></div>
-      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/11/39717.jpg');"></div>
-      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
-    </div>
-    <div class="anime-slide2">
-      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/12/76049.jpg');"></div>
-      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/5/64449.jpg');"></div>
-      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/5/73199.jpg');"></div>
-      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/5/65187.jpg');"></div>
-
-      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/12/76049.jpg');"></div>
-      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/5/64449.jpg');"></div>
-      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/5/73199.jpg');"></div>
-      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/5/65187.jpg');"></div>
-    </div>
-    <h3 class="sign-up-with">Free Sign Up with</h3>
-    <div class="sns-sign-up">
-      <a class="sns-button google" href="/sns/login/google?from=%2Fanime%2F40956%2FEnen_no_Shouboutai__Ni_no_Shou&utm_medium=ldialog_google" onclick="ga('send', 'event', 'ldialog', 'click', 'google');">Google</a>
-      <a class="sns-button facebook" href="/sns/login/facebook?from=%2Fanime%2F40956%2FEnen_no_Shouboutai__Ni_no_Shou&utm_medium=ldialog_facebook" onclick="ga('send', 'event', 'ldialog', 'click', 'facebook');">Facebook</a>
-      <a class="sns-button twitter" href="/sns/login/twitter?from=%2Fanime%2F40956%2FEnen_no_Shouboutai__Ni_no_Shou&utm_medium=ldialog_twitter" onclick="ga('send', 'event', 'ldialog', 'click', 'twitter');">Twitter</a>
-    </div>
-    <div class="sign-up">
-      <a class="account register" href="/register.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'mail');">Create an account</a>
-      <br>      <a class="account" href="/login.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'login');">Already have an account?</a>
-    </div>
-    <div class="close-button" onclick="ga('send', 'event', 'ldialog', 'click', 'close');"></div>
-  </div>
-  <script>
-    $(function () {
-      ga('send', 'event', 'popup_login_form', 'show', location.href, {nonInteraction: true});
-      var onresize = function () {
-        var $welcome_back = $('.welcome-back');
-        var $popup = $('.welcome-back .popup');
-        var top = ($welcome_back.outerHeight() - $popup.outerHeight()) / 2;
-        $popup.css('top', top < 0 ? 0 : top);
-      };
-      var onclose = function () {
-        $('.welcome-back').addClass('fade-out')
-          .one('animationend', function () { $(this).remove(); });
-        $(window).off('resize', onresize);
-      };
-
-      var timer_id = null;
-      var show = function () {
-        timer_id = null;
-        // 優先順位の高いポップアップが出ていたら表示しない
-        if (($('.app_gdpr--2k2uB').length > 0 && $('.banner_hidden--MXmJ_').length === 0) || $('._cm-os-slider').length > 0 || $('#tbl-next-up').length > 0 || $('#gdpr-modal-bottom').length > 0) {
-          return
-        }
-        $('.welcome-back').addClass('fade-in');
-        onresize();
-        var timer = setTimeout(onclose,30000);
-        $('.popup').on('mousemove',function(){
-            clearTimeout(timer);
-            timer=setTimeout(onclose, 30000);
-        });
-      };
-
-      $(window)
-        .one('load', function () {
-          onresize();
-          timer_id = setTimeout(show,3000);
-          $('body').on('keydown mousedown mousemove',function(){
-            if(timer_id) {
-              clearTimeout(timer_id);
-              timer_id = setTimeout(show, 3000);
-            }
-          });
-          $(window).scroll(function(){
-            if(timer_id) {
-              clearTimeout(timer_id);
-              timer_id = setTimeout(show, 3000);
-            }
-          });
-        })
-        .on('resize', onresize);
-      $(document).one('click', '.close-button', function () {
-        onclose();
-      });
-      $('.register').click(function () {
-        ga('send', 'event', 'popup_login_form', 'click', location.href, {nonInteraction: true});
-      });
-    });
-  </script>
-</div>
 
 <script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
 <script>

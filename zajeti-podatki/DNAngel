@@ -35,7 +35,7 @@ D.N.Angel - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='82038f96e25bebc3a5bc9098efb749eefc3a1eba'>
+<meta name='csrf_token' content='23f85c739af393d77fd8040503b335fc64fb88e2'>
 <meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
 <meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
 <link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
@@ -352,7 +352,7 @@ $(document).ready(function(){
 </div>
 <div class="spaceit po-r js-statistics-info di-ib" data-id="info2">
   <span class="dark_text">Ranked:</span>
-  #2718<sup>2</sup>
+  #2721<sup>2</sup>
     <div class="statistics-info info2">
     <small><sup>2</sup>
     based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
@@ -365,11 +365,11 @@ $(document).ready(function(){
 </div>
 <div class="spaceit">
   <span class="dark_text">Members:</span>
-    165,633
+    165,643
 </div>
 <div>
   <span class="dark_text">Favorites:</span>
-  1,518
+  1,517
 </div>
 
   <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
@@ -419,7 +419,7 @@ $(document).ready(function(){
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tr>
-	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="85,559 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-7">7.21</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#2718</strong></span><span class="numbers popularity">Popularity <strong>#868</strong></span><span class="numbers members">Members <strong>165,633</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2003/spring">Spring 2003</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/27/Xebec" title="Xebec">Xebec</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="61"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F61%2FDNAngel&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option selected="selected" value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="85,559 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-7">7.21</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#2721</strong></span><span class="numbers popularity">Popularity <strong>#868</strong></span><span class="numbers members">Members <strong>165,643</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2003/spring">Spring 2003</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/27/Xebec" title="Xebec">Xebec</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="61"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F61%2FDNAngel&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option selected="selected" value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
         Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="26" disabled>/<span id="curEps" data-num="26">26</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=D.N.Angel&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime js-shop-selecter icon-shop-default" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:61,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><div class="anime-detail-header-affiliate-dialog js-shop-selecter-dialog" style="display:none"><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=D.N.Angel&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:61,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><a href="http://www.cdjapan.co.jp/aff/click.cgi/PytJTGW7Lok/6039/A764127/searches?q=D.N.Angel" class="btn-affiliate cdjapan js-shop-anime js-shop-cd-japan" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;cdjapan&quot;,&quot;id&quot;:61,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/logo-cdjapan.png" width="118" height="25" alt="buy from CD Japan"></a><a href="http://www.shareasale.com/r.cfm?u=1384175&b=866986&m=65886&afftrack=&urllink=www.rightstufanime.com%2Fsearch%3Fkeywords%3DD.N.Angel" class="btn-affiliate right_stuf js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;right_stuf&quot;,&quot;id&quot;:61,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_right_stuf.png" width="118" height="25" alt="buy from Rightstuf"></a></div></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/u41_Wclv2GE?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/u41_Wclv2GE/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">PV English dub version</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/61/DNAngel/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
 </div><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=61&t=synopsis" style="font-weight: normal;">Edit</a></div><h2>Synopsis</h2></div><p itemprop="description">Daisuke Niwa is a clumsy, block-headed, and wimpy middle school student who has few redeeming qualities. On his 14th birthday, he finally decides to confess his love to his longtime crush Risa Harada, but is rejected. <br />
 <br />
@@ -1276,15 +1276,15 @@ amzn_assoc_search_bar_position = "bottom";
     <br><div><div class="floatRightHeader"><a href="/anime/61/DNAngel/news">More news</a></div><h2>Recent News</h2></div><br><div><div class="floatRightHeader"><a href="/forum/?animeid=61"><a href="/anime/61/DNAngel/forum">More discussions</a></div><h2>Recent Forum Discussion</h2></div><div class="page-forum">
     <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F61%2FDNAngel&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=72552">D.N.Angel Episode 2 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/kage-bunshin">kage-bunshin</a></span> - <span class="lightLink">Mar 11, 2009</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">12 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/emilyanna">emilyanna</a> <a href="/forum/?topicid=72552&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 11, 2020 7:35 AM</td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=90750">D.N.Angel Episode 7 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/kage-bunshin">kage-bunshin</a></span> - <span class="lightLink">Jun 10, 2009</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">13 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Stars-Soul">Stars-Soul</a> <a href="/forum/?topicid=90750&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>3 hours ago</td>
             </tr>
             <tr id="topicRow2">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F61%2FDNAngel&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=32253">D.N.Angel Episode 1 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/nehnehneji">nehnehneji</a></span> - <span class="lightLink">Jul 5, 2008</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">17 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/emilyanna">emilyanna</a> <a href="/forum/?topicid=32253&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 10, 2020 9:02 AM</td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=72552">D.N.Angel Episode 2 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/kage-bunshin">kage-bunshin</a></span> - <span class="lightLink">Mar 11, 2009</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">12 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/emilyanna">emilyanna</a> <a href="/forum/?topicid=72552&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 11, 2020 7:35 AM</td>
             </tr>
             </table></div><br><div><div class="floatRightHeader"><a href="/anime/61/DNAngel/featured">More featured articles</a></div><h2>Recent Featured Articles</h2></div><div class="detail-page-featured-article"><div class="news-list">
       
@@ -1301,7 +1301,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/Jankenpopp">Jankenpopp</a>
           </p><p class="di-tc pv pr8">
-              <b>254,398</b> views
+              <b>254,468</b> views
             </p><div class="tags">
               <div class="tags-inner"><a href="https://myanimelist.net/featured/tag/collection" class="tag tag-color-feature-collection" title="Collection">Collection</a><a href="https://myanimelist.net/featured/tag/anime_terms" class="tag tag-color-feature-anime_terms" title="Anime Terms">Anime Terms</a><a href="https://myanimelist.net/featured/tag/anime_archetypes" class="tag tag-color-feature-anime_archetypes" title="Anime Archetypes">Anime Archetypes</a><a href="https://myanimelist.net/featured/tag/character_analysis" class="tag tag-color-feature-character_analysis" title="Character Analysis">Character Analysis</a><a href="https://myanimelist.net/featured/tag/cute_guys" class="tag tag-color-feature-cute_guys" title="Cute Guys">Cute Guys</a></div>
             </div></div>
@@ -1521,103 +1521,6 @@ amzn_assoc_search_bar_position = "bottom";
     </div>
   </div>
 </footer>
-<div class="welcome-back popup-background">
-  <div class="popup">
-    <img class="logo" src="/img/pc/ownlist/logo_mal.png" alt="MyAnimeList">
-    <h3 class="popup-title">Welcome!</h3>
-    <p class="description">Join MyAnimeList to catalog your anime and manga, compare with your friends, create your own profile, and plenty more. It's free and easy to join.</p>
-    <div class="anime-slide1">
-      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/9/9453.jpg');"></div>
-      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/10/47347.jpg');"></div>
-      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/11/39717.jpg');"></div>
-      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
-
-      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/9/9453.jpg');"></div>
-      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/10/47347.jpg');"></div>
-      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/11/39717.jpg');"></div>
-      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
-    </div>
-    <div class="anime-slide2">
-      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/12/76049.jpg');"></div>
-      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/5/64449.jpg');"></div>
-      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/5/73199.jpg');"></div>
-      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/5/65187.jpg');"></div>
-
-      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/12/76049.jpg');"></div>
-      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/5/64449.jpg');"></div>
-      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/5/73199.jpg');"></div>
-      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/5/65187.jpg');"></div>
-    </div>
-    <h3 class="sign-up-with">Free Sign Up with</h3>
-    <div class="sns-sign-up">
-      <a class="sns-button google" href="/sns/login/google?from=%2Fanime%2F61%2FDNAngel&utm_medium=ldialog_google" onclick="ga('send', 'event', 'ldialog', 'click', 'google');">Google</a>
-      <a class="sns-button facebook" href="/sns/login/facebook?from=%2Fanime%2F61%2FDNAngel&utm_medium=ldialog_facebook" onclick="ga('send', 'event', 'ldialog', 'click', 'facebook');">Facebook</a>
-      <a class="sns-button twitter" href="/sns/login/twitter?from=%2Fanime%2F61%2FDNAngel&utm_medium=ldialog_twitter" onclick="ga('send', 'event', 'ldialog', 'click', 'twitter');">Twitter</a>
-    </div>
-    <div class="sign-up">
-      <a class="account register" href="/register.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'mail');">Create an account</a>
-      <br>      <a class="account" href="/login.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'login');">Already have an account?</a>
-    </div>
-    <div class="close-button" onclick="ga('send', 'event', 'ldialog', 'click', 'close');"></div>
-  </div>
-  <script>
-    $(function () {
-      ga('send', 'event', 'popup_login_form', 'show', location.href, {nonInteraction: true});
-      var onresize = function () {
-        var $welcome_back = $('.welcome-back');
-        var $popup = $('.welcome-back .popup');
-        var top = ($welcome_back.outerHeight() - $popup.outerHeight()) / 2;
-        $popup.css('top', top < 0 ? 0 : top);
-      };
-      var onclose = function () {
-        $('.welcome-back').addClass('fade-out')
-          .one('animationend', function () { $(this).remove(); });
-        $(window).off('resize', onresize);
-      };
-
-      var timer_id = null;
-      var show = function () {
-        timer_id = null;
-        // 優先順位の高いポップアップが出ていたら表示しない
-        if (($('.app_gdpr--2k2uB').length > 0 && $('.banner_hidden--MXmJ_').length === 0) || $('._cm-os-slider').length > 0 || $('#tbl-next-up').length > 0 || $('#gdpr-modal-bottom').length > 0) {
-          return
-        }
-        $('.welcome-back').addClass('fade-in');
-        onresize();
-        var timer = setTimeout(onclose,30000);
-        $('.popup').on('mousemove',function(){
-            clearTimeout(timer);
-            timer=setTimeout(onclose, 30000);
-        });
-      };
-
-      $(window)
-        .one('load', function () {
-          onresize();
-          timer_id = setTimeout(show,3000);
-          $('body').on('keydown mousedown mousemove',function(){
-            if(timer_id) {
-              clearTimeout(timer_id);
-              timer_id = setTimeout(show, 3000);
-            }
-          });
-          $(window).scroll(function(){
-            if(timer_id) {
-              clearTimeout(timer_id);
-              timer_id = setTimeout(show, 3000);
-            }
-          });
-        })
-        .on('resize', onresize);
-      $(document).one('click', '.close-button', function () {
-        onclose();
-      });
-      $('.register').click(function () {
-        ga('send', 'event', 'popup_login_form', 'click', location.href, {nonInteraction: true});
-      });
-    });
-  </script>
-</div>
 
 <script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
 <script>

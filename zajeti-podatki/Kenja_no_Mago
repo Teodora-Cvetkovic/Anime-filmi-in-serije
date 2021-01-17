@@ -35,7 +35,7 @@ Kenja no Mago (Wise Man&#039;s Grandchild) - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='00d64706666c6093e0b65f00713d4befad99d289'>
+<meta name='csrf_token' content='ea874549cd85c59425896e65ed64d7781d8471b8'>
 <meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
 <meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
 <link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
@@ -352,7 +352,7 @@ $(document).ready(function(){
 </div>
 <div class="spaceit po-r js-statistics-info di-ib" data-id="info2">
   <span class="dark_text">Ranked:</span>
-  #5602<sup>2</sup>
+  #5606<sup>2</sup>
     <div class="statistics-info info2">
     <small><sup>2</sup>
     based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
@@ -365,11 +365,11 @@ $(document).ready(function(){
 </div>
 <div class="spaceit">
   <span class="dark_text">Members:</span>
-    311,834
+    312,060
 </div>
 <div>
   <span class="dark_text">Favorites:</span>
-  1,852
+  1,853
 </div>
 
   <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
@@ -419,7 +419,7 @@ $(document).ready(function(){
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tr>
-	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="167,097 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-6">6.56</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#5602</strong></span><span class="numbers popularity">Popularity <strong>#424</strong></span><span class="numbers members">Members <strong>311,834</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2019/spring">Spring 2019</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/300/SILVER_LINK" title="SILVER LINK.">SILVER LINK.</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="36407"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F36407%2FKenja_no_Mago&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="167,097 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-6">6.56</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#5606</strong></span><span class="numbers popularity">Popularity <strong>#424</strong></span><span class="numbers members">Members <strong>312,060</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2019/spring">Spring 2019</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/300/SILVER_LINK" title="SILVER LINK.">SILVER LINK.</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="36407"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F36407%2FKenja_no_Mago&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
         Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="12">12</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Wise%20Man%27s%20Grandchild&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime js-shop-selecter icon-shop-default" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:36407,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><div class="anime-detail-header-affiliate-dialog js-shop-selecter-dialog" style="display:none"><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Wise%20Man%27s%20Grandchild&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:36407,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><a href="http://www.cdjapan.co.jp/aff/click.cgi/PytJTGW7Lok/6039/A764127/searches?q=Kenja+no+Mago" class="btn-affiliate cdjapan js-shop-anime js-shop-cd-japan" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;cdjapan&quot;,&quot;id&quot;:36407,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/logo-cdjapan.png" width="118" height="25" alt="buy from CD Japan"></a><a href="http://www.shareasale.com/r.cfm?u=1384175&b=866986&m=65886&afftrack=&urllink=www.rightstufanime.com%2Fsearch%3Fkeywords%3DWise%20Man%27s%20Grandchild" class="btn-affiliate right_stuf js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;right_stuf&quot;,&quot;id&quot;:36407,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_right_stuf.png" width="118" height="25" alt="buy from Rightstuf"></a></div></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/QBp2oDxb4bc?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/QBp2oDxb4bc/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">Teaser</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/36407/Kenja_no_Mago/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
 </div><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=36407&t=synopsis" style="font-weight: normal;">Edit</a></div><h2>Synopsis</h2></div><p itemprop="description">In the kingdom of Earlshide, Merlin Walford was once regarded as a national hero, hailed for both his power and achievements. Preferring a quiet life however, he secludes himself deep in the rural woods, dedicating his time to raising an orphan that he saved. This orphan is Shin, a normal salaryman in modern-day Japan who was reincarnated into Merlin&#039;s world while still retaining his past memories. As the years pass, Shin displays unparalleled talent in both magic casting and martial arts, much to Merlin&#039;s constant amazement. <br />
 <br />
@@ -855,7 +855,7 @@ On his 15th birthday however, it becomes apparent that Shin only developed his c
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/RebelPanda">
-                  <img src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610523600" data-src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610523600" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610580000" data-src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610580000" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -990,7 +990,7 @@ One day.
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/Rich_n117">
-                  <img src="https://cdn.myanimelist.net/images/userimages/6587889.jpg?t=1610510400" data-src="https://cdn.myanimelist.net/images/userimages/6587889.jpg?t=1610510400" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/6587889.jpg?t=1610554200" data-src="https://cdn.myanimelist.net/images/userimages/6587889.jpg?t=1610554200" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1094,7 +1094,7 @@ Overall (9/10): If this show didn’t have its serious plot or tried to be a ser
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/Mythologically">
-                  <img src="https://cdn.myanimelist.net/images/userimages/5585466.jpg?t=1610458800" data-src="https://cdn.myanimelist.net/images/userimages/5585466.jpg?t=1610458800" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/5585466.jpg?t=1610582400" data-src="https://cdn.myanimelist.net/images/userimages/5585466.jpg?t=1610582400" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1103,7 +1103,7 @@ Overall (9/10): If this show didn’t have its serious plot or tried to be a ser
               <small>(<a href="/profile/Mythologically/reviews">All reviews</a>)</small><br>
                         <div class="lightLink spaceit">
               <strong>
-                <span id="rhelp311401">110</span>
+                <span id="rhelp311401">111</span>
               </strong>
               people found this review helpful
             </div>
@@ -1194,7 +1194,7 @@ Oh, and, I couldn&#039;t possibly end this review without crediting the greatest
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/Ryuseishun">
-                  <img src="https://cdn.myanimelist.net/images/userimages/5242474.jpg?t=1610542200" data-src="https://cdn.myanimelist.net/images/userimages/5242474.jpg?t=1610542200" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/5242474.jpg?t=1610582400" data-src="https://cdn.myanimelist.net/images/userimages/5242474.jpg?t=1610582400" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1356,7 +1356,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
           </p><p class="di-tc pv pr8">
-              <b>319,610</b> views
+              <b>319,932</b> views
             </p></div>
       </div>
     </div>
@@ -1374,7 +1374,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/MAL_editing_team">MAL_editing_team</a>
           </p><p class="di-tc pv pr8">
-              <b>14,890</b> views
+              <b>14,895</b> views
             </p></div>
       </div>
     </div>

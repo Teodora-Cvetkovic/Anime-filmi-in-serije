@@ -35,7 +35,7 @@ Shingeki no Kyojin (Attack on Titan) - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='909c9be2242a0b31c9b069d8d4637f7403e7e6aa'>
+<meta name='csrf_token' content='572b90bda71efbf03a0cf9127e7e36a2af90e572'>
 <meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
 <meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
 <link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
@@ -370,11 +370,11 @@ $(document).ready(function(){
 </div>
 <div class="spaceit">
   <span class="dark_text">Members:</span>
-    2,369,844
+    2,370,405
 </div>
 <div>
   <span class="dark_text">Favorites:</span>
-  117,945
+  117,999
 </div>
 
   <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
@@ -424,7 +424,7 @@ $(document).ready(function(){
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tr>
-	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="1,618,358 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.47</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#115</strong></span><span class="numbers popularity">Popularity <strong>#2</strong></span><span class="numbers members">Members <strong>2,369,844</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2013/spring">Spring 2013</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/858/Wit_Studio" title="Wit Studio">Wit Studio</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="16498"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F16498%2FShingeki_no_Kyojin&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="1,618,358 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.47</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#115</strong></span><span class="numbers popularity">Popularity <strong>#2</strong></span><span class="numbers members">Members <strong>2,370,405</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2013/spring">Spring 2013</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/858/Wit_Studio" title="Wit Studio">Wit Studio</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="16498"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F16498%2FShingeki_no_Kyojin&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
         Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="25">25</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://myanimelist.net/store/manga/22/Attack_on_Titan?_location=mal_atf_affiliate"
            class="btn-affiliate manga-store js-shop-anime icon-shop-default"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Buy on Manga Store
         </a></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/LHtdKWJdif4?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/LHtdKWJdif4/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">PV 2</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/16498/Shingeki_no_Kyojin/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
@@ -880,7 +880,7 @@ The last episode received a pre-airing in Tokyo, Marunouchi Piccadilly 1 theater
               <small>(<a href="/profile/Sorrowful/reviews">All reviews</a>)</small><br>
                         <div class="lightLink spaceit">
               <strong>
-                <span id="rhelp163251">1317</span>
+                <span id="rhelp163251">1318</span>
               </strong>
               people found this review helpful
             </div>
@@ -1204,7 +1204,7 @@ Exquisite beyond words.<br />
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/emberreviews">
-                  <img src="https://cdn.myanimelist.net/images/userimages/3337767.jpg?t=1610511000" data-src="https://cdn.myanimelist.net/images/userimages/3337767.jpg?t=1610511000" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/3337767.jpg?t=1610564400" data-src="https://cdn.myanimelist.net/images/userimages/3337767.jpg?t=1610564400" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1339,14 +1339,14 @@ amzn_assoc_search_bar_position = "bottom";
     <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F16498%2FShingeki_no_Kyojin&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
                  <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=1888506">female titan arc is the best arc in aot. change my mind.</a> <small></small><br><span class="forum_postusername"><a href="/profile/ackermanblood">ackermanblood</a></span> - <span class="lightLink">Jan 12</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">7 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/goigogo">goigogo</a> <a href="/forum/?topicid=1888506&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>54 minutes ago</td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">8 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/V1nnyB0y123">V1nnyB0y123</a> <a href="/forum/?topicid=1888506&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>3 hours ago</td>
             </tr>
             <tr id="topicRow2">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F16498%2FShingeki_no_Kyojin&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
                  <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=1888419">Is the show actually good?</a> <small></small><br><span class="forum_postusername"><a href="/profile/Mehcky-Man">Mehcky-Man</a></span> - <span class="lightLink">Jan 11</span></td>
               <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">16 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Saber_Evergarden">Saber_Evergarden</a> <a href="/forum/?topicid=1888419&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>6 hours ago</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Saber_Evergarden">Saber_Evergarden</a> <a href="/forum/?topicid=1888419&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>12 hours ago</td>
             </tr>
             </table></div><br><div><div class="floatRightHeader"><a href="/anime/16498/Shingeki_no_Kyojin/featured">More featured articles</a></div><h2>Recent Featured Articles</h2></div><div class="detail-page-featured-article"><div class="news-list">
       
@@ -1364,7 +1364,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/MAL_editing_team">MAL_editing_team</a>
           </p><p class="di-tc pv pr8">
-              <b>8,425</b> views
+              <b>8,426</b> views
             </p></div>
       </div>
     </div>
@@ -1382,7 +1382,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
           </p><p class="di-tc pv pr8">
-              <b>319,598</b> views
+              <b>319,798</b> views
             </p></div>
       </div>
     </div>
@@ -1600,103 +1600,6 @@ amzn_assoc_search_bar_position = "bottom";
     </div>
   </div>
 </footer>
-<div class="welcome-back popup-background">
-  <div class="popup">
-    <img class="logo" src="/img/pc/ownlist/logo_mal.png" alt="MyAnimeList">
-    <h3 class="popup-title">Welcome!</h3>
-    <p class="description">Join MyAnimeList to catalog your anime and manga, compare with your friends, create your own profile, and plenty more. It's free and easy to join.</p>
-    <div class="anime-slide1">
-      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/9/9453.jpg');"></div>
-      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/10/47347.jpg');"></div>
-      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/11/39717.jpg');"></div>
-      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
-
-      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/9/9453.jpg');"></div>
-      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/10/47347.jpg');"></div>
-      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/11/39717.jpg');"></div>
-      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
-    </div>
-    <div class="anime-slide2">
-      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/12/76049.jpg');"></div>
-      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/5/64449.jpg');"></div>
-      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/5/73199.jpg');"></div>
-      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/5/65187.jpg');"></div>
-
-      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/12/76049.jpg');"></div>
-      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/5/64449.jpg');"></div>
-      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/5/73199.jpg');"></div>
-      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/5/65187.jpg');"></div>
-    </div>
-    <h3 class="sign-up-with">Free Sign Up with</h3>
-    <div class="sns-sign-up">
-      <a class="sns-button google" href="/sns/login/google?from=%2Fanime%2F16498%2FShingeki_no_Kyojin&utm_medium=ldialog_google" onclick="ga('send', 'event', 'ldialog', 'click', 'google');">Google</a>
-      <a class="sns-button facebook" href="/sns/login/facebook?from=%2Fanime%2F16498%2FShingeki_no_Kyojin&utm_medium=ldialog_facebook" onclick="ga('send', 'event', 'ldialog', 'click', 'facebook');">Facebook</a>
-      <a class="sns-button twitter" href="/sns/login/twitter?from=%2Fanime%2F16498%2FShingeki_no_Kyojin&utm_medium=ldialog_twitter" onclick="ga('send', 'event', 'ldialog', 'click', 'twitter');">Twitter</a>
-    </div>
-    <div class="sign-up">
-      <a class="account register" href="/register.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'mail');">Create an account</a>
-      <br>      <a class="account" href="/login.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'login');">Already have an account?</a>
-    </div>
-    <div class="close-button" onclick="ga('send', 'event', 'ldialog', 'click', 'close');"></div>
-  </div>
-  <script>
-    $(function () {
-      ga('send', 'event', 'popup_login_form', 'show', location.href, {nonInteraction: true});
-      var onresize = function () {
-        var $welcome_back = $('.welcome-back');
-        var $popup = $('.welcome-back .popup');
-        var top = ($welcome_back.outerHeight() - $popup.outerHeight()) / 2;
-        $popup.css('top', top < 0 ? 0 : top);
-      };
-      var onclose = function () {
-        $('.welcome-back').addClass('fade-out')
-          .one('animationend', function () { $(this).remove(); });
-        $(window).off('resize', onresize);
-      };
-
-      var timer_id = null;
-      var show = function () {
-        timer_id = null;
-        // 優先順位の高いポップアップが出ていたら表示しない
-        if (($('.app_gdpr--2k2uB').length > 0 && $('.banner_hidden--MXmJ_').length === 0) || $('._cm-os-slider').length > 0 || $('#tbl-next-up').length > 0 || $('#gdpr-modal-bottom').length > 0) {
-          return
-        }
-        $('.welcome-back').addClass('fade-in');
-        onresize();
-        var timer = setTimeout(onclose,30000);
-        $('.popup').on('mousemove',function(){
-            clearTimeout(timer);
-            timer=setTimeout(onclose, 30000);
-        });
-      };
-
-      $(window)
-        .one('load', function () {
-          onresize();
-          timer_id = setTimeout(show,3000);
-          $('body').on('keydown mousedown mousemove',function(){
-            if(timer_id) {
-              clearTimeout(timer_id);
-              timer_id = setTimeout(show, 3000);
-            }
-          });
-          $(window).scroll(function(){
-            if(timer_id) {
-              clearTimeout(timer_id);
-              timer_id = setTimeout(show, 3000);
-            }
-          });
-        })
-        .on('resize', onresize);
-      $(document).one('click', '.close-button', function () {
-        onclose();
-      });
-      $('.register').click(function () {
-        ga('send', 'event', 'popup_login_form', 'click', location.href, {nonInteraction: true});
-      });
-    });
-  </script>
-</div>
 
 <script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
 <script>

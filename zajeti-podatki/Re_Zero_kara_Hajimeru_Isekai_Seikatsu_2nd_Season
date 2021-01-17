@@ -35,7 +35,7 @@ Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='41b62ad12885ee15f7bc9fa3a7ca5bc03258ce91'>
+<meta name='csrf_token' content='4897e6e3dd52bfe3293f5d2a9f401fcb278543d6'>
 <meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
 <meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
 <link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
@@ -370,11 +370,11 @@ $(document).ready(function(){
 </div>
 <div class="spaceit">
   <span class="dark_text">Members:</span>
-    553,044
+    553,767
 </div>
 <div>
   <span class="dark_text">Favorites:</span>
-  9,137
+  9,149
 </div>
 
   <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
@@ -424,7 +424,7 @@ $(document).ready(function(){
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tr>
-	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="235,406 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.54</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#90</strong></span><span class="numbers popularity">Popularity <strong>#190</strong></span><span class="numbers members">Members <strong>553,044</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2020/summer">Summer 2020</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/314/White_Fox" title="White Fox">White Fox</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="39587"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F39587%2FRe_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="235,406 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.54</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#90</strong></span><span class="numbers popularity">Popularity <strong>#190</strong></span><span class="numbers members">Members <strong>553,767</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2020/summer">Summer 2020</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/314/White_Fox" title="White Fox">White Fox</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="39587"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F39587%2FRe_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
         Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="13">13</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://myanimelist.net/store/manga/886/Re_ZERO_-Starting_Life_in_Another_World-_light_novel?_location=mal_atf_affiliate"
            class="btn-affiliate manga-store js-shop-anime icon-shop-default"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Buy on Manga Store
         </a></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/41Gj4Dri8wo?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/41Gj4Dri8wo/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">PV Short Version</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/39587/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
@@ -434,11 +434,11 @@ As the group makes their way to the Sanctuary in search of answers, Subaru has a
 <br />
 Everlasting contracts, past sins, and unrequited love will clash and submerge into a river of blood in the second season of <i>Re:Zero kara Hajimeru Isekai Seikatsu</i>. Pushed to the brink of hopelessness, how long will Subaru&#039;s resolve to save his loved ones last?<br />
 <br />
-[Written by MAL Rewrite]</p><div style="margin-top: 15px;"><div class="floatRightHeader"><a href="/dbchanges.php?aid=39587&t=background" style="font-weight: normal;">Edit</a></div><h2>Background</h2></div>No background information has been added to this title. Help improve our database by adding background information <a href="/dbchanges.php?aid=39587&t=background">here</a>.<br><div style="margin-top: 15px;"><div class="floatRightHeader"><a href="/anime/39587/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season/video">More Videos</a></div><h2>Episode Videos</h2></div><div class="anime-slide-block" id="episode_video" data-json='{"width":800,"btnWidth":40,"margin":8}' style="height:129px;"><div class="btn-anime-slide-side left"><span class="btn-inner"></span></div><div class="btn-anime-slide-side right"><span class="btn-inner"></span></div><div class="anime-slide-outer"><ul class="anime-slide js-anime-slide" data-slide="4"><li class="btn-anime" style="width:194px;"><a href="https://myanimelist.net/anime/39587/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season/episode/14" class="link" style="background-image:url('https://img1.ak.crunchyroll.com/i/spire2-tmb/0a2f810b082d873f763144000645abf71609932173_large.jpg');width:194px;height:129px;"><span class="title pb8" style="width:184px;">
-            Episode 14<span class="icon-pay ml4"></span></span></a></li><li class="btn-anime" style="width:194px;"><a href="https://myanimelist.net/anime/39587/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season/episode/13" class="link" style="background-image:url('https://img1.ak.crunchyroll.com/i/spire4-tmb/be38e00d7def06097f768638125023801601459734_large.jpg');width:194px;height:129px;"><span class="title pb8" style="width:184px;">
+[Written by MAL Rewrite]</p><div style="margin-top: 15px;"><div class="floatRightHeader"><a href="/dbchanges.php?aid=39587&t=background" style="font-weight: normal;">Edit</a></div><h2>Background</h2></div>No background information has been added to this title. Help improve our database by adding background information <a href="/dbchanges.php?aid=39587&t=background">here</a>.<br><div style="margin-top: 15px;"><div class="floatRightHeader"><a href="/anime/39587/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season/video">More Videos</a></div><h2>Episode Videos</h2></div><div class="anime-slide-block" id="episode_video" data-json='{"width":800,"btnWidth":40,"margin":8}' style="height:129px;"><div class="btn-anime-slide-side left"><span class="btn-inner"></span></div><div class="btn-anime-slide-side right"><span class="btn-inner"></span></div><div class="anime-slide-outer"><ul class="anime-slide js-anime-slide" data-slide="4"><li class="btn-anime" style="width:194px;"><a href="https://myanimelist.net/anime/39587/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season/episode/15" class="link" style="background-image:url('https://img1.ak.crunchyroll.com/i/spire4-tmb/07a5a53bc1258dbc33cecace337cee2f1610530289_large.jpg');width:194px;height:129px;"><span class="title pb8" style="width:184px;">
+            Episode 15<span class="icon-pay ml4"></span></span></a></li><li class="btn-anime" style="width:194px;"><a href="https://myanimelist.net/anime/39587/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season/episode/14" class="link" style="background-image:url('https://img1.ak.crunchyroll.com/i/spire2-tmb/0a2f810b082d873f763144000645abf71609932173_large.jpg');width:194px;height:129px;"><span class="title pb8" style="width:184px;">
+            Episode 14<span class=" ml4"></span></span></a></li><li class="btn-anime" style="width:194px;"><a href="https://myanimelist.net/anime/39587/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season/episode/13" class="link" style="background-image:url('https://img1.ak.crunchyroll.com/i/spire4-tmb/be38e00d7def06097f768638125023801601459734_large.jpg');width:194px;height:129px;"><span class="title pb8" style="width:184px;">
             Episode 13<span class=" ml4"></span></span></a></li><li class="btn-anime" style="width:194px;"><a href="https://myanimelist.net/anime/39587/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season/episode/12" class="link" style="background-image:url('https://img1.ak.crunchyroll.com/i/spire1-tmb/86e65db5de8be13a4b0636b9a7cd4c7b1600845945_large.jpg');width:194px;height:129px;"><span class="title pb8" style="width:184px;">
-            Episode 12<span class=" ml4"></span></span></a></li><li class="btn-anime" style="width:194px;"><a href="https://myanimelist.net/anime/39587/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season/episode/11" class="link" style="background-image:url('https://img1.ak.crunchyroll.com/i/spire4-tmb/debe2312f57479fdbc690d8221ec4b2a1600241230_large.jpg');width:194px;height:129px;"><span class="title pb8" style="width:184px;">
-            Episode 11<span class=" ml4"></span></span></a></li></ul></div></div><div class="border_top" style="padding:16px 0px 0px 0px;margin:14px 0px 0px 0px;"><div style="padding: 20px 0 20px 40px; float: left; position: relative; z-index: 1;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+            Episode 12<span class=" ml4"></span></span></a></li></ul></div></div><div class="border_top" style="padding:16px 0px 0px 0px;margin:14px 0px 0px 0px;"><div style="padding: 20px 0 20px 40px; float: left; position: relative; z-index: 1;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
         <div class="ad-criteo" data-ad-zone="1540582" data-ad-slot="criteo_slot_1540582" id="criteo_slot_1540582"></div>
 
       </div>
@@ -863,7 +863,7 @@ Everlasting contracts, past sins, and unrequited love will clash and submerge in
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/swirlydragon">
-                  <img src="https://cdn.myanimelist.net/images/userimages/6007800.jpg?t=1610539800" data-src="https://cdn.myanimelist.net/images/userimages/6007800.jpg?t=1610539800" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/6007800.jpg?t=1610579400" data-src="https://cdn.myanimelist.net/images/userimages/6007800.jpg?t=1610579400" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -872,7 +872,7 @@ Everlasting contracts, past sins, and unrequited love will clash and submerge in
               <small>(<a href="/profile/swirlydragon/reviews">All reviews</a>)</small><br>
                         <div class="lightLink spaceit">
               <strong>
-                <span id="rhelp358348">968</span>
+                <span id="rhelp358348">967</span>
               </strong>
               people found this review helpful
             </div>
@@ -999,7 +999,7 @@ A lot of suffering this season for many characters. Really want to see how this 
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/HanashiD4">
-                  <img src="https://cdn.myanimelist.net/images/userimages/9712671.jpg?t=1610520000" data-src="https://cdn.myanimelist.net/images/userimages/9712671.jpg?t=1610520000" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/9712671.jpg?t=1610577600" data-src="https://cdn.myanimelist.net/images/userimages/9712671.jpg?t=1610577600" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1008,7 +1008,7 @@ A lot of suffering this season for many characters. Really want to see how this 
               <small>(<a href="/profile/HanashiD4/reviews">All reviews</a>)</small><br>
                         <div class="lightLink spaceit">
               <strong>
-                <span id="rhelp358354">871</span>
+                <span id="rhelp358354">870</span>
               </strong>
               people found this review helpful
             </div>
@@ -1156,111 +1156,6 @@ To be continued in Winter 2021!<br />
 <div class="borderDark" style="padding: 4px 0;">
   <div class="spaceit">
     <div class="mb8" style="float: right; text-align: right;">
-      <div title="7:03 AM">Sep 30, 2020</div>
-      <div class="lightLink spaceit">
-                  13 of 13 episodes seen
-              </div>
-      <div>
-        <a href="javascript:void(0);" onclick="$('#score358349').toggle()">Overall Rating</a>:
-        10
-      </div>
-    </div><div style="float: left;">
-      <table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tr>
-                                              <td valign="top" width="60">
-              <div class="picSurround">
-                <a href="https://myanimelist.net/profile/Marinate1016">
-                  <img src="https://cdn.myanimelist.net/images/userimages/7822234.jpg?t=1610515200" data-src="https://cdn.myanimelist.net/images/userimages/7822234.jpg?t=1610515200" border="0" class=" lazyloaded" width="48">
-                </a>
-              </div>
-            </td>
-                    <td valign="top">
-                          <a href="https://myanimelist.net/profile/Marinate1016">Marinate1016</a>
-              <small>(<a href="/profile/Marinate1016/reviews">All reviews</a>)</small><br>
-                        <div class="lightLink spaceit">
-              <strong>
-                <span id="rhelp358349">677</span>
-              </strong>
-              people found this review helpful
-            </div>
-                      </td>
-        </tr>
-      </table>
-    </div>
-  </div>
-  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
-        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score358349">
-      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
-        <tr>
-          <td class="borderClass bgColor1"><strong>Overall</strong></td>
-          <td class="borderClass bgColor1"><strong>10</strong></td>
-        </tr>
-        <tr>
-          <td class="borderClass" align="left">Story</td>
-          <td class="borderClass">10</td>
-        </tr>
-                  <tr>
-            <td class="borderClass" align="left">Animation</td>
-            <td class="borderClass">10</td>
-          </tr>
-          <tr>
-            <td class="borderClass" align="left">Sound</td>
-            <td class="borderClass">10</td>
-          </tr>
-                <tr>
-          <td class="borderClass" align="left">Character</td>
-          <td class="borderClass">10</td>
-        </tr>
-        <tr>
-          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
-          <td class="borderClass" style="border-width: 0;">10</td>
-        </tr>
-      </table>
-    </div>
-
-                          
-    The term &quot;peak fiction&quot; often gets thrown around and has somewhat lost its meaning these days. Peak fiction, for me, is something that exemplifies masterful storytelling, world building and well written characters. The best of the best. The zenith of storytelling. Only a few series I&#039;ve ever read/seen have reached those heights. Re:Zero is one of them and is in indeed, peak fiction.<br />
-<br />
-Disclaimer, I am a Light Novel reader and Re:Zero is one of my favourite book series of all time. For that reason, I had a proverbial magnifying glass out when watching S2 cour 1. Looking for any type of adaptation, animation and artistic
-
-          <span style="display: none;" id="review358349">
-        errors. I genuinely found none. This first cour was one of the best adaptations I&#039;ve ever seen of a Light Novel and you can tell it was crafted with love and by fans of the series. <br />
-<br />
-The pacing and cinematography are done so well that it&#039;s apparent the staff fully understood the message of the 3 volumes adapted this cour and did an amazing job of translating it into the anime. Other than the second trial in episode 12, I can&#039;t really think of anything that was omitted or cut. <br />
-White Fox continue to impress me as a studio. From Steins;Gate to Re:Zero they have consistently put out heat and it&#039;s great to see. <br />
-<br />
-Narratively, this season really starts the story of Re:Zero. Think of everything you saw in the first season as an appetiser of sorts for what we got in this cour and what&#039;s to come. The world and characters are so rich that you just get sucked in and want to uncover all of its mysteries. Speaking of getting sucked in, one really cool artistic choice that i enjoyed from this season was the omission of the OP and or ED on most episodes. White Fox prioritised storytelling over the intro and outro which allowed for much smoother transitions between episodes than most shows have. A minor thing that goes a long way for me.<br />
-<br />
-In conclusion, Re:Zero S2 first cour was one of the best LN adaptations I have ever seen and did an amazing job of laying the foundation for what&#039;s to come in the story. It&#039;s a fun, wild, painful and beautiful ride that will leave you wanting more and more. Scariest thing is, we&#039;re just getting started. <br />
-<br />
-Re:Zero S2 first cour gets 10 cups of Dona Tea out of 10.<br />
-<br />
-<br />
-
-        
-<div id="revhelp_output_358349" class="mt8 js-review-btn-helpful js-review-helpful-358349">
-      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F39587%2FRe_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season" class="button_form">Helpful</a>
-  </div>
-      </span>
-      <a href="javascript:void(0);" id="reviewToggle358349"
-         class="js-toggle-review-button" data-id="358349">read more</a>
-      </div>
-  <div>
-    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
-      <div style="float: right;">
-                  <a href="https://myanimelist.net/reviews.php?id=358349" class="lightLink"><small>permalink</small></a> |
-                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=358349" class="lightLink">
-          <small>report</small>
-        </a>
-              </div>
-    </div>
-  </div>
-</div>
-
-              
-<div class="borderDark" style="padding: 4px 0;">
-  <div class="spaceit">
-    <div class="mb8" style="float: right; text-align: right;">
       <div title="7:45 PM">Oct 1, 2020</div>
       <div class="lightLink spaceit">
                   13 of 13 episodes seen
@@ -1275,7 +1170,7 @@ Re:Zero S2 first cour gets 10 cups of Dona Tea out of 10.<br />
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/RebelPanda">
-                  <img src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610523600" data-src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610523600" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610580000" data-src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610580000" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1284,7 +1179,7 @@ Re:Zero S2 first cour gets 10 cups of Dona Tea out of 10.<br />
               <small>(<a href="/profile/RebelPanda/reviews">All reviews</a>)</small><br>
                         <div class="lightLink spaceit">
               <strong>
-                <span id="rhelp358650">676</span>
+                <span id="rhelp358650">677</span>
               </strong>
               people found this review helpful
             </div>
@@ -1369,6 +1264,111 @@ Re:Zero Season 2 Part 1 is an impressive display of an animation studio’s pers
     </div>
   </div>
 </div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="7:03 AM">Sep 30, 2020</div>
+      <div class="lightLink spaceit">
+                  13 of 13 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score358349').toggle()">Overall Rating</a>:
+        10
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Marinate1016">
+                  <img src="https://cdn.myanimelist.net/images/userimages/7822234.jpg?t=1610580000" data-src="https://cdn.myanimelist.net/images/userimages/7822234.jpg?t=1610580000" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Marinate1016">Marinate1016</a>
+              <small>(<a href="/profile/Marinate1016/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp358349">676</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score358349">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>10</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">10</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">10</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">10</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">10</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">10</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    The term &quot;peak fiction&quot; often gets thrown around and has somewhat lost its meaning these days. Peak fiction, for me, is something that exemplifies masterful storytelling, world building and well written characters. The best of the best. The zenith of storytelling. Only a few series I&#039;ve ever read/seen have reached those heights. Re:Zero is one of them and is in indeed, peak fiction.<br />
+<br />
+Disclaimer, I am a Light Novel reader and Re:Zero is one of my favourite book series of all time. For that reason, I had a proverbial magnifying glass out when watching S2 cour 1. Looking for any type of adaptation, animation and artistic
+
+          <span style="display: none;" id="review358349">
+        errors. I genuinely found none. This first cour was one of the best adaptations I&#039;ve ever seen of a Light Novel and you can tell it was crafted with love and by fans of the series. <br />
+<br />
+The pacing and cinematography are done so well that it&#039;s apparent the staff fully understood the message of the 3 volumes adapted this cour and did an amazing job of translating it into the anime. Other than the second trial in episode 12, I can&#039;t really think of anything that was omitted or cut. <br />
+White Fox continue to impress me as a studio. From Steins;Gate to Re:Zero they have consistently put out heat and it&#039;s great to see. <br />
+<br />
+Narratively, this season really starts the story of Re:Zero. Think of everything you saw in the first season as an appetiser of sorts for what we got in this cour and what&#039;s to come. The world and characters are so rich that you just get sucked in and want to uncover all of its mysteries. Speaking of getting sucked in, one really cool artistic choice that i enjoyed from this season was the omission of the OP and or ED on most episodes. White Fox prioritised storytelling over the intro and outro which allowed for much smoother transitions between episodes than most shows have. A minor thing that goes a long way for me.<br />
+<br />
+In conclusion, Re:Zero S2 first cour was one of the best LN adaptations I have ever seen and did an amazing job of laying the foundation for what&#039;s to come in the story. It&#039;s a fun, wild, painful and beautiful ride that will leave you wanting more and more. Scariest thing is, we&#039;re just getting started. <br />
+<br />
+Re:Zero S2 first cour gets 10 cups of Dona Tea out of 10.<br />
+<br />
+<br />
+
+        
+<div id="revhelp_output_358349" class="mt8 js-review-btn-helpful js-review-helpful-358349">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F39587%2FRe_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle358349"
+         class="js-toggle-review-button" data-id="358349">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=358349" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=358349" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
 <div class="mt4"></div><div class="amazon-ads anime-manga-detail bottom pt20 pb16">
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
@@ -1407,15 +1407,15 @@ amzn_assoc_search_bar_position = "bottom";
 		<div class="borderClass"></div><br><div><div class="floatRightHeader"><a href="/forum/?animeid=39587"><a href="/anime/39587/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season/forum">More discussions</a></div><h2>Recent Forum Discussion</h2></div><div class="page-forum">
     <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F39587%2FRe_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=1866190">for all echidna fans out there, do you still like her? (Spoilers)</a> <small> ( <a href="/forum/?topicid=1866190&show=0">1</a> <a href="/forum/?topicid=1866190&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/suifengdou">suifengdou</a></span> - <span class="lightLink">Sep 23, 2020</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">77 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Tannhauser">Tannhauser</a> <a href="/forum/?topicid=1866190&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Yesterday, 7:23 AM</td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=1887032">Am I the only one who much preferred the first season?</a> <small></small><br><span class="forum_postusername"><a href="/profile/KeVrek">KeVrek</a></span> - <span class="lightLink">Jan 6</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">22 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/naens">naens</a> <a href="/forum/?topicid=1887032&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>4 hours ago</td>
             </tr>
             <tr id="topicRow2">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F39587%2FRe_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=1850788">General Discussion Thread 2.0 (Spoilers)</a> <small> ( <a href="/forum/?topicid=1850788&show=0">1</a> <a href="/forum/?topicid=1850788&show=50">2</a> <a href="/forum/?topicid=1850788&show=100">3</a> <a href="/forum/?topicid=1850788&show=150">4</a> <a href="/forum/?topicid=1850788&show=200">5</a>  ... <a href="/forum/?topicid=1850788&show=300">Last Page</a> ) </small><br><span class="forum_postusername"><a href="/profile/Jagd84">Jagd84</a></span> - <span class="lightLink">Jul 7, 2020</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">329 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/HanashiD4">HanashiD4</a> <a href="/forum/?topicid=1850788&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Jan 11, 1:38 PM</td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=1866190">for all echidna fans out there, do you still like her? (Spoilers)</a> <small> ( <a href="/forum/?topicid=1866190&show=0">1</a> <a href="/forum/?topicid=1866190&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/suifengdou">suifengdou</a></span> - <span class="lightLink">Sep 23, 2020</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">77 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Tannhauser">Tannhauser</a> <a href="/forum/?topicid=1866190&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Yesterday, 7:23 AM</td>
             </tr>
             </table></div><br><div><div class="floatRightHeader"><a href="/anime/39587/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season/featured">More featured articles</a></div><h2>Recent Featured Articles</h2></div><div class="detail-page-featured-article"><div class="news-list">
       
@@ -1432,7 +1432,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
           </p><p class="di-tc pv pr8">
-              <b>46,271</b> views
+              <b>46,755</b> views
             </p></div>
       </div>
     </div>
@@ -1450,7 +1450,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
           </p><p class="di-tc pv pr8">
-              <b>40,286</b> views
+              <b>40,330</b> views
             </p></div>
       </div>
     </div>
@@ -1665,6 +1665,103 @@ amzn_assoc_search_bar_position = "bottom";
     </div>
   </div>
 </footer>
+<div class="welcome-back popup-background">
+  <div class="popup">
+    <img class="logo" src="/img/pc/ownlist/logo_mal.png" alt="MyAnimeList">
+    <h3 class="popup-title">Welcome!</h3>
+    <p class="description">Join MyAnimeList to catalog your anime and manga, compare with your friends, create your own profile, and plenty more. It's free and easy to join.</p>
+    <div class="anime-slide1">
+      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/9/9453.jpg');"></div>
+      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/10/47347.jpg');"></div>
+      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/11/39717.jpg');"></div>
+      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
+
+      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/9/9453.jpg');"></div>
+      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/10/47347.jpg');"></div>
+      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/11/39717.jpg');"></div>
+      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
+    </div>
+    <div class="anime-slide2">
+      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/12/76049.jpg');"></div>
+      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/5/64449.jpg');"></div>
+      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/5/73199.jpg');"></div>
+      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/5/65187.jpg');"></div>
+
+      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/12/76049.jpg');"></div>
+      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/5/64449.jpg');"></div>
+      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/5/73199.jpg');"></div>
+      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/5/65187.jpg');"></div>
+    </div>
+    <h3 class="sign-up-with">Free Sign Up with</h3>
+    <div class="sns-sign-up">
+      <a class="sns-button google" href="/sns/login/google?from=%2Fanime%2F39587%2FRe_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season&utm_medium=ldialog_google" onclick="ga('send', 'event', 'ldialog', 'click', 'google');">Google</a>
+      <a class="sns-button facebook" href="/sns/login/facebook?from=%2Fanime%2F39587%2FRe_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season&utm_medium=ldialog_facebook" onclick="ga('send', 'event', 'ldialog', 'click', 'facebook');">Facebook</a>
+      <a class="sns-button twitter" href="/sns/login/twitter?from=%2Fanime%2F39587%2FRe_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season&utm_medium=ldialog_twitter" onclick="ga('send', 'event', 'ldialog', 'click', 'twitter');">Twitter</a>
+    </div>
+    <div class="sign-up">
+      <a class="account register" href="/register.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'mail');">Create an account</a>
+      <br>      <a class="account" href="/login.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'login');">Already have an account?</a>
+    </div>
+    <div class="close-button" onclick="ga('send', 'event', 'ldialog', 'click', 'close');"></div>
+  </div>
+  <script>
+    $(function () {
+      ga('send', 'event', 'popup_login_form', 'show', location.href, {nonInteraction: true});
+      var onresize = function () {
+        var $welcome_back = $('.welcome-back');
+        var $popup = $('.welcome-back .popup');
+        var top = ($welcome_back.outerHeight() - $popup.outerHeight()) / 2;
+        $popup.css('top', top < 0 ? 0 : top);
+      };
+      var onclose = function () {
+        $('.welcome-back').addClass('fade-out')
+          .one('animationend', function () { $(this).remove(); });
+        $(window).off('resize', onresize);
+      };
+
+      var timer_id = null;
+      var show = function () {
+        timer_id = null;
+        // 優先順位の高いポップアップが出ていたら表示しない
+        if (($('.app_gdpr--2k2uB').length > 0 && $('.banner_hidden--MXmJ_').length === 0) || $('._cm-os-slider').length > 0 || $('#tbl-next-up').length > 0 || $('#gdpr-modal-bottom').length > 0) {
+          return
+        }
+        $('.welcome-back').addClass('fade-in');
+        onresize();
+        var timer = setTimeout(onclose,30000);
+        $('.popup').on('mousemove',function(){
+            clearTimeout(timer);
+            timer=setTimeout(onclose, 30000);
+        });
+      };
+
+      $(window)
+        .one('load', function () {
+          onresize();
+          timer_id = setTimeout(show,3000);
+          $('body').on('keydown mousedown mousemove',function(){
+            if(timer_id) {
+              clearTimeout(timer_id);
+              timer_id = setTimeout(show, 3000);
+            }
+          });
+          $(window).scroll(function(){
+            if(timer_id) {
+              clearTimeout(timer_id);
+              timer_id = setTimeout(show, 3000);
+            }
+          });
+        })
+        .on('resize', onresize);
+      $(document).one('click', '.close-button', function () {
+        onclose();
+      });
+      $('.register').click(function () {
+        ga('send', 'event', 'popup_login_form', 'click', location.href, {nonInteraction: true});
+      });
+    });
+  </script>
+</div>
 
 <script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
 <script>

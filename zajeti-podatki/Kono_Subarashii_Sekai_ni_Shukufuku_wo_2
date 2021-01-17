@@ -35,7 +35,7 @@ Kono Subarashii Sekai ni Shukufuku wo! 2 - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='4053d6670a3295a470d26aa86ddb8ab23caada42'>
+<meta name='csrf_token' content='eb8dd9d602fbdb9f68e67c0fc2c2f667e4bd62e2'>
 <meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
 <meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
 <link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
@@ -358,11 +358,11 @@ $(document).ready(function(){
 </div>
 <div class="spaceit">
   <span class="dark_text">Members:</span>
-    942,582
+    942,976
 </div>
 <div>
   <span class="dark_text">Favorites:</span>
-  10,503
+  10,502
 </div>
 
 
@@ -410,7 +410,7 @@ $(document).ready(function(){
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tr>
-	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="606,301 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.32</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#218</strong></span><span class="numbers popularity">Popularity <strong>#69</strong></span><span class="numbers members">Members <strong>942,582</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2017/winter">Winter 2017</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/37/Studio_Deen" title="Studio Deen">Studio Deen</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="32937"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F32937%2FKono_Subarashii_Sekai_ni_Shukufuku_wo_2&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="606,301 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.32</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#218</strong></span><span class="numbers popularity">Popularity <strong>#69</strong></span><span class="numbers members">Members <strong>942,976</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2017/winter">Winter 2017</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/37/Studio_Deen" title="Studio Deen">Studio Deen</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="32937"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F32937%2FKono_Subarashii_Sekai_ni_Shukufuku_wo_2&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
         Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="10">10</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://myanimelist.net/store/manga/877/Konosuba__Gods_Blessing_on_This_Wonderful_World_light_novel?_location=mal_atf_affiliate"
            class="btn-affiliate manga-store js-shop-anime icon-shop-default"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Buy on Manga Store
         </a></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/9jVxMt845AY?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/9jVxMt845AY/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">PV</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/32937/Kono_Subarashii_Sekai_ni_Shukufuku_wo_2/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
@@ -962,7 +962,7 @@ That isn&#039;t to say that Konosuba is without merit, or that watching it can&#
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/MetaThPr4h">
-                  <img src="https://cdn.myanimelist.net/images/userimages/4759794.jpg?t=1610539200" data-src="https://cdn.myanimelist.net/images/userimages/4759794.jpg?t=1610539200" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/4759794.jpg?t=1610580600" data-src="https://cdn.myanimelist.net/images/userimages/4759794.jpg?t=1610580600" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1174,7 +1174,7 @@ I&#039;m not being a hater towards this anime, I just wanted it to go in a diffe
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/84DaysWithout">
-                  <img src="https://cdn.myanimelist.net/images/userimages/259533.jpg?t=1610545800" data-src="https://cdn.myanimelist.net/images/userimages/259533.jpg?t=1610545800" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/259533.jpg?t=1610577600" data-src="https://cdn.myanimelist.net/images/userimages/259533.jpg?t=1610577600" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1290,7 +1290,7 @@ After two strong additions to the comedy genre, Konosuba has inserted itself amo
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
           </p><p class="di-tc pv pr8">
-              <b>319,598</b> views
+              <b>319,924</b> views
             </p></div>
       </div>
     </div>
@@ -1308,7 +1308,7 @@ After two strong additions to the comedy genre, Konosuba has inserted itself amo
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/Unnamedhero">Unnamedhero</a>
           </p><p class="di-tc pv pr8">
-              <b>36,485</b> views
+              <b>36,489</b> views
             </p></div>
       </div>
     </div>

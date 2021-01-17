@@ -35,7 +35,7 @@ Vinland Saga - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='fbb38db99e8c53d555051be94bd1d6089d0f0c4f'>
+<meta name='csrf_token' content='dae7a47bff726373845584e93351fd34a41e18fb'>
 <meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
 <meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
 <link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
@@ -366,11 +366,11 @@ $(document).ready(function(){
 </div>
 <div class="spaceit">
   <span class="dark_text">Members:</span>
-    608,852
+    609,266
 </div>
 <div>
   <span class="dark_text">Favorites:</span>
-  15,625
+  15,635
 </div>
 
   <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
@@ -420,7 +420,7 @@ $(document).ready(function(){
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tr>
-	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="293,161 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.71</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#43</strong></span><span class="numbers popularity">Popularity <strong>#157</strong></span><span class="numbers members">Members <strong>608,852</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2019/summer">Summer 2019</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/858/Wit_Studio" title="Wit Studio">Wit Studio</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="37521"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F37521%2FVinland_Saga&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="293,161 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.71</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#43</strong></span><span class="numbers popularity">Popularity <strong>#157</strong></span><span class="numbers members">Members <strong>609,266</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2019/summer">Summer 2019</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/858/Wit_Studio" title="Wit Studio">Wit Studio</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="37521"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F37521%2FVinland_Saga&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
         Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="24">24</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://myanimelist.net/store/manga/23/Vinland_Saga?_location=mal_atf_affiliate"
            class="btn-affiliate manga-store js-shop-anime icon-shop-default"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Buy on Manga Store
         </a></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/y99VgqpW1-8?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/y99VgqpW1-8/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">Thors Character PV</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/37521/Vinland_Saga/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
@@ -841,7 +841,7 @@ The war between England and the Danes grows worse with each passing year. Death 
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/HellLyter">
-                  <img src="https://cdn.myanimelist.net/images/userimages/3813391.jpg?t=1610502000" data-src="https://cdn.myanimelist.net/images/userimages/3813391.jpg?t=1610502000" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/3813391.jpg?t=1610573400" data-src="https://cdn.myanimelist.net/images/userimages/3813391.jpg?t=1610573400" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -946,7 +946,7 @@ Despite my harsh criticism of Vinland Saga, I don&#039;t actually despise the sh
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/AndoCommando">
-                  <img src="https://cdn.myanimelist.net/images/userimages/5453235.jpg?t=1610544000" data-src="https://cdn.myanimelist.net/images/userimages/5453235.jpg?t=1610544000" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/5453235.jpg?t=1610547600" data-src="https://cdn.myanimelist.net/images/userimages/5453235.jpg?t=1610547600" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1070,7 +1070,7 @@ For years, Vinland Saga has been proclaimed as a must-read classic manga, and he
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/Stark700">
-                  <img src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" data-src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610533800" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610581800" data-src="https://cdn.myanimelist.net/images/userimages/887295.jpg?t=1610581800" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1173,7 +1173,7 @@ If I said it once, I’ve said it a hundred times. Vinland Saga contains a cruel
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/RebelPanda">
-                  <img src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610523600" data-src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610523600" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610580000" data-src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610580000" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1305,15 +1305,15 @@ amzn_assoc_search_bar_position = "bottom";
 		<div class="borderClass"></div><br><div><div class="floatRightHeader"><a href="/forum/?animeid=37521"><a href="/anime/37521/Vinland_Saga/forum">More discussions</a></div><h2>Recent Forum Discussion</h2></div><div class="page-forum">
     <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F37521%2FVinland_Saga&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1817927">Vinland Saga Episode 24 Discussion</a> <small> ( <a href="/forum/?topicid=1817927&show=0">1</a> <a href="/forum/?topicid=1817927&show=50">2</a> <a href="/forum/?topicid=1817927&show=100">3</a> <a href="/forum/?topicid=1817927&show=150">4</a> <a href="/forum/?topicid=1817927&show=200">5</a>  ... <a href="/forum/?topicid=1817927&show=550">Last Page</a> ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Dec 29, 2019</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">592 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Reapermask">Reapermask</a> <a href="/forum/?topicid=1817927&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Dec 30, 2020 3:56 AM</td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=1888655">Is Vinland Saga really good?</a> <small></small><br><span class="forum_postusername"><a href="/profile/DanialAbid">DanialAbid</a></span> - <span class="lightLink">Jan 12</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">28 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/anime-prime">anime-prime</a> <a href="/forum/?topicid=1888655&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>4 hours ago</td>
             </tr>
             <tr id="topicRow2">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F37521%2FVinland_Saga&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1816857">Vinland Saga Episode 23 Discussion</a> <small> ( <a href="/forum/?topicid=1816857&show=0">1</a> <a href="/forum/?topicid=1816857&show=50">2</a> <a href="/forum/?topicid=1816857&show=100">3</a> <a href="/forum/?topicid=1816857&show=150">4</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Dec 22, 2019</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">163 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Reapermask">Reapermask</a> <a href="/forum/?topicid=1816857&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Dec 30, 2020 3:28 AM</td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1817927">Vinland Saga Episode 24 Discussion</a> <small> ( <a href="/forum/?topicid=1817927&show=0">1</a> <a href="/forum/?topicid=1817927&show=50">2</a> <a href="/forum/?topicid=1817927&show=100">3</a> <a href="/forum/?topicid=1817927&show=150">4</a> <a href="/forum/?topicid=1817927&show=200">5</a>  ... <a href="/forum/?topicid=1817927&show=550">Last Page</a> ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Dec 29, 2019</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">592 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Reapermask">Reapermask</a> <a href="/forum/?topicid=1817927&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Dec 30, 2020 3:56 AM</td>
             </tr>
             </table></div><br><div><div class="floatRightHeader"><a href="/anime/37521/Vinland_Saga/featured">More featured articles</a></div><h2>Recent Featured Articles</h2></div><div class="detail-page-featured-article"><div class="news-list">
       
@@ -1330,7 +1330,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
           </p><p class="di-tc pv pr8">
-              <b>319,599</b> views
+              <b>319,927</b> views
             </p></div>
       </div>
     </div>
@@ -1348,7 +1348,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
           </p><p class="di-tc pv pr8">
-              <b>86,026</b> views
+              <b>86,045</b> views
             </p><div class="tags">
               <div class="tags-inner"><span class="tag tag-color-feature-spoiler">Spoiler</span></div>
             </div></div>

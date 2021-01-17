@@ -1,0 +1,1656 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    
+<link rel="preconnect" href="//fonts.gstatic.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//fonts.googleapis.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tags-cdn.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagservices.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagmanager.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//apis.google.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel-sync.sitescout.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel.tapad.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//c.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tpc.googlesyndication.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//googleads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="//securepubads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="https://cdn.myanimelist.net" crossorigin="anonymous" />
+
+
+<title>
+Zoids - MyAnimeList.net
+</title>
+<meta name="description" content="Looking for information on the anime Zoids? Find out more with MyAnimeList, the world&#039;s most active online anime and manga community and database. Zoids are beast-like fighting machines used in both everyday use such as transportation, and special use such as war. Some types of Zoids, know as Organoids, are miniature Zoids that are living organisms. These Organoids have the capability to fuse with a non-living Zoid and make it much more powerful. Van (Ban) Freiheit discovers a Zoid Organoid in a..." />
+
+  
+<meta name="keywords" content="anime, myanimelist, anime news, manga" />
+  
+
+
+    <meta property="og:locale" content="en_US"><meta property="fb:app_id" content="360769957454434"><meta property="og:site_name" content="MyAnimeList.net"><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@myanimelist"><meta property="og:title" content="Zoids"><meta property="og:type" content="video.tv_show"><meta property="og:image" content="https://cdn.myanimelist.net/images/anime/2/15412.jpg"><meta name="twitter:image:src" content="https://cdn.myanimelist.net/r/360x360/images/anime/2/15412.jpg?s=2a35207feae0f0229c03ea70b5a7b627"><meta property="og:url" content="https://myanimelist.net/anime/763/Zoids"><meta property="og:description" content="Zoids are beast-like fighting machines used in both everyday use such as transportation, and special use such as war. Some types of Zoids, know as Organoids, are miniature Zoids that are living organisms. These Organoids have the capability to fuse with a non-living Zoid and make it much more powerful. Van (Ban) Freiheit discovers a Zoid Organoid in an abandoned laboratory while running from two strangers piloting Zoids. Also in the laboratory, in an animated suspension tube is a strange girl. He breaks the tube open and takes her and the Organoid with him. Spotting a ruined Shield Liger Zoid outside nearby, the Organoid fuses with it and repairs the damages. Making his escape, Van names the Organoid Zeke, and decides to keep him as a friend. The girl, who says her name is Fiona, wants to find something called Zoids Eve, and so Van, Zeke, and Fiona begin their adventure. (Source: AniDB)">
+
+
+<meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
+
+<meta name='csrf_token' content='a1080023375e273d6d1442f532a3447541b3379b'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
+<meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" />
+
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" href="https://myanimelist.net/plugins/myanimelist.xml" title="MyAnimeList" />
+
+<link rel="shortcut icon" href="https://cdn.myanimelist.net/images/favicon.ico" />
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+      <script src="//tags-cdn.deployads.com/a/myanimelist.net.js" async="async"></script>
+            <script async="async" type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script>
+$(document).ready(function(){
+  window.Criteo = window.Criteo || {};
+  window.Criteo.events = window.Criteo.events || [];
+  $('.ad-criteo').each(function(){
+    var slotid = $(this).attr('data-ad-slot');
+    var zoneid = $(this).attr('data-ad-zone');
+    var CriteoAdUnits = {"placements":[{"slotid":slotid, "zoneid":zoneid}]};
+    var processCdbBid = function(){
+      var bids = Criteo.GetBidsForAdUnit(slotid);
+      if(bids.length > 0){
+        Criteo.RenderAd({bidId:bids[0].id, containerId:bids[0].impressionId});
+      }
+    };
+    Criteo.events.push(function(){Criteo.RequestBids(CriteoAdUnits, processCdbBid, 2000);});
+  });
+});
+</script>
+
+
+
+            <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/myanimelist/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>    
+</head>
+
+<body onload=" " class="page-common"data-ms="true" data-country-code="SI" >
+<div id="myanimelist">
+
+    
+  
+    <script type='text/javascript'>
+    window.MAL.SkinAd.prepareForSkin('');
+  </script>
+
+    <div id="ad-skin-bg-left" class="ad-skin-side-outer ad-skin-side-bg bg-left">
+    <div id="ad-skin-left" class="ad-skin-side left" style="display: none;">
+      <div id="ad-skin-left-absolute-block">
+        <div id="ad-skin-left-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
+    <script>(deployads = window.deployads || []).pageSegment = 'anime_title_763';</script>
+
+
+<script>
+    var trackOutboundLink = function(url) {
+        ga('send', 'event', 'outbound', 'click', url, {
+            'transport': 'beacon',
+            'hitCallback': function(){return true;}
+        });
+    }
+</script><div class="banner-header-anime-straming" style="right:480px;">
+  <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+</div>
+
+
+<div id="header-menu" ><div class="header-menu-login"><a class="btn-mal-service"
+             href="https://myanimelist.net/membership?_location=mal_h_u" onClick="ga_mal_banner()">Hide Ads</a><a class="btn-login" href="https://myanimelist.net/login.php?from=%2Fanime%2F763%2FZoids" id="malLogin" onClick="ga_notlogin()">Login</a><a class="btn-signup" href="https://myanimelist.net/register.php?from=%2Fanime%2F763%2FZoids" onClick="ga_registration()">Sign Up</a></div></div></div>  <div id="menu" class="">
+    <div id="menu_right"><script type="text/x-template" id="incremental-result-item-anime"><div class="list anime" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info anime"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Aired: ${ item.payload.aired }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info anime"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-manga"><div class="list manga" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info manga"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Published: ${ item.payload.published }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info manga"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-character"><div class="list character" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div><div class="extra-info"><ul class="related-works"><li v-for="work in item.payload.related_works" class="fs-i">- ${ work }</li></ul>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-person"><div class="list person" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.alternative_name">${ item.payload.alternative_name }<br></span>Birthday: ${ item.payload.birthday }<br>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-store"><div class="list store" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info store"></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info store"></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-club"><div class="list club" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div><div class="extra-info">Members: ${ item.payload.members }<br>Category: ${ item.payload.category }<br>Created by: ${ item.payload.created_by }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-user"><div class="list user" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.authority">${ item.payload.authority }<br></span>Joined: ${ item.payload.joined }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-news"><div class="list news" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-featured"><div class="list featured" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-forum"><div class="list forum" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="extra-info">${ item.payload.date }<br><span>in ${ item.payload.category }</span></div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-separator"><div class="list separator"><div class="separator"><span v-show="item.name == 'anime'">Anime</span><span v-show="item.name == 'manga'">Manga</span><span v-show="item.name == 'character'">Characters</span><span v-show="item.name == 'person'">People</span></div></div></script><div id="top-search-bar"><form id="searchBar" method="get" class="searchBar" @submit.prevent="jump()"><div class="form-select-outer fl-l"><select name="type" id="topSearchValue" class="inputtext" v-model="type"><option value="all">All</option><option value="anime">Anime</option><option value="manga">Manga</option><option value="character">Characters</option><option value="person">People</option><option value="store">Manga Store</option><option value="news">News</option><option value="featured">Featured Articles</option><option value="forum">Forum</option><option value="club">Clubs</option><option value="user">Users</option></select></div><input v-model="keyword" id="topSearchText" type="text"
+            name="keyword" class="inputtext fl-l" placeholder="Search Anime, Manga, and more..."
+            size="30" autocomplete="off"
+            @keydown.up.prevent="moveSelection(-1)" @keydown.down.prevent="moveSelection(1)"
+            @focus="isFocused = true" @blur="isFocused = false"><input id="topSearchButon" class="fl-l" :class="{'notActive': (keyword.length < 3)}" type="submit" value="&#xf002"></form><div id="topSearchResultList" class="incrementalSearchResultList" :style="{display: (showResult ? 'block' : 'none')}" @mousedown.prevent=""><div v-for="(item, i) in items" @mouseover="selection=i"><component :is="resolveComponent(item)" :item="item" :focus="selection == i" :url="generateItemPageUrl(item)"></component></div><div class="list list-bottom" :class="{'focus': selection == -1}" @mouseover="selection = -1"
+               :style="{display: (showViewAllLink ? 'block' : 'none')}"><a :href="resultPageUrl">
+              View all results for <span class="fw-b">${ keyword }</span><i v-show="isRequesting" class="fa fa-spinner fa-spin ml4"></i></a></div></div></div></div><div id="menu_left">
+      <ul id="nav">
+        <li class="small"><a href="#" class="non-link">Anime</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/anime.php?_location=mal_h_m">Anime Search</a></li>
+            <li><a href="https://myanimelist.net/topanime.php?_location=mal_h_m">Top Anime</a></li>
+            <li><a href="https://myanimelist.net/anime/season?_location=mal_h_m">Seasonal Anime</a></li>
+                        <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m_a">Videos</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=anime&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=anime&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1885985&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Manga</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/manga.php?_location=mal_h_m">Manga Search</a></li>
+            <li><a href="https://myanimelist.net/topmanga.php?_location=mal_h_m">Top Manga</a></li>
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=manga&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=manga&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1886113&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li><a href="#" class="non-link">Community</a>
+          <ul>
+            <li><a href="https://myanimelist.net/forum/?_location=mal_h_m">Forums</a></li>
+            <li><a href="https://myanimelist.net/clubs.php?_location=mal_h_m">Clubs</a></li>
+            <li><a href="https://myanimelist.net/blog.php?_location=mal_h_m">Blogs</a></li>
+            <li><a href="https://myanimelist.net/users.php?_location=mal_h_m">Users</a></li>
+            <li><a href="https://discord.gg/E2xC8ZF">Discord Chat</a></li>
+          </ul>
+        </li>
+        <li class="small2"><a href="#" class="non-link">Industry</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/news?_location=mal_h_m">News</a></li>
+            <li><a href="https://myanimelist.net/featured?_location=mal_h_m">Featured Articles</a></li>
+            <li><a href="https://myanimelist.net/people.php?_location=mal_h_m">People</a></li>
+            <li><a href="https://myanimelist.net/character.php?_location=mal_h_m">Characters</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Watch</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m">Episode Videos</a></li>
+            <li><a href="https://myanimelist.net/watch/promotion?_location=mal_h_m">Promotional Videos</a></li></ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Read</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+          </ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Help</a>
+          <ul class="wide">
+            <li><a href="https://myanimelist.net/about.php?_location=mal_h_m">About</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=support&amp;_location=mal_h_m">Support</a></li>
+            <li><a href="https://myanimelist.net/advertising?_location=mal_h_m">Advertising</a></li>
+            <li><a href="https://myanimelist.net/forum/?topicid=515949&amp;_location=mal_h_m">FAQ</a></li>
+            <li><a href="https://myanimelist.net/modules.php?go=report&amp;_location=mal_h_m">Report</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=team&amp;_location=mal_h_m">Staff</a></li><li><a href="https://myanimelist.net/membership?_location=mal_h_m">MAL Supporter</a></li>
+          </ul>
+        </li>
+        
+            
+      </ul>
+    </div>  </div><div id="contentWrapper" itemscope itemtype="http://schema.org/TVSeries"><div><div class="h1 edit-info">
+      <div class="h1-title"><div itemprop="name"><h1 class="title-name h1_bold_none"><strong>Zoids</strong></h1></div></div><div class="header-right">
+          <a href="https://myanimelist.net/login.php?from=%2Fanime%2F763%2FZoids&amp;error=login_required" class="js-anime-edit-info-button"><i class="fa fa-pencil mr4"></i>Edit</a>
+<div id="editdiv" class="fw-n fs11">
+  <form method="GET" action="https://myanimelist.net/dbchanges.php" class="di-i">
+    <input type="hidden" name="aid" value="763">
+    <div class="pb8">What would you like to edit?</div>
+                      <select name="t" id="t" class="inputtext"><option value="synopsis">Synopsis</option><option value="background">Background</option><option value="alternative_titles">Alternative Titles</option><option value="pic">Picture</option><option value="airingdates">Airing Dates</option><option value="producers">Producers</option><option value="relations">Relations</option><option value="rating">Rating</option><option value="duration">Duration</option><option value="source">Source</option><option value="broadcast">Broadcast</option></select>
+     &nbsp;<input type="submit" value="Go" class="inputButton flat btn-middle">
+  </form>
+</div>
+</div></div></div><div id="content" >
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+	 <td class="borderClass" width="225" style="border-width: 0 1px 0 0;" valign="top"><div style="width: 225px">
+
+<div style="text-align: center;">
+          <a href="https://myanimelist.net/anime/763/Zoids/pics">
+      <img class="lazyload" data-src="https://cdn.myanimelist.net/images/anime/2/15412.jpg" alt="Zoids" class="ac" itemprop="image">
+    </a>
+  </div>
+
+<!-- My List -->
+<div class="profileRows pb0">
+  <a href="https://myanimelist.net/login.php?from=%2Fanime%2F763%2FZoids&amp;error=login_required">Add to My List</a>
+</div>
+
+<div id="addtolist" class="addtolist-block js-anime-addtolist-block" style="display: none;">
+  <input type="hidden" id="myinfo_anime_id" value="763">
+  <input type="hidden" id="myinfo_curstatus" value="">
+
+  <span class="notice_open_public pb4">* Your list is public by default.</span>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td class="spaceit">Status:</td>
+      <td class="spaceit">
+        <select name="myinfo_status" id="myinfo_status" class="inputtext js-anime-status-dropdown"><option value="1">Watching</option><option selected="selected" value="2">Completed</option><option value="3">On-Hold</option><option value="4">Dropped</option><option value="6">Plan to Watch</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td class="spaceit">Eps Seen:</td>
+      <td class="spaceit">
+        <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext" value="67"> / <span id="curEps">67</span></td>
+    </tr>
+    <tr>
+      <td class="spaceit">Your Score:</td>
+      <td class="spaceit">
+        <select name="myinfo_score" id="myinfo_score" class="inputtext"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>
+                <input type="button" name="myinfo_submit" value="Add" class="inputButton btn-middle flat js-anime-add-button">
+        <span id="addtolistresult"><a href="https://myanimelist.net/ownlist/anime/add?selected_series_id=763">Add Detailed Info</a></span>
+              </td>
+    </tr>
+  </table>
+  <div id="myinfoDisplay" style="padding-left: 89px; margin-top: 3px;"></div>
+</div>
+<!-- end My List -->
+
+<div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F763%2FZoids&amp;error=login_required" style="font-weight:normal;">Add to Favorites</a></div>
+
+<div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F763%2FZoids"></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F763%2FZoids&amp;text=Zoids&amp;hashtags=anime"></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F763%2FZoids&amp;title=Zoids"></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F763%2FZoids&amp;name=Zoids"></a></div>  <br />
+
+  <h2>Alternative Titles</h2><div class="spaceit_pad">
+    <span class="dark_text">English:</span> Zoids
+  </div><div class="spaceit_pad">
+    <span class="dark_text">Synonyms:</span> Zoids Classic, Zoids: Chaotic Century, Zoids: Guardian Forces
+  </div><div class="spaceit_pad">
+    <span class="dark_text">Japanese:</span> ゾイド
+  </div><br />
+
+<h2>Information</h2>
+
+<div>
+  <span class="dark_text">Type:</span>
+  <a href="https://myanimelist.net/topanime.php?type=tv">TV</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Episodes:</span>
+  67
+  </div>
+
+<div>
+  <span class="dark_text">Status:</span>
+  Finished Airing
+  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Aired:</span>
+  Sep 4, 1999 to Dec 23, 2000
+  </div>
+
+  <div>
+    <span class="dark_text">Premiered:</span>
+          <a href="https://myanimelist.net/anime/season/1999/fall">Fall 1999</a>
+          </div>
+
+  <div class="spaceit">
+    <span class="dark_text">Broadcast:</span>
+    Saturdays at 18:00 (JST)
+      </div>
+
+  <div>
+    <span class="dark_text">Producers:</span>
+    None found, <a href="https://myanimelist.net/dbchanges.php?aid=763&amp;t=producers">add some</a>  </div>
+  <div class="spaceit">
+    <span class="dark_text">Licensors:</span>
+          <a href="/anime/producer/119/VIZ_Media" title="VIZ Media">VIZ Media</a>,       <a href="/anime/producer/1459/Geneon_Entertainment_USA" title="Geneon Entertainment USA">Geneon Entertainment USA</a>  </div>
+  <div>
+    <span class="dark_text">Studios:</span>
+          <a href="/anime/producer/27/Xebec" title="Xebec">Xebec</a>  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Source:</span>
+  Unknown
+  </div>
+
+<div>
+  <span class="dark_text">Genres:</span>
+      <span itemprop="genre" style="display: none">Action</span><a href="/anime/genre/1/Action" title="Action">Action</a>,     <span itemprop="genre" style="display: none">Adventure</span><a href="/anime/genre/2/Adventure" title="Adventure">Adventure</a>,     <span itemprop="genre" style="display: none">Comedy</span><a href="/anime/genre/4/Comedy" title="Comedy">Comedy</a>,     <span itemprop="genre" style="display: none">Mecha</span><a href="/anime/genre/18/Mecha" title="Mecha">Mecha</a>,     <span itemprop="genre" style="display: none">Sci-Fi</span><a href="/anime/genre/24/Sci-Fi" title="Sci-Fi">Sci-Fi</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Duration:</span>
+  25 min. per ep.
+  </div>
+
+<div>
+  <span class="dark_text">Rating:</span>
+  PG - Children
+  </div>
+
+<br />
+
+<h2>Statistics</h2>
+<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" class="po-r js-statistics-info di-ib" data-id="info1">
+  <span class="dark_text">Score:</span>
+  <span itemprop="ratingValue" class="score-label score-7">7.39</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">20536</span>20,536 users)
+      <meta itemprop="bestRating" content="10">
+    <meta itemprop="worstRating" content="1">
+      <div class="statistics-info info1">
+    <small><sup>1</sup>
+          indicates a <a href="javascript:void(0);" onclick="window.open('/info.php?go=topanime','topanime','menubar=no,scrollbars=no,status=no,width=500,height=380');">weighted score</a>.
+    </small>
+  </div>
+</div>
+<div class="spaceit po-r js-statistics-info di-ib" data-id="info2">
+  <span class="dark_text">Ranked:</span>
+  #1979<sup>2</sup>
+    <div class="statistics-info info2">
+    <small><sup>2</sup>
+    based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
+    </small>
+  </div>
+</div>
+<div>
+  <span class="dark_text">Popularity:</span>
+  #2481
+</div>
+<div class="spaceit">
+  <span class="dark_text">Members:</span>
+    40,858
+</div>
+<div>
+  <span class="dark_text">Favorites:</span>
+  271
+</div>
+
+  <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
+          </div>
+
+</div></td><td valign="top" style="padding-left: 5px;"><div class="js-scrollfix-bottom-rel"><div style="width:728px; margin:0 auto"></div><a name="lower"></a>
+<div id="horiznav_nav" style="margin: 5px 0 10px 0;">
+  <ul style="margin-right: 0; padding-right: 0;">
+        <li><a href="https://myanimelist.net/anime/763/Zoids" class="horiznav_active">Details</a>
+    </li>
+        <li><a href="/anime/763/Zoids/video">Videos</a>
+    </li>
+        <li>      <a href="https://myanimelist.net/anime/763/Zoids/episode">Episodes</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/763/Zoids/reviews">Reviews</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/763/Zoids/userrecs">Recommendations</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/763/Zoids/stats">Stats</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/763/Zoids/characters">Characters &amp; Staff</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/763/Zoids/news">News</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/763/Zoids/forum">Forum</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/763/Zoids/featured">Featured</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/763/Zoids/clubs">Clubs</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/763/Zoids/pics">Pictures</a>
+    </li>
+    <li>
+      <a href="https://myanimelist.net/anime/763/Zoids/moreinfo">
+        More Info
+      </a>
+    </li></ul>
+</div>
+
+
+
+                    <div class="breadcrumb " itemscope itemtype="http://schema.org/BreadcrumbList"><div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/" itemprop="item"><span itemprop="name">
+              Top
+                          </span></a><meta itemprop="position" content="1"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime.php" itemprop="item"><span itemprop="name">
+              Anime
+                          </span></a><meta itemprop="position" content="2"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime/763/Zoids" itemprop="item"><span itemprop="name">
+              Zoids
+                          </span></a><meta itemprop="position" content="3"></div></div>
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="20,536 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-7">7.39</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#1979</strong></span><span class="numbers popularity">Popularity <strong>#2481</strong></span><span class="numbers members">Members <strong>40,858</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/1999/fall">Fall 1999</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/27/Xebec" title="Xebec">Xebec</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="763"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F763%2FZoids&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+        Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="67" disabled>/<span id="curEps" data-num="67">67</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Zoids&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime js-shop-selecter icon-shop-default" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:763,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><div class="anime-detail-header-affiliate-dialog js-shop-selecter-dialog" style="display:none"><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Zoids&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:763,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><a href="http://www.cdjapan.co.jp/aff/click.cgi/PytJTGW7Lok/6039/A764127/searches?q=Zoids" class="btn-affiliate cdjapan js-shop-anime js-shop-cd-japan" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;cdjapan&quot;,&quot;id&quot;:763,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/logo-cdjapan.png" width="118" height="25" alt="buy from CD Japan"></a><a href="http://www.shareasale.com/r.cfm?u=1384175&b=866986&m=65886&afftrack=&urllink=www.rightstufanime.com%2Fsearch%3Fkeywords%3DZoids" class="btn-affiliate right_stuf js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;right_stuf&quot;,&quot;id&quot;:763,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_right_stuf.png" width="118" height="25" alt="buy from Rightstuf"></a></div></div><span class="notice_open_public pt4">* Your list is public by default.</span></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
+</div><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=763&t=synopsis" style="font-weight: normal;">Edit</a></div><h2>Synopsis</h2></div><p itemprop="description">Zoids are beast-like fighting machines used in both everyday use such as transportation, and special use such as war. Some types of Zoids, know as Organoids, are miniature Zoids that are living organisms. These Organoids have the capability to fuse with a non-living Zoid and make it much more powerful.<br />
+<br />
+Van (Ban) Freiheit discovers a Zoid Organoid in an abandoned laboratory while running from two strangers piloting Zoids. Also in the laboratory, in an animated suspension tube is a strange girl. He breaks the tube open and takes her and the Organoid with him. Spotting a ruined Shield Liger Zoid outside nearby, the Organoid fuses with it and repairs the damages. Making his escape, Van names the Organoid Zeke, and decides to keep him as a friend. The girl, who says her name is Fiona, wants to find something called Zoids Eve, and so Van, Zeke, and Fiona begin their adventure.<br />
+<br />
+(Source: AniDB)</p><div style="margin-top: 15px;"><div class="floatRightHeader"><a href="/dbchanges.php?aid=763&t=background" style="font-weight: normal;">Edit</a></div><h2>Background</h2></div>No background information has been added to this title. Help improve our database by adding background information <a href="/dbchanges.php?aid=763&t=background">here</a>.<br><div class="border_top" style="padding:16px 0px 0px 0px;margin:14px 0px 0px 0px;"><div style="padding: 20px 0 20px 40px; float: left; position: relative; z-index: 1;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540582" data-ad-slot="criteo_slot_1540582" id="criteo_slot_1540582"></div>
+
+      </div>
+    </div><div style="padding: 20px 40px 20px 0; float: right; position: relative;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540583" data-ad-slot="criteo_slot_1540583" id="criteo_slot_1540583"></div>
+
+      </div>
+    </div></div></td></tr><tr><td class="pb24"><br><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=763&t=relations" style="font-weight: normal;">Edit</a></div><h2>Related Anime</h2></div><table class="anime_detail_related_anime" style="border-spacing:0px;"><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Adaptation:</td><td width="100%" class="borderClass"><a href="/manga/359/Kijuushin_Seiki_Zoids">Kijuushin Seiki Zoids</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Spin-off:</td><td width="100%" class="borderClass"><a href="/anime/712/Zoids_Genesis">Zoids Genesis</a>, <a href="/anime/764/Zoids_Shinseiki_Zero">Zoids Shinseiki/Zero</a>, <a href="/anime/1746/Zoids_Fuzors">Zoids Fuzors</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Other:</td><td width="100%" class="borderClass"><a href="/anime/37395/Zoids_Wild">Zoids Wild</a></td></table><br><div><div class="floatRightHeader"><a href="/anime/763/Zoids/characters" style="font-weight: normal;">More characters</a></div><h2>Characters & Voice Actors</h2></div><div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/2681/Van_Flyheight" class="fw-n">
+            <img alt="Flyheight, Van" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/15/111227.jpg?s=2b9f9961e755ccff0198696cf7d91bd3" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/15/111227.jpg?s=2b9f9961e755ccff0198696cf7d91bd3 1x, https://cdn.myanimelist.net/r/84x124/images/characters/15/111227.jpg?s=eec57718529d2a9e7922813ab0554241 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/2681/Van_Flyheight">Flyheight, Van</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/440/Daisuke_Kishio">Kishio, Daisuke</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/440/Daisuke_Kishio">
+                      <img alt="Kishio, Daisuke" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/58135.jpg?s=f0d78d8dd28abf06272c9d95dc16a21c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/58135.jpg?s=f0d78d8dd28abf06272c9d95dc16a21c 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/58135.jpg?s=5199bbdf75083a33f76375376547ee2b 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/12288/Elisi_Linette" class="fw-n">
+            <img alt="Linette, Elisi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/7/111226.jpg?s=4e929a4256d4472df212900439c8d408" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/7/111226.jpg?s=4e929a4256d4472df212900439c8d408 1x, https://cdn.myanimelist.net/r/84x124/images/characters/7/111226.jpg?s=77b94424bf61ca3e38efc95493b8217f 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/12288/Elisi_Linette">Linette, Elisi</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/745/Makiko_Ohmoto">Ohmoto, Makiko</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/745/Makiko_Ohmoto">
+                      <img alt="Ohmoto, Makiko" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/15999.jpg?s=f4d7f69e6c3ce058733f8888a27ef056" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/15999.jpg?s=f4d7f69e6c3ce058733f8888a27ef056 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/15999.jpg?s=11707cba8fe54a5a0927282b4c4d22a7 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/40817/Gunther_Prozen" class="fw-n">
+            <img alt="Prozen, Gunther" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/7/111193.jpg?s=b2fdbe50f0d487f24a8dc57fa54fbae5" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/7/111193.jpg?s=b2fdbe50f0d487f24a8dc57fa54fbae5 1x, https://cdn.myanimelist.net/r/84x124/images/characters/7/111193.jpg?s=7ac5ac03c70bea8d13754c1ad517a013 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/40817/Gunther_Prozen">Prozen, Gunther</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/40815/Thomas_Richard_Schubaltz" class="fw-n">
+            <img alt="Schubaltz, Thomas Richard" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/7/111191.jpg?s=372546239b7ea1448d489f832ca3d20a" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/7/111191.jpg?s=372546239b7ea1448d489f832ca3d20a 1x, https://cdn.myanimelist.net/r/84x124/images/characters/7/111191.jpg?s=760b97cf7028ba13ceaadc30f5ceb0c3 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/40815/Thomas_Richard_Schubaltz">Schubaltz, Thomas Richard</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/14863/Joyce_Chen" class="fw-n">
+            <img alt="Chen, Joyce" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/13/111222.jpg?s=6b54808b8fdd33bfb00f459466a6514e" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/13/111222.jpg?s=6b54808b8fdd33bfb00f459466a6514e 1x, https://cdn.myanimelist.net/r/84x124/images/characters/13/111222.jpg?s=66559ea0b3044113b2419bd163c64e06 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/14863/Joyce_Chen">Chen, Joyce</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/197/Mitsuki_Saiga">Saiga, Mitsuki</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/197/Mitsuki_Saiga">
+                      <img alt="Saiga, Mitsuki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/57174.jpg?s=4a17384bd5905febcbd0d58d4b02fe5a" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/57174.jpg?s=4a17384bd5905febcbd0d58d4b02fe5a 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/57174.jpg?s=53d4779f104a79bf96dbca17218b2ad4 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/11742/Irvine" class="fw-n">
+            <img alt="Irvine" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/4/111225.jpg?s=fa5b84e674d9a9e85dff92c32b8dff05" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/4/111225.jpg?s=fa5b84e674d9a9e85dff92c32b8dff05 1x, https://cdn.myanimelist.net/r/84x124/images/characters/4/111225.jpg?s=d21444962d3da22f87a7e417964490ee 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/11742/Irvine">Irvine</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/63/Keiji_Fujiwara">Fujiwara, Keiji</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/63/Keiji_Fujiwara">
+                      <img alt="Fujiwara, Keiji" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/57226.jpg?s=9e305f6687d1e7e02a732c8f7fbe58ba" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/57226.jpg?s=9e305f6687d1e7e02a732c8f7fbe58ba 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/57226.jpg?s=b6fbdfc2378909471f0954381bc0e3d5 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/106271/Raven" class="fw-n">
+            <img alt="Raven" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/15/298890.jpg?s=0d36a3ec21693df128d81e1f813b9589" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/15/298890.jpg?s=0d36a3ec21693df128d81e1f813b9589 1x, https://cdn.myanimelist.net/r/84x124/images/characters/15/298890.jpg?s=a95ad42f72413b61d05abb04eeb4aa74 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/106271/Raven">Raven</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/197/Mitsuki_Saiga">Saiga, Mitsuki</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/197/Mitsuki_Saiga">
+                      <img alt="Saiga, Mitsuki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/57174.jpg?s=4a17384bd5905febcbd0d58d4b02fe5a" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/57174.jpg?s=4a17384bd5905febcbd0d58d4b02fe5a 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/57174.jpg?s=53d4779f104a79bf96dbca17218b2ad4 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/37825/Karl_Schubaltz" class="fw-n">
+            <img alt="Schubaltz, Karl" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/2/111221.jpg?s=9e7038014f0e1b586c79505e11dc5841" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/2/111221.jpg?s=9e7038014f0e1b586c79505e11dc5841 1x, https://cdn.myanimelist.net/r/84x124/images/characters/2/111221.jpg?s=39786f0631b6fb40974c88e2f8a5e7ae 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/37825/Karl_Schubaltz">Schubaltz, Karl</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/58/Yuuji_Ueda">Ueda, Yuuji</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/58/Yuuji_Ueda">
+                      <img alt="Ueda, Yuuji" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/55457.jpg?s=f2380cbee0b701e6aa47484181a86fe9" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/55457.jpg?s=f2380cbee0b701e6aa47484181a86fe9 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/55457.jpg?s=21faf8dfa994e14ec3324a5f940b8f41 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/27280/Moonbay" class="fw-n">
+            <img alt="Moonbay" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/8/111224.jpg?s=3944550c744a65879aaf28e12797cbb9" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/8/111224.jpg?s=3944550c744a65879aaf28e12797cbb9 1x, https://cdn.myanimelist.net/r/84x124/images/characters/8/111224.jpg?s=789450ede79a8273aa4a4511ce08313a 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/27280/Moonbay">Moonbay</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/248/Kumiko_Watanabe">Watanabe, Kumiko</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/248/Kumiko_Watanabe">
+                      <img alt="Watanabe, Kumiko" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/16913.jpg?s=23cd85830f87a78a537ed35fb345c368" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/16913.jpg?s=23cd85830f87a78a537ed35fb345c368 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/16913.jpg?s=093491e8269c51a4fdd9db514d8bbfcb 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/40813/Reese" class="fw-n">
+            <img alt="Reese" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/11/111189.jpg?s=2c05b27b694b6714d744afcebe6311e7" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/11/111189.jpg?s=2c05b27b694b6714d744afcebe6311e7 1x, https://cdn.myanimelist.net/r/84x124/images/characters/11/111189.jpg?s=fcdc013d3583ed7a0bcce874201f5633 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/40813/Reese">Reese</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"></table>
+              </td>
+    </tr>
+  </table></div></div>
+<div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div><br>
+<a name="staff"></a>
+<div>
+  <div class="floatRightHeader"><a href="https://myanimelist.net/anime/763/Zoids/characters#staff">More staff</a></div>
+  <h2>Staff</h2>
+</div>
+
+<div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/8219/Takao_Kato" class="fw-n">
+            <img alt="Kato, Takao" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/44358.jpg?s=4de21255c5a92994bd81b0b2e0802455" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/44358.jpg?s=4de21255c5a92994bd81b0b2e0802455 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/44358.jpg?s=3bf0332971b95d805384524453ef51cc 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/8219/Takao_Kato">Kato, Takao</a>
+        <div class="spaceit_pad">
+          <small>Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/8074/Jin_Aketagawa" class="fw-n">
+            <img alt="Aketagawa, Jin" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/53380.jpg?s=effa36418c3b694ce1175038f95ae154" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/53380.jpg?s=effa36418c3b694ce1175038f95ae154 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/53380.jpg?s=d5695e390c16f1990efb6c9440c4a5f1 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/8074/Jin_Aketagawa">Aketagawa, Jin</a>
+        <div class="spaceit_pad">
+          <small>Sound Director</small>
+        </div>
+      </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/16707/Atsushi_Ootsuki" class="fw-n">
+            <img alt="Ootsuki, Atsushi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/16707/Atsushi_Ootsuki">Ootsuki, Atsushi</a>
+        <div class="spaceit_pad">
+          <small>Episode Director, Storyboard, Key Animation</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/20631/Nobuyoshi_Habara" class="fw-n">
+            <img alt="Habara, Nobuyoshi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/43891.jpg?s=df85e6c49c2d8b1effbd63e2e528ea6e" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/43891.jpg?s=df85e6c49c2d8b1effbd63e2e528ea6e 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/43891.jpg?s=83874c9b4b328e5a7d38953ddf308509 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/20631/Nobuyoshi_Habara">Habara, Nobuyoshi</a>
+        <div class="spaceit_pad">
+          <small>Episode Director, Storyboard, Key Animation</small>
+        </div>
+      </td>
+    </tr>
+  </table></div></div>
+<br><br><div class="di-t">
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=763&amp;t=theme" class="floatRightHeader">Edit</a>
+      <h2>Opening Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs opnening"><span class="theme-song">&quot;Wild Flowers&quot; by RAMAR</span><br></div>
+  </div>
+  <div class="di-tc va-t}" style="width:16px;"></div>
+
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=763&amp;t=theme&amp;themetype=2" class="floatRightHeader">Edit</a>
+      <h2>Ending Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs ending"><span class="theme-song">	#02: &quot;Chase&quot; by Develop=Frame</span><br><span class="theme-song">	#03: &quot;Into Yourself&quot; by Transtic Nerve</span><br><span class="theme-song">	#04: &quot;Your Song&quot; by Earth</span><br><span class="theme-song">#01: &quot;Song for...&quot; by Dear</span><br></div>
+  </div>
+</div>
+<br><br><br><div><span class="floatRightHeader"><a href="/anime/763/Zoids/reviews">More reviews</a></span><h2>Reviews</h2></div>
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="9:51 AM">Jul 16, 2007</div>
+      <div class="lightLink spaceit">
+                  67 of 67 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score535').toggle()">Overall Rating</a>:
+        8
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/VK11">
+                  <img src="https://cdn.myanimelist.net/images/userimages/3959.jpg?t=1610409000" data-src="https://cdn.myanimelist.net/images/userimages/3959.jpg?t=1610409000" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/VK11">VK11</a>
+              <small>(<a href="/profile/VK11/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp535">47</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score535">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>8</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">8</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">7</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">7</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">8</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">9</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Zoids is a mecha anime about people who control beast-like units.  Unlike Gundams, they aren\&#039;t really used in space (at least in this particular anime) but are used for purposes such as transportation and of course, battles.  This anime was the starting point of the Zoids franchise, and after watching the anime a few times (both in English dubs and Japanese subs), one can point out that it was a great way to start of the Zoids phenomena.  <br />
+<br />
+The story, although your simple &amp;quot;country raised kid rises up to the challenge of saving the world from evil,&amp;quot; is very good and has
+
+          <span style="display: none;" id="review535">
+        enough plot twists in between to leave you on the edge of your seat and wanting for more.  What made this Zoids saga different from the others were the miniature Zoids organoids that were able to fuse with their larger counterparts and in essence, bring the Zoid to life with more power than before.  What really makes the story great is the epic battles they have between many Zoids.  <br />
+<br />
+These epic battles for the most part, are animated very well.  For being an older anime (debuted in 1999) it still holds up to today\&#039;s standards fairly well and really does not disappoint.  The characters themselves look a bit bland at times, but it isn\&#039;t to the degree where its unwatchable.<br />
+<br />
+The sound is so-so.  Because it\&#039;s been awhile since I saw this anime, I don\&#039;t remember a lot of the scores used, but I do remember for scores used for the battles and they fit just right.<br />
+<br />
+All of the main characters have very distinct personalities and you\&#039;ll come to have your favorites most definitely.  Van and Fiona have believable strengths and weaknesses given their environment and always seem to have an enemy, or rival, to go against up with.  There really isn\&#039;t a boring moment where you\&#039;ll find that the protagonists are superior to everyone else.  <br />
+<br />
+All in all, the anime was a great start to the Zoids saga.  Though a lot of the following stories after were not as great, this is still a classic.  The stirring romance between Van and Fiona again is something you\&#039;ll fall in love with as the story progresses and is one more reason to give this show a try.  To end with, if you\&#039;re one of the younger anime audiences out there and like mecha anime, but haven\&#039;t given the original Zoids a try because of the lackluster performances of the others, I urge you to give this one a shot.
+        
+<div id="revhelp_output_535" class="mt8 js-review-btn-helpful js-review-helpful-535">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F763%2FZoids" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle535"
+         class="js-toggle-review-button" data-id="535">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=535" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=535" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="2:58 PM">Jan 23, 2008</div>
+      <div class="lightLink spaceit">
+                  67 of 67 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score2110').toggle()">Overall Rating</a>:
+        10
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Huntsman">
+                  <img src="https://cdn.myanimelist.net/images/userimages/18855.jpg?t=1586067000" data-src="https://cdn.myanimelist.net/images/userimages/18855.jpg?t=1586067000" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Huntsman">Huntsman</a>
+              <small>(<a href="/profile/Huntsman/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp2110">19</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score2110">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>10</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">10</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">10</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">7</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">10</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">10</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Zoids consists of two series.  Chaotic Century and The Guardian Force, essentially it&#039;s all one series.<br />
+<br />
+The series takes place on the Planet Zi, where living machines called Zoids live.  There are wild ones, and ones controlled by humans.  There are two major powers on the planet Zi, the Republic and Guylos Empire.  Though the war they fought is over, the peace is tenuous and could give way to war at any moment.  The story follows Van who lives in a village.  He goes out one day and gets chased by bandits into some ancient ruins.  The he finds
+
+          <span style="display: none;" id="review2110">
+        a organoid, and names it Zeke.  Zeke reviews a Shield Liger and defeat the bandits.  They go back into the ruins and discover Fiona a ancient Zoidian who has lost her memory.  The group on a adventure searching for t he Zoid Eve, through bandits, merc&#039;s, and war.<br />
+<br />
+STORY: The story is great, it&#039;s light, but there are dark undertones.  I guess the company did it to attract younger viewers.  The violence is toned done, though you see cities being destroyed, and Zoids being destroyed so you know what&#039;s happening  and doesn&#039;t take anything away from the story.<br />
+<br />
+ART:  The animation is great done by XEBEC, the same people who did Love Hina, Elemental Gelade, and Buso Renkin, which were all pretty good series.<br />
+<br />
+SOUND:  The one flaw I found in this series was the soundtrack.  It lacked depth and feel.  Was it still good, yes.  It just didn&#039;t to the series justice. <br />
+<br />
+CHARACTERS: The characters in this series were great.  You could feel their pain and see their suffering and joy.  The just captivated you and brought you in.  The best characters were the two main ones Van and Fiona and their story was just wonderful.<br />
+<br />
+OVERALL:  Zoids is 24th favorite anime series out of about 250 series/OVA/movies I&#039;ve seen.  It&#039;s a great series, not quite a classic, but still great.  A series everyone should watch.<br />
+<br />
+
+        
+<div id="revhelp_output_2110" class="mt8 js-review-btn-helpful js-review-helpful-2110">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F763%2FZoids" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle2110"
+         class="js-toggle-review-button" data-id="2110">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=2110" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=2110" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="12:44 PM">May 6, 2019</div>
+      <div class="lightLink spaceit">
+                  67 of 67 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score307902').toggle()">Overall Rating</a>:
+        4
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/MrLegitimacy">
+                  <img src="https://cdn.myanimelist.net/images/userimages/1521737.jpg?t=1610550000" data-src="https://cdn.myanimelist.net/images/userimages/1521737.jpg?t=1610550000" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/MrLegitimacy">MrLegitimacy</a>
+              <small>(<a href="/profile/MrLegitimacy/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp307902">4</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score307902">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>4</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">3</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">5</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">4</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">4</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">2</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    Seriously, how do I keep coming back to these Studio Xebec shows? They&#039;ve produced so much over the years, and some of it is actually decent, but not this one. Zoids (Chaotic Century if you&#039;re American) had a huge amount of potential, but was completely watered down with flat visuals, a bloated cast of shallow characters, and way too many episodes of what amount to filler.<br />
+<br />
+This show had all the ingredients to be one of my favorites. It follows all of my stupid rules to make a great mecha show:<br />
+-It keeps the same theme song throughout<br />
+-There&#039;s a robot battle in every episode<br />
+-The robots are in
+
+          <span style="display: none;" id="review307902">
+        CG, which is dank as hell!<br />
+-They play the theme song at the climax of each episode to reinforce the hype<br />
+<br />
+But none of this could keep me from being bored out of my mind within the first 30 episodes.<br />
+<br />
+I started this show on January 1st, and finished on May 6th. That&#039;s 126 days, so 67 episodes/127 days gives just over 1/2 an episode as a daily average. Even giving myself the advantage of watching every episode at double speed, I could not bring myself to watch more than that. Let me not understate how bad that is--I have watched far worse shows at a religious one-a-day pace just to end the pain, but I was so disinterested in this show that I couldn&#039;t be arsed to spare 12 minutes a day for it.<br />
+<br />
+Let&#039;s examine why this might be:<br />
+<br />
+The direction is beyond uninspired. Every shot is framed well enough so the kids at home can keep up with what&#039;s happening, but forget about going above and beyond to add any visual intrigue to the show. The standout eyesores for me were the establishing shots which far outstay their welcome, and are almost unbearably slow even at double speed. The art style, which leans towards realistic proportions, does not lend itself to having expressive characters. Sure the characters are on model very consistently, but half the time they look like cardboard cutouts with a terribly drab and muted color palette. This style may have been a choice to fit with the more rigid lines of the Zoid designs, but they really shot themselves in the foot by taking away the one means by which their boring characters might have had a small amount of visual flair.<br />
+<br />
+These boring characters are all pretty one dimensional. At most a character will have one defining trait, and receive little to no character development throughout the entire run of the series. I can recall maybe one or two episodes focused on developing a backstory or exploring character motivations for each of our main cast. That&#039;s one or two episodes out of almost 70. A great majority of episodes do nothing to challenge our characters on a personal level, and just involved the aforementioned regularly scheduled robot battle. The antagonists show similar levels of depth, and are really only relevant to the story if they have a powerful Zoid.<br />
+<br />
+What really confounds me is that they had a lot of great ideas to work with and could have told a gripping story. In episode ONE we establish our heroes are looking for an ancient artifact/location called &quot;Zoid Eve&quot; that seems like it could drive a long running mystery plot, only to be cast aside and never mentioned for a vast majority of the episodes. There is a planet-wide military conflict that our characters become wrapped up in, but almost no focus on what motivated the war or its repercussions on the people of each nation. Near half way through there is a time skip, and it does nothing significant to grow or change our characters. Don&#039;t forget that they&#039;re on a planet crawling with giant robot animals that they go out of their way to show are sentient, but never pause to make our characters wonder about the morality of people&#039;s relationships with Zoids by taking the Pokemon route.<br />
+<br />
+So who should watch Zoids? If you&#039;re looking to commit long term to an easygoing shounen series with abundant robot battles, Zoids is a good candidate for you. Those looking for anything of substance should steer clear.
+        
+<div id="revhelp_output_307902" class="mt8 js-review-btn-helpful js-review-helpful-307902">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F763%2FZoids" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle307902"
+         class="js-toggle-review-button" data-id="307902">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=307902" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=307902" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="8:20 AM">Jul 6, 2015</div>
+      <div class="lightLink spaceit">
+                  67 of 67 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score192493').toggle()">Overall Rating</a>:
+        10
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/CNS487">
+                  <img src="https://cdn.myanimelist.net/images/userimages/375483.jpg?t=1488068400" data-src="https://cdn.myanimelist.net/images/userimages/375483.jpg?t=1488068400" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/CNS487">CNS487</a>
+              <small>(<a href="/profile/CNS487/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp192493">6</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score192493">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>10</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">9</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">9</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">7</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">8</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">10</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    *NOTE: This review contains some minor spoilers, but I will do my best to keep it brief, concise, and to the point*<br />
+<br />
+STORY: In the first half of the series, Van Flyheight is a zoid pilot who comes across a mysterious type of zoid known as an Organoid who he names Zeke, as well as a young girl named Fiona in pods found in mysterious ruins. Upon finding the two, Van finds himself the center of attention of bandits and soldiers alike who are after the Organoid&#039;s strange powers. Van and Fiona come across other characters and find themselves in the middle of a war, and
+
+          <span style="display: none;" id="review192493">
+        have to do what they can to help bring peace to land and end this war. Zoids does a relatively decent job of keeping tone shifts frequent without overexaggerating it, often having serious moments albeit with light-hearted comedy when the mood needs to be brought up. The flow of the story feels natural, and feels neither rushed or slow. It has a nice, even pace that the viewer can easily enjoy. 9/10<br />
+<br />
+ART: The art direction that Zoids took was aesthetically pleasing all around. Characters were detailed enough that they didn&#039;t stick out too much, but also were not too detailed to the extent that they distracted from the environment. It felt as though environments and characters had about the same effort put into them, so that neither were too distracting. Obviously, the Zoids were what the majority of the focus was put on, most likely being what most of the budget was used for. The zoids were rendered with high quality, and it shows. If anything in particular needed the most focus in terms of art, it was definitely the Zoids, and it shows. That being said, the only real flaw I can see with them is that some animations were clearly recycled throughout the series, but it&#039;s not incredibly noticeable so it isn&#039;t really that big of an issue. 9/10<br />
+<br />
+SOUND: As much as I personally enjoy the soundtrack, I do have some issues with it; the main problem I have is that the soundtrack can often times sound a little repetitive while other times is a little too scarce. There&#039;s nothing wrong with having certain audio tracks be more common than others, but eventually it gets to the point where some tracks sound as though they&#039;re heard in almost every episode. I felt that there could have been a little more variety in certain places, and that occasionally, certain tracks did not fully fit the mood. Yet in other situations, the soundtrack did its job very well, helping in creating the particular mood of a scene. I felt that the type of music used did fit the overall environment of the show, using both fast paced action-themed music for fighting, and softer, more melodic music for scenes involving development of characters. 7.5/10<br />
+<br />
+CHARACTER: In Zoids, the characters can really be hit or miss. Some aren&#039;t as fleshed out as others, but the main cast is fleshed out enough that the viewer cares about them and wants to see them succeed. Van Flyheight is the most developed character by far, as the second half of the series, Guardian Forces, focuses on how much Van has matured since the first half of the series (there is a small time skip in between), and they really emphasize just how much he&#039;s changed, going from often being a jokester kind of character to a more serious character who cares about protecting those dear to him. The show also does a nice job in creating sympathy for certain characters who start off as villains but have a change of heart as the series progresses. Unfortunately, while Zoids does a great job in developing the main protagonists, the show falls a bit short in terms of the main antagonists, who sadly fall into the usual trope of being evil for the sake of being evil. That being said, they are not part of the main focus of development to begin with, and while it would be nice to see them developed more, at the very least the main and supporting cast have enough development to keep the viewer caring for them. 8.5/10<br />
+<br />
+ENJOYMENT: The biggest part of enjoyment typically comes from watching the Zoid battles throughout the series. They have a mix of fast paced action and often strategic ways of fighting, appealing to more than just one audience with the way the battles are handled. There is drama involved, but it is not shoved in the viewer&#039;s face. There is a nice, even pacing between the fighting and story elements, so neither feels overdone. Light hearted moments in the show are welcome when they are as the action and serious tone will bring characters back to reality. The show  has a nice, enjoyable pace from start to finish, introducing slight changes in the second half so as not to be repetitive. 9.5/10<br />
+<br />
+OVERALL: Zoids: Chaotic Century/Guardian Force gives off the feeling of being along for an adventure. It develops its characters enough to make the viewer care for them, and want to see them get to the end of their journey. You follow them along, and through thick and thin, they keep fighting, and the journey goes through various types of drama and has an adventurous feel. A lot of the series is about the maturity of Van as a character too, and you see him grow from a young boy to a man who fights for what he believes in. You also see the evolution of how the likes of Fiona and several other characters develop throughout the series, and by the end, their relationships feel genuine. The characters feel like those who can be related to by the viewer. It has all the feelings of an adventure, from humble beginnings to the maturity one gains from it.<br />
+<br />
+Final Score: 10/10 : Would recommend to any anime fan.
+        
+<div id="revhelp_output_192493" class="mt8 js-review-btn-helpful js-review-helpful-192493">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F763%2FZoids" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle192493"
+         class="js-toggle-review-button" data-id="192493">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=192493" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=192493" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+<div class="mt4"></div><div class="amazon-ads anime-manga-detail bottom pt20 pb16">
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "animedetail-20";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Buy on Amazon.com ";
+amzn_assoc_default_search_phrase = "Zoids";
+amzn_assoc_default_category = "DVD";
+amzn_assoc_linkid = "d33d41183eb8aee6216ffe9ff44ca735";
+amzn_assoc_rows = "1";
+amzn_assoc_search_bar_position = "bottom";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+</div>            <div class="mal-ad-unit" data-ad-width="801" data-ad-height="633">
+        <div id="taboola-below-article-thumbnails-anime"></div> <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'alternating-thumbnails-a',
+    container: 'taboola-below-article-thumbnails-anime',
+    placement: 'Below Article Thumbnails Anime',
+    target_type: 'mix'
+  });
+</script>
+
+      </div>
+    <br><div><div class="floatRightHeader"><a href="/anime/763/Zoids/news">More news</a></div><h2>Recent News</h2></div><br><div><div class="floatRightHeader"><a href="/forum/?animeid=763"><a href="/anime/763/Zoids/forum">More discussions</a></div><h2>Recent Forum Discussion</h2></div><div class="page-forum">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F763%2FZoids&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=543480">Zoids Episode 65 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/WolfWood37">WolfWood37</a></span> - <span class="lightLink">Jan 8, 2013</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">1 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Berry-Vodka">Berry-Vodka</a> <a href="/forum/?topicid=543480&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Feb 5, 2020 3:05 PM</td>
+            </tr>
+            <tr id="topicRow2">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F763%2FZoids&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=543218">Zoids Episode 64 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/WolfWood37">WolfWood37</a></span> - <span class="lightLink">Jan 8, 2013</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">3 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Berry-Vodka">Berry-Vodka</a> <a href="/forum/?topicid=543218&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Feb 2, 2020 11:54 AM</td>
+            </tr>
+            </table></div><br><div><div class="floatRightHeader"><a href="/anime/763/Zoids/featured">More featured articles</a></div><h2>Recent Featured Articles</h2></div><div class="detail-page-featured-article"><div class="news-list">
+      
+    <div class="news-unit clearfix"><div class="picSurround fl-l mr8 ml3">
+          <a href="https://myanimelist.net/featured/1176/Top_20_Best_War_Anime_of_All_Time"><img src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1450757919-375b7cabe811a7c0e5e30f88d4362d36.jpeg?s=0903fe725bcfab301f8a6dcd6944408c" alt="Top 20 Best War Anime of All Time" class="image lazyload" width="50" height="78" srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1450757919-375b7cabe811a7c0e5e30f88d4362d36.jpeg?s=0903fe725bcfab301f8a6dcd6944408c 1x, https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1450757919-375b7cabe811a7c0e5e30f88d4362d36.jpeg?s=df41323bf79174985dccd2397236e84d 2x" /></a>
+        </div><div class="news-unit-right rect">
+        <p class="title">
+          <a href="https://myanimelist.net/featured/1176/Top_20_Best_War_Anime_of_All_Time" title="Top 20 Best War Anime of All Time">Top 20 Best War Anime of All Time</a>
+        </p>
+        <div class="text">
+          Put on your helmets and prepare for the explosions. This is a collection of the 20 best war anime from the thrilling 2D battlefield! So what exactly separates them from the rest? Explosions? Drama? Political intrigue? You name it, they&#039;ve got it.
+        </div>
+        <div class="information">
+          <p class="info pr8">
+            by <a href="https://myanimelist.net/profile/Jadielkun">Jadielkun</a>
+          </p><p class="di-tc pv pr8">
+              <b>814,297</b> views
+            </p><div class="tags">
+              <div class="tags-inner"><div class="tags-inner-attributes"><span class="tag tag-color-feature-spoiler">Spoiler</span></div><a href="https://myanimelist.net/featured/tag/recommendation" class="tag tag-color-feature-recommendation" title="Recommendation">Recommendation</a><a href="https://myanimelist.net/featured/tag/collection" class="tag tag-color-feature-collection" title="Collection">Collection</a><a href="https://myanimelist.net/featured/tag/action" class="tag tag-color-feature-action" title="Action">Action</a><a href="https://myanimelist.net/featured/tag/arch_enemies" class="tag tag-color-feature-arch_enemies" title="Arch Enemies">Arch Enemies</a><a href="https://myanimelist.net/featured/tag/weapons" class="tag tag-color-feature-weapons" title="Weapons">Weapons</a></div>
+            </div></div>
+      </div>
+    </div>
+        </div>
+</div><div style="padding:16px 0px 0px 0px;"><div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div></div><br><div>
+            <div class="floatRightHeader"><a href="/anime/763/Zoids/userrecs">More recommendations</a></div>
+            <h2>Recommendations
+            </h2></div>  <div class="di-ib pb16"><a href="https://myanimelist.net/anime/763/Zoids/userrecs" class="btn-detail-recommendations-view-all fl-r">
+      <span class="text">View All</span>
+      <span class="icon-next"><i class="fa fa-chevron-right icon-chevron" aria-hidden="true"></i></span>
+    </a><div class="anime-slide-block" id="anime_recommendation" data-json='{"width":490,"btnWidth":40,"margin":8}'><div class="btn-anime-slide-side left"><span class="btn-inner"></span></div><div class="btn-anime-slide-side right"><span class="btn-inner"></span></div><div class="anime-slide-outer" style="height:140px;"><ul class="anime-slide js-anime-slide" data-slide="8"><li class="btn-anime" style="width:90px" title="Tengen Toppa Gurren Lagann"><a href="https://myanimelist.net/recommendations/anime/763-2001" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Tengen Toppa Gurren Lagann</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/5123.jpg?s=0e3c5959f2043c3c9a7465ca2920273f" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/5123.jpg?s=0e3c5959f2043c3c9a7465ca2920273f 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/5123.jpg?s=511b84f2971a734613a70184c1749020 2x" width="90" height="140" class="image lazyload" alt="Tengen Toppa Gurren Lagann" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Aldnoah.Zero"><a href="https://myanimelist.net/recommendations/anime/763-22729" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Aldnoah.Zero</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/7/60263.jpg?s=a1b911632311d569ee1928d2ba96df47" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/7/60263.jpg?s=a1b911632311d569ee1928d2ba96df47 1x,https://cdn.myanimelist.net/r/180x280/images/anime/7/60263.jpg?s=b6b7683df92a1a8cf6cd31059cfc1d0b 2x" width="90" height="140" class="image lazyload" alt="Aldnoah.Zero" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Comet Lucifer"><a href="https://myanimelist.net/recommendations/anime/763-31318" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Comet Lucifer</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/3/76111.jpg?s=540ca650c63b3b844503118ad34461a7" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/3/76111.jpg?s=540ca650c63b3b844503118ad34461a7 1x,https://cdn.myanimelist.net/r/180x280/images/anime/3/76111.jpg?s=f2950a7d176ff68b4322b7133637e316 2x" width="90" height="140" class="image lazyload" alt="Comet Lucifer" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Mobile Suit Gundam SEED"><a href="https://myanimelist.net/recommendations/anime/93-763" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Mobile Suit Gundam SEED</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1792/91081.jpg?s=ff3f5df488b8938bc2cd995774244ffc" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1792/91081.jpg?s=ff3f5df488b8938bc2cd995774244ffc 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1792/91081.jpg?s=3f2345fa84c7daaa2f29e1a2440486b4 2x" width="90" height="140" class="image lazyload" alt="Mobile Suit Gundam SEED" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Groove Adventure Rave"><a href="https://myanimelist.net/recommendations/anime/246-763" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Groove Adventure Rave</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/9/20134.jpg?s=f07cc70382a55af4372bbb777fb5f627" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/9/20134.jpg?s=f07cc70382a55af4372bbb777fb5f627 1x,https://cdn.myanimelist.net/r/180x280/images/anime/9/20134.jpg?s=fcc9da6907faab13a7cdb96563697be7 2x" width="90" height="140" class="image lazyload" alt="Groove Adventure Rave" border="0" ></a></li></ul></div></div></div>
+    </td>
+    </tr>
+    </table>
+    </div>  <div class="mauto clearfix pt24" style="width:760px;">
+    <div class="fl-l">
+      </div>
+      <div class="fl-r">
+      </div>
+    </div>
+
+</td>
+</tr>
+</table>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js" data-pin-hover="true"></script></div><!-- end of contentHome -->
+</div><!-- end of contentWrapper -->
+
+
+            
+  
+
+
+            
+  
+
+  <script>
+    $(document).ready(function() {
+      $(window).scroll(function() {
+        var cHeight = $("#myanimelist").height();
+        $("div[data-ad-sticky='manual']").each(function (i, o) {
+          var aHeight = $(o).height();
+          var aTop = $(o).parent().offset().top;
+          if (window.pageYOffset >= (cHeight - aHeight)) {
+            $(o).css("top", ((cHeight - aHeight) - window.pageYOffset) + "px");
+          } else if (window.pageYOffset >= aTop) {
+            $(o).addClass("sticky");
+            $(o).css("top", "");
+          } else {
+            $(o).removeClass("sticky");
+          }
+        });
+      });
+    });
+  </script>
+
+<!--  control container height -->
+<div style="clear:both;"></div>
+
+<!-- end rightbody -->
+
+</div><!-- wrapper -->
+
+
+    <div id="ad-skin-bg-right" class="ad-skin-side-outer ad-skin-side-bg bg-right">
+    <div id="ad-skin-right" class="ad-skin-side right" style="display: none;">
+      <div id="ad-skin-right-absolute-block">
+        <div id="ad-skin-right-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+</div><!-- #myanimelist -->
+
+
+<div class="footer-ranking">
+  <div class="ranking-container">
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php" class="view_more fl-r">More</a>Top Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Fullmetal Alchemist: Brotherhood</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011">Hunter x Hunter (2011)</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php?type=airing" class="view_more fl-r">More</a>Top Airing Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/42203/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season_Part_2">Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/42897/Horimiya">Horimiya</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/38474/Yuru_Camp△_Season_2">Yuru Camp△ Season 2</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/character.php" class="view_more fl-r">More</a>Most Popular Characters
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/character/417/Lelouch_Lamperouge">Lamperouge, Lelouch</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/character/45627/Levi">Levi</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/character/80/Light_Yagami">Yagami, Light</a>
+            </li>
+                  </ol>
+      </div>
+      </div>
+</div>
+<footer>
+  <div id="footer-block">
+    <div class="footer-link-block">
+      <p class="footer-link home di-ib">
+        <a href="https://myanimelist.net/">Home</a>
+      </p>
+      <p class="footer-link di-ib">
+        <a href="https://myanimelist.net/about.php">About</a>
+        <a href="https://myanimelist.net/pressroom">Press Room</a>
+        <a href="https://myanimelist.net/about.php?go=contact">Support</a>
+        <a href="https://myanimelist.net/advertising">Advertising</a>
+        <a href="https://myanimelist.net/forum/?topicid=515949">FAQ</a>
+        <a href="https://myanimelist.net/about/terms_of_use">Terms</a>
+        <a href="https://myanimelist.net/about/privacy_policy">Privacy</a>
+        <a href="#/" class="cmp-gdpr-only">Privacy Settings</a>
+        <a href="#/" class="cmp-ccpa-only">Do Not Sell My Personal Information</a>
+        <a href="https://myanimelist.net/about/cookie_policy">Cookie</a>
+        <a href="https://myanimelist.net/about/notice_at_collection">Notice at Collection</a>
+        <a href="https://myanimelist.net/about/sitemap">Sitemap</a>
+      </p>
+            <p class="footer-link login di-ib">
+        <a href="https://myanimelist.net/login.php?from=%2Fanime%2F763%2FZoids" id="malLogin" rel="nofollow">Login</a>
+        <a href="https://myanimelist.net/register.php?from=%2Fanime%2F763%2FZoids">Sign Up</a>
+      </p>
+          </div>
+
+    
+    <div class="banner-footer-anime-streaming">
+      <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+    </div>
+
+        <div class="footer-link-icon-block">
+            <div class="footer-social-media ac">
+        <a target="_blank" class="icon-sns icon-fb di-ib" href="https://www.facebook.com/OfficialMyAnimeList" rel="noreferrer"></a>
+        <a target="_blank" class="icon-sns icon-tw di-ib" title="Follow @myanimelist on Twitter" href="https://twitter.com/myanimelist" rel="noreferrer"></a></div>
+            <div class="footer-recommended ac">
+        <a target="_blank" class="icon-recommended icon-tokyo-otaku-mode" href="http://otakumode.com/fb/5aO" rel="noopener">Tokyo Otaku Mode</a>
+        <a target="_blank" class="icon-recommended icon-honeys-anime" href="https://honeysanime.com" rel="noopener">Honey's Anime</a>
+        <a target="_blank" class="icon-recommended icon-manga-store" href="https://myanimelist.net/store?_location=mal_f_m">Manga Store</a>
+      </div>
+    </div>
+
+    <div class="footer-fb">
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+      <div class="footer-fb-item">
+                <iframe class="fb-page" src="" width="450" height="154" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+      </div>
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+    </div>
+        
+    <div id="copyright">
+      MyAnimeList.net is a property of MyAnimeList Co.,Ltd. &copy;2021 All Rights Reserved.
+    </div>
+  </div>
+</footer>
+
+<script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+
+<script async>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga')
+
+  ga('create', 'UA-369102-1', 'auto')
+  ga('set', 'anonymizeIp', true)
+  ga('require', 'linkid') // Enhanced Link Attribution
+    ga('set', 'dimension1', 'guest')
+    ga('send', 'pageview')
+</script>   <script>
+window.onscroll = function(e){
+    const scrollThreshold = 50;
+    if (window.pageYOffset >= scrollThreshold) {
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            let t_height = ad.offsetHeight;
+            let offsetY = ad.getBoundingClientRect().top;
+            let screenHeight = window.outerHeight;
+            let t_position = offsetY - screenHeight;
+            if(-screenHeight<=(t_position　+　t_height) && t_position<0) {
+                ad.className = 'ad-tag';
+                (deployads = window.deployads || []).push({});
+            }
+        });
+    }
+}
+var timer = 0;
+window.onresize = function(e){
+    if (timer > 0) {
+        clearTimeout(timer);
+    }
+
+    timer = setTimeout(function () {
+        console.log('window resized');
+        [].forEach.call(document.querySelectorAll('.ad-tag'), function(ad) {
+            ad.className = 'no-ad';
+            (deployads = window.deployads || []).push({});
+        });
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            ad.className = 'ad-tag';
+            (deployads = window.deployads || []).push({});
+        });
+    }, 200);
+}
+</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WL4QW3G');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+var path = location.pathname;
+var param = location.search;
+
+dataLayer = dataLayer || [];
+
+// login.php
+
+function ga_notlogin(){
+  ga('send', 'event', 'not_login', '2.未ログインの場合', '/login.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=1');
+}
+
+function ga_sns(){
+  ga('send', 'event', 'sns_login', '2-1-1.ソーシャルログインの場合', '/login.php?login-mode=social&c-ms-mode=1');
+}
+
+function ga_login(){
+  ga('send', 'event', 'id_login', '2-1-2.IDログインの場合', '/login.php?login-mode=id&c-ms-mode=1');
+}
+
+// register.php
+
+function ga_registration(){
+  ga('send', 'event', 'registration', '2-2.会員登録ボタン', '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=2');
+}
+
+if ( path.match("register.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2F&c-ms-mode=2',
+        'member_title': '2-2-1.会員情報入力完了',
+        'event': 'loadready-register'
+    });
+}
+
+if ( path.match("login.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': path.concat(param, "&c-ms-mode=2"),
+        'member_title': '2-2-1.メールからの会員認証ページ',
+        'event': 'loadready-login'
+    });
+}
+
+// membership
+
+function ga_mal_banner(){
+  ga('send', 'event', 'support_mal', '2-3.MALバナー', '/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner&c-ms-mode=3');
+}
+
+if ( path.match("login.php") && param.match("from=%2F") ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=3',
+        'member_title': '2-2.会員登録ボタン',
+        'event': 'loadready-login'
+    });
+}
+
+function ga_credit(){
+  ga('send', 'event', 'support_mal', '3-1-1.クレカ登録', '/member-register?c-ms_payment=1&c-ms_mode=3');
+}
+
+function ga_paypal(){
+  ga('send', 'event', 'support_mal', '3-1-2.Paypal登録', '/member-register?c-ms_payment=2&c-ms_mode=3');
+}
+
+if ( path.match("account/membership/complete") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/member-register-complete?c-ms_payment=2&c-ms_mode=3',
+        'member_title': '3-1-2.MAL会員登録成功',
+        'event': 'loadready-member-register-complete'
+    });
+}
+
+</script>
+<script type="text/javascript">
+    window.MAL.magia = "06410c4e6b2518e9add8f6df0ccb2da2876bb8c980aacb43a8dcaa8153c0f92c";
+  window.MAL.madoka = "hZrDKm9k6FVRnqd3i%=K";
+
+  window.MAL.SLVK = "g4OvMLVOmEI3J8u7dt8f8+mAuualsqCo";
+  window.MAL.CDN_URL = "https://cdn.myanimelist.net";
+
+  window.MAL.CURRENT_TUTORIAL_STEP_ID = null;
+  window.MAL.USER_NAME = ""
+  window.MAL.FACEBOOK.APP_ID = "360769957454434"
+  window.MAL.FACEBOOK.API_VERSION = "v2.12"
+</script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+                    <script type="text/javascript">
+          window._taboola = window._taboola || [];
+          _taboola.push({flush: true});
+        </script>
+    </body>
+</html>

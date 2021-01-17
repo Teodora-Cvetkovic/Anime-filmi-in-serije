@@ -35,7 +35,7 @@ Fullmetal Alchemist: Brotherhood - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='115f8211040ecf4c7726fd956b0166ea75595811'>
+<meta name='csrf_token' content='85500f32932d2e82812de92e30b7e75439f84a21'>
 <meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
 <meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
 <link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
@@ -370,11 +370,11 @@ $(document).ready(function(){
 </div>
 <div class="spaceit">
   <span class="dark_text">Members:</span>
-    2,127,968
+    2,128,350
 </div>
 <div>
   <span class="dark_text">Favorites:</span>
-  174,892
+  174,937
 </div>
 
   <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
@@ -424,7 +424,7 @@ $(document).ready(function(){
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tr>
-	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="1,288,356 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-9">9.21</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#1</strong></span><span class="numbers popularity">Popularity <strong>#3</strong></span><span class="numbers members">Members <strong>2,127,968</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2009/spring">Spring 2009</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/4/Bones" title="Bones">Bones</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="5114"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F5114%2FFullmetal_Alchemist__Brotherhood&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option value="0">Select</option><option selected="selected" value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="1,288,356 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-9">9.21</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#1</strong></span><span class="numbers popularity">Popularity <strong>#3</strong></span><span class="numbers members">Members <strong>2,128,350</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2009/spring">Spring 2009</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/4/Bones" title="Bones">Bones</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="5114"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F5114%2FFullmetal_Alchemist__Brotherhood&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option value="0">Select</option><option selected="selected" value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
         Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="64">64</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://myanimelist.net/store/manga/287/Fullmetal_Alchemist?_location=mal_atf_affiliate"
            class="btn-affiliate manga-store js-shop-anime icon-shop-default"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Buy on Manga Store
         </a></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/--IcmZkvL0Q?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/--IcmZkvL0Q/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">Announcement</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
@@ -882,7 +882,7 @@ On March 31, 2016, FUNimation Entertainment&#039;s license to the series expired
               <small>(<a href="/profile/tazillo/reviews">All reviews</a>)</small><br>
                         <div class="lightLink spaceit">
               <strong>
-                <span id="rhelp22681">3534</span>
+                <span id="rhelp22681">3535</span>
               </strong>
               people found this review helpful
             </div>
@@ -1105,7 +1105,7 @@ Now if only all remakes, revisions or reboots could be this good.
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/ChrissyKay">
-                  <img src="https://cdn.myanimelist.net/images/userimages/4489477.jpg?t=1610504400" data-src="https://cdn.myanimelist.net/images/userimages/4489477.jpg?t=1610504400" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/4489477.jpg?t=1610545800" data-src="https://cdn.myanimelist.net/images/userimages/4489477.jpg?t=1610545800" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1249,7 +1249,7 @@ Fullmetal Alchemist: Brotherhood is not a masterpiece. It&#039;s a very respecta
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/literaturenerd">
-                  <img src="https://cdn.myanimelist.net/images/userimages/3971701.jpg?t=1610513400" data-src="https://cdn.myanimelist.net/images/userimages/3971701.jpg?t=1610513400" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/3971701.jpg?t=1610547000" data-src="https://cdn.myanimelist.net/images/userimages/3971701.jpg?t=1610547000" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1258,7 +1258,7 @@ Fullmetal Alchemist: Brotherhood is not a masterpiece. It&#039;s a very respecta
               <small>(<a href="/profile/literaturenerd/reviews">All reviews</a>)</small><br>
                         <div class="lightLink spaceit">
               <strong>
-                <span id="rhelp186465">745</span>
+                <span id="rhelp186465">746</span>
               </strong>
               people found this review helpful
             </div>
@@ -1397,15 +1397,15 @@ amzn_assoc_search_bar_position = "bottom";
 		<div class="borderClass"></div><br><div><div class="floatRightHeader"><a href="/forum/?animeid=5114"><a href="/anime/5114/Fullmetal_Alchemist__Brotherhood/forum">More discussions</a></div><h2>Recent Forum Discussion</h2></div><div class="page-forum">
     <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F5114%2FFullmetal_Alchemist__Brotherhood&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=1868615">Did anyone else find fmab boring?</a> <small> ( <a href="/forum/?topicid=1868615&show=0">1</a> <a href="/forum/?topicid=1868615&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/GoodAnime_101">GoodAnime_101</a></span> - <span class="lightLink">Oct 6, 2020</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">73 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/ChaosPH">ChaosPH</a> <a href="/forum/?topicid=1868615&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>2 hours ago</td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=1888767">FMAB will be the first show in the top 50 to reach 10k 1/10 votes.</a> <small></small><br><span class="forum_postusername"><a href="/profile/_cjessop19_">_cjessop19_</a></span> - <span class="lightLink">Jan 13</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">6 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/HandsomeUwU">HandsomeUwU</a> <a href="/forum/?topicid=1888767&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>2 minutes ago</td>
             </tr>
             <tr id="topicRow2">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F5114%2FFullmetal_Alchemist__Brotherhood&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=1886483">FMAB will drop to #2 in</a> <small> ( <a href="/forum/?topicid=1886483&show=0">1</a> <a href="/forum/?topicid=1886483&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/HereWeGo123">HereWeGo123</a></span> - <span class="lightLink">Jan 3</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">52 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Weebslayerr69">Weebslayerr69</a> <a href="/forum/?topicid=1886483&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>3 hours ago</td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=243721">Fullmetal Alchemist: Brotherhood Episode 64 Discussion</a> <small> ( <a href="/forum/?topicid=243721&show=0">1</a> <a href="/forum/?topicid=243721&show=50">2</a> <a href="/forum/?topicid=243721&show=100">3</a> <a href="/forum/?topicid=243721&show=150">4</a> <a href="/forum/?topicid=243721&show=200">5</a>  ... <a href="/forum/?topicid=243721&show=800">Last Page</a> ) </small><br><span class="forum_postusername"><a href="/profile/Ahenshihael">Ahenshihael</a></span> - <span class="lightLink">Jul 4, 2010</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">806 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Nurguburu">Nurguburu</a> <a href="/forum/?topicid=243721&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>3 hours ago</td>
             </tr>
             </table></div><br><div><div class="floatRightHeader"><a href="/anime/5114/Fullmetal_Alchemist__Brotherhood/featured">More featured articles</a></div><h2>Recent Featured Articles</h2></div><div class="detail-page-featured-article"><div class="news-list">
       
@@ -1422,7 +1422,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/MAL_Articles">MAL_Articles</a>
           </p><p class="di-tc pv pr8">
-              <b>40,809</b> views
+              <b>40,816</b> views
             </p><div class="tags">
               <div class="tags-inner"><span class="tag tag-color-feature-spoiler">Spoiler</span></div>
             </div></div>
@@ -1442,7 +1442,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/MAL_Articles">MAL_Articles</a>
           </p><p class="di-tc pv pr8">
-              <b>47,623</b> views
+              <b>47,624</b> views
             </p></div>
       </div>
     </div>

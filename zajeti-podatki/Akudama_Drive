@@ -35,7 +35,7 @@ Akudama Drive - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='e832c8b9c7bafa6e40c7cb9dc7384cda5fba7a27'>
+<meta name='csrf_token' content='0834e40fde3792864497c626b3da0ca6fb5e41e0'>
 <meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
 <meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
 <link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
@@ -339,7 +339,7 @@ $(document).ready(function(){
 <h2>Statistics</h2>
 <div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" class="po-r js-statistics-info di-ib" data-id="info1">
   <span class="dark_text">Score:</span>
-  <span itemprop="ratingValue" class="score-label score-7">7.79</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">60967</span>60,967 users)
+  <span itemprop="ratingValue" class="score-label score-7">7.79</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">61261</span>61,261 users)
       <meta itemprop="bestRating" content="10">
     <meta itemprop="worstRating" content="1">
       <div class="statistics-info info1">
@@ -359,15 +359,15 @@ $(document).ready(function(){
 </div>
 <div>
   <span class="dark_text">Popularity:</span>
-  #831
+  #827
 </div>
 <div class="spaceit">
   <span class="dark_text">Members:</span>
-    173,237
+    173,714
 </div>
 <div>
   <span class="dark_text">Favorites:</span>
-  1,468
+  1,475
 </div>
 
   <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
@@ -417,7 +417,7 @@ $(document).ready(function(){
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tr>
-	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="60,967 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-7">7.79</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#841</strong></span><span class="numbers popularity">Popularity <strong>#831</strong></span><span class="numbers members">Members <strong>173,237</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2020/fall">Fall 2020</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/1/Studio_Pierrot" title="Studio Pierrot">Studio Pierrot</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="41433"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F41433%2FAkudama_Drive&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="61,261 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-7">7.79</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#841</strong></span><span class="numbers popularity">Popularity <strong>#827</strong></span><span class="numbers members">Members <strong>173,714</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2020/fall">Fall 2020</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/1/Studio_Pierrot" title="Studio Pierrot">Studio Pierrot</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="41433"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F41433%2FAkudama_Drive&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
         Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="12">12</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Akudama%20Drive&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime js-shop-selecter icon-shop-default" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:41433,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><div class="anime-detail-header-affiliate-dialog js-shop-selecter-dialog" style="display:none"><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Akudama%20Drive&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:41433,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><a href="http://www.cdjapan.co.jp/aff/click.cgi/PytJTGW7Lok/6039/A764127/searches?q=Akudama+Drive" class="btn-affiliate cdjapan js-shop-anime js-shop-cd-japan" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;cdjapan&quot;,&quot;id&quot;:41433,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/logo-cdjapan.png" width="118" height="25" alt="buy from CD Japan"></a><a href="http://www.shareasale.com/r.cfm?u=1384175&b=866986&m=65886&afftrack=&urllink=www.rightstufanime.com%2Fsearch%3Fkeywords%3DAkudama%20Drive" class="btn-affiliate right_stuf js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;right_stuf&quot;,&quot;id&quot;:41433,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_right_stuf.png" width="118" height="25" alt="buy from Rightstuf"></a></div></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/41k3bjceNIU?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/41k3bjceNIU/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">PV 2</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/41433/Akudama_Drive/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
 </div><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=41433&t=synopsis" style="font-weight: normal;">Edit</a></div><h2>Synopsis</h2></div><p itemprop="description">The bustling metropolis of Kansai, where cybernetic screens litter the neon landscape, may seem like a technological utopia at first glance. But in the dark alleys around the brightly-lit buildings, an unforgiving criminal underbelly still exists in the form of fugitives known as &quot;Akudama.&quot; <br />
 <br />
@@ -851,7 +851,7 @@ No stranger to these individuals, Kansai police begin the countdown to the publi
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/Ryuseishun">
-                  <img src="https://cdn.myanimelist.net/images/userimages/5242474.jpg?t=1610547000" data-src="https://cdn.myanimelist.net/images/userimages/5242474.jpg?t=1610547000" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/5242474.jpg?t=1610583000" data-src="https://cdn.myanimelist.net/images/userimages/5242474.jpg?t=1610583000" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -960,7 +960,7 @@ Akudama Drive flew out the gates with blades of glory, only to later on fall har
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/RebelPanda">
-                  <img src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610523600" data-src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610523600" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610583000" data-src="https://cdn.myanimelist.net/images/userimages/4150781.jpg?t=1610583000" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -969,7 +969,7 @@ Akudama Drive flew out the gates with blades of glory, only to later on fall har
               <small>(<a href="/profile/RebelPanda/reviews">All reviews</a>)</small><br>
                         <div class="lightLink spaceit">
               <strong>
-                <span id="rhelp369611">762</span>
+                <span id="rhelp369611">763</span>
               </strong>
               people found this review helpful
             </div>
@@ -1081,7 +1081,7 @@ Akudama Drive is a love letter to every Sci-fi classic of the 20th century. It w
                                               <td valign="top" width="60">
               <div class="picSurround">
                 <a href="https://myanimelist.net/profile/ACasualViewer">
-                  <img src="https://cdn.myanimelist.net/images/userimages/7060988.jpg?t=1610496000" data-src="https://cdn.myanimelist.net/images/userimages/7060988.jpg?t=1610496000" border="0" class=" lazyloaded" width="48">
+                  <img src="https://cdn.myanimelist.net/images/userimages/7060988.jpg?t=1610576400" data-src="https://cdn.myanimelist.net/images/userimages/7060988.jpg?t=1610576400" border="0" class=" lazyloaded" width="48">
                 </a>
               </div>
             </td>
@@ -1329,15 +1329,15 @@ amzn_assoc_search_bar_position = "bottom";
 		<div class="borderClass"></div><br><div><div class="floatRightHeader"><a href="/forum/?animeid=41433"><a href="/anime/41433/Akudama_Drive/forum">More discussions</a></div><h2>Recent Forum Discussion</h2></div><div class="page-forum">
     <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F41433%2FAkudama_Drive&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1876813">Akudama Drive Episode 7 Discussion</a> <small> ( <a href="/forum/?topicid=1876813&show=0">1</a> <a href="/forum/?topicid=1876813&show=50">2</a> <a href="/forum/?topicid=1876813&show=100">3</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Nov 19, 2020</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">147 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/leonthelionhart">leonthelionhart</a> <a href="/forum/?topicid=1876813&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Yesterday, 4:23 AM</td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1884164">Akudama Drive Episode 12 Discussion</a> <small> ( <a href="/forum/?topicid=1884164&show=0">1</a> <a href="/forum/?topicid=1884164&show=50">2</a> <a href="/forum/?topicid=1884164&show=100">3</a> <a href="/forum/?topicid=1884164&show=150">4</a> <a href="/forum/?topicid=1884164&show=200">5</a>  ... <a href="/forum/?topicid=1884164&show=250">Last Page</a> ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Dec 24, 2020</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">283 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Panzer92">Panzer92</a> <a href="/forum/?topicid=1884164&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>4 hours ago</td>
             </tr>
             <tr id="topicRow2">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F41433%2FAkudama_Drive&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1884164">Akudama Drive Episode 12 Discussion</a> <small> ( <a href="/forum/?topicid=1884164&show=0">1</a> <a href="/forum/?topicid=1884164&show=50">2</a> <a href="/forum/?topicid=1884164&show=100">3</a> <a href="/forum/?topicid=1884164&show=150">4</a> <a href="/forum/?topicid=1884164&show=200">5</a>  ... <a href="/forum/?topicid=1884164&show=250">Last Page</a> ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Dec 24, 2020</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">282 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Nylism">Nylism</a> <a href="/forum/?topicid=1884164&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Jan 11, 8:47 PM</td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1876813">Akudama Drive Episode 7 Discussion</a> <small> ( <a href="/forum/?topicid=1876813&show=0">1</a> <a href="/forum/?topicid=1876813&show=50">2</a> <a href="/forum/?topicid=1876813&show=100">3</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Stark700">Stark700</a></span> - <span class="lightLink">Nov 19, 2020</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">147 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/leonthelionhart">leonthelionhart</a> <a href="/forum/?topicid=1876813&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Yesterday, 4:23 AM</td>
             </tr>
             </table></div><br><div><div class="floatRightHeader"><a href="/anime/41433/Akudama_Drive/featured">More featured articles</a></div><h2>Recent Featured Articles</h2></div><div class="detail-page-featured-article"><div class="news-list">
       
@@ -1354,7 +1354,7 @@ amzn_assoc_search_bar_position = "bottom";
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
           </p><p class="di-tc pv pr8">
-              <b>34,320</b> views
+              <b>34,430</b> views
             </p></div>
       </div>
     </div>

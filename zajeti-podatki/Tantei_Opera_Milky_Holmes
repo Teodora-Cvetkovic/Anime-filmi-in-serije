@@ -1,0 +1,1817 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    
+<link rel="preconnect" href="//fonts.gstatic.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//fonts.googleapis.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tags-cdn.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagservices.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagmanager.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//apis.google.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel-sync.sitescout.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//pixel.tapad.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//c.deployads.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//tpc.googlesyndication.com/" crossorigin="anonymous" />
+<link rel="preconnect" href="//googleads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="//securepubads.g.doubleclick.net/" crossorigin="anonymous" />
+<link rel="preconnect" href="https://cdn.myanimelist.net" crossorigin="anonymous" />
+
+
+<title>
+Tantei Opera Milky Holmes - MyAnimeList.net
+</title>
+<meta name="description" content="Looking for information on the anime Tantei Opera Milky Holmes? Find out more with MyAnimeList, the world&#039;s most active online anime and manga community and database. &quot;Toys&quot; are powers bestowed upon those chosen to wield them, each having qualities that are unique to their users. Some of these individuals are born pure, using their powers to become detectives. Others bloom laced with poison and choose to become phantom thieves. These two opposing factions caused the formation of various detectiv..." />
+
+  
+<meta name="keywords" content="anime, myanimelist, anime news, manga" />
+  
+
+
+    <meta property="og:locale" content="en_US"><meta property="fb:app_id" content="360769957454434"><meta property="og:site_name" content="MyAnimeList.net"><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@myanimelist"><meta property="og:title" content="Tantei Opera Milky Holmes"><meta property="og:type" content="video.tv_show"><meta property="og:image" content="https://cdn.myanimelist.net/images/anime/10/26676.jpg"><meta name="twitter:image:src" content="https://cdn.myanimelist.net/r/360x360/images/anime/10/26676.jpg?s=8924960eef7b53f5d040a2627d149a98"><meta property="og:url" content="https://myanimelist.net/anime/7768/Tantei_Opera_Milky_Holmes"><meta property="og:description" content="&quot;Toys&quot; are powers bestowed upon those chosen to wield them, each having qualities that are unique to their users. Some of these individuals are born pure, using their powers to become detectives. Others bloom laced with poison and choose to become phantom thieves. These two opposing factions caused the formation of various detective academies around the globe—training detectives to fight and catch the phantom thieves. Sherlock Shellingford, Nero Yuzurizaki, Hercule Burton, and Cordelia Glauca form &quot;Milky Holmes&quot;, a group recognized as the cream of the crop in the Yokohama-based Holmes Detective Academy. However, in a skirmish against the phantom thief Arsene, their Toys suddenly disappear, deeming them unfit to continue as detectives. Stripped of their prestigious life and thrown into a rundown attic, they face expulsion if they fail to regain their powers within the next three months. Tantei Opera Milky Holmes tells the story of a once-legendary group in their journey to recover their Toys, as well as attempting to continue their line of work without the powers that once defined their career. [Written by MAL Rewrite]">
+
+
+<meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
+
+<meta name='csrf_token' content='09ab6f3ac1c183e803232bc3000912e5111ccfeb'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36">
+<meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" />
+
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-3e7202684d.css" />
+
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-4cf86af8b9.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-972c164f19.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" href="https://myanimelist.net/plugins/myanimelist.xml" title="MyAnimeList" />
+
+<link rel="shortcut icon" href="https://cdn.myanimelist.net/images/favicon.ico" />
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+      <script src="//tags-cdn.deployads.com/a/myanimelist.net.js" async="async"></script>
+            <script async="async" type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script>
+$(document).ready(function(){
+  window.Criteo = window.Criteo || {};
+  window.Criteo.events = window.Criteo.events || [];
+  $('.ad-criteo').each(function(){
+    var slotid = $(this).attr('data-ad-slot');
+    var zoneid = $(this).attr('data-ad-zone');
+    var CriteoAdUnits = {"placements":[{"slotid":slotid, "zoneid":zoneid}]};
+    var processCdbBid = function(){
+      var bids = Criteo.GetBidsForAdUnit(slotid);
+      if(bids.length > 0){
+        Criteo.RenderAd({bidId:bids[0].id, containerId:bids[0].impressionId});
+      }
+    };
+    Criteo.events.push(function(){Criteo.RequestBids(CriteoAdUnits, processCdbBid, 2000);});
+  });
+});
+</script>
+
+
+
+            <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/myanimelist/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>    
+</head>
+
+<body onload=" " class="page-common"data-ms="true" data-country-code="SI" >
+<div id="myanimelist">
+
+    
+  
+    <script type='text/javascript'>
+    window.MAL.SkinAd.prepareForSkin('');
+  </script>
+
+    <div id="ad-skin-bg-left" class="ad-skin-side-outer ad-skin-side-bg bg-left">
+    <div id="ad-skin-left" class="ad-skin-side left" style="display: none;">
+      <div id="ad-skin-left-absolute-block">
+        <div id="ad-skin-left-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
+    <script>(deployads = window.deployads || []).pageSegment = 'anime_title_7768';</script>
+
+
+<script>
+    var trackOutboundLink = function(url) {
+        ga('send', 'event', 'outbound', 'click', url, {
+            'transport': 'beacon',
+            'hitCallback': function(){return true;}
+        });
+    }
+</script><div class="banner-header-anime-straming" style="right:480px;">
+  <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+</div>
+
+
+<div id="header-menu" ><div class="header-menu-login"><a class="btn-mal-service"
+             href="https://myanimelist.net/membership?_location=mal_h_u" onClick="ga_mal_banner()">Hide Ads</a><a class="btn-login" href="https://myanimelist.net/login.php?from=%2Fanime%2F7768%2FTantei_Opera_Milky_Holmes" id="malLogin" onClick="ga_notlogin()">Login</a><a class="btn-signup" href="https://myanimelist.net/register.php?from=%2Fanime%2F7768%2FTantei_Opera_Milky_Holmes" onClick="ga_registration()">Sign Up</a></div></div></div>  <div id="menu" class="">
+    <div id="menu_right"><script type="text/x-template" id="incremental-result-item-anime"><div class="list anime" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info anime"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Aired: ${ item.payload.aired }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info anime"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-manga"><div class="list manga" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info manga"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Published: ${ item.payload.published }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info manga"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-character"><div class="list character" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div><div class="extra-info"><ul class="related-works"><li v-for="work in item.payload.related_works" class="fs-i">- ${ work }</li></ul>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-person"><div class="list person" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.alternative_name">${ item.payload.alternative_name }<br></span>Birthday: ${ item.payload.birthday }<br>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-store"><div class="list store" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info store"></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info store"></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-club"><div class="list club" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div><div class="extra-info">Members: ${ item.payload.members }<br>Category: ${ item.payload.category }<br>Created by: ${ item.payload.created_by }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-user"><div class="list user" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.authority">${ item.payload.authority }<br></span>Joined: ${ item.payload.joined }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-news"><div class="list news" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-featured"><div class="list featured" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-forum"><div class="list forum" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="extra-info">${ item.payload.date }<br><span>in ${ item.payload.category }</span></div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa fa-caret-right"></i></span> ${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-separator"><div class="list separator"><div class="separator"><span v-show="item.name == 'anime'">Anime</span><span v-show="item.name == 'manga'">Manga</span><span v-show="item.name == 'character'">Characters</span><span v-show="item.name == 'person'">People</span></div></div></script><div id="top-search-bar"><form id="searchBar" method="get" class="searchBar" @submit.prevent="jump()"><div class="form-select-outer fl-l"><select name="type" id="topSearchValue" class="inputtext" v-model="type"><option value="all">All</option><option value="anime">Anime</option><option value="manga">Manga</option><option value="character">Characters</option><option value="person">People</option><option value="store">Manga Store</option><option value="news">News</option><option value="featured">Featured Articles</option><option value="forum">Forum</option><option value="club">Clubs</option><option value="user">Users</option></select></div><input v-model="keyword" id="topSearchText" type="text"
+            name="keyword" class="inputtext fl-l" placeholder="Search Anime, Manga, and more..."
+            size="30" autocomplete="off"
+            @keydown.up.prevent="moveSelection(-1)" @keydown.down.prevent="moveSelection(1)"
+            @focus="isFocused = true" @blur="isFocused = false"><input id="topSearchButon" class="fl-l" :class="{'notActive': (keyword.length < 3)}" type="submit" value="&#xf002"></form><div id="topSearchResultList" class="incrementalSearchResultList" :style="{display: (showResult ? 'block' : 'none')}" @mousedown.prevent=""><div v-for="(item, i) in items" @mouseover="selection=i"><component :is="resolveComponent(item)" :item="item" :focus="selection == i" :url="generateItemPageUrl(item)"></component></div><div class="list list-bottom" :class="{'focus': selection == -1}" @mouseover="selection = -1"
+               :style="{display: (showViewAllLink ? 'block' : 'none')}"><a :href="resultPageUrl">
+              View all results for <span class="fw-b">${ keyword }</span><i v-show="isRequesting" class="fa fa-spinner fa-spin ml4"></i></a></div></div></div></div><div id="menu_left">
+      <ul id="nav">
+        <li class="small"><a href="#" class="non-link">Anime</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/anime.php?_location=mal_h_m">Anime Search</a></li>
+            <li><a href="https://myanimelist.net/topanime.php?_location=mal_h_m">Top Anime</a></li>
+            <li><a href="https://myanimelist.net/anime/season?_location=mal_h_m">Seasonal Anime</a></li>
+                        <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m_a">Videos</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=anime&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=anime&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1885985&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Manga</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/manga.php?_location=mal_h_m">Manga Search</a></li>
+            <li><a href="https://myanimelist.net/topmanga.php?_location=mal_h_m">Top Manga</a></li>
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=manga&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=manga&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1886113&amp;_location=mal_h_m">2021 Challenge</a></li>
+          </ul>
+        </li>
+        <li><a href="#" class="non-link">Community</a>
+          <ul>
+            <li><a href="https://myanimelist.net/forum/?_location=mal_h_m">Forums</a></li>
+            <li><a href="https://myanimelist.net/clubs.php?_location=mal_h_m">Clubs</a></li>
+            <li><a href="https://myanimelist.net/blog.php?_location=mal_h_m">Blogs</a></li>
+            <li><a href="https://myanimelist.net/users.php?_location=mal_h_m">Users</a></li>
+            <li><a href="https://discord.gg/E2xC8ZF">Discord Chat</a></li>
+          </ul>
+        </li>
+        <li class="small2"><a href="#" class="non-link">Industry</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/news?_location=mal_h_m">News</a></li>
+            <li><a href="https://myanimelist.net/featured?_location=mal_h_m">Featured Articles</a></li>
+            <li><a href="https://myanimelist.net/people.php?_location=mal_h_m">People</a></li>
+            <li><a href="https://myanimelist.net/character.php?_location=mal_h_m">Characters</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Watch</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m">Episode Videos</a></li>
+            <li><a href="https://myanimelist.net/watch/promotion?_location=mal_h_m">Promotional Videos</a></li></ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Read</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+          </ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Help</a>
+          <ul class="wide">
+            <li><a href="https://myanimelist.net/about.php?_location=mal_h_m">About</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=support&amp;_location=mal_h_m">Support</a></li>
+            <li><a href="https://myanimelist.net/advertising?_location=mal_h_m">Advertising</a></li>
+            <li><a href="https://myanimelist.net/forum/?topicid=515949&amp;_location=mal_h_m">FAQ</a></li>
+            <li><a href="https://myanimelist.net/modules.php?go=report&amp;_location=mal_h_m">Report</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=team&amp;_location=mal_h_m">Staff</a></li><li><a href="https://myanimelist.net/membership?_location=mal_h_m">MAL Supporter</a></li>
+          </ul>
+        </li>
+        
+            
+      </ul>
+    </div>  </div><div id="contentWrapper" itemscope itemtype="http://schema.org/TVSeries"><div><div class="h1 edit-info">
+      <div class="h1-title"><div itemprop="name"><h1 class="title-name h1_bold_none"><strong>Tantei Opera Milky Holmes</strong></h1></div></div><div class="header-right">
+          <a href="https://myanimelist.net/login.php?from=%2Fanime%2F7768%2FTantei_Opera_Milky_Holmes&amp;error=login_required" class="js-anime-edit-info-button"><i class="fa fa-pencil mr4"></i>Edit</a>
+<div id="editdiv" class="fw-n fs11">
+  <form method="GET" action="https://myanimelist.net/dbchanges.php" class="di-i">
+    <input type="hidden" name="aid" value="7768">
+    <div class="pb8">What would you like to edit?</div>
+                      <select name="t" id="t" class="inputtext"><option value="synopsis">Synopsis</option><option value="background">Background</option><option value="alternative_titles">Alternative Titles</option><option value="pic">Picture</option><option value="airingdates">Airing Dates</option><option value="producers">Producers</option><option value="relations">Relations</option><option value="rating">Rating</option><option value="duration">Duration</option><option value="source">Source</option><option value="broadcast">Broadcast</option></select>
+     &nbsp;<input type="submit" value="Go" class="inputButton flat btn-middle">
+  </form>
+</div>
+</div></div></div><div id="content" >
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+	 <td class="borderClass" width="225" style="border-width: 0 1px 0 0;" valign="top"><div style="width: 225px">
+
+<div style="text-align: center;">
+          <a href="https://myanimelist.net/anime/7768/Tantei_Opera_Milky_Holmes/pics">
+      <img class="lazyload" data-src="https://cdn.myanimelist.net/images/anime/10/26676.jpg" alt="Tantei Opera Milky Holmes" class="ac" itemprop="image">
+    </a>
+  </div>
+
+<!-- My List -->
+<div class="profileRows pb0">
+  <a href="https://myanimelist.net/login.php?from=%2Fanime%2F7768%2FTantei_Opera_Milky_Holmes&amp;error=login_required">Add to My List</a>
+</div>
+
+<div id="addtolist" class="addtolist-block js-anime-addtolist-block" style="display: none;">
+  <input type="hidden" id="myinfo_anime_id" value="7768">
+  <input type="hidden" id="myinfo_curstatus" value="">
+
+  <span class="notice_open_public pb4">* Your list is public by default.</span>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td class="spaceit">Status:</td>
+      <td class="spaceit">
+        <select name="myinfo_status" id="myinfo_status" class="inputtext js-anime-status-dropdown"><option value="1">Watching</option><option selected="selected" value="2">Completed</option><option value="3">On-Hold</option><option value="4">Dropped</option><option value="6">Plan to Watch</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td class="spaceit">Eps Seen:</td>
+      <td class="spaceit">
+        <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext" value="0"> / <span id="curEps">12</span></td>
+    </tr>
+    <tr>
+      <td class="spaceit">Your Score:</td>
+      <td class="spaceit">
+        <select name="myinfo_score" id="myinfo_score" class="inputtext"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>
+                <input type="button" name="myinfo_submit" value="Add" class="inputButton btn-middle flat js-anime-add-button">
+        <span id="addtolistresult"><a href="https://myanimelist.net/ownlist/anime/add?selected_series_id=7768">Add Detailed Info</a></span>
+              </td>
+    </tr>
+  </table>
+  <div id="myinfoDisplay" style="padding-left: 89px; margin-top: 3px;"></div>
+</div>
+<!-- end My List -->
+
+<div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F7768%2FTantei_Opera_Milky_Holmes&amp;error=login_required" style="font-weight:normal;">Add to Favorites</a></div>
+
+<div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F7768%2FTantei_Opera_Milky_Holmes"></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F7768%2FTantei_Opera_Milky_Holmes&amp;text=Tantei%20Opera%20Milky%20Holmes&amp;hashtags=anime"></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F7768%2FTantei_Opera_Milky_Holmes&amp;title=Tantei%20Opera%20Milky%20Holmes"></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F7768%2FTantei_Opera_Milky_Holmes&amp;name=Tantei%20Opera%20Milky%20Holmes"></a></div>  <br />
+
+  <h2>Alternative Titles</h2><div class="spaceit_pad">
+    <span class="dark_text">Japanese:</span> 探偵オペラ ミルキィホームズ
+  </div><br />
+
+<h2>Information</h2>
+
+<div>
+  <span class="dark_text">Type:</span>
+  <a href="https://myanimelist.net/topanime.php?type=tv">TV</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Episodes:</span>
+  12
+  </div>
+
+<div>
+  <span class="dark_text">Status:</span>
+  Finished Airing
+  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Aired:</span>
+  Oct 7, 2010 to Dec 23, 2010
+  </div>
+
+  <div>
+    <span class="dark_text">Premiered:</span>
+          <a href="https://myanimelist.net/anime/season/2010/fall">Fall 2010</a>
+          </div>
+
+  <div class="spaceit">
+    <span class="dark_text">Broadcast:</span>
+    Unknown
+      </div>
+
+  <div>
+    <span class="dark_text">Producers:</span>
+          <a href="/anime/producer/64/Sotsu" title="Sotsu">Sotsu</a>,       <a href="/anime/producer/104/Lantis" title="Lantis">Lantis</a>,       <a href="/anime/producer/144/Pony_Canyon" title="Pony Canyon">Pony Canyon</a>,       <a href="/anime/producer/715/Dwango" title="Dwango">Dwango</a>,       <a href="/anime/producer/775/Bushiroad" title="Bushiroad">Bushiroad</a>,       <a href="/anime/producer/1261/Good_Smile_Company" title="Good Smile Company">Good Smile Company</a>,       <a href="/anime/producer/1288/Chrono_Gear_Creative" title="Chrono Gear Creative">Chrono Gear Creative</a>  </div>
+  <div class="spaceit">
+    <span class="dark_text">Licensors:</span>
+    None found, <a href="https://myanimelist.net/dbchanges.php?aid=7768&amp;t=producers">add some</a>  </div>
+  <div>
+    <span class="dark_text">Studios:</span>
+          <a href="/anime/producer/7/JCStaff" title="J.C.Staff">J.C.Staff</a>  </div>
+
+<div class="spaceit">
+  <span class="dark_text">Source:</span>
+  Original
+  </div>
+
+<div>
+  <span class="dark_text">Genres:</span>
+      <span itemprop="genre" style="display: none">Mystery</span><a href="/anime/genre/7/Mystery" title="Mystery">Mystery</a>,     <span itemprop="genre" style="display: none">Comedy</span><a href="/anime/genre/4/Comedy" title="Comedy">Comedy</a>,     <span itemprop="genre" style="display: none">Super Power</span><a href="/anime/genre/31/Super_Power" title="Super Power">Super Power</a></div>
+
+<div class="spaceit">
+  <span class="dark_text">Duration:</span>
+  24 min. per ep.
+  </div>
+
+<div>
+  <span class="dark_text">Rating:</span>
+  PG-13 - Teens 13 or older
+  </div>
+
+<br />
+
+<h2>Statistics</h2>
+<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" class="po-r js-statistics-info di-ib" data-id="info1">
+  <span class="dark_text">Score:</span>
+  <span itemprop="ratingValue" class="score-label score-6">6.95</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">14259</span>14,259 users)
+      <meta itemprop="bestRating" content="10">
+    <meta itemprop="worstRating" content="1">
+      <div class="statistics-info info1">
+    <small><sup>1</sup>
+          indicates a <a href="javascript:void(0);" onclick="window.open('/info.php?go=topanime','topanime','menubar=no,scrollbars=no,status=no,width=500,height=380');">weighted score</a>.
+    </small>
+  </div>
+</div>
+<div class="spaceit po-r js-statistics-info di-ib" data-id="info2">
+  <span class="dark_text">Ranked:</span>
+  #3831<sup>2</sup>
+    <div class="statistics-info info2">
+    <small><sup>2</sup>
+    based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
+    </small>
+  </div>
+</div>
+<div>
+  <span class="dark_text">Popularity:</span>
+  #2530
+</div>
+<div class="spaceit">
+  <span class="dark_text">Members:</span>
+    39,253
+</div>
+<div>
+  <span class="dark_text">Favorites:</span>
+  217
+</div>
+
+  <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
+          </div>
+
+</div></td><td valign="top" style="padding-left: 5px;"><div class="js-scrollfix-bottom-rel"><div style="width:728px; margin:0 auto"></div><a name="lower"></a>
+<div id="horiznav_nav" style="margin: 5px 0 10px 0;">
+  <ul style="margin-right: 0; padding-right: 0;">
+        <li><a href="https://myanimelist.net/anime/7768/Tantei_Opera_Milky_Holmes" class="horiznav_active">Details</a>
+    </li>
+        <li><a href="/anime/7768/Tantei_Opera_Milky_Holmes/video">Videos</a>
+    </li>
+        <li>      <a href="https://myanimelist.net/anime/7768/Tantei_Opera_Milky_Holmes/episode">Episodes</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/7768/Tantei_Opera_Milky_Holmes/reviews">Reviews</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/7768/Tantei_Opera_Milky_Holmes/userrecs">Recommendations</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/7768/Tantei_Opera_Milky_Holmes/stats">Stats</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/7768/Tantei_Opera_Milky_Holmes/characters">Characters &amp; Staff</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/7768/Tantei_Opera_Milky_Holmes/news">News</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/7768/Tantei_Opera_Milky_Holmes/forum">Forum</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/7768/Tantei_Opera_Milky_Holmes/featured">Featured</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/7768/Tantei_Opera_Milky_Holmes/clubs">Clubs</a>
+    </li>
+        <li><a href="https://myanimelist.net/anime/7768/Tantei_Opera_Milky_Holmes/pics">Pictures</a>
+    </li>
+    </ul>
+</div>
+
+
+
+                    <div class="breadcrumb " itemscope itemtype="http://schema.org/BreadcrumbList"><div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/" itemprop="item"><span itemprop="name">
+              Top
+                          </span></a><meta itemprop="position" content="1"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime.php" itemprop="item"><span itemprop="name">
+              Anime
+                          </span></a><meta itemprop="position" content="2"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/anime/7768/Tantei_Opera_Milky_Holmes" itemprop="item"><span itemprop="name">
+              Tantei Opera Milky Holmes
+                          </span></a><meta itemprop="position" content="3"></div></div>
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="14,259 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-6">6.95</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#3831</strong></span><span class="numbers popularity">Popularity <strong>#2530</strong></span><span class="numbers members">Members <strong>39,253</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/2010/fall">Fall 2010</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/7/JCStaff" title="J.C.Staff">J.C.Staff</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="7768"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F7768%2FTantei_Opera_Milky_Holmes&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+        Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="12">12</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa fa-plus-circle"></i></a></div><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Tantei%20Opera%20Milky%20Holmes&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime js-shop-selecter icon-shop-default" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:7768,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><div class="anime-detail-header-affiliate-dialog js-shop-selecter-dialog" style="display:none"><a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Tantei%20Opera%20Milky%20Holmes&_encoding=UTF8&tag=animedetailstatus-multi-20&linkCode=ur2&linkId=8c613d92a6ba2baa881f9297649d430a&camp=1789&creative=9325" class="btn-affiliate amazon js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;amazon&quot;,&quot;id&quot;:7768,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif" width="118" height="25" alt="buy from amazon"></a><a href="http://www.cdjapan.co.jp/aff/click.cgi/PytJTGW7Lok/6039/A764127/searches?q=Tantei+Opera+Milky+Holmes" class="btn-affiliate cdjapan js-shop-anime js-shop-cd-japan" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;cdjapan&quot;,&quot;id&quot;:7768,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/logo-cdjapan.png" width="118" height="25" alt="buy from CD Japan"></a><a href="http://www.shareasale.com/r.cfm?u=1384175&b=866986&m=65886&afftrack=&urllink=www.rightstufanime.com%2Fsearch%3Fkeywords%3DDetective%20Opera%20Milky%20Holmes" class="btn-affiliate right_stuf js-shop-anime" data-shop='{&quot;user_id&quot;:null,&quot;shop&quot;:&quot;right_stuf&quot;,&quot;id&quot;:7768,&quot;type&quot;:&quot;anime&quot;}' target="_blank"><img src="https://cdn.myanimelist.net/images/affiliates/buy_right_stuf.png" width="118" height="25" alt="buy from Rightstuf"></a></div></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/JWRCOHxdkoA?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/JWRCOHxdkoA/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">PV</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/7768/Tantei_Opera_Milky_Holmes/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
+</div><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=7768&t=synopsis" style="font-weight: normal;">Edit</a></div><h2>Synopsis</h2></div><p itemprop="description">&quot;Toys&quot; are powers bestowed upon those chosen to wield them, each having qualities that are unique to their users. Some of these individuals are born pure, using their powers to become detectives. Others bloom laced with poison and choose to become phantom thieves. These two opposing factions caused the formation of various detective academies around the globe&mdash;training detectives to fight and catch the phantom thieves.<br />
+<br />
+Sherlock Shellingford, Nero Yuzurizaki, Hercule Burton, and Cordelia Glauca form &quot;Milky Holmes&quot;, a group recognized as the cream of the crop in the Yokohama-based Holmes Detective Academy. However, in a skirmish against the phantom thief Arsene, their Toys suddenly disappear, deeming them unfit to continue as detectives. Stripped of their prestigious life and thrown into a rundown attic, they face expulsion if they fail to regain their powers within the next three months.<br />
+<br />
+<i>Tantei Opera Milky Holmes</i> tells the story of a once-legendary group in their journey to recover their Toys, as well as attempting to continue their line of work without the powers that once defined their career.<br />
+<br />
+[Written by MAL Rewrite]</p><div style="margin-top: 15px;"><div class="floatRightHeader"><a href="/dbchanges.php?aid=7768&t=background" style="font-weight: normal;">Edit</a></div><h2>Background</h2></div>No background information has been added to this title. Help improve our database by adding background information <a href="/dbchanges.php?aid=7768&t=background">here</a>.<br><div class="border_top" style="padding:16px 0px 0px 0px;margin:14px 0px 0px 0px;"><div style="padding: 20px 0 20px 40px; float: left; position: relative; z-index: 1;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540582" data-ad-slot="criteo_slot_1540582" id="criteo_slot_1540582"></div>
+
+      </div>
+    </div><div style="padding: 20px 40px 20px 0; float: right; position: relative;">            <div class="mal-ad-unit" data-ad-width="300" data-ad-height="250">
+        <div class="ad-criteo" data-ad-zone="1540583" data-ad-slot="criteo_slot_1540583" id="criteo_slot_1540583"></div>
+
+      </div>
+    </div></div></td></tr><tr><td class="pb24"><br><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=7768&t=relations" style="font-weight: normal;">Edit</a></div><h2>Related Anime</h2></div><table class="anime_detail_related_anime" style="border-spacing:0px;"><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Side story:</td><td width="100%" class="borderClass"><a href="/anime/10923/Tantei_Opera_Milky_Holmes__Summer_Special">Tantei Opera Milky Holmes: Summer Special</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Sequel:</td><td width="100%" class="borderClass"><a href="/anime/11341/Tantei_Opera_Milky_Holmes_Dai_2_Maku">Tantei Opera Milky Holmes Dai 2 Maku</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Other:</td><td width="100%" class="borderClass"><a href="/anime/31486/Tantei_Opera_Milky_Holmes_Movie__Gyakushuu_no_Milky_Holmes">Tantei Opera Milky Holmes Movie: Gyakushuu no Milky Holmes</a>, <a href="/anime/33308/Tantei_Opera_Milky_Holmes__Fun_Fun_Party_Night♪_-_Ken_to_Janet_no_Okurimono">Tantei Opera Milky Holmes: Fun Fun Party Night♪ - Ken to Janet no Okurimono</a></td></table><br><div><div class="floatRightHeader"><a href="/anime/7768/Tantei_Opera_Milky_Holmes/characters" style="font-weight: normal;">More characters</a></div><h2>Characters & Voice Actors</h2></div><div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/35949/Sherlock_Shellingford" class="fw-n">
+            <img alt="Shellingford, Sherlock" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/14/209729.jpg?s=6e0ba949e82d90660d759e3bc0193f9c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/14/209729.jpg?s=6e0ba949e82d90660d759e3bc0193f9c 1x, https://cdn.myanimelist.net/r/84x124/images/characters/14/209729.jpg?s=deb42fa6d4184e6df4f5c212a6193670 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/35949/Sherlock_Shellingford">Shellingford, Sherlock</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/11359/Suzuko_Mimori">Mimori, Suzuko</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/11359/Suzuko_Mimori">
+                      <img alt="Mimori, Suzuko" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/23681.jpg?s=78dc85a12eddb05da41e9529eb02c63f" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/23681.jpg?s=78dc85a12eddb05da41e9529eb02c63f 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/23681.jpg?s=30dcd0f88d17719cfcaea7d30aeb026e 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/35950/Hercule_Burton" class="fw-n">
+            <img alt="Burton, Hercule" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/11/209741.jpg?s=3cb5d3ad96b6701f58cc1d0a7ef038eb" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/11/209741.jpg?s=3cb5d3ad96b6701f58cc1d0a7ef038eb 1x, https://cdn.myanimelist.net/r/84x124/images/characters/11/209741.jpg?s=0f1428e6731daae69042f48699e56871 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/35950/Hercule_Burton">Burton, Hercule</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/11360/Mikoi_Sasaki">Sasaki, Mikoi</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/11360/Mikoi_Sasaki">
+                      <img alt="Sasaki, Mikoi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/42207.jpg?s=742f1d8a1efc769c15cfa204da0efbb0" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/42207.jpg?s=742f1d8a1efc769c15cfa204da0efbb0 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/42207.jpg?s=624f6dbbc2d8131ce101e7a1f7674fb4 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/35951/Cordelia_Glauca" class="fw-n">
+            <img alt="Glauca, Cordelia" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/14/104845.jpg?s=0544f85aaabfa956cfb517a28eee284c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/14/104845.jpg?s=0544f85aaabfa956cfb517a28eee284c 1x, https://cdn.myanimelist.net/r/84x124/images/characters/14/104845.jpg?s=fac7963e1070eaaf5721cbe53d2d9633 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/35951/Cordelia_Glauca">Glauca, Cordelia</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/7899/Izumi_Kitta">Kitta, Izumi</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/7899/Izumi_Kitta">
+                      <img alt="Kitta, Izumi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/55656.jpg?s=0e560cad541fb2b66a0233d7a754d99c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/55656.jpg?s=0e560cad541fb2b66a0233d7a754d99c 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/55656.jpg?s=3796eda8236dac38875965c0f0c529a0 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/38121/Henriette_Mystere" class="fw-n">
+            <img alt="Mystere, Henriette" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/10/103999.jpg?s=e9557ae40f3a60b2aebfc24020278d60" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/10/103999.jpg?s=e9557ae40f3a60b2aebfc24020278d60 1x, https://cdn.myanimelist.net/r/84x124/images/characters/10/103999.jpg?s=9daaafc864b544fdfd2bf4aabf284ba4 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/38121/Henriette_Mystere">Mystere, Henriette</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/723/Satomi_Akesaka">Akesaka, Satomi</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/723/Satomi_Akesaka">
+                      <img alt="Akesaka, Satomi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/41560.jpg?s=6ced163b10c98b4ccb95e6c7d955e934" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/41560.jpg?s=6ced163b10c98b4ccb95e6c7d955e934 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/41560.jpg?s=c5ff60b1639178100c008c2eca67b30f 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/32892/Nero_Yuzurizaki" class="fw-n">
+            <img alt="Yuzurizaki, Nero" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/14/103411.jpg?s=885ff551673250c64d4b49da5905bf83" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/14/103411.jpg?s=885ff551673250c64d4b49da5905bf83 1x, https://cdn.myanimelist.net/r/84x124/images/characters/14/103411.jpg?s=774786b050652dfab25362f905e31f81 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/32892/Nero_Yuzurizaki">Yuzurizaki, Nero</a></h3>
+        <div class="spaceit_pad">
+          <small>Main</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/11361/Sora_Tokui">Tokui, Sora</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/11361/Sora_Tokui">
+                      <img alt="Tokui, Sora" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/42204.jpg?s=7ef382a42567cbe3b145a28cfed71d8e" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/42204.jpg?s=7ef382a42567cbe3b145a28cfed71d8e 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/42204.jpg?s=3748c185b8aa44b882f17df4d8da3766 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/37733/Kokoro_Akechi" class="fw-n">
+            <img alt="Akechi, Kokoro" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/13/289345.jpg?s=52b31add0b8f5648946d90b96800bc45" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/13/289345.jpg?s=52b31add0b8f5648946d90b96800bc45 1x, https://cdn.myanimelist.net/r/84x124/images/characters/13/289345.jpg?s=2d73815c57267119b79fc5b094c701ff 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/37733/Kokoro_Akechi">Akechi, Kokoro</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/1592/Yoshino_Nanjou">Nanjou, Yoshino</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/1592/Yoshino_Nanjou">
+                      <img alt="Nanjou, Yoshino" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/41939.jpg?s=736ef675d0faa57b59a8b89aed2e99bd" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/41939.jpg?s=736ef675d0faa57b59a8b89aed2e99bd 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/41939.jpg?s=ce36debb1ba636fbbd8027e096faa5ae 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/37629/Kai_Nijuuri" class="fw-n">
+            <img alt="Nijuuri, Kai" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/2/104430.jpg?s=42abab7b04eba8e06eca1e5e8d500487" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/2/104430.jpg?s=42abab7b04eba8e06eca1e5e8d500487 1x, https://cdn.myanimelist.net/r/84x124/images/characters/2/104430.jpg?s=8097520bfa14993e6b5c160ad8cc0cba 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/37629/Kai_Nijuuri">Nijuuri, Kai</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/440/Daisuke_Kishio">Kishio, Daisuke</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/440/Daisuke_Kishio">
+                      <img alt="Kishio, Daisuke" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/58135.jpg?s=f0d78d8dd28abf06272c9d95dc16a21c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/58135.jpg?s=f0d78d8dd28abf06272c9d95dc16a21c 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/58135.jpg?s=5199bbdf75083a33f76375376547ee2b 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/38369/Saku_Tooyama" class="fw-n">
+            <img alt="Tooyama, Saku" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/14/106090.jpg?s=5238654f8711a8428a5860d11c525949" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/14/106090.jpg?s=5238654f8711a8428a5860d11c525949 1x, https://cdn.myanimelist.net/r/84x124/images/characters/14/106090.jpg?s=6469e70e68b82695df782242d047f8f1 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/38369/Saku_Tooyama">Tooyama, Saku</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/27/Yukari_Tamura">Tamura, Yukari</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/27/Yukari_Tamura">
+                      <img alt="Tamura, Yukari" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54665.jpg?s=168fdf1728b15f15f9e0aee4940d8f6f" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/54665.jpg?s=168fdf1728b15f15f9e0aee4940d8f6f 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/54665.jpg?s=8d5d5765d32583b41a959c6902d14621 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/38119/Jirou_Nezu" class="fw-n">
+            <img alt="Nezu, Jirou" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/2/103990.jpg?s=a440e8cc7ccb3fbc946d2ce5899b8665" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/2/103990.jpg?s=a440e8cc7ccb3fbc946d2ce5899b8665 1x, https://cdn.myanimelist.net/r/84x124/images/characters/2/103990.jpg?s=a2f7904b74f44af0010d5d4436b3114a 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/38119/Jirou_Nezu">Nezu, Jirou</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/356/Hiro_Shimono">Shimono, Hiro</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/356/Hiro_Shimono">
+                      <img alt="Shimono, Hiro" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/61089.jpg?s=c9dae79a33ab91f39790f65dbdf60d5c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/61089.jpg?s=c9dae79a33ab91f39790f65dbdf60d5c 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/61089.jpg?s=50828a75794439625414464ec185810a 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/37734/Tsugiko_Zenigata" class="fw-n">
+            <img alt="Zenigata, Tsugiko" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/11/106145.jpg?s=7e752f6d4cf7085ea33d4e1979988f5d" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/11/106145.jpg?s=7e752f6d4cf7085ea33d4e1979988f5d 1x, https://cdn.myanimelist.net/r/84x124/images/characters/11/106145.jpg?s=c8cc78baaa33a06f8ca4266f5f442007 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <h3 class="h3_characters_voice_actors"><a href="https://myanimelist.net/character/37734/Tsugiko_Zenigata">Zenigata, Tsugiko</a></h3>
+        <div class="spaceit_pad">
+          <small>Supporting</small>
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass">
+                <table border="0" cellpadding="0" cellspacing="0"><tr>
+                <td class="va-t ar pl4 pr4">
+                  <a href="https://myanimelist.net/people/99/Miyuki_Sawashiro">Sawashiro, Miyuki</a><br>
+                  <small>Japanese</small>
+                </td>
+                <td valign="top">
+                  <div class="picSurround">
+                    <a href="https://myanimelist.net/people/99/Miyuki_Sawashiro">
+                      <img alt="Sawashiro, Miyuki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/54600.jpg?s=0a5cb995dd9e0413e62d82f887329c43" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/54600.jpg?s=0a5cb995dd9e0413e62d82f887329c43 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/54600.jpg?s=a371b7e7c1cab3eaf0454fecdf92e876 2x" class="lazyload" />
+                    </a>
+                  </div>
+                </td>
+              </tr></table>
+              </td>
+    </tr>
+  </table></div></div>
+<div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div><br>
+<a name="staff"></a>
+<div>
+  <div class="floatRightHeader"><a href="https://myanimelist.net/anime/7768/Tantei_Opera_Milky_Holmes/characters#staff">More staff</a></div>
+  <h2>Staff</h2>
+</div>
+
+<div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/14581/Makoto_Moriwaki" class="fw-n">
+            <img alt="Moriwaki, Makoto" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/58572.jpg?s=f23ce6d48fa5c77919a4dda5a9756030" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/58572.jpg?s=f23ce6d48fa5c77919a4dda5a9756030 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/58572.jpg?s=49e88f128b869b5c5ec35933e0eae790 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/14581/Makoto_Moriwaki">Moriwaki, Makoto</a>
+        <div class="spaceit_pad">
+          <small>Director, Storyboard</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/8074/Jin_Aketagawa" class="fw-n">
+            <img alt="Aketagawa, Jin" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/53380.jpg?s=effa36418c3b694ce1175038f95ae154" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/53380.jpg?s=effa36418c3b694ce1175038f95ae154 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/53380.jpg?s=d5695e390c16f1990efb6c9440c4a5f1 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/8074/Jin_Aketagawa">Aketagawa, Jin</a>
+        <div class="spaceit_pad">
+          <small>Sound Director</small>
+        </div>
+      </td>
+    </tr>
+  </table></div><div class="left-right fl-r" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/42034/Daisuke_Takashima" class="fw-n">
+            <img alt="Takashima, Daisuke" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/42034/Daisuke_Takashima">Takashima, Daisuke</a>
+        <div class="spaceit_pad">
+          <small>Episode Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/34579/Masato_Jinbo" class="fw-n">
+            <img alt="Jinbo, Masato" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass">
+        <a href="https://myanimelist.net/people/34579/Masato_Jinbo">Jinbo, Masato</a>
+        <div class="spaceit_pad">
+          <small>Episode Director, Storyboard</small>
+        </div>
+      </td>
+    </tr>
+  </table></div></div>
+<br><br><div class="di-t">
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=7768&amp;t=theme" class="floatRightHeader">Edit</a>
+      <h2>Opening Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs opnening"><span class="theme-song">&quot;Seikai wa Hitotsu! Janai!! (正解はひとつ！じゃない！！)&quot; by Milky Holmes</span><br></div>
+  </div>
+  <div class="di-tc va-t}" style="width:16px;"></div>
+
+  <div class="di-tc va-t " style="width:392px;">
+    <div>
+      <a href="https://myanimelist.net/dbchanges.php?aid=7768&amp;t=theme&amp;themetype=2" class="floatRightHeader">Edit</a>
+      <h2>Ending Theme</h2>
+    </div>
+    <div class="theme-songs js-theme-songs ending"><span class="theme-song">&quot;Honnou no Doubt (本能のDOUBT)&quot; by Faylan</span><br></div>
+  </div>
+</div>
+<br><br><br><div><span class="floatRightHeader"><a href="/anime/7768/Tantei_Opera_Milky_Holmes/reviews">More reviews</a></span><h2>Reviews</h2></div>
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="11:24 PM">Mar 20, 2013</div>
+      <div class="lightLink spaceit">
+                  12 of 12 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score90309').toggle()">Overall Rating</a>:
+        7
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Veronin">
+                  <img src="https://cdn.myanimelist.net/images/userimages/39613.jpg?t=1610488800" data-src="https://cdn.myanimelist.net/images/userimages/39613.jpg?t=1610488800" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Veronin">Veronin</a>
+              <small>(<a href="/profile/Veronin/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp90309">210</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score90309">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>7</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">5</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">6</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">6</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">7</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">8</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    In the near future, in a world tarnished by lawlessness and disorder, exists an elite detective agency known as Milky Holmes. Represented by four talented young girls, the agency exists to fight against those that threaten the people&#039;s security. Through their struggles to preserve peace is a courageous, poignant story of mystery and betrayal...<br />
+<br />
+Wait, none of that has anything to do with Milky Holmes. Let&#039;s try again.<br />
+<br />
+For Sheryl, Cordelia, Elly and Nero, any shred of courage and talent is tossed aside within five minutes of the first episode. After losing their supernatural abilities— &quot;Toys&quot;, the once-esteemed detectives devolve into a group of scatterbrains miserably failing
+
+          <span style="display: none;" id="review90309">
+        at every single thing that they set out to do. Bear attacking them in the forest? They try to befriend it. An antagonist&#039;s identity revealed in front of them? They assume it is cosplay. Between their innumerable failures, one inevitably starts to wonder if they would be more at home in a mental hospital rather than a detective academy. <br />
+<br />
+It&#039;s easy to recognize the four girls due to their colorful designs. Sheryl stands as your typical happy-go-lucky protagonist, characterized by her circular pigtails and massive hair bow that somehow outsizes her entire head. On the other hand, you have Cordelia, the equivocally &#039;mature&#039; member of the group who frequently falls into hysteric outbursts.  There is also Nero, an energetic tomboy, and Elly, a timid girl who speaks so little that you&#039;d confuse her as being mute. Generic it is, but the girls are made to stand out as a group more so than as individuals. This is not an anime about Sheryl, but an anime about Milky Holmes. <br />
+<br />
+Rather, the side characters are where the show shines. Serving as the series&#039; antagonist is the Gentlemen Thieves, a four member criminal organization led by Arsène and her enormous bosom. As a long-term rival to Milky Holmes, they more or less function as the show&#039;s equivalent to Team Rocket. In almost every episode, the two are involved in some sort of inane conflict with each other. The best part is the character &quot;Twenty&quot;, a man wearing a monocle and top hat who frequently rips his shirt off, screams to the heavens about his beauty, and runs around exposing his erect nipples to everybody in sight. Yes, seriously.<br />
+<br />
+There is also a third group named the Genius 4, a police unit which continually finds themselves pulled in between the nonsense of Milky Holmes and their rivals. The only character of note here is its leader Kokoro, a self-professed child genius with an IQ of &gt;1300. When not gloating about her questionable intellect, Kokoro is usually seen fulfilling her sadistic urges by manipulating the members of Milky Holmes, for often amusing and occasionally depressing results. It&#039;s a shame that so few episodes see her with any significant screen time, given that she&#039;s the most entertaining of the female characters. <br />
+<br />
+One of the more unique aspects of the series is that it is an homage to the detective genre. Blatant references to famous fictional detectives exist within the names of nearly every character (Sherlock Holmes, Nero Wolfe), while common conventions of the genre are frequently parodied through the idiocy of the characters. Fans of the genre will undoubtedly find some level of amusement in all the references. <br />
+<br />
+Though do not expect mystery from Milky Holmes. There is none to be found here, aside from deep philosophical questions like how much damage the characters have received to their brain. Even the conflicts are resolved through supernatural powers and violence rather than any sort of reasoning or detective work.<br />
+<br />
+But that is the point of Milky Holmes. It is intentionally stupid. It&#039;s a comedy anime that does not waste unnecessary time on character and story development, nor does it pretend to be witty highbrow entertainment. It is easy, simple humor revolving around the exploits of Dumb and Dumber— compounded with a cast of excessively cute girls. Milky Holmes does an excellent job being what it is, but those who find this sort of comedy appalling would be advised to set their eyeballs in the other direction. You won&#039;t be missing a whole lot.  <br />
+<br />
+Occasionally the show does attempt to focus on its story, to largely dreadful results. The sudden dramatic tone makes for an uncomfortable and incongruous transition, taking away from the inherent appeal of the series. If everything after the first episode is filled with absurd humor, how is the viewer supposed to care when the story comes back at the end? Perhaps it may have been better with no plot at all.  Still, the climactic fight in the final episode was a surprisingly pleasant conclusion to the season. There&#039;s a neatly animated battle scene with Sheryl using her wits and power (for the first time), and in the last minutes we are treated with a very Milky Holmes-esque twist to the story. In other words, it is immensely silly. And flagrantly stupid.<br />
+<br />
+The art fidelity leaves much to be desired, but there isn&#039;t much to complain in terms of visual style. Character designs are colorful and appealing while the backgrounds employ a unique crayon-drawn aesthetic. Often though, you will see off-model faces and strange proportions in between important scenes. It&#039;s quite jarring and could easily be alleviated through a larger budget. <br />
+<br />
+Music is not Milky Holmes&#039; forte, but the excellent OP compensates for the forgettable score. It captures the charm of the anime and serves as a nice little treat before each episode begins. Adding to this is a solid cast of seiyuu who do a commendable job at making the comedic lines actually work. There&#039;s nothing worse than a comedy performed by lifeless actors, and thankfully Milky Holmes is in complete contrast to that. <br />
+<br />
+This is the kind of anime that only comes around every once in a while. For a medium where manzai humor and cliches are predominant, a title such as Milky Holmes almost seems alien. There&#039;s a certain charm to be found here, and if you can forgive the glaring flaws of the anime you will most likely be in for an enjoyable ride. Assuming of course, that you are not offended by protruding nipples and utter stupidity. <br />
+<br />
+Failure has never been this cute. 
+        
+<div id="revhelp_output_90309" class="mt8 js-review-btn-helpful js-review-helpful-90309">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F7768%2FTantei_Opera_Milky_Holmes" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle90309"
+         class="js-toggle-review-button" data-id="90309">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=90309" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=90309" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="7:20 PM">Dec 26, 2010</div>
+      <div class="lightLink spaceit">
+                  12 of 12 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score33103').toggle()">Overall Rating</a>:
+        7
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/DangoSage">
+                  <img src="https://cdn.myanimelist.net/images/userimages/383982.jpg?t=1588729800" data-src="https://cdn.myanimelist.net/images/userimages/383982.jpg?t=1588729800" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/DangoSage">DangoSage</a>
+              <small>(<a href="/profile/DangoSage/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp33103">64</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score33103">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>7</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">5</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">6</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">0</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">7</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">8</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    OK first of all, before you pick up this series, throw every expectation out of the window! Literally! <br />
+Here&#039;s the most common perception people have on this anime;<br />
+-&quot;Oh god, It&#039;s another lolicon&#039;s anime!&quot;<br />
+Well, that&#039;s my first perception on it, but I can assure you, only the opening looks lolicon-ish. The rest of the show doesn&#039;t really promote pedophilia. How can you when the main villain of this series has gigantic b**b!<br />
+<br />
+-&quot;Wow! A mystery anime! Finally I get to watch something else other than Detective Conan!&quot;<br />
+Once again, throw away that perception. Did the title say Detective Holmes? No. Unlike Detective Conan, it&#039;s clearly not stated it&#039;s
+
+          <span style="display: none;" id="review33103">
+        a detective show. Closest you&#039;ll get to them solving a case is almost to nil. The only mystery here is how they lost their powers and will they ever get it back.<br />
+<br />
+-&quot;Wow! An anime about cute little girls with superpowers!&quot;<br />
+What do you think this is? The Powerpuff girls? Once again, No. I dont wan&#039;t to give any spoilers here but I can tell you, most of the time in the show isn&#039;t about special powers. Do not expect Alice Academy here.<br />
+<br />
+Other than that, if you gotten rid of all those three widely mistaken perception and just think of it as a comedy based anime, then im sure you&#039;ll be greatly entertained.<br />
+<br />
+Their stupidity and plain randomness is enough to leave your face bruises all over (Due to the excessive face-palm) Not to mention, throw in a narcissistic teacher, and you have the complete recipe for pure random comedy.<br />
+Not to mention throw in a few panty shots.<br />
+<br />
+The art is pretty well done, it compliments the cheery and positive outlook the character have on their life, despite the misery it comes along for everyone else. <br />
+Sound was exceptionally done. I especially love the sound effect you get when their toys are activated.<br />
+Each character has their own unique personality, you wont find 2 or more characters in this anime with the same personality. However, be prepared for some cliche characters especially for the villain side.<br />
+<br />
+Moreover, this anime is enjoyable for every age group.. Yes, that means you too you lolicons! You would probably enjoy re watching all those funny moments of the narcissistic and all of this antics.<br />
+<br />
+Overall it is quite a unique and hilarious anime if you discard all your expectation. Come in with nothing, come out bursting with laughter (and bruises on your face) On one condition that you survived watching the first few episodes. (Im sorry to say but the action and comedy picked up midway through the anime, so does the fanservice bit)<br />
+<br />
+And there you have it,<br />
+Haremu Kingu, signing off! 
+        
+<div id="revhelp_output_33103" class="mt8 js-review-btn-helpful js-review-helpful-33103">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F7768%2FTantei_Opera_Milky_Holmes" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle33103"
+         class="js-toggle-review-button" data-id="33103">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=33103" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=33103" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="7:34 AM">Jan 25, 2013</div>
+      <div class="lightLink spaceit">
+                  12 of 12 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score84787').toggle()">Overall Rating</a>:
+        10
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/Gaijin-san">
+                  <img src="https://cdn.myanimelist.net/images/userimages/1591727.jpg?t=1402044000" data-src="https://cdn.myanimelist.net/images/userimages/1591727.jpg?t=1402044000" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/Gaijin-san">Gaijin-san</a>
+              <small>(<a href="/profile/Gaijin-san/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp84787">41</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score84787">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>10</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">10</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">10</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">10</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">10</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">10</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    SAO just like Milky holmes is a psychological delicacy that is undermined within the mainstream media as being a moe trash piece of garbage which when in fact it is really a genre defining academic text which would drive the most literally minded academics insane over the deep and complex issues conveyed of perpetual identity, symbolic relational symbolism, alternative character constructions and exploration through modern sociological issues within the show not to mention the ground breaking visuals which would send the most post modern shaft style shows to shame.<br />
+<br />
+Honestly i could spend hours unravelling and discussing the deep psychophysical themes of Tantei Opera Milky Holmes
+
+          <span style="display: none;" id="review84787">
+        and in the perfect world i would but simply if you cannot objective agree that Tantei Opera Milky Holmes is a shining light among the generic money-pinching crap of contemporary modern anime-visuals and objectively deserves nothing less then a masterpiece 10/10 ranking you then have considerably shit taste and i feel for you.
+        
+<div id="revhelp_output_84787" class="mt8 js-review-btn-helpful js-review-helpful-84787">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F7768%2FTantei_Opera_Milky_Holmes" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle84787"
+         class="js-toggle-review-button" data-id="84787">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=84787" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=84787" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+              
+<div class="borderDark" style="padding: 4px 0;">
+  <div class="spaceit">
+    <div class="mb8" style="float: right; text-align: right;">
+      <div title="1:23 AM">Mar 2, 2011</div>
+      <div class="lightLink spaceit">
+                  12 of 12 episodes seen
+              </div>
+      <div>
+        <a href="javascript:void(0);" onclick="$('#score34867').toggle()">Overall Rating</a>:
+        9
+      </div>
+    </div><div style="float: left;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+                                              <td valign="top" width="60">
+              <div class="picSurround">
+                <a href="https://myanimelist.net/profile/shuncchi">
+                  <img src="https://cdn.myanimelist.net/images/userimages/398576.jpg?t=1345749600" data-src="https://cdn.myanimelist.net/images/userimages/398576.jpg?t=1345749600" border="0" class=" lazyloaded" width="48">
+                </a>
+              </div>
+            </td>
+                    <td valign="top">
+                          <a href="https://myanimelist.net/profile/shuncchi">shuncchi</a>
+              <small>(<a href="/profile/shuncchi/reviews">All reviews</a>)</small><br>
+                        <div class="lightLink spaceit">
+              <strong>
+                <span id="rhelp34867">10</span>
+              </strong>
+              people found this review helpful
+            </div>
+                      </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
+        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score34867">
+      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
+        <tr>
+          <td class="borderClass bgColor1"><strong>Overall</strong></td>
+          <td class="borderClass bgColor1"><strong>9</strong></td>
+        </tr>
+        <tr>
+          <td class="borderClass" align="left">Story</td>
+          <td class="borderClass">8</td>
+        </tr>
+                  <tr>
+            <td class="borderClass" align="left">Animation</td>
+            <td class="borderClass">8</td>
+          </tr>
+          <tr>
+            <td class="borderClass" align="left">Sound</td>
+            <td class="borderClass">8</td>
+          </tr>
+                <tr>
+          <td class="borderClass" align="left">Character</td>
+          <td class="borderClass">10</td>
+        </tr>
+        <tr>
+          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
+          <td class="borderClass" style="border-width: 0;">10</td>
+        </tr>
+      </table>
+    </div>
+
+                          
+    So after a while i decided to write my first review for the most underrated anime i saw. Tantei Opera Milky Holmes.<br />
+<br />
+If i look at my scores 8 for story, 8 for art, 8 for sound. <br />
+Its not really the animation or a great storyline which amazed me. The character are so funny to watch and the most important point for me was the &quot;enjoyment&quot;.<br />
+<br />
+I dont care if the arts bad, story boring and the sound annoying, but the jokes was so nice to watch, and the insider gags were so funny( ones you get it) that the enjoyment factor was at maximum for me.<br />
+<br />
+And
+
+          <span style="display: none;" id="review34867">
+        whats really special for me was that i dropped this anime once. After watching the 5 ep i started to watch something different. But suddenly somewhere near christmas i started to watch ep 6 and was so fascinated that i couldnt stop and watched all of them in one day.<br />
+And the last ep was probably the most awesome last ep i saw. <br />
+That was my little christmas miracle ^^<br />
+<br />
+And the hype didnt end, i read other blogs that they also fascinated about this awesome anime and even convince other to watch it and they didnt regret it. <br />
+<br />
+So to everyone who think this is a serie about little girls who fight bears, they are right but thats the charm of Tantei Opera Milky Holmes.
+        
+<div id="revhelp_output_34867" class="mt8 js-review-btn-helpful js-review-helpful-34867">
+      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F7768%2FTantei_Opera_Milky_Holmes" class="button_form">Helpful</a>
+  </div>
+      </span>
+      <a href="javascript:void(0);" id="reviewToggle34867"
+         class="js-toggle-review-button" data-id="34867">read more</a>
+      </div>
+  <div>
+    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
+      <div style="float: right;">
+                  <a href="https://myanimelist.net/reviews.php?id=34867" class="lightLink"><small>permalink</small></a> |
+                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=34867" class="lightLink">
+          <small>report</small>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+<div class="mt4"></div><div class="amazon-ads anime-manga-detail bottom pt20 pb16">
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "animedetail-20";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Buy on Amazon.com ";
+amzn_assoc_default_search_phrase = "Tantei_Opera_Milky_Holmes";
+amzn_assoc_default_category = "DVD";
+amzn_assoc_linkid = "d33d41183eb8aee6216ffe9ff44ca735";
+amzn_assoc_rows = "1";
+amzn_assoc_search_bar_position = "bottom";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+</div>            <div class="mal-ad-unit" data-ad-width="801" data-ad-height="633">
+        <div id="taboola-below-article-thumbnails-anime"></div> <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'alternating-thumbnails-a',
+    container: 'taboola-below-article-thumbnails-anime',
+    placement: 'Below Article Thumbnails Anime',
+    target_type: 'mix'
+  });
+</script>
+
+      </div>
+    <br><div><div class="floatRightHeader"><a href="/anime/7768/Tantei_Opera_Milky_Holmes/news">More news</a></div><h2>Recent News</h2></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/53081344" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1511011000-dd52aab0c4306704462be998be6d7811.jpeg?s=2b3cea9cf2886252738a6c745b96b62f" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1511011000-dd52aab0c4306704462be998be6d7811.jpeg?s=2b3cea9cf2886252738a6c745b96b62f 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1511011000-dd52aab0c4306704462be998be6d7811.jpeg?s=d757be77007a97e3f224cd579a26f720 2x" alt="New Anime Special for &#039;Tantei Opera Milky Holmes&#039; Announced" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/53081344"><strong>New Anime Special for &#039;Tantei Opera Milky Holmes&#039; Announced</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p>The official website for the Milky Holmes anime series has released a video featuring the cast members and announced a new anime special for the franchise. Titled Ar...<a href="/news/53081344">read more</a></p></div>
+		<p class="lightLink spaceit">Nov 18, 2017 5:18 AM by <a href="/profile/tsubasalover">tsubasalover</a> | <a href="/forum/?topicid=1684587">Discuss (11 comments)</a></p></div>
+		<div class="borderClass"></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/46050597" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1463411464-5118cc36243e65aa25ab57d0c680f36f.jpeg?s=cf0d3360506c551c06ab2cf13afba6e0" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1463411464-5118cc36243e65aa25ab57d0c680f36f.jpeg?s=cf0d3360506c551c06ab2cf13afba6e0 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1463411464-5118cc36243e65aa25ab57d0c680f36f.jpeg?s=95b61f1bb77cc4d8a57ecefa6eebd02b 2x" alt="New Year&#039;s Eve Special of &#039;Tantei Opera Milky Holmes&#039; Announced" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/46050597"><strong>New Year&#039;s Eve Special of &#039;Tantei Opera Milky Holmes&#039; Announced</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p>It was announced at the two-day concert Live Milky Holmes Full Color Matsuri (key visual pictured) this past weekend that a new anime of the Tantei Opera Milky Holme...<a href="/news/46050597">read more</a></p></div>
+		<p class="lightLink spaceit">May 16, 2016 8:12 AM by <a href="/profile/arsonal">arsonal</a> | <a href="/forum/?topicid=1511048">Discuss (5 comments)</a></p></div>
+		<div class="borderClass"></div><br><div><div class="floatRightHeader"><a href="/forum/?animeid=7768"><a href="/anime/7768/Tantei_Opera_Milky_Holmes/forum">More discussions</a></div><h2>Recent Forum Discussion</h2></div><div class="page-forum">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F7768%2FTantei_Opera_Milky_Holmes&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=277834">Tantei Opera Milky Holmes Episode 12 Discussion</a> <small> ( <a href="/forum/?topicid=277834&show=0">1</a> <a href="/forum/?topicid=277834&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/shuncchi">shuncchi</a></span> - <span class="lightLink">Dec 24, 2010</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">59 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/TheBigGuy">TheBigGuy</a> <a href="/forum/?topicid=277834&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Jun 26, 2020 5:35 AM</td>
+            </tr>
+            <tr id="topicRow2">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F7768%2FTantei_Opera_Milky_Holmes&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=274585">Tantei Opera Milky Holmes Episode 9 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/snowgreen">snowgreen</a></span> - <span class="lightLink">Dec 4, 2010</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">33 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/TheBigGuy">TheBigGuy</a> <a href="/forum/?topicid=274585&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Jun 25, 2020 4:40 PM</td>
+            </tr>
+            </table></div><br><div><div class="floatRightHeader"><a href="/anime/7768/Tantei_Opera_Milky_Holmes/featured">More featured articles</a></div><h2>Recent Featured Articles</h2></div><div class="detail-page-featured-article"><div class="news-list">
+      
+    <div class="news-unit clearfix"><div class="picSurround fl-l mr8 ml3">
+          <a href="https://myanimelist.net/featured/1560/Anime_Birthdays__Which_Characters_Share_Your_Birthday"><img src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1459731130-4ddd8dcf0ead308e5ceae809dbb5071d.jpeg?s=dcecde772cc3b97642c1d36d24e84fcb" alt="Anime Birthdays: Which Characters Share Your Birthday?" class="image lazyload" width="50" height="78" srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1459731130-4ddd8dcf0ead308e5ceae809dbb5071d.jpeg?s=dcecde772cc3b97642c1d36d24e84fcb 1x, https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1459731130-4ddd8dcf0ead308e5ceae809dbb5071d.jpeg?s=b011147bd03b6611c6b0fc3836516e1f 2x" /></a>
+        </div><div class="news-unit-right rect">
+        <p class="title">
+          <a href="https://myanimelist.net/featured/1560/Anime_Birthdays__Which_Characters_Share_Your_Birthday" title="Anime Birthdays: Which Characters Share Your Birthday?">Anime Birthdays: Which Characters Share Your Birthday?</a>
+        </p>
+        <div class="text">
+          Celebrating anime birthdays is the perfect way to cross the boundary between reality and fiction. But what about your special day? How wonderful would it be if you could celebrate your birthday with a lovely character who shares it? Come meet your anime soulmate! 
+        </div>
+        <div class="information">
+          <p class="info pr8">
+            by <a href="https://myanimelist.net/profile/futarochan89">futarochan89</a>
+          </p><p class="di-tc pv pr8">
+              <b>113,533</b> views
+            </p><div class="tags">
+              <div class="tags-inner"><a href="https://myanimelist.net/featured/tag/collection" class="tag tag-color-feature-collection" title="Collection">Collection</a><a href="https://myanimelist.net/featured/tag/fan_made" class="tag tag-color-feature-fan_made" title="Fan Made">Fan Made</a><a href="https://myanimelist.net/featured/tag/gif" class="tag tag-color-feature-gif" title="GIF">GIF</a><a href="https://myanimelist.net/featured/tag/trivia" class="tag tag-color-feature-trivia" title="Trivia">Trivia</a></div>
+            </div></div>
+      </div>
+    </div>
+            
+    <div class="news-unit clearfix"><div class="picSurround fl-l mr8 ml3">
+          <a href="https://myanimelist.net/featured/259/All_About_Detective_Conan"><img src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1441923972-5ed6717a3d265891e049f40f3c52aa9f.jpeg?s=271a0044fd17ddc06e8bbb97399c0903" alt="All About Detective Conan" class="image lazyload" width="50" height="78" srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1441923972-5ed6717a3d265891e049f40f3c52aa9f.jpeg?s=271a0044fd17ddc06e8bbb97399c0903 1x, https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1441923972-5ed6717a3d265891e049f40f3c52aa9f.jpeg?s=e04d2294ce884786dd4ee79efed43b04 2x" /></a>
+        </div><div class="news-unit-right rect">
+        <p class="title">
+          <a href="https://myanimelist.net/featured/259/All_About_Detective_Conan" title="All About Detective Conan">All About Detective Conan</a>
+        </p>
+        <div class="text">
+          Detective Conan (Case Closed) adapts Gosho Aoyama&#039;s mystery manga series of the same name. Take a look to learn more about Detective Conan and what it has to offer.
+        </div>
+        <div class="information">
+          <p class="info pr8">
+            by <a href="https://myanimelist.net/profile/ljaesch1">ljaesch1</a>
+          </p><p class="di-tc pv pr8">
+              <b>10,135</b> views
+            </p><div class="tags">
+              <div class="tags-inner"><div class="tags-inner-attributes"><span class="tag tag-color-feature-spoiler">Spoiler</span></div><a href="https://myanimelist.net/featured/tag/recommendation" class="tag tag-color-feature-recommendation" title="Recommendation">Recommendation</a><a href="https://myanimelist.net/featured/tag/background_analysis" class="tag tag-color-feature-background_analysis" title="Background Analysis">Background Analysis</a></div>
+            </div></div>
+      </div>
+    </div>
+        </div>
+</div><div style="padding:16px 0px 0px 0px;"><div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div></div><br><div>
+            <div class="floatRightHeader"><a href="/anime/7768/Tantei_Opera_Milky_Holmes/userrecs">More recommendations</a></div>
+            <h2>Recommendations
+            </h2></div>  <div class=""><a href="https://myanimelist.net/anime/7768/Tantei_Opera_Milky_Holmes/userrecs" class="btn-detail-recommendations-view-all fl-r">
+      <span class="text">View All</span>
+      <span class="icon-next"><i class="fa fa-chevron-right icon-chevron" aria-hidden="true"></i></span>
+    </a><div class="anime-slide-block" id="anime_recommendation" data-json='{"width":702,"btnWidth":40,"margin":8}'><div class="btn-anime-slide-side left"><span class="btn-inner"></span></div><div class="btn-anime-slide-side right"><span class="btn-inner"></span></div><div class="anime-slide-outer" style="height:140px;"><ul class="anime-slide js-anime-slide" data-slide="7"><li class="btn-anime" style="width:90px" title="Endro~!"><a href="https://myanimelist.net/recommendations/anime/7768-38062" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Endro~!</span><span class="users">3 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1475/96180.jpg?s=550f12e0aecc0c0c56b8901f26f2b06e" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1475/96180.jpg?s=550f12e0aecc0c0c56b8901f26f2b06e 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1475/96180.jpg?s=2e617903f660e954c95ae347708e4cc8 2x" width="90" height="140" class="image lazyload" alt="Endro~!" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kaitou Tenshi Twin Angel: Kyun Kyun☆Tokimeki Paradise!!"><a href="https://myanimelist.net/recommendations/anime/7768-10217" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kaitou Tenshi Twin Angel: Kyun Kyun☆Tokimeki Paradise!!</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/11/30254.jpg?s=195598ec2fb371735c61ba2f300b11bd" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/11/30254.jpg?s=195598ec2fb371735c61ba2f300b11bd 1x,https://cdn.myanimelist.net/r/180x280/images/anime/11/30254.jpg?s=1e5c307dbb647b243f6f87ca35471ed5 2x" width="90" height="140" class="image lazyload" alt="Kaitou Tenshi Twin Angel: Kyun Kyun☆Tokimeki Paradise!!" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Detective Conan"><a href="https://myanimelist.net/recommendations/anime/235-7768" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Detective Conan</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/7/75199.jpg?s=f6407bbabdc233ff17106ff21beb089e" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/7/75199.jpg?s=f6407bbabdc233ff17106ff21beb089e 1x,https://cdn.myanimelist.net/r/180x280/images/anime/7/75199.jpg?s=8cd6d7441f57792fbd653fa808e435f3 2x" width="90" height="140" class="image lazyload" alt="Detective Conan" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Yuru Yuri"><a href="https://myanimelist.net/recommendations/anime/7768-10495" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Yuru Yuri</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/75173.jpg?s=fa909d7bfbf591e355ad9e9632f9e1f0" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/75173.jpg?s=fa909d7bfbf591e355ad9e9632f9e1f0 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/75173.jpg?s=d77e72822f2da0c488d105c6133737f7 2x" width="90" height="140" class="image lazyload" alt="Yuru Yuri" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kono Subarashii Sekai ni Shukufuku wo!"><a href="https://myanimelist.net/recommendations/anime/7768-30831" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kono Subarashii Sekai ni Shukufuku wo!</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/8/77831.jpg?s=b609eae92f1d025a645ce1a694594f93" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/8/77831.jpg?s=b609eae92f1d025a645ce1a694594f93 1x,https://cdn.myanimelist.net/r/180x280/images/anime/8/77831.jpg?s=b957e5b5e2858184f0b2459faecc33a7 2x" width="90" height="140" class="image lazyload" alt="Kono Subarashii Sekai ni Shukufuku wo!" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Galaxy Angel"><a href="https://myanimelist.net/recommendations/anime/383-7768" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Galaxy Angel</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/6075.jpg?s=01f67867a3bfb527d6a044dcbcbb5ffd" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/6075.jpg?s=01f67867a3bfb527d6a044dcbcbb5ffd 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/6075.jpg?s=b6f2b7e2de99ca653c85a6f58b0bd7f1 2x" width="90" height="140" class="image lazyload" alt="Galaxy Angel" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Gakuen Alice"><a href="https://myanimelist.net/recommendations/anime/74-7768" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Gakuen Alice</span><span class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/18118.jpg?s=5725d24b00ed73c58066281596503705" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/18118.jpg?s=5725d24b00ed73c58066281596503705 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/18118.jpg?s=bf03fb71e8cf8b1ba3a2a9d38be33500 2x" width="90" height="140" class="image lazyload" alt="Gakuen Alice" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Kaitou Joker"><a href="https://myanimelist.net/recommendations/anime/7768-24909" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Kaitou Joker</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/64975.jpg?s=932e94648510eedf579ebf0fcf5d7fcc" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/64975.jpg?s=932e94648510eedf579ebf0fcf5d7fcc 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/64975.jpg?s=cb7641b84e030fb097da3089f4fd64e9 2x" width="90" height="140" class="image lazyload" alt="Kaitou Joker" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Tantei Gakuen Q"><a href="https://myanimelist.net/recommendations/anime/407-7768" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Tantei Gakuen Q</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1/407.jpg?s=503c84ee6ed9e84686bdb62ade05a7d8" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1/407.jpg?s=503c84ee6ed9e84686bdb62ade05a7d8 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1/407.jpg?s=5421ebf9876f5ad6f78ec6193dae9759 2x" width="90" height="140" class="image lazyload" alt="Tantei Gakuen Q" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Asu no Yoichi!"><a href="https://myanimelist.net/recommendations/anime/4999-7768" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Asu no Yoichi!</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/6/20621.jpg?s=4297d486ff8cd313d8b20e26a6936a2a" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/6/20621.jpg?s=4297d486ff8cd313d8b20e26a6936a2a 1x,https://cdn.myanimelist.net/r/180x280/images/anime/6/20621.jpg?s=a0bfc0acf45c086d89417ef096c81a70 2x" width="90" height="140" class="image lazyload" alt="Asu no Yoichi!" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Nurse Witch Komugi-chan Magikarte"><a href="https://myanimelist.net/recommendations/anime/615-7768" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Nurse Witch Komugi-chan Magikarte</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/77618.jpg?s=98c2c55dde183507f4a23a339a75891e" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/77618.jpg?s=98c2c55dde183507f4a23a339a75891e 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/77618.jpg?s=acb27719f0d3e7666584e54f40672f37 2x" width="90" height="140" class="image lazyload" alt="Nurse Witch Komugi-chan Magikarte" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Lucky☆Star"><a href="https://myanimelist.net/recommendations/anime/1887-7768" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Lucky☆Star</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/13/15010.jpg?s=1af26da08e578f75edef1c82f99fecae" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/13/15010.jpg?s=1af26da08e578f75edef1c82f99fecae 1x,https://cdn.myanimelist.net/r/180x280/images/anime/13/15010.jpg?s=1a98977752b77fa85add2a0b6eddd260 2x" width="90" height="140" class="image lazyload" alt="Lucky☆Star" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Zettai Karen Children"><a href="https://myanimelist.net/recommendations/anime/4038-7768" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Zettai Karen Children</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/5/75581.jpg?s=5608be15d329b19051ecfc2def02b64d" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/5/75581.jpg?s=5608be15d329b19051ecfc2def02b64d 1x,https://cdn.myanimelist.net/r/180x280/images/anime/5/75581.jpg?s=935316b2944984105613ed0b401703d6 2x" width="90" height="140" class="image lazyload" alt="Zettai Karen Children" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Sabage-bu!"><a href="https://myanimelist.net/recommendations/anime/7768-20709" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Sabage-bu!</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/13/60207.jpg?s=68d7bec2d3aed8b0b4a553a074ae80ed" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/13/60207.jpg?s=68d7bec2d3aed8b0b4a553a074ae80ed 1x,https://cdn.myanimelist.net/r/180x280/images/anime/13/60207.jpg?s=2941948c1fc8ad657cdde5cadfad94d8 2x" width="90" height="140" class="image lazyload" alt="Sabage-bu!" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Hacka Doll The Animation"><a href="https://myanimelist.net/recommendations/anime/7768-30721" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Hacka Doll The Animation</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/6/75751.jpg?s=d82bf29f5a20b61e6bee5dd423094da4" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/6/75751.jpg?s=d82bf29f5a20b61e6bee5dd423094da4 1x,https://cdn.myanimelist.net/r/180x280/images/anime/6/75751.jpg?s=bddeed8b30b595411a0d2071961e61c9 2x" width="90" height="140" class="image lazyload" alt="Hacka Doll The Animation" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Shugo Chara!"><a href="https://myanimelist.net/recommendations/anime/2923-7768" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Shugo Chara!</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/7/5061.jpg?s=a6ea2843b8b52807a141250cd2c5d0ef" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/7/5061.jpg?s=a6ea2843b8b52807a141250cd2c5d0ef 1x,https://cdn.myanimelist.net/r/180x280/images/anime/7/5061.jpg?s=f859b5dc58c45eacd4eecf6720f01737 2x" width="90" height="140" class="image lazyload" alt="Shugo Chara!" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Minami-ke"><a href="https://myanimelist.net/recommendations/anime/2963-7768" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Minami-ke</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/2/75279.jpg?s=11e6782f13266e9c31d607c60ae7c491" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/2/75279.jpg?s=11e6782f13266e9c31d607c60ae7c491 1x,https://cdn.myanimelist.net/r/180x280/images/anime/2/75279.jpg?s=a4709e64e05c6359e3a8f495a68488af 2x" width="90" height="140" class="image lazyload" alt="Minami-ke" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Hidan no Aria"><a href="https://myanimelist.net/recommendations/anime/7768-8630" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Hidan no Aria</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/9/30095.jpg?s=66a00bbedf172b0a331484fe0e8f18c5" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/9/30095.jpg?s=66a00bbedf172b0a331484fe0e8f18c5 1x,https://cdn.myanimelist.net/r/180x280/images/anime/9/30095.jpg?s=e2c8cb0f1960339fe043569babe8018b 2x" width="90" height="140" class="image lazyload" alt="Hidan no Aria" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Clamp Gakuen Tanteidan"><a href="https://myanimelist.net/recommendations/anime/1844-7768" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Clamp Gakuen Tanteidan</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1709/111109.jpg?s=c24418b6f4ca6ddd532b634bbaaaa5c0" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1709/111109.jpg?s=c24418b6f4ca6ddd532b634bbaaaa5c0 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1709/111109.jpg?s=8a52951b0302cc19e1d8732a68529a2b 2x" width="90" height="140" class="image lazyload" alt="Clamp Gakuen Tanteidan" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Yuyushiki"><a href="https://myanimelist.net/recommendations/anime/7768-15911" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Yuyushiki</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/48747.jpg?s=082c741059017e8e83dfb06e78a64aab" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/48747.jpg?s=082c741059017e8e83dfb06e78a64aab 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/48747.jpg?s=401d344508acaa769df4957eaf5bd2b7 2x" width="90" height="140" class="image lazyload" alt="Yuyushiki" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Mokei Senshi Gunpla Builders Beginning G"><a href="https://myanimelist.net/recommendations/anime/7768-9040" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Mokei Senshi Gunpla Builders Beginning G</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/13/25033.jpg?s=c863564a80eb0c876c77394f5b05b05c" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/13/25033.jpg?s=c863564a80eb0c876c77394f5b05b05c 1x,https://cdn.myanimelist.net/r/180x280/images/anime/13/25033.jpg?s=744bc417e633c0ff57050b2c0283c791 2x" width="90" height="140" class="image lazyload" alt="Mokei Senshi Gunpla Builders Beginning G" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Carnival Phantasm"><a href="https://myanimelist.net/recommendations/anime/7768-10012" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Carnival Phantasm</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1018/92921.jpg?s=a3f2b317e24060a30cf05a23886bfd16" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1018/92921.jpg?s=a3f2b317e24060a30cf05a23886bfd16 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1018/92921.jpg?s=a4ee5a882e5e36499acf028533c73c06 2x" width="90" height="140" class="image lazyload" alt="Carnival Phantasm" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Heppoko Jikken Animation Excel♥Saga"><a href="https://myanimelist.net/recommendations/anime/379-7768" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Heppoko Jikken Animation Excel♥Saga</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1728/97423.jpg?s=15085192626e4dac1fc850dfd1988638" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1728/97423.jpg?s=15085192626e4dac1fc850dfd1988638 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1728/97423.jpg?s=0ed687acd2438529ceecef1ba5ee0ec8 2x" width="90" height="140" class="image lazyload" alt="Heppoko Jikken Animation Excel♥Saga" border="0" ></a></li><li class="btn-anime" style="width:90px" title="Panty &amp; Stocking with Garterbelt"><a href="https://myanimelist.net/recommendations/anime/7768-8795" class="link bg-center" style="width:90px;height:140px;"><span class="title fs10">Panty &amp; Stocking with Garterbelt</span><span class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/73643.jpg?s=4cdfafef1ea972cad11ca712213867c5" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/73643.jpg?s=4cdfafef1ea972cad11ca712213867c5 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/73643.jpg?s=439437cc59da6dd2a557447b4a69134d 2x" width="90" height="140" class="image lazyload" alt="Panty &amp; Stocking with Garterbelt" border="0" ></a></li></ul></div></div></div>
+    </td>
+    </tr>
+    </table>
+    </div>  <div class="mauto clearfix pt24" style="width:760px;">
+    <div class="fl-l">
+      </div>
+      <div class="fl-r">
+      </div>
+    </div>
+
+</td>
+</tr>
+</table>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js" data-pin-hover="true"></script></div><!-- end of contentHome -->
+</div><!-- end of contentWrapper -->
+
+
+            
+  
+
+
+            
+  
+
+  <script>
+    $(document).ready(function() {
+      $(window).scroll(function() {
+        var cHeight = $("#myanimelist").height();
+        $("div[data-ad-sticky='manual']").each(function (i, o) {
+          var aHeight = $(o).height();
+          var aTop = $(o).parent().offset().top;
+          if (window.pageYOffset >= (cHeight - aHeight)) {
+            $(o).css("top", ((cHeight - aHeight) - window.pageYOffset) + "px");
+          } else if (window.pageYOffset >= aTop) {
+            $(o).addClass("sticky");
+            $(o).css("top", "");
+          } else {
+            $(o).removeClass("sticky");
+          }
+        });
+      });
+    });
+  </script>
+
+<!--  control container height -->
+<div style="clear:both;"></div>
+
+<!-- end rightbody -->
+
+</div><!-- wrapper -->
+
+
+    <div id="ad-skin-bg-right" class="ad-skin-side-outer ad-skin-side-bg bg-right">
+    <div id="ad-skin-right" class="ad-skin-side right" style="display: none;">
+      <div id="ad-skin-right-absolute-block">
+        <div id="ad-skin-right-fixed-block"></div>
+      </div>
+    </div>
+  </div>
+</div><!-- #myanimelist -->
+
+
+<div class="footer-ranking">
+  <div class="ranking-container">
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php" class="view_more fl-r">More</a>Top Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Fullmetal Alchemist: Brotherhood</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011">Hunter x Hunter (2011)</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php?type=airing" class="view_more fl-r">More</a>Top Airing Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season">Shingeki no Kyojin: The Final Season</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/42203/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season_Part_2">Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/42897/Horimiya">Horimiya</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/38474/Yuru_Camp△_Season_2">Yuru Camp△ Season 2</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/character.php" class="view_more fl-r">More</a>Most Popular Characters
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/character/417/Lelouch_Lamperouge">Lamperouge, Lelouch</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/character/45627/Levi">Levi</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/character/80/Light_Yagami">Yagami, Light</a>
+            </li>
+                  </ol>
+      </div>
+      </div>
+</div>
+<footer>
+  <div id="footer-block">
+    <div class="footer-link-block">
+      <p class="footer-link home di-ib">
+        <a href="https://myanimelist.net/">Home</a>
+      </p>
+      <p class="footer-link di-ib">
+        <a href="https://myanimelist.net/about.php">About</a>
+        <a href="https://myanimelist.net/pressroom">Press Room</a>
+        <a href="https://myanimelist.net/about.php?go=contact">Support</a>
+        <a href="https://myanimelist.net/advertising">Advertising</a>
+        <a href="https://myanimelist.net/forum/?topicid=515949">FAQ</a>
+        <a href="https://myanimelist.net/about/terms_of_use">Terms</a>
+        <a href="https://myanimelist.net/about/privacy_policy">Privacy</a>
+        <a href="#/" class="cmp-gdpr-only">Privacy Settings</a>
+        <a href="#/" class="cmp-ccpa-only">Do Not Sell My Personal Information</a>
+        <a href="https://myanimelist.net/about/cookie_policy">Cookie</a>
+        <a href="https://myanimelist.net/about/notice_at_collection">Notice at Collection</a>
+        <a href="https://myanimelist.net/about/sitemap">Sitemap</a>
+      </p>
+            <p class="footer-link login di-ib">
+        <a href="https://myanimelist.net/login.php?from=%2Fanime%2F7768%2FTantei_Opera_Milky_Holmes" id="malLogin" rel="nofollow">Login</a>
+        <a href="https://myanimelist.net/register.php?from=%2Fanime%2F7768%2FTantei_Opera_Milky_Holmes">Sign Up</a>
+      </p>
+          </div>
+
+    
+    <div class="banner-footer-anime-streaming">
+      <a href="/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner" onclick="trackOutboundLink('/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=footer_minibanner')"> <img src="https://cdn.myanimelist.net/images/event/support_mal/banner-ani-500x72.gif" width='250' height='36' alt='Support MAL!' title='Support MAL!' onClick='ga_mal_banner()'> </a>
+
+    </div>
+
+        <div class="footer-link-icon-block">
+            <div class="footer-social-media ac">
+        <a target="_blank" class="icon-sns icon-fb di-ib" href="https://www.facebook.com/OfficialMyAnimeList" rel="noreferrer"></a>
+        <a target="_blank" class="icon-sns icon-tw di-ib" title="Follow @myanimelist on Twitter" href="https://twitter.com/myanimelist" rel="noreferrer"></a></div>
+            <div class="footer-recommended ac">
+        <a target="_blank" class="icon-recommended icon-tokyo-otaku-mode" href="http://otakumode.com/fb/5aO" rel="noopener">Tokyo Otaku Mode</a>
+        <a target="_blank" class="icon-recommended icon-honeys-anime" href="https://honeysanime.com" rel="noopener">Honey's Anime</a>
+        <a target="_blank" class="icon-recommended icon-manga-store" href="https://myanimelist.net/store?_location=mal_f_m">Manga Store</a>
+      </div>
+    </div>
+
+    <div class="footer-fb">
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+      <div class="footer-fb-item">
+                <iframe class="fb-page" src="" width="450" height="154" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+      </div>
+      <div class="footer-fb-item">
+        <div class="pa-d-footer">
+                  </div>
+      </div>
+    </div>
+        
+    <div id="copyright">
+      MyAnimeList.net is a property of MyAnimeList Co.,Ltd. &copy;2021 All Rights Reserved.
+    </div>
+  </div>
+</footer>
+<div class="welcome-back popup-background">
+  <div class="popup">
+    <img class="logo" src="/img/pc/ownlist/logo_mal.png" alt="MyAnimeList">
+    <h3 class="popup-title">Welcome!</h3>
+    <p class="description">Join MyAnimeList to catalog your anime and manga, compare with your friends, create your own profile, and plenty more. It's free and easy to join.</p>
+    <div class="anime-slide1">
+      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/9/9453.jpg');"></div>
+      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/10/47347.jpg');"></div>
+      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/11/39717.jpg');"></div>
+      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
+
+      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/9/9453.jpg');"></div>
+      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/10/47347.jpg');"></div>
+      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/11/39717.jpg');"></div>
+      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
+    </div>
+    <div class="anime-slide2">
+      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/12/76049.jpg');"></div>
+      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/5/64449.jpg');"></div>
+      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/5/73199.jpg');"></div>
+      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/5/65187.jpg');"></div>
+
+      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/12/76049.jpg');"></div>
+      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/5/64449.jpg');"></div>
+      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/5/73199.jpg');"></div>
+      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/5/65187.jpg');"></div>
+    </div>
+    <h3 class="sign-up-with">Free Sign Up with</h3>
+    <div class="sns-sign-up">
+      <a class="sns-button google" href="/sns/login/google?from=%2Fanime%2F7768%2FTantei_Opera_Milky_Holmes&utm_medium=ldialog_google" onclick="ga('send', 'event', 'ldialog', 'click', 'google');">Google</a>
+      <a class="sns-button facebook" href="/sns/login/facebook?from=%2Fanime%2F7768%2FTantei_Opera_Milky_Holmes&utm_medium=ldialog_facebook" onclick="ga('send', 'event', 'ldialog', 'click', 'facebook');">Facebook</a>
+      <a class="sns-button twitter" href="/sns/login/twitter?from=%2Fanime%2F7768%2FTantei_Opera_Milky_Holmes&utm_medium=ldialog_twitter" onclick="ga('send', 'event', 'ldialog', 'click', 'twitter');">Twitter</a>
+    </div>
+    <div class="sign-up">
+      <a class="account register" href="/register.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'mail');">Create an account</a>
+      <br>      <a class="account" href="/login.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'login');">Already have an account?</a>
+    </div>
+    <div class="close-button" onclick="ga('send', 'event', 'ldialog', 'click', 'close');"></div>
+  </div>
+  <script>
+    $(function () {
+      ga('send', 'event', 'popup_login_form', 'show', location.href, {nonInteraction: true});
+      var onresize = function () {
+        var $welcome_back = $('.welcome-back');
+        var $popup = $('.welcome-back .popup');
+        var top = ($welcome_back.outerHeight() - $popup.outerHeight()) / 2;
+        $popup.css('top', top < 0 ? 0 : top);
+      };
+      var onclose = function () {
+        $('.welcome-back').addClass('fade-out')
+          .one('animationend', function () { $(this).remove(); });
+        $(window).off('resize', onresize);
+      };
+
+      var timer_id = null;
+      var show = function () {
+        timer_id = null;
+        // 優先順位の高いポップアップが出ていたら表示しない
+        if (($('.app_gdpr--2k2uB').length > 0 && $('.banner_hidden--MXmJ_').length === 0) || $('._cm-os-slider').length > 0 || $('#tbl-next-up').length > 0 || $('#gdpr-modal-bottom').length > 0) {
+          return
+        }
+        $('.welcome-back').addClass('fade-in');
+        onresize();
+        var timer = setTimeout(onclose,30000);
+        $('.popup').on('mousemove',function(){
+            clearTimeout(timer);
+            timer=setTimeout(onclose, 30000);
+        });
+      };
+
+      $(window)
+        .one('load', function () {
+          onresize();
+          timer_id = setTimeout(show,3000);
+          $('body').on('keydown mousedown mousemove',function(){
+            if(timer_id) {
+              clearTimeout(timer_id);
+              timer_id = setTimeout(show, 3000);
+            }
+          });
+          $(window).scroll(function(){
+            if(timer_id) {
+              clearTimeout(timer_id);
+              timer_id = setTimeout(show, 3000);
+            }
+          });
+        })
+        .on('resize', onresize);
+      $(document).one('click', '.close-button', function () {
+        onclose();
+      });
+      $('.register').click(function () {
+        ga('send', 'event', 'popup_login_form', 'click', location.href, {nonInteraction: true});
+      });
+    });
+  </script>
+</div>
+
+<script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+
+<script async>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga')
+
+  ga('create', 'UA-369102-1', 'auto')
+  ga('set', 'anonymizeIp', true)
+  ga('require', 'linkid') // Enhanced Link Attribution
+    ga('set', 'dimension1', 'guest')
+    ga('send', 'pageview')
+</script>   <script>
+window.onscroll = function(e){
+    const scrollThreshold = 50;
+    if (window.pageYOffset >= scrollThreshold) {
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            let t_height = ad.offsetHeight;
+            let offsetY = ad.getBoundingClientRect().top;
+            let screenHeight = window.outerHeight;
+            let t_position = offsetY - screenHeight;
+            if(-screenHeight<=(t_position　+　t_height) && t_position<0) {
+                ad.className = 'ad-tag';
+                (deployads = window.deployads || []).push({});
+            }
+        });
+    }
+}
+var timer = 0;
+window.onresize = function(e){
+    if (timer > 0) {
+        clearTimeout(timer);
+    }
+
+    timer = setTimeout(function () {
+        console.log('window resized');
+        [].forEach.call(document.querySelectorAll('.ad-tag'), function(ad) {
+            ad.className = 'no-ad';
+            (deployads = window.deployads || []).push({});
+        });
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            ad.className = 'ad-tag';
+            (deployads = window.deployads || []).push({});
+        });
+    }, 200);
+}
+</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WL4QW3G');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+var path = location.pathname;
+var param = location.search;
+
+dataLayer = dataLayer || [];
+
+// login.php
+
+function ga_notlogin(){
+  ga('send', 'event', 'not_login', '2.未ログインの場合', '/login.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=1');
+}
+
+function ga_sns(){
+  ga('send', 'event', 'sns_login', '2-1-1.ソーシャルログインの場合', '/login.php?login-mode=social&c-ms-mode=1');
+}
+
+function ga_login(){
+  ga('send', 'event', 'id_login', '2-1-2.IDログインの場合', '/login.php?login-mode=id&c-ms-mode=1');
+}
+
+// register.php
+
+function ga_registration(){
+  ga('send', 'event', 'registration', '2-2.会員登録ボタン', '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=2');
+}
+
+if ( path.match("register.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2F&c-ms-mode=2',
+        'member_title': '2-2-1.会員情報入力完了',
+        'event': 'loadready-register'
+    });
+}
+
+if ( path.match("login.php") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': path.concat(param, "&c-ms-mode=2"),
+        'member_title': '2-2-1.メールからの会員認証ページ',
+        'event': 'loadready-login'
+    });
+}
+
+// membership
+
+function ga_mal_banner(){
+  ga('send', 'event', 'support_mal', '2-3.MALバナー', '/membership?utm_source=myanimelist&utm_medium=banner&utm_campaign=support_mal_20200416&utm_content=minibanner&c-ms-mode=3');
+}
+
+if ( path.match("login.php") && param.match("from=%2F") ) {
+    dataLayer.push({
+        'trackPageview': '/register.php?from=%2Faccount%2Fmembership%2Fpayment%3Fplan%3D1&c-ms-mode=3',
+        'member_title': '2-2.会員登録ボタン',
+        'event': 'loadready-login'
+    });
+}
+
+function ga_credit(){
+  ga('send', 'event', 'support_mal', '3-1-1.クレカ登録', '/member-register?c-ms_payment=1&c-ms_mode=3');
+}
+
+function ga_paypal(){
+  ga('send', 'event', 'support_mal', '3-1-2.Paypal登録', '/member-register?c-ms_payment=2&c-ms_mode=3');
+}
+
+if ( path.match("account/membership/complete") && document.getElementById('ga_goodresult') ) {
+    dataLayer.push({
+        'trackPageview': '/member-register-complete?c-ms_payment=2&c-ms_mode=3',
+        'member_title': '3-1-2.MAL会員登録成功',
+        'event': 'loadready-member-register-complete'
+    });
+}
+
+</script>
+<script type="text/javascript">
+    window.MAL.magia = "06410c4e6b2518e9add8f6df0ccb2da2876bb8c980aacb43a8dcaa8153c0f92c";
+  window.MAL.madoka = "hZrDKm9k6FVRnqd3i%=K";
+
+  window.MAL.SLVK = "g4OvMLVOmEI3J8u7dt8f8+mAuualsqCo";
+  window.MAL.CDN_URL = "https://cdn.myanimelist.net";
+
+  window.MAL.CURRENT_TUTORIAL_STEP_ID = null;
+  window.MAL.USER_NAME = ""
+  window.MAL.FACEBOOK.APP_ID = "360769957454434"
+  window.MAL.FACEBOOK.API_VERSION = "v2.12"
+</script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+                    <script type="text/javascript">
+          window._taboola = window._taboola || [];
+          _taboola.push({flush: true});
+        </script>
+    </body>
+</html>
