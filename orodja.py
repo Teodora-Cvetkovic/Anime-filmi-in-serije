@@ -1,3 +1,5 @@
+### Zelo mal spremenjena datoteka s predavanjh ###
+
 import csv
 import json
 import os
@@ -47,10 +49,3 @@ def zapisi_csv(slovarji, imena_polj, ime_datoteke):
         writer.writeheader()
         for slovar in slovarji:
             writer.writerow(slovar)
-
-
-def zapisi_json(objekt, ime_datoteke):
-    '''Iz danega objekta ustvari JSON datoteko.'''
-    pripravi_imenik(ime_datoteke)
-    with open(ime_datoteke, 'w', encoding='utf-8') as json_datoteka:
-        json.dump(objekt, json_datoteka, indent=4, ensure_ascii=False)

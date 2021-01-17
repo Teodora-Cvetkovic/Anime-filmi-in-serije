@@ -8,24 +8,24 @@ vzorec_bloka = re.compile(
 
 vzorec = (
     r'<a.*?href=".*?/anime/'
-    r'(?P<id>\d+?)/'    #id animeja
-    r'(?P<naslov>.*?)"'    #naslov animeja
+    r'(?P<id>\d+?)/'    # id animeja
+    r'(?P<naslov>.*?)"'    # naslov animeja
     r'.*?\n\s*?.*?<div class="pt4">'
-    r'(?P<opis>.*?\.\.\.)?'    #opis animeja (nemaju svi animei opis)
+    r'(?P<opis>.*?\.\.\.)?'    # opis animeja
     r'.*?\n.+?\n.+?'
-    r'\w{2}'    #TV serija
+    r'\w{2}'
     r'\n.*?\n.*?'
-    r'(?P<epizode>(\d+?|-))'    #število epizod
+    r'(?P<epizode>(\d+?|-))'    # število epizod
     r'\n.*\n.*?'
-    r'(?P<ocena>(\d\.\d{2}|N/A))'    #ocena
+    r'(?P<ocena>(\d\.\d{2}|N/A))'    # ocena
     r'\n.*\n.*?'
-    r'(?P<zacetek>(\d{2}-\d{2}-\d{2}|\?{0,2}-\?{0,2}-\d{2}|-))'    #mesec, dan, leto začetka prikazovanja (upitnici)
+    r'(?P<zacetek>(\d{2}-\d{2}-\d{2}|\?{0,2}-\?{0,2}-\d{2}|-))'    # mesec, dan in leto začetka prikazovanja
     r'\n.*\n.*?'
-    r'(?P<konec>(\d{2}-\d{2}-\d{2}|-|\?{0,2}-\?{0,2}-\d{2}))'    #mesec, dan, leto konca prikazovanja (upitnici)
+    r'(?P<konec>(\d{2}-\d{2}-\d{2}|-|\?{0,2}-\?{0,2}-\d{2}))'    # mesec, dan in leto konca prikazovanja 
     r'\n.*\n.*?'
-    r'(?P<stevilo_clenov>\d+?(,\d+?)?(,\d+?)?)'
+    r'(?P<stevilo_clenov>\d+?(,\d+?)?(,\d+?)?)'    # število uporabnikov, ko so pogledali anime
     r'\n.*\n\s*?'
-    r'(?P<oznaka>(\w.*?|-))'    #uzrast
+    r'(?P<oznaka>(\w.*?|-))'    # uzrast
     r'\n.*?</td>'
 )
 
@@ -38,43 +38,39 @@ vzorec_zanra = (
 vzorec_studija = (
     r'Studios:</span>\n.*?<a href="/anime/producer/'
     r'(?P<id_studija>\d+?)/.*?" title="'
-    r'(?P<studio>.*?)">'
+    r'(?P<studio>.*?)">'    # studio, ki je naredil anime
 )
 
 vzorec_sezone = (
-    r'Premiered.*?\n.*?(?P<sezona>(\w+? \d+?|\?))(</a>)?\n'
+    r'Premiered.*?\n.*?(?P<sezona>(\w+? \d+?|\?))(</a>)?\n'    # sezona, v kateri se je anime začel
 )
 
 vzorec_naslova = (
-    r'<h1.*?<strong>(?P<naslov>.*?)</strong></h1>'
+    r'<h1.*?<strong>(?P<naslov>.*?)</strong></h1>'    # naslov brez podčrtaja
 )
 
 vzorec_dolzine = (
-    r'<span .*?Duration.*\n\s{2}(?P<dolzina>\d+?\s(m|s)|)\w.*?\n'
+    r'<span .*?Duration.*\n\s{2}(?P<dolzina>\d+?\s(m|s)|)\w.*?\n'    # dolžina epizode animeja
 )
 
 vzorec_vira = (
-    r'<span.*?Source.*\n\s{2}(?P<vir>.*?)\n'
-)
-
-vzorec_ranka = (
-    r'<span.*?Ranked.*\n\s{2}#(?P<rank>\d+?)<sup>'
+    r'<span.*?Source.*\n\s{2}(?P<vir>.*?)\n'    # vir, iz katerega je anime narejen
 )
 
 vzorec_najljubsega = (
-    r'<span.*?Favorites.*?\n\s{2}(?P<najljubsi>\d+?(,\d+?)?)\n'
+    r'<span.*?Favorites.*?\n\s{2}(?P<najljubsi>\d+?(,\d+?)?)\n'    # število uporabnikov, ki so anime označili kot najljubši
 )
 
 vzorec_igralca = (
-    r'<small>(?P<vloga>.*?)</small>(\n.*){5}\n.*?'
+    r'<small>(?P<vloga>.*?)</small>(\n.*){5}\n.*?'    # ali oseba ima vlogo stranjskega ali glavnega lika
     r'<a href="https://myanimelist.net/people/(?P<id_osebe>\d+?)'
-    r'/.*?">(?P<ime_osebe>.*?)</a>.*?\n'
+    r'/.*?">(?P<ime_osebe>.*?)</a>.*?\n'    # priimek in ime igralca
 )
 
 vzorec_osebja =(
     r'<a href="https://myanimelist.net/people/(?P<id_osebe>\d+?)'
-    r'/.*?">(?P<ime_osebe>.*?)</a>.*?\n'
-    r'.*\n.*?<small>(?P<vloga>.*?)(</small>|,)'
+    r'/.*?">(?P<ime_osebe>.*?)</a>.*?\n'    # priimek in ime osebe
+    r'.*\n.*?<small>(?P<vloga>.*?)(</small>|,)'    # kaj je oseba delala v proizvodnji animeja
 )
 
 def izloci_podatke_animeja(blok):
@@ -185,6 +181,8 @@ def najdi_najljubse(datoteka):
         najljubsi = n.groupdict()
     return int(najljubsi['najljubsi'].replace(',', ''))
 
+
+
 animeji = []
 vsi_zanri = []
 vsi_studiji = []
@@ -232,6 +230,8 @@ for stran in range(87):
         anime['najljubsi'] = najdi_najljubse(ime_datoteke)
         anime['naslov'] = najdi_naslov(ime_datoteke).replace('&#039;', "'")
         animeji.append(anime)
+
+
 
 orodja.zapisi_csv(
     animeji,

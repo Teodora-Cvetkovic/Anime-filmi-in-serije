@@ -82,6 +82,7 @@ Analizirala bom podatke o 4298 anime serijah (v nadaljevanju bom pisala *anime* 
 
 ### Datoteke
 Program *MAL_pobiranje.py* pobira podatke s strani [MyAnimeList](https://myanimelist.net/), jih obdela in prečisti, in potem shrani.<br>
+Datoteka *orodja.py* je pomožna datoteka, katera vsebuje fukcije z pobiranje podatkov.<br>
 Zajeti podatki so v mapi *zajeti-podatki*. Tukaj se nahajajo vse html datoteke, katere program mora obdelati.<br>
 Ko program obdela podatke, jih shrani v mapo *obdelani-podatki*. Tukaj so tabele napisane v csv datotekami. V datoteki *animeji.csv* so podatki o animejima:
 - id animeja,
