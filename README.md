@@ -1,4 +1,4 @@
-# Anime filmi in serije
+# Anime serije
 *Projektna naloga pri predmetu **Programiranje 1** na Fakulteti za matematiko in fiziko*
 
 Analizirala bom podatke o 4298 anime serijah (v nadaljevanju bom pisala *anime* namesto *anime serija*) na spletni strani [MyAnimeList](https://myanimelist.net/). Bom analizirala animeje, ki so končani. Ker je anime japonska risanka, naslovi bodo v japonščini ali v angleščini.
