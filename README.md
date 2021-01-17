@@ -98,4 +98,4 @@ Ko program obdela podatke, jih shrani v mapo *obdelani-podatki*. Tukaj so tabele
 - oznako animeja.
 
 V datoteki *osebe.csv* so id in ime oseb, ki so delale na animejima. V datoteki *studiji_po_animejih.csv* so idijevi studia in animeja. Tista datoteka povezuje datoteki *animeji.csv* in *studiji.csv*. V datoteki *studiji.csv* so idijevi studiev in nazivi studiev. V datoteki *vloge.csv* so povezane osebe in animeji prek idijeva in je napisana vloga oseb v animeju. Na koncu, v datoteki *zanri.csv* so napisani žanri animejev.<br>
-Datoteka *Anime_serije.ipynb* vsebuje mojo analizo zajetih podatkov. Podatki o animejih so zajeti 13.1.2021 in analizo sem končala 16.1.2021. Če boste sami pobirali podatke, lahko pride do majhnih sprememb v tabelah, ker je mogoče, da se še nek anime konča, lahko še negdo pogleda nek anime, ipn.
+Datoteka *Anime_serije.ipynb* vsebuje mojo analizo zajetih podatkov. Podatki o animejih so zajeti 13.1.2021 in analizo sem končala 16.1.2021. Če boste sami pobirali podatke, lahko pride do majhnih sprememb v tabelah, ker je mogoče, da se še nek anime konča, lahko še nekdo pogleda nek anime, ipn.
