@@ -17,67 +17,58 @@ Analizirala bom podatke o 4298 anime serijah (v nadaljevanju bom pisala *anime* 
 - studie, ki so naredili animeje
 
 
-### Analizirala bom:
+### Delovne hipoteze:
 - Vir:
-    - Iz katerega vira je narejeno največ animejev?
-    - Kateri vir animeja je najbolj popularen?
-    - Ali je popularnost animeja odvisna od vira?
-    - Ali je ocena animeja odvisna od vira?
-    - Kateri vir animeja ima največjo povprečno oceno?
-    - Kateri vir je "najljubši"?
+    - Največ animejev je narejeno iz mang
+    - Največjo povprečno oceno in število členov, ki so pogledali anime, imajo animeji, ki so narejeni iz mang
+    - Največ najboljših in najbolj popularnih animejev je narejeno iz mang
 - Čas:
-    - Kdaj je izišlo največ animejev?
+    - Največ animejev je izišlo v 21. stoletju in v 2010-ih
     - Kdaj so izišli najbolj popularni animeji?
     - V katerem letu je največje povprečno število gledalcev?
     - Katero je "najboljše leto", tj. leto z najvišjo povprečno oceno?
-    - Kdaj so izišli najboljši animeji?
-    - Ali je popularnost animeja odvisna od tega, ali je leto končanja enako letu izida animeja?
-    - Ali je ocena animeja odvisna od tega, ali je leto končanja enako letu izida animeja?
-    - Ali je popularnost animeja odvisna od števila epizod?
-    - Ali je ocena animeja odvisna od števila epizod?
-    - Ali je popularnost animeja odvisna od dolžine epizod?
-    - Ali je ocena odvisna od dolžine epizod?
-    - V kateri sezoni ima največ popularnih animejev?
-    - V kateri sezoni so najboljši animeji?
-    - Katera je sezona najbolj popularna?
-    - Katera sezona ima najvišjo oceno?
-    - Katera je sezona "najljubša"?
+    - Največ animejev se je končalo v 21. stoletju
+    - Več je animejev, ki imajo isto leto začetka in končanja
+    - Popularnost in ocena animeja sta odvisni od tega, ali je leto končanja enako letu izida animeja
+    - Popularnost in ocena animeja sta odvisni od števila epizod
+    - Popularnost in ocena animeja sta odvisni od dolžine epizod
+    - Največ animejev ima 12 epizod
+    - Epizode največjega števila animejev trajajo 24 minut
+    - Pomladi se je začelo največje število animejev
+    - Sezona, ki je najbolj popularna, je poletje
+    - Sezona z največjo oceno je pomlad
 - Oznaka:
-    - Ali sta popularnost in ocena animeja odvisni od oznake?
-    - Katere oznake imajo najbolj popularni animeji?
-    - Katere oznake imajo najboljši animeji?
-    - Katera oznaka je najbolj popularna?
-    - Katera oznaka ima najvišjo povprečno oceno?
-    - Katera oznaka je "najljubša"?
-    - Ali lahko napovemo oznako animeja iz njegovega naslova in opisa?
+    - Popularnost in ocena animeja sta odvisni od oznake animeja
+    - Največ animejev ima oznako PG-13
+    - Oznaka z največkim številom členov je PG-13
+    - Oznaka z najvišjo povprečno oceno je PG-13
+    - Lahko napovemo oznako animeja iz naslova in opisa
 - Žanr:
-    - Katrih animejev je največ, glede na žanr?
-    - Katere žanre imajo najbolj popularni animeji?
-    - Katere žanre imajo najboljši animeji?
-    - Kateri je žanr najbolj popularen?
-    - Kateri žanr ima najvišjo oceno?
-    - Kateri je "najljubši žanr"?
-    - Ali so ocena in popularnost animeja odvisni od žanra?
-    - Ali lahko iz opisa in naslova animeja napovemo njegov žanr?
+    - Največ animejev ima žanr akcija
+    - Žanr, z največjim povprečnim številom gledalcev, je komedija
+    - Najvišjo povprečno oceno ima žanr akcija
+    - Ocena in popularnost animeja sta odvisni od žanra
+    - Iz opisa in naslova animeja lahko napovemo njegov žanr
 - Osebe:
-    - Kdo je delal na največjem številu animejih?
-    - Katera vloga je najpogostejša?
+    - Kdo je delal na največjem številu animejev?
+    - Največ je stranskih likov
     - Kateri igralec ima največ stranskih in glavnih vlog?
     - Kateri je direktor delal na največjemu številu animejev?
     - Kdo je delal na največjemu številu popularnih animejev?
     - Kdo je delal na največjemu številu najboljših animejev?
     - Kdo ima največje povprečno število členov?
     - Kdo ima najvišjo povprečno oceno?
-    - Ali sta popularnost in ocena odvisni od oseb, ki so delale na animeju?
-    - Na katerim animejima, glede na oznako, so ljudje najpogostejše delali?
-    - V katerem žanru so ljudje najpogostejše delali?
+    - Popularnost in ocena nista odvisni od osebe, ki je delala na njem
+    - Ljudje najpogostejše delajo na animejih z oznako PG-13
+    - Ljudje najpogostejše delajo v komedijah
 - Studii:
     - Kateri studio je izdelal največ animejev?
     - Kateri studio je najbolj popularen?
     - Kateri studio ima največjo povprečno oceno?
     - Kateri studio je izdelal največ animejev med najbolj popularnimi in najboljšimi animeji?
-    - Katere žanre so največ studii delali?
-    - Katere animeje, glede na oznako, so delali studii?
+    - Popularnost in ocena sta odvisna od studia, ki je izdelal anime
+    - Studii največ delajo akcijske animeje
+    - Studii največ delajo animeje z oznako PG-13
 
 
 ### Datoteke

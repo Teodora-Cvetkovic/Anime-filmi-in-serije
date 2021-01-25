@@ -228,7 +228,7 @@ for stran in range(87):
                 anime['dolzina'] = round(float(anime['dolzina'].replace(' s','')) / 60, 2)
 
         anime['najljubsi'] = najdi_najljubse(ime_datoteke)
-        anime['naslov'] = najdi_naslov(ime_datoteke).replace('&#039;', "'")
+        anime['naslov'] = najdi_naslov(ime_datoteke).replace('&#039;', "'").replace('&quot;', '"')
         animeji.append(anime)
 
 
